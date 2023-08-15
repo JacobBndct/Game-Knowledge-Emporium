@@ -1,5 +1,6 @@
 [
   "oz-image-plugin",
   "omnisearch",
-  "text-extractor"
+  "text-extractor",
+  "obsidian-git"
 ]
