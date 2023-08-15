@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test3.md",
+                "file": "Test2.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test3.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -165,13 +161,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2b0b6f0abe950d9c",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Hand Written Notes/School notes/3162/Intro to 3162.pdf",
-    "Test3.md",
     "Test2.md",
-    "Int.md",
+    "Test3.md",
     "Obsidian Test.md",
+    "Hand Written Notes/School notes/3162/Intro to 3162.pdf",
+    "Int.md",
     "Hand Written Notes/Technical art/Shaders/The book of shaders/Uniforms.pdf",
     "Hand Written Notes/Technical art/Shaders/The book of shaders/Hello world.pdf",
     "Hand Written Notes/School notes/3162/Image basics.pdf",
@@ -181,7 +177,6 @@
     "Hand Written Notes/Work notes/Note Sep 28, 2022.pdf",
     "Hand Written Notes/Work notes/Note Oct 31, 2022.pdf",
     "Hand Written Notes/Work notes/Note Oct 26, 2022.pdf",
-    "Hand Written Notes/Work notes/Note Nov 24, 2022.pdf",
     "Test.md",
     "2023-08-13.md",
     "Untitled.canvas"
