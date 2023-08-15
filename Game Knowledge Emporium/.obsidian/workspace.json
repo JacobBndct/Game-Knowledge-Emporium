@@ -6,13 +6,35 @@
       {
         "id": "70bbf21218b17d72",
         "type": "tabs",
+        "dimension": 71.8274111675127,
         "children": [
           {
-            "id": "a2e060222085a2b5",
+            "id": "2b0b6f0abe950d9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Test3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5787b01dbbfff549",
+        "type": "tabs",
+        "dimension": 28.172588832487307,
+        "children": [
+          {
+            "id": "9fe1499f94fe0370",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -135,9 +157,27 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "a2e060222085a2b5",
-  "lastOpenFiles": []
+  "active": "9fe1499f94fe0370",
+  "lastOpenFiles": [
+    "Test3.md",
+    "Hand Written Notes/School notes/3162/Image basics.pdf",
+    "Hand Written Notes/Bog game/Design considerations .pdf",
+    "Hand Written Notes/School notes/3130/Note Apr 7, 2023.pdf",
+    "Test2.md",
+    "Obsidian Test.md",
+    "Hand Written Notes/Work notes/Personal issues.pdf",
+    "Hand Written Notes/Work notes/Note Sep 28, 2022.pdf",
+    "Hand Written Notes/Work notes/Note Oct 31, 2022.pdf",
+    "Hand Written Notes/Work notes/Note Oct 26, 2022.pdf",
+    "Hand Written Notes/Work notes/Note Nov 24, 2022.pdf",
+    "Hand Written Notes/Work notes/Note Nov 10, 2022.pdf",
+    "Hand Written Notes/Work notes/Note Dec 7, 2022.pdf",
+    "Test.md",
+    "2023-08-13.md",
+    "Untitled.canvas"
+  ]
 }
