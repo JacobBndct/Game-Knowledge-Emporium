@@ -103,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Test3.md"
+              }
             }
           }
         ]
@@ -161,10 +165,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "2b0b6f0abe950d9c",
   "lastOpenFiles": [
+    "Hand Written Notes/School notes/3162/Intro to 3162.pdf",
     "Test3.md",
     "Test2.md",
+    "Int.md",
     "Obsidian Test.md",
     "Hand Written Notes/Technical art/Shaders/The book of shaders/Uniforms.pdf",
     "Hand Written Notes/Technical art/Shaders/The book of shaders/Hello world.pdf",
