@@ -31,9 +31,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "518f518224a55fd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cady Note Taking Advice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "5787b01dbbfff549",
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curiosity.md",
+                "file": "Cady Note Taking Advice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curiosity.md",
+                "file": "Cady Note Taking Advice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curiosity.md"
+                "file": "Cady Note Taking Advice.md"
               }
             }
           }
@@ -178,10 +190,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9b3a63a031852ed0",
+  "active": "518f518224a55fd5",
   "lastOpenFiles": [
-    "Test3.md",
     "Curiosity.md",
+    "Cady Note Taking Advice.md",
+    "Test3.md",
     "Test2.md",
     "Obsidian Test.md",
     "Hand Written Notes/School notes/3162/Intro to 3162.pdf",
