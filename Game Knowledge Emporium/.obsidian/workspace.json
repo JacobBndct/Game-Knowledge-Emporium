@@ -12,11 +12,9 @@
             "id": "9b3a63a031852ed0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Curiosity.md",
-                "mode": "source",
-                "source": false
+                "file": "Hand Written Notes/Technical art/Shaders/The book of shaders/Algorithmic drawing.pdf"
               }
             }
           },
@@ -49,7 +47,7 @@
       {
         "id": "5787b01dbbfff549",
         "type": "tabs",
-        "dimension": 30.710659898477157,
+        "dimension": 30.71065989847715,
         "children": [
           {
             "id": "9fe1499f94fe0370",
@@ -127,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curiosity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curiosity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Curiosity.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -189,16 +183,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6c92691e8200022d",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
+    "Hand Written Notes/Technical art/Shaders/The book of shaders/Algorithmic drawing.pdf",
     "Tags.md",
+    "Curiosity.md",
     "12 Basic Principles of Animation.md",
     "Cady Note Taking Advice.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3130/Software process models.pdf",
     "Untitled.md",
     "Templates/Basic Template.md",
-    "Curiosity.md",
     "Templates",
     "Test2.md",
     "Test3.md",
@@ -210,7 +205,6 @@
     "Hand Written Notes/School notes/3162/Image basics.pdf",
     "Hand Written Notes/Bog game/Design considerations .pdf",
     "Hand Written Notes/School notes/3130/Note Apr 7, 2023.pdf",
-    "Hand Written Notes/Work notes/Personal issues.pdf",
     "Test.md",
     "2023-08-13.md",
     "Untitled.canvas"
