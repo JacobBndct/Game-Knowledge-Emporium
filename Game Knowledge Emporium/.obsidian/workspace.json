@@ -14,19 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curiosity.md",
+                "file": "12 Basic Principles of Animation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e1ac760d1eafe537",
+            "id": "4c3cfcbfc24e09d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags.md",
+                "file": "Templates/Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curiosity.md",
+                "file": "Tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "5787b01dbbfff549",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curiosity.md",
+                "file": "Templates/Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curiosity.md",
+                "file": "Templates/Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curiosity.md"
+                "file": "Templates/Basic.md"
               }
             }
           }
@@ -202,12 +202,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "512218a3d125f812",
+  "active": "6c92691e8200022d",
   "lastOpenFiles": [
     "12 Basic Principles of Animation.md",
-    "Tags.md",
+    "Templates/Basic.md",
+    "Templates",
     "Curiosity.md",
-    "Untitled",
+    "Tags.md",
     "Cady Note Taking Advice.md",
     "Test2.md",
     "Test3.md",
