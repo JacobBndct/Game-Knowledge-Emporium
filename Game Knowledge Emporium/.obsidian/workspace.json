@@ -140,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Basic Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Basic Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +177,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Basic Template.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -202,14 +198,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4c3cfcbfc24e09d9",
+  "active": "6c92691e8200022d",
   "lastOpenFiles": [
-    "Curiosity.md",
-    "Tags.md",
     "Templates/Basic Template.md",
+    "Untitled.md",
+    "Tags.md",
+    "Curiosity.md",
+    "Cady Note Taking Advice.md",
     "12 Basic Principles of Animation.md",
     "Templates",
-    "Cady Note Taking Advice.md",
     "Test2.md",
     "Test3.md",
     "Obsidian Test.md",
