@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Art",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,7 +184,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c59900daccb853ab",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
     "Hand Written Notes/Technical art/Shaders/The book of shaders/Algorithmic drawing.pdf",
     "Tags.md",
