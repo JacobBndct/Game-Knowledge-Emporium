@@ -9,24 +9,12 @@
         "dimension": 69.28934010152285,
         "children": [
           {
-            "id": "2b0b6f0abe950d9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9b3a63a031852ed0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curiosity.md",
+                "file": "Cady Note Taking Advice.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "5787b01dbbfff549",
@@ -128,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cady Note Taking Advice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cady Note Taking Advice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cady Note Taking Advice.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -190,12 +173,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "518f518224a55fd5",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Curiosity.md",
     "Cady Note Taking Advice.md",
-    "Test3.md",
+    "Curiosity.md",
     "Test2.md",
+    "Test3.md",
     "Obsidian Test.md",
     "Hand Written Notes/School notes/3162/Intro to 3162.pdf",
     "Int.md",
