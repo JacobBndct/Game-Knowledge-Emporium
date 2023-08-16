@@ -1,1 +1,1 @@
-Tags: #GameDesign #PlayerBehavior #Programming #DesignPatterns #Music/Audio #Animation #Accessibility #Narrative #Art #Shaders
+**Tags:** #GameDesign #PlayerBehavior #Programming #DesignPatterns #Music/Audio #Animation #Accessibility #Narrative #Art #Shaders

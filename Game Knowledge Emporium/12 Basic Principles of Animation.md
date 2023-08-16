@@ -1,4 +1,4 @@
-Tags: #Animation 
+**Tags:** #Animation 
 
 1. Squash and stretch
 2. Anticipation
