@@ -1,1 +1,1 @@
-Tags: #GameDesign #PlayerBehavior #Programming #DesignPatterns
+Tags: #GameDesign #PlayerBehavior #Programming #DesignPatterns #Music/Audio #Animation #Accessibility #Narrative #Art
