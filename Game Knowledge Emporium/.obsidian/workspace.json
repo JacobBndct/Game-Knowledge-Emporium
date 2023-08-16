@@ -115,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curiosity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curiosity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Curiosity.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -177,10 +173,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9b3a63a031852ed0",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Cady Note Taking Advice.md",
     "Curiosity.md",
+    "Cady Note Taking Advice.md",
     "Test2.md",
     "Test3.md",
     "Obsidian Test.md",
