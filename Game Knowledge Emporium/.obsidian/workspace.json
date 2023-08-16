@@ -6,7 +6,7 @@
       {
         "id": "70bbf21218b17d72",
         "type": "tabs",
-        "dimension": 69.28934010152284,
+        "dimension": 69.28934010152285,
         "children": [
           {
             "id": "2b0b6f0abe950d9c",
@@ -14,18 +14,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test2.md",
+                "file": "Test3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b3a63a031852ed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curiosity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5787b01dbbfff549",
         "type": "tabs",
-        "dimension": 30.710659898477154,
+        "dimension": 30.710659898477157,
         "children": [
           {
             "id": "9fe1499f94fe0370",
@@ -103,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Curiosity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Curiosity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Curiosity.md"
+              }
             }
           }
         ]
@@ -161,10 +178,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "9b3a63a031852ed0",
   "lastOpenFiles": [
-    "Test2.md",
     "Test3.md",
+    "Curiosity.md",
+    "Test2.md",
     "Obsidian Test.md",
     "Hand Written Notes/School notes/3162/Intro to 3162.pdf",
     "Int.md",
