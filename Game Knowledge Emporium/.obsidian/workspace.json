@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Basic.md",
+                "file": "Templates/Basic Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Basic.md",
+                "file": "Templates/Basic Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Basic.md",
+                "file": "Templates/Basic Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Basic.md"
+                "file": "Templates/Basic Template.md"
               }
             }
           }
@@ -202,13 +202,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6c92691e8200022d",
+  "active": "4c3cfcbfc24e09d9",
   "lastOpenFiles": [
-    "12 Basic Principles of Animation.md",
-    "Templates/Basic.md",
-    "Templates",
     "Curiosity.md",
     "Tags.md",
+    "Templates/Basic Template.md",
+    "12 Basic Principles of Animation.md",
+    "Templates",
     "Cady Note Taking Advice.md",
     "Test2.md",
     "Test3.md",
