@@ -128,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tags.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -190,10 +186,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e1ac760d1eafe537",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Curiosity.md",
     "Tags.md",
+    "Curiosity.md",
     "Untitled",
     "Cady Note Taking Advice.md",
     "Test2.md",
