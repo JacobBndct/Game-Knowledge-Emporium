@@ -12,9 +12,11 @@
             "id": "9b3a63a031852ed0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Hand Written Notes/Technical art/Shaders/The book of shaders/Algorithmic drawing.pdf"
+                "file": "Curiosity.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -105,8 +107,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -126,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Curiosity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Curiosity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Curiosity.md"
+              }
             }
           }
         ]
@@ -184,7 +189,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "9b3a63a031852ed0",
   "lastOpenFiles": [
     "Hand Written Notes/Technical art/Shaders/The book of shaders/Algorithmic drawing.pdf",
     "Tags.md",
