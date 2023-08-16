@@ -127,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curiosity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curiosity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Curiosity.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -189,13 +185,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9b3a63a031852ed0",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
+    "Curiosity.md",
     "Tags.md",
     "Templates/Basic Template.md",
     "12 Basic Principles of Animation.md",
     "Cady Note Taking Advice.md",
-    "Curiosity.md",
     "Hand Written Notes/Technical art/Shaders/The book of shaders/Algorithmic drawing.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3130/Software process models.pdf",
