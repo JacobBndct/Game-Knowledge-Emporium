@@ -6,7 +6,7 @@
       {
         "id": "70bbf21218b17d72",
         "type": "tabs",
-        "dimension": 65.29187817258884,
+        "dimension": 63.388324873096444,
         "children": [
           {
             "id": "7eab93b8edcc50e6",
@@ -45,32 +45,24 @@
             }
           },
           {
-            "id": "54a4790aee93cb4a",
+            "id": "f042ee7887dee2cc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Hand Written Notes/Technical art/Shaders/The book of shaders/Getting started.pdf"
-              }
-            }
-          },
-          {
-            "id": "74cab9fa45008ca9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Hand Written Notes/School notes/CSCI/2122/CSCI2122 Introduction.pdf"
+                "file": "SOLID Principles.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "5787b01dbbfff549",
         "type": "tabs",
-        "dimension": 34.70812182741117,
+        "dimension": 36.611675126903556,
         "children": [
           {
             "id": "9fe1499f94fe0370",
@@ -208,6 +200,8 @@
   },
   "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
+    "SOLID Principles.md",
+    "Hand Written Notes/Technical art/Shaders/The book of shaders/Getting started.pdf",
     "12 Basic Principles of Animation.md",
     "Adaptive Music.md",
     "Composition.md",
@@ -219,7 +213,6 @@
     "Proving Your Knowledge.md",
     "Pulling vs. Pushing information.md",
     "Tags.md",
-    "Hand Written Notes/Technical art/Shaders/The book of shaders/Getting started.pdf",
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 Introduction.pdf",
     "Hand Written Notes/Lidar game/Deduction and curiosity.pdf",
     "Templates/Basic Template.md",
