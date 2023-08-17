@@ -13,5 +13,5 @@
 11. Solid drawing
 12. Appeal
 
-Sources:
+#### Sources:
 [Understand Disney's 12 principles of animation | Creative Bloq](https://www.creativebloq.com/advice/understand-the-12-principles-of-animation)
