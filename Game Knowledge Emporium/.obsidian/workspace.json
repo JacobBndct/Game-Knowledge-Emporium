@@ -33,6 +33,18 @@
             }
           },
           {
+            "id": "aac77d7d6c9a758d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "State Machine Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "512218a3d125f812",
             "type": "leaf",
             "state": {
@@ -57,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "5787b01dbbfff549",
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proving Your Knowledge.md",
+                "file": "State Machine Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proving Your Knowledge.md",
+                "file": "State Machine Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proving Your Knowledge.md"
+                "file": "State Machine Pattern.md"
               }
             }
           }
@@ -202,14 +214,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "83739c48db402de6",
+  "active": "aac77d7d6c9a758d",
   "lastOpenFiles": [
-    "Hand Written Notes/Lidar game/Deduction and curiosity.pdf",
     "Proving Your Knowledge.md",
-    "Curiosity.md",
-    "Pulling vs. Pushing information.md",
+    "State Machine Pattern.md",
     "Cady Note Taking Advice.md",
     "Tags.md",
+    "Curiosity.md",
+    "Pulling vs. Pushing information.md",
+    "Hand Written Notes/Lidar game/Deduction and curiosity.pdf",
     "12 Basic Principles of Animation.md",
     "Templates/Basic Template.md",
     "Hand Written Notes/Technical art/Shaders/The book of shaders/Algorithmic drawing.pdf",

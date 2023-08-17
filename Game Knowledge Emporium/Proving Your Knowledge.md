@@ -1,4 +1,4 @@
 **Tags:** #GameDesign
 
-[[Deduction and curiosity.pdf]]
+![[Deduction and curiosity.pdf]]
 #### Sources:
