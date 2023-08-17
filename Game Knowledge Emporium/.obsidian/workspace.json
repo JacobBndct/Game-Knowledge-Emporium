@@ -14,7 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pulling vs. Pushing information.md",
+                "file": "Curiosity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83739c48db402de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proving Your Knowledge.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5787b01dbbfff549",
@@ -127,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pulling vs. Pushing information.md",
+                "file": "Proving Your Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pulling vs. Pushing information.md",
+                "file": "Proving Your Knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pulling vs. Pushing information.md"
+                "file": "Proving Your Knowledge.md"
               }
             }
           }
@@ -189,19 +202,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9b3a63a031852ed0",
+  "active": "83739c48db402de6",
   "lastOpenFiles": [
     "Hand Written Notes/Lidar game/Deduction and curiosity.pdf",
-    "Pulling vs. Pushing information.md",
+    "Proving Your Knowledge.md",
     "Curiosity.md",
-    "Tags.md",
+    "Pulling vs. Pushing information.md",
     "Cady Note Taking Advice.md",
+    "Tags.md",
     "12 Basic Principles of Animation.md",
     "Templates/Basic Template.md",
     "Hand Written Notes/Technical art/Shaders/The book of shaders/Algorithmic drawing.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3130/Software process models.pdf",
-    "Untitled.md",
     "Templates",
     "Test2.md",
     "Test3.md",
@@ -212,7 +225,6 @@
     "Hand Written Notes/Technical art/Shaders/The book of shaders/Hello world.pdf",
     "Hand Written Notes/School notes/3162/Image basics.pdf",
     "Hand Written Notes/Bog game/Design considerations .pdf",
-    "Hand Written Notes/School notes/3130/Note Apr 7, 2023.pdf",
     "Test.md",
     "2023-08-13.md",
     "Untitled.canvas"
