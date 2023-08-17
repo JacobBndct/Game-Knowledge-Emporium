@@ -6,7 +6,7 @@
       {
         "id": "70bbf21218b17d72",
         "type": "tabs",
-        "dimension": 69.28934010152285,
+        "dimension": 65.29187817258884,
         "children": [
           {
             "id": "7eab93b8edcc50e6",
@@ -33,6 +33,18 @@
             }
           },
           {
+            "id": "65332b6720b3a955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12 Basic Principles of Animation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "54a4790aee93cb4a",
             "type": "leaf",
             "state": {
@@ -53,12 +65,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "5787b01dbbfff549",
         "type": "tabs",
-        "dimension": 30.71065989847715,
+        "dimension": 34.70812182741117,
         "children": [
           {
             "id": "9fe1499f94fe0370",
@@ -196,19 +208,20 @@
   },
   "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
+    "12 Basic Principles of Animation.md",
+    "Adaptive Music.md",
+    "Composition.md",
+    "Cady Note Taking Advice.md",
     "Controls and Input Mapping.md",
+    "Curiosity.md",
     "GPUs vs CPUs.md",
+    "State Machine Pattern.md",
+    "Proving Your Knowledge.md",
+    "Pulling vs. Pushing information.md",
+    "Tags.md",
     "Hand Written Notes/Technical art/Shaders/The book of shaders/Getting started.pdf",
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 Introduction.pdf",
-    "Composition.md",
-    "State Machine Pattern.md",
-    "Tags.md",
-    "Proving Your Knowledge.md",
-    "Cady Note Taking Advice.md",
-    "Curiosity.md",
-    "Pulling vs. Pushing information.md",
     "Hand Written Notes/Lidar game/Deduction and curiosity.pdf",
-    "12 Basic Principles of Animation.md",
     "Templates/Basic Template.md",
     "Hand Written Notes/Technical art/Shaders/The book of shaders/Algorithmic drawing.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
