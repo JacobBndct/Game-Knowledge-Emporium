@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proving Your Knowledge.md",
+                "file": "Dependency Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dependency Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dependency Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dependency Injection.md"
+              }
             }
           }
         ]
@@ -210,7 +214,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "d847cc2f7a60be41",
   "lastOpenFiles": [
     "Proving Your Knowledge.md",
     "Pulling vs. Pushing information.md",
