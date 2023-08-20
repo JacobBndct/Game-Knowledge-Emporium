@@ -55,9 +55,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d847cc2f7a60be41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dependency Injection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "5787b01dbbfff549",
@@ -200,18 +212,19 @@
   },
   "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
+    "Dependency Injection.md",
     "SOLID Principles.md",
-    "Hand Written Notes/Technical art/Shaders/The book of shaders/Getting started.pdf",
-    "12 Basic Principles of Animation.md",
     "Adaptive Music.md",
+    "Curiosity.md",
+    "Controls and Input Mapping.md",
     "Composition.md",
     "Cady Note Taking Advice.md",
-    "Controls and Input Mapping.md",
-    "Curiosity.md",
     "GPUs vs CPUs.md",
-    "State Machine Pattern.md",
     "Proving Your Knowledge.md",
     "Pulling vs. Pushing information.md",
+    "State Machine Pattern.md",
+    "Hand Written Notes/Technical art/Shaders/The book of shaders/Getting started.pdf",
+    "12 Basic Principles of Animation.md",
     "Tags.md",
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 Introduction.pdf",
     "Hand Written Notes/Lidar game/Deduction and curiosity.pdf",
