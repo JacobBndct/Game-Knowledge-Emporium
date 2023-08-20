@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dependency Injection.md",
+                "file": "Proving Your Knowledge.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,17 +212,17 @@
   },
   "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Dependency Injection.md",
-    "SOLID Principles.md",
-    "Adaptive Music.md",
-    "Curiosity.md",
-    "Controls and Input Mapping.md",
-    "Composition.md",
-    "Cady Note Taking Advice.md",
-    "GPUs vs CPUs.md",
     "Proving Your Knowledge.md",
     "Pulling vs. Pushing information.md",
+    "SOLID Principles.md",
+    "GPUs vs CPUs.md",
+    "Controls and Input Mapping.md",
+    "Dependency Injection.md",
     "State Machine Pattern.md",
+    "Adaptive Music.md",
+    "Curiosity.md",
+    "Composition.md",
+    "Cady Note Taking Advice.md",
     "Hand Written Notes/Technical art/Shaders/The book of shaders/Getting started.pdf",
     "12 Basic Principles of Animation.md",
     "Tags.md",
