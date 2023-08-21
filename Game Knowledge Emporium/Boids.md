@@ -1,6 +1,6 @@
 **Tags:** 
 
-Boids mimic flock behavior.
+Boids are an artificial life program that attempts to mimic flock behavior.
 
 There are 3 key principles of boids
 - Separation
