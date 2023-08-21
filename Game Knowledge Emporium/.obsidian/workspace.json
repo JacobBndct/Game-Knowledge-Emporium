@@ -164,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +201,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Boids.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -226,8 +222,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3517b06cc47b75cf",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
+    "Boids.md",
     "Pulling vs. Pushing information.md",
     "SOLID Principles.md",
     "Proving Your Knowledge.md",
@@ -235,7 +232,6 @@
     "Cady Note Taking Advice.md",
     "Composition.md",
     "Controls and Input Mapping.md",
-    "Boids.md",
     "GPUs vs CPUs.md",
     "State Machine Pattern.md",
     "Adaptive Music.md",
