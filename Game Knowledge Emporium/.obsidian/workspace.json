@@ -57,6 +57,30 @@
             }
           },
           {
+            "id": "606280909fbec2bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Double Inclusion Lemma (Sets & Numbers - Lemma 1.6).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b4df9b9e8a54a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7ccccabc2c1aa5a7",
             "type": "leaf",
             "state": {
@@ -93,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "5787b01dbbfff549",
@@ -176,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematic Definitions.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematic Definitions.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematic Definitions.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -238,10 +262,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "29e138bbee770c29",
+  "active": "7b4df9b9e8a54a33",
   "lastOpenFiles": [
-    "Set Theory.md",
+    "Double Inclusion Lemma (Sets & Numbers - Lemma 1.6).md",
+    "Untitled.md",
     "Mathematic Definitions.md",
+    "Set Theory.md",
     "Power Set.md",
     "Empty Set.md",
     "Subsets.md",
@@ -274,8 +300,6 @@
     "Test3.md",
     "Test2.md",
     "Obsidian Test.md",
-    "Test.md",
-    "2023-08-13.md",
     "Untitled.canvas"
   ]
 }
