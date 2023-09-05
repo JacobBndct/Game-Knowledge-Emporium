@@ -164,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subsets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subsets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +201,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Subsets.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -226,10 +222,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "384df97cf865bf02",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Set Theory.md",
     "Subsets.md",
+    "Set Theory.md",
     "Equality of Sets.md",
     "Natural numbers.md",
     "Empty Set.md",
