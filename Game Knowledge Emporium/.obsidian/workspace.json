@@ -86,7 +86,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Proof by contradiction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e8bae863589be19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Part 0 (Sets & Numbers - Lemma 1.5).md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "5787b01dbbfff549",
@@ -212,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Part 0 (Sets & Numbers - Lemma 1.5).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Part 0 (Sets & Numbers - Lemma 1.5).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Part 0 (Sets & Numbers - Lemma 1.5).md"
               }
             }
           }
@@ -274,10 +286,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "45f92fd4f64a77a3",
+  "active": "5e8bae863589be19",
   "lastOpenFiles": [
+    "Proof by contradiction.md",
+    "Part 0 (Sets & Numbers - Lemma 1.5).md",
     "Transitivity of Subsets (Sets & Numbers - Lemma 1.4).md",
-    "Untitled.md",
     "Double Inclusion Lemma (Sets & Numbers - Lemma 1.6).md",
     "Mathematic Definitions.md",
     "Set Theory.md",
@@ -311,7 +324,6 @@
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 assignment 2 (1).pdf",
     "Hand Written Notes/School notes/CSCI/3162/Intro to CSCI3162.pdf",
     "Test3.md",
-    "Test2.md",
     "Untitled.canvas"
   ]
 }
