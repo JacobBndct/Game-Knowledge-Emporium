@@ -5,4 +5,6 @@ Definition:
 	- Every element of X is also an element of Y
 	- Every and element of Y is also an element of X.
 
+A != {A}
+
 #### Sources:

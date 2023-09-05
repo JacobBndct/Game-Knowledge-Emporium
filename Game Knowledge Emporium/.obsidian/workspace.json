@@ -45,6 +45,18 @@
             }
           },
           {
+            "id": "384df97cf865bf02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subsets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b1c0877d1c8a0c73",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equality of Sets.md",
+                "file": "Subsets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equality of Sets.md",
+                "file": "Subsets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equality of Sets.md"
+                "file": "Subsets.md"
               }
             }
           }
@@ -214,11 +226,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b1c0877d1c8a0c73",
+  "active": "384df97cf865bf02",
   "lastOpenFiles": [
     "Set Theory.md",
-    "Natural numbers.md",
+    "Subsets.md",
     "Equality of Sets.md",
+    "Natural numbers.md",
     "Empty Set.md",
     "Templates/Basic Template.md",
     "Templates",
