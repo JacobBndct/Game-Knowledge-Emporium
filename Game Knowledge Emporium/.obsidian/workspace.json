@@ -6,87 +6,22 @@
       {
         "id": "70bbf21218b17d72",
         "type": "tabs",
-        "dimension": 63.388324873096444,
+        "dimension": 71.8274111675127,
         "children": [
           {
-            "id": "7eab93b8edcc50e6",
+            "id": "2b0b6f0abe950d9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Composition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "652db1b92bb637b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Controls and Input Mapping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65332b6720b3a955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12 Basic Principles of Animation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f042ee7887dee2cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SOLID Principles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d847cc2f7a60be41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dependency Injection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3517b06cc47b75cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boids.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "5787b01dbbfff549",
         "type": "tabs",
-        "dimension": 36.611675126903556,
+        "dimension": 28.172588832487307,
         "children": [
           {
             "id": "9fe1499f94fe0370",
@@ -217,42 +152,40 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
       "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false
     }
   },
   "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Boids.md",
-    "Pulling vs. Pushing information.md",
-    "SOLID Principles.md",
-    "Proving Your Knowledge.md",
-    "Dependency Injection.md",
-    "Cady Note Taking Advice.md",
-    "Composition.md",
-    "Controls and Input Mapping.md",
-    "GPUs vs CPUs.md",
-    "State Machine Pattern.md",
-    "Adaptive Music.md",
-    "Curiosity.md",
-    "Hand Written Notes/Technical art/Shaders/The book of shaders/Getting started.pdf",
-    "12 Basic Principles of Animation.md",
-    "Tags.md",
-    "Hand Written Notes/School notes/CSCI/2122/CSCI2122 Introduction.pdf",
-    "Hand Written Notes/Lidar game/Deduction and curiosity.pdf",
     "Templates/Basic Template.md",
-    "Hand Written Notes/Technical art/Shaders/The book of shaders/Algorithmic drawing.pdf",
-    "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
-    "Hand Written Notes/School notes/CSCI/3130/Software process models.pdf",
     "Templates",
-    "Test2.md",
+    "State Machine Pattern.md",
+    "SOLID Principles.md",
+    "Pulling vs. Pushing information.md",
+    "Proving Your Knowledge.md",
+    "GPUs vs CPUs.md",
+    "Dependency Injection.md",
+    "Curiosity.md",
+    "Controls and Input Mapping.md",
+    "Composition.md",
+    "Cady Note Taking Advice.md",
+    "Boids.md",
+    "Adaptive Music.md",
+    "12 Basic Principles of Animation.md",
+    "Hand Written Notes/School notes/CSCI/2122/CSCI2122 assignment 4.pdf",
+    "Hand Written Notes/School notes/CSCI/2122/Unions.pdf",
+    "Hand Written Notes/School notes/CSCI/2122/CSCI2122 final review.pdf",
+    "Hand Written Notes/School notes/CSCI/2122/Floating point, structures, and dynamic storage.pdf",
+    "Hand Written Notes/School notes/CSCI/2122/CSCI2122 assignment 1.pdf",
+    "Hand Written Notes/School notes/CSCI/2122/CSCI2122 assignment 3.pdf",
+    "Hand Written Notes/School notes/CSCI/2122/CSCI2122 Introduction.pdf",
+    "Hand Written Notes/School notes/CSCI/2122/CSCI2122 assignment 2 (1).pdf",
+    "Hand Written Notes/School notes/CSCI/3162/Intro to CSCI3162.pdf",
     "Test3.md",
+    "Test2.md",
     "Obsidian Test.md",
-    "Hand Written Notes/School notes/3162/Intro to 3162.pdf",
-    "Int.md",
-    "Hand Written Notes/Technical art/Shaders/The book of shaders/Uniforms.pdf",
-    "Hand Written Notes/Technical art/Shaders/The book of shaders/Hello world.pdf",
     "Test.md",
     "2023-08-13.md",
     "Untitled.canvas"
