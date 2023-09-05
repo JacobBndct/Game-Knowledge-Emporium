@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "5787b01dbbfff549",
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Power Set.md",
+                "file": "Set Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Power Set.md",
+                "file": "Set Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Power Set.md"
+                "file": "Set Theory.md"
               }
             }
           }
@@ -226,10 +226,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7ccccabc2c1aa5a7",
+  "active": "f03401d5ce9a5865",
   "lastOpenFiles": [
-    "Empty Set.md",
     "Power Set.md",
+    "Empty Set.md",
     "Set Theory.md",
     "Subsets.md",
     "Equality of Sets.md",
