@@ -45,6 +45,18 @@
             }
           },
           {
+            "id": "b1c0877d1c8a0c73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equality of Sets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3a323d36d8c86272",
             "type": "leaf",
             "state": {
@@ -57,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "5787b01dbbfff549",
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set Theory.md",
+                "file": "Equality of Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set Theory.md",
+                "file": "Equality of Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Set Theory.md"
+                "file": "Equality of Sets.md"
               }
             }
           }
@@ -202,11 +214,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f03401d5ce9a5865",
+  "active": "b1c0877d1c8a0c73",
   "lastOpenFiles": [
-    "Empty Set.md",
     "Set Theory.md",
     "Natural numbers.md",
+    "Equality of Sets.md",
+    "Empty Set.md",
     "Templates/Basic Template.md",
     "Templates",
     "State Machine Pattern.md",
