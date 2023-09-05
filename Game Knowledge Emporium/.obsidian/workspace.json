@@ -33,6 +33,18 @@
             }
           },
           {
+            "id": "f03401d5ce9a5865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Set Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3a323d36d8c86272",
             "type": "leaf",
             "state": {
@@ -45,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "5787b01dbbfff549",
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empty Set.md",
+                "file": "Set Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Empty Set.md",
+                "file": "Set Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Empty Set.md"
+                "file": "Set Theory.md"
               }
             }
           }
@@ -190,10 +202,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6b295ae132f35e08",
+  "active": "f03401d5ce9a5865",
   "lastOpenFiles": [
-    "Natural numbers.md",
     "Empty Set.md",
+    "Set Theory.md",
+    "Natural numbers.md",
     "Templates/Basic Template.md",
     "Templates",
     "State Machine Pattern.md",
