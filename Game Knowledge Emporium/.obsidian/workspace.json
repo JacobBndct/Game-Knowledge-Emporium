@@ -45,6 +45,18 @@
             }
           },
           {
+            "id": "7ccccabc2c1aa5a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Power Set.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b1c0877d1c8a0c73",
             "type": "leaf",
             "state": {
@@ -69,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "5787b01dbbfff549",
@@ -152,6 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Power Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Power Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +203,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Power Set.md"
+              }
             }
           }
         ]
@@ -210,10 +226,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "7ccccabc2c1aa5a7",
   "lastOpenFiles": [
-    "Set Theory.md",
     "Empty Set.md",
+    "Power Set.md",
+    "Set Theory.md",
     "Subsets.md",
     "Equality of Sets.md",
     "Natural numbers.md",
