@@ -45,6 +45,18 @@
             }
           },
           {
+            "id": "29e138bbee770c29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematic Definitions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7ccccabc2c1aa5a7",
             "type": "leaf",
             "state": {
@@ -81,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "5787b01dbbfff549",
@@ -164,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set Theory.md",
+                "file": "Mathematic Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set Theory.md",
+                "file": "Mathematic Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Set Theory.md"
+                "file": "Mathematic Definitions.md"
               }
             }
           }
@@ -226,11 +238,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f03401d5ce9a5865",
+  "active": "29e138bbee770c29",
   "lastOpenFiles": [
+    "Set Theory.md",
+    "Mathematic Definitions.md",
     "Power Set.md",
     "Empty Set.md",
-    "Set Theory.md",
     "Subsets.md",
     "Equality of Sets.md",
     "Natural numbers.md",
