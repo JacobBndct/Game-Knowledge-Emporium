@@ -1,6 +1,6 @@
 **Tags:** #Math 
 
-Imagine sets X and Y. If X is a subset of Y and Y is a subset of X, then X = Y.
+Lemma 1.6: Imagine sets X and Y. If X is a subset of Y and Y is a subset of X, then X = Y.
 
 Proof: 
 To show that X = Y we need to check two statements:
