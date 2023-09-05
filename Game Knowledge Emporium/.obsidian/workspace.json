@@ -141,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       },
       {
         "id": "5787b01dbbfff549",
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Part 0 (Sets & Numbers - Lemma 1.5).md",
+                "file": "Transitivity of Subsets (Sets & Numbers - Lemma 1.4).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Part 0 (Sets & Numbers - Lemma 1.5).md",
+                "file": "Transitivity of Subsets (Sets & Numbers - Lemma 1.4).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Part 0 (Sets & Numbers - Lemma 1.5).md"
+                "file": "Transitivity of Subsets (Sets & Numbers - Lemma 1.4).md"
               }
             }
           }
@@ -286,7 +286,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5e8bae863589be19",
+  "active": "7b4df9b9e8a54a33",
   "lastOpenFiles": [
     "Proof by contradiction.md",
     "Part 0 (Sets & Numbers - Lemma 1.5).md",
