@@ -4,159 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "70bbf21218b17d72",
+        "id": "aa5481109f4bbbb9",
         "type": "tabs",
-        "dimension": 71.8274111675127,
+        "dimension": 63.51522842639594,
         "children": [
           {
-            "id": "2b0b6f0abe950d9c",
+            "id": "38524a13868cdacd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4aa16d6338468dba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural numbers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b295ae132f35e08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Empty Set.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f03401d5ce9a5865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Set Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29e138bbee770c29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematic Definitions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "606280909fbec2bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Double Inclusion Lemma (Sets & Numbers - Lemma 1.6).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b4df9b9e8a54a33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transitivity of Subsets (Sets & Numbers - Lemma 1.4).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d96aeed7619def1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
-          },
-          {
-            "id": "45f92fd4f64a77a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proof by contradiction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e8bae863589be19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Part 0 (Sets & Numbers - Lemma 1.5).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ccccabc2c1aa5a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Power Set.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1c0877d1c8a0c73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equality of Sets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a323d36d8c86272",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Basic Template.md",
+                "file": "Real Number Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       },
       {
         "id": "5787b01dbbfff549",
         "type": "tabs",
-        "dimension": 28.172588832487307,
+        "dimension": 36.484771573604064,
         "children": [
           {
             "id": "9fe1499f94fe0370",
@@ -234,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transitivity of Subsets (Sets & Numbers - Lemma 1.4).md",
+                "file": "Real Number Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transitivity of Subsets (Sets & Numbers - Lemma 1.4).md",
+                "file": "Real Number Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transitivity of Subsets (Sets & Numbers - Lemma 1.4).md"
+                "file": "Real Number Analysis.md"
               }
             }
           }
@@ -296,20 +174,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2d96aeed7619def1",
+  "active": "4aa16d6338468dba",
   "lastOpenFiles": [
-    "Proof by contradiction.md",
+    "Untitled 1.md",
+    "Real Number Analysis.md",
+    "Templates/Basic Template.md",
+    "Equality of Sets.md",
+    "Power Set.md",
     "Part 0 (Sets & Numbers - Lemma 1.5).md",
+    "Proof by contradiction.md",
     "Transitivity of Subsets (Sets & Numbers - Lemma 1.4).md",
     "Double Inclusion Lemma (Sets & Numbers - Lemma 1.6).md",
     "Mathematic Definitions.md",
     "Set Theory.md",
-    "Power Set.md",
     "Empty Set.md",
     "Subsets.md",
-    "Equality of Sets.md",
     "Natural numbers.md",
-    "Templates/Basic Template.md",
     "Templates",
     "State Machine Pattern.md",
     "SOLID Principles.md",
@@ -323,7 +203,6 @@
     "Cady Note Taking Advice.md",
     "Boids.md",
     "Adaptive Music.md",
-    "12 Basic Principles of Animation.md",
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 assignment 4.pdf",
     "Hand Written Notes/School notes/CSCI/2122/Unions.pdf",
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 final review.pdf",
@@ -333,7 +212,6 @@
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 Introduction.pdf",
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 assignment 2 (1).pdf",
     "Hand Written Notes/School notes/CSCI/3162/Intro to CSCI3162.pdf",
-    "Test3.md",
     "Untitled.canvas"
   ]
 }
