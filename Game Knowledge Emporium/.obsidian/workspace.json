@@ -81,6 +81,16 @@
             }
           },
           {
+            "id": "2d96aeed7619def1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
             "id": "45f92fd4f64a77a3",
             "type": "leaf",
             "state": {
@@ -141,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "5787b01dbbfff549",
@@ -286,7 +296,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7b4df9b9e8a54a33",
+  "active": "2d96aeed7619def1",
   "lastOpenFiles": [
     "Proof by contradiction.md",
     "Part 0 (Sets & Numbers - Lemma 1.5).md",
