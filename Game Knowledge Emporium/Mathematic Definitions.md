@@ -10,4 +10,8 @@
 
 ***Proofs***: A proof is a sequence of statements starting at accepted definitions & lemmas ending at S. Every step should be small and logical.
 
+## Metric and Topological Spaces
+
+***Supremum***: 
+
 #### Sources:

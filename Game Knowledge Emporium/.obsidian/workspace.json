@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Mathematic Definitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Mathematic Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Mathematic Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Mathematic Definitions.md"
               }
             }
           }
@@ -188,8 +188,8 @@
   },
   "active": "3b0b8b8dd3f0d5b6",
   "lastOpenFiles": [
+    "Metric and Topological Spaces - Lemma Lecture 2.md",
     "Real Number Analysis.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Templates/Basic Template.md",
     "Equality of Sets.md",
