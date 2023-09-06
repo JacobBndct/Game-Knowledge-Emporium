@@ -12,6 +12,8 @@
 
 ## Metric and Topological Spaces
 
-***Supremum***: 
+***Supremum***: least element in partially ordered set P which is greater or equal to each element of S which is a subset of P.
+
+***infimum***: 
 
 #### Sources:
