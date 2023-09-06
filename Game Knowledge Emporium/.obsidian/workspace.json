@@ -27,9 +27,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b0b8b8dd3f0d5b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "5787b01dbbfff549",
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Real Number Analysis.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Real Number Analysis.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Real Number Analysis.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -174,10 +186,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4aa16d6338468dba",
+  "active": "3b0b8b8dd3f0d5b6",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Real Number Analysis.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "Templates/Basic Template.md",
     "Equality of Sets.md",
     "Power Set.md",
@@ -202,7 +215,6 @@
     "Composition.md",
     "Cady Note Taking Advice.md",
     "Boids.md",
-    "Adaptive Music.md",
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 assignment 4.pdf",
     "Hand Written Notes/School notes/CSCI/2122/Unions.pdf",
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 final review.pdf",
