@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "5787b01dbbfff549",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Composition, Counting & Cardinality.md",
+                "file": "Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Composition, Counting & Cardinality.md",
+                "file": "Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Composition, Counting & Cardinality.md"
+                "file": "Functions.md"
               }
             }
           }
@@ -210,10 +210,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "61d3b6b07d19ee68",
+  "active": "af73b6b7e77f5e3f",
   "lastOpenFiles": [
-    "Functions.md",
     "Composition, Counting & Cardinality.md",
+    "Functions.md",
     "Untitled.md",
     "Mathematic Definitions.md",
     "Real Number Analysis.md",
