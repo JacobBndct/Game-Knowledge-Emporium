@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "5787b01dbbfff549",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions.md",
+                "file": "Composition, Counting & Cardinality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions.md",
+                "file": "Composition, Counting & Cardinality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions.md"
+                "file": "Composition, Counting & Cardinality.md"
               }
             }
           }
@@ -210,12 +210,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "af73b6b7e77f5e3f",
+  "active": "61d3b6b07d19ee68",
   "lastOpenFiles": [
-    "Composition, Counting & Cardinality.md",
     "Functions.md",
-    "Untitled.md",
     "Mathematic Definitions.md",
+    "Composition, Counting & Cardinality.md",
+    "Untitled.md",
     "Real Number Analysis.md",
     "Metric and Topological Spaces - Lemma Lecture 2.md",
     "Untitled 1.md",
