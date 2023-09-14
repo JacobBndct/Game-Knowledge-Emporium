@@ -1,6 +1,6 @@
 **Tags:** #Math 
 
-## Sets
+## Sets and Numbers
 
 ***Definitions***: Always true.
 
@@ -12,9 +12,9 @@
 
 ***Range***: The range of f : x -> y is f(x)
 
-***Domain***:
+***Domain***: f : **X** -> Y
 
-***Codomain***:
+***Codomain***: f : X -> **Y**
 
 ## Metric and Topological Spaces
 

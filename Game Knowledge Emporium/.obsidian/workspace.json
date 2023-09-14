@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "5787b01dbbfff549",
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematic Definitions.md",
+                "file": "Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematic Definitions.md",
+                "file": "Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematic Definitions.md"
+                "file": "Functions.md"
               }
             }
           }
@@ -198,10 +198,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3b0b8b8dd3f0d5b6",
+  "active": "af73b6b7e77f5e3f",
   "lastOpenFiles": [
-    "Functions.md",
     "Mathematic Definitions.md",
+    "Functions.md",
     "Real Number Analysis.md",
     "Metric and Topological Spaces - Lemma Lecture 2.md",
     "Untitled 1.md",
