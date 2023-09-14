@@ -10,4 +10,6 @@ Identity function
 
 Two functions f : X -> Y and g : A -> B are equal iff X = A and Y = B and for every x e X, f(x) = g(x)
 
+A function is invertible if there exists a function g : Y -> X such that *g* o *f* = identity of x and *f* o *g* = identity of y
+
 #### Sources:
