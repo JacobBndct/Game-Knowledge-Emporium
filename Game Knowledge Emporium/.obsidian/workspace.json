@@ -148,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Composition Counting & Cardinality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Composition Counting & Cardinality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +185,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Composition Counting & Cardinality.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -210,10 +206,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "61d3b6b07d19ee68",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Untitled.md",
     "Composition Counting & Cardinality.md",
+    "Untitled.md",
     "Functions.md",
     "Mathematic Definitions.md",
     "Real Number Analysis.md",
