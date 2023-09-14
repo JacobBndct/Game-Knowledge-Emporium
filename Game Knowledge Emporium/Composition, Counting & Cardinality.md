@@ -12,5 +12,5 @@ X is called finite if there exists an n e Naturals and an invertible function f 
 
 X is countably infinite if there is an invertible f : natural numbers -> X
 
-Theorem: There exists sets that are not countable. *Section 4*
+Cantor Theorem: There exists sets that are not countable. *Section 4*
 #### Sources:
