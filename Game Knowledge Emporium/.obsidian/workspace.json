@@ -39,9 +39,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af73b6b7e77f5e3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "5787b01dbbfff549",
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematic Definitions.md",
+                "file": "Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematic Definitions.md",
+                "file": "Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematic Definitions.md"
+                "file": "Functions.md"
               }
             }
           }
@@ -186,10 +198,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3b0b8b8dd3f0d5b6",
+  "active": "af73b6b7e77f5e3f",
   "lastOpenFiles": [
-    "Metric and Topological Spaces - Lemma Lecture 2.md",
+    "Mathematic Definitions.md",
+    "Functions.md",
     "Real Number Analysis.md",
+    "Metric and Topological Spaces - Lemma Lecture 2.md",
     "Untitled 1.md",
     "Templates/Basic Template.md",
     "Equality of Sets.md",
@@ -198,7 +212,6 @@
     "Proof by contradiction.md",
     "Transitivity of Subsets (Sets & Numbers - Lemma 1.4).md",
     "Double Inclusion Lemma (Sets & Numbers - Lemma 1.6).md",
-    "Mathematic Definitions.md",
     "Set Theory.md",
     "Empty Set.md",
     "Subsets.md",
@@ -214,7 +227,6 @@
     "Controls and Input Mapping.md",
     "Composition.md",
     "Cady Note Taking Advice.md",
-    "Boids.md",
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 assignment 4.pdf",
     "Hand Written Notes/School notes/CSCI/2122/Unions.pdf",
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 final review.pdf",
