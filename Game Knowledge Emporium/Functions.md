@@ -12,4 +12,6 @@ Two functions f : X -> Y and g : A -> B are equal iff X = A and Y = B and for ev
 
 A function is invertible if there exists a function g : Y -> X such that *g* o *f* = identity of x and *f* o *g* = identity of y
 
+Remark that sin^-1 is not a function on the reals and neither is sqt()
+
 #### Sources:
