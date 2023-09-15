@@ -8,6 +8,8 @@ The composition of two functions f and g is called *g* o *f*. It is a function f
 
 Definition: two sets, X and Y, have equal cardinality if there exists an invertible f : X -> Y
 
+To show that that two sets have the same cardinality construct a function that maps one set to the other and find the inverse function and prove that its the inverse.
+
 X is called finite if there exists an n e Naturals and an invertible function f : \[n] -> X
 
 X is countably infinite if there is an invertible f : natural numbers -> X
