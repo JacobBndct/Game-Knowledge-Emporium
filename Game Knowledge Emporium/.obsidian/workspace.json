@@ -63,9 +63,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c186c5c03165ac4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "5787b01dbbfff549",
@@ -191,6 +201,16 @@
                 "file": "Composition, Counting & Cardinality.md"
               }
             }
+          },
+          {
+            "id": "9430ed037effe3ba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -210,7 +230,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "61d3b6b07d19ee68",
+  "active": "8c186c5c03165ac4",
   "lastOpenFiles": [
     "Functions.md",
     "Mathematic Definitions.md",
