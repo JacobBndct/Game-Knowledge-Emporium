@@ -53,6 +53,18 @@
             }
           },
           {
+            "id": "1635e04b6d476dae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dot product.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "61d3b6b07d19ee68",
             "type": "leaf",
             "state": {
@@ -158,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dot product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dot product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dot product.md"
+              }
             }
           },
           {
@@ -226,16 +242,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "1635e04b6d476dae",
   "lastOpenFiles": [
+    "Composition, Counting & Cardinality.md",
+    "Dot product.md",
     "Hand Written Notes/Lidar game/Test.pdf",
     "Hand Written Notes/Groningen/Sets & Numbers/Lab 1.pdf",
     "Hand Written Notes/Groningen/Sets & Numbers",
     "Hand Written Notes/Groningen",
-    "Composition, Counting & Cardinality.md",
     "Functions.md",
     "Mathematic Definitions.md",
-    "Untitled.md",
     "Real Number Analysis.md",
     "Metric and Topological Spaces - Lemma Lecture 2.md",
     "Untitled 1.md",
@@ -263,7 +279,6 @@
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 final review.pdf",
     "Hand Written Notes/School notes/CSCI/2122/Floating point, structures, and dynamic storage.pdf",
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 assignment 1.pdf",
-    "Hand Written Notes/School notes/CSCI/2122/CSCI2122 assignment 3.pdf",
     "Untitled.canvas"
   ]
 }
