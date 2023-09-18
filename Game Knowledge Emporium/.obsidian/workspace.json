@@ -94,7 +94,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Supervised Learning.md",
+                "file": "Unsupervised learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Supervised Learning.md",
+                "file": "Unsupervised learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Supervised Learning.md",
+                "file": "Unsupervised learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Supervised Learning.md"
+                "file": "Unsupervised learning.md"
               }
             }
           },
@@ -292,9 +292,11 @@
   },
   "active": "f08455e9026fec91",
   "lastOpenFiles": [
+    "Supervised Learning.md",
+    "Subsets.md",
+    "Adaptive Music.md",
     "Reinforcement learning.md",
     "Cady Note Taking Advice.md",
-    "Supervised Learning.md",
     "Dot product.md",
     "Functions.md",
     "Mathematic Definitions.md",
@@ -317,12 +319,10 @@
     "Double Inclusion Lemma (Sets & Numbers - Lemma 1.6).md",
     "Set Theory.md",
     "Empty Set.md",
-    "Subsets.md",
     "Natural numbers.md",
     "Templates",
     "State Machine Pattern.md",
     "SOLID Principles.md",
-    "Pulling vs. Pushing information.md",
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 assignment 4.pdf",
     "Hand Written Notes/School notes/CSCI/2122/Unions.pdf",
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 final review.pdf",

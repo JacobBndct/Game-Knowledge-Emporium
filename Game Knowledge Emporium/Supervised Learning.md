@@ -1,3 +1,7 @@
+**Tags:** #Programming 
+
+Learning the relation between input-output pairs
+
 Neural networks make use of supervised learning
 
 Forward propagation
@@ -7,7 +11,7 @@ Forward propagation
 - And so on until the network output is correct
 
 Back propagation
-- 
+- Look back at the notes lmao
 #### Example: ALVINN
 
 ALVINN is a robot with a Neural NEtwork
@@ -20,3 +24,5 @@ Step by step
 - ALVINN shows how it would steer, given an image
 - The human steering angle is presented
 - ALVINN computes the difference (output error)
+
+#### Sources:
