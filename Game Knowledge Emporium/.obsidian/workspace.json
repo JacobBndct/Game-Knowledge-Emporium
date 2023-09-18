@@ -219,6 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reinforcement learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,6 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reinforcement learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +258,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reinforcement learning.md"
+              }
             }
           },
           {
@@ -287,8 +291,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "f08455e9026fec91",
   "lastOpenFiles": [
+    "Hand Written Notes/School notes/Groningen/Sets & Numbers/Lab 1.pdf",
+    "Hand Written Notes/School notes/Groningen/Sets & Numbers",
+    "Hand Written Notes/School notes/Groningen",
     "Reinforcement learning.md",
     "Unsupervised learning.md",
     "Supervised Learning.md",
@@ -319,12 +326,9 @@
     "Natural numbers.md",
     "Templates",
     "State Machine Pattern.md",
-    "SOLID Principles.md",
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 assignment 4.pdf",
     "Hand Written Notes/School notes/CSCI/2122/Unions.pdf",
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 final review.pdf",
-    "Hand Written Notes/School notes/CSCI/2122/Floating point, structures, and dynamic storage.pdf",
-    "Hand Written Notes/School notes/CSCI/2122/CSCI2122 assignment 1.pdf",
     "Untitled.canvas"
   ]
 }
