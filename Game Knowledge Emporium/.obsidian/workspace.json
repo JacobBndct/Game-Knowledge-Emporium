@@ -94,7 +94,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unsupervised learning.md",
+                "file": "Reinforcement learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rein",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,7 +198,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unsupervised learning.md",
+                "file": "Reinforcement learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unsupervised learning.md",
+                "file": "Reinforcement learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unsupervised learning.md"
+                "file": "Reinforcement learning.md"
               }
             }
           },
@@ -292,10 +293,11 @@
   },
   "active": "f08455e9026fec91",
   "lastOpenFiles": [
+    "Unsupervised learning.md",
+    "Reinforcement learning.md",
     "Supervised Learning.md",
     "Subsets.md",
     "Adaptive Music.md",
-    "Reinforcement learning.md",
     "Cady Note Taking Advice.md",
     "Dot product.md",
     "Functions.md",
@@ -304,7 +306,6 @@
     "Composition, Counting & Cardinality.md",
     "Boids.md",
     "Untitled.md",
-    "Unsupervised learning.md",
     "Hand Written Notes/Lidar game/Test.pdf",
     "Hand Written Notes/Groningen/Sets & Numbers/Lab 1.pdf",
     "Hand Written Notes/Groningen/Sets & Numbers",
