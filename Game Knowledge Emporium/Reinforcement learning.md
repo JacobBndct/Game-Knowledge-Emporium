@@ -10,4 +10,8 @@ Through optimizing a reward signal
 
 Reward actions that lead to good outcomes and punish actions that lead to bad outcomes
 
+[[Exploration]] and [[Exploitation]]
+
+
+
 #### Sources:
