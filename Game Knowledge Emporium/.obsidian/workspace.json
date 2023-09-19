@@ -32,7 +32,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bb92a511305e0a1e",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Composition, Counting & Cardinality.md",
+                "file": "Function Inverses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Composition, Counting & Cardinality.md",
+                "file": "Function Inverses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Composition, Counting & Cardinality.md"
+                "file": "Function Inverses.md"
               }
             }
           },
@@ -187,10 +188,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f7e07087dd8494ff",
+  "active": "02ca3b945b641f25",
   "lastOpenFiles": [
-    "Function Inverses.md",
     "Composition, Counting & Cardinality.md",
+    "Function Inverses.md",
     "Composition.md",
     "Hand Written Notes/School notes/CSCI/3162/Note Feb 2, 2023.pdf",
     "Boids.md",
