@@ -31,9 +31,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6919aacc43c85dbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cardinality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "bb92a511305e0a1e",
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Function Inverses.md",
+                "file": "Cardinality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Function Inverses.md",
+                "file": "Cardinality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Function Inverses.md"
+                "file": "Cardinality.md"
               }
             }
           },
@@ -188,10 +200,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "02ca3b945b641f25",
+  "active": "6919aacc43c85dbe",
   "lastOpenFiles": [
-    "Composition, Counting & Cardinality.md",
+    "Cardinality.md",
     "Function Inverses.md",
+    "Composition, Counting & Cardinality.md",
     "Composition.md",
     "Hand Written Notes/School notes/CSCI/3162/Note Feb 2, 2023.pdf",
     "Boids.md",
@@ -224,7 +237,6 @@
     "Empty Set.md",
     "Natural numbers.md",
     "Templates",
-    "State Machine Pattern.md",
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 assignment 4.pdf",
     "Untitled.canvas"
   ]
