@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "02ca3b945b641f25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bb92a511305e0a1e",
@@ -66,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Composition, Counting & Cardinality.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Composition, Counting & Cardinality.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Composition, Counting & Cardinality.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -176,11 +188,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f7e07087dd8494ff",
+  "active": "02ca3b945b641f25",
   "lastOpenFiles": [
+    "Composition, Counting & Cardinality.md",
+    "Untitled.md",
     "Composition.md",
     "Hand Written Notes/School notes/CSCI/3162/Note Feb 2, 2023.pdf",
-    "Composition, Counting & Cardinality.md",
     "Boids.md",
     "Reinforcement learning.md",
     "Hand Written Notes/School notes/Groningen/Sets & Numbers/Lab 1.pdf",
@@ -195,7 +208,6 @@
     "Functions.md",
     "Mathematic Definitions.md",
     "Real Number Analysis.md",
-    "Untitled.md",
     "Hand Written Notes/Lidar game/Test.pdf",
     "Hand Written Notes/Groningen/Sets & Numbers/Lab 1.pdf",
     "Hand Written Notes/Groningen/Sets & Numbers",
