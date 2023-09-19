@@ -38,14 +38,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cardinality.md",
+                "file": "Mathematic Definitions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "bb92a511305e0a1e",
@@ -128,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardinality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cardinality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cardinality.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,10 +196,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6919aacc43c85dbe",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Cardinality.md",
     "Function Inverses.md",
+    "Mathematic Definitions.md",
+    "Cardinality.md",
     "Composition, Counting & Cardinality.md",
     "Composition.md",
     "Hand Written Notes/School notes/CSCI/3162/Note Feb 2, 2023.pdf",
@@ -219,7 +216,6 @@
     "Cady Note Taking Advice.md",
     "Dot product.md",
     "Functions.md",
-    "Mathematic Definitions.md",
     "Real Number Analysis.md",
     "Hand Written Notes/Lidar game/Test.pdf",
     "Hand Written Notes/Groningen/Sets & Numbers/Lab 1.pdf",
