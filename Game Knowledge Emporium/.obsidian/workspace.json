@@ -4,116 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "aa5481109f4bbbb9",
+        "id": "2a938a6eb75a27af",
         "type": "tabs",
-        "dimension": 63.51522842639594,
+        "dimension": 71.95431472081218,
         "children": [
           {
-            "id": "38524a13868cdacd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4aa16d6338468dba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Real Number Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b0b8b8dd3f0d5b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematic Definitions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af73b6b7e77f5e3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1635e04b6d476dae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dot product.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4fe4bb8dcdd599d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Supervised Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd59538e4d1a97ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cady Note Taking Advice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f08455e9026fec91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c19f1d1d12537b39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boids.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61d3b6b07d19ee68",
+            "id": "f7e07087dd8494ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -123,24 +19,13 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8c186c5c03165ac4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
-        "id": "5787b01dbbfff549",
+        "id": "bb92a511305e0a1e",
         "type": "tabs",
-        "dimension": 36.484771573604064,
+        "dimension": 28.045685279187815,
         "children": [
           {
             "id": "9fe1499f94fe0370",
@@ -181,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rein",
+                "query": "compo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement learning.md",
+                "file": "Composition, Counting & Cardinality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement learning.md",
+                "file": "Composition, Counting & Cardinality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement learning.md"
+                "file": "Composition, Counting & Cardinality.md"
               }
             }
           },
@@ -291,12 +176,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f08455e9026fec91",
+  "active": "f7e07087dd8494ff",
   "lastOpenFiles": [
+    "Composition.md",
+    "Hand Written Notes/School notes/CSCI/3162/Note Feb 2, 2023.pdf",
+    "Composition, Counting & Cardinality.md",
+    "Boids.md",
+    "Reinforcement learning.md",
     "Hand Written Notes/School notes/Groningen/Sets & Numbers/Lab 1.pdf",
     "Hand Written Notes/School notes/Groningen/Sets & Numbers",
     "Hand Written Notes/School notes/Groningen",
-    "Reinforcement learning.md",
     "Unsupervised learning.md",
     "Supervised Learning.md",
     "Subsets.md",
@@ -306,8 +195,6 @@
     "Functions.md",
     "Mathematic Definitions.md",
     "Real Number Analysis.md",
-    "Composition, Counting & Cardinality.md",
-    "Boids.md",
     "Untitled.md",
     "Hand Written Notes/Lidar game/Test.pdf",
     "Hand Written Notes/Groningen/Sets & Numbers/Lab 1.pdf",
@@ -327,8 +214,6 @@
     "Templates",
     "State Machine Pattern.md",
     "Hand Written Notes/School notes/CSCI/2122/CSCI2122 assignment 4.pdf",
-    "Hand Written Notes/School notes/CSCI/2122/Unions.pdf",
-    "Hand Written Notes/School notes/CSCI/2122/CSCI2122 final review.pdf",
     "Untitled.canvas"
   ]
 }
