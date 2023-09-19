@@ -9,5 +9,5 @@ Proof: To show that for all y e Y  h(y) = k(y). Shortcut: use properties of inve
 
 h = h o identity of y = h o (f o k) = (h o f) o k = identity of x o k = k
 
-thus h is equal to k.
+thus h is equal to k. 
 #### Sources:
