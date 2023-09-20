@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AI",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,16 +213,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c59900daccb853ab",
+  "active": "4e253c93b4866fb1",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Composition, Counting & Cardinality.md",
+    "Function Inverses.md",
     "Frame-of-Reference Problem in Autonomous Agent Design.md",
+    "Untitled.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Rough Notes Lecture 5.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces",
-    "Function Inverses.md",
     "Mathematic Definitions.md",
     "Cardinality.md",
-    "Composition, Counting & Cardinality.md",
     "Composition.md",
     "Hand Written Notes/School notes/CSCI/3162/Note Feb 2, 2023.pdf",
     "Boids.md",
