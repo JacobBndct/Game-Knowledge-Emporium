@@ -55,9 +55,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8660f6c91b10b24f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "bb92a511305e0a1e",
@@ -213,7 +223,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4e253c93b4866fb1",
+  "active": "8660f6c91b10b24f",
   "lastOpenFiles": [
     "Composition, Counting & Cardinality.md",
     "Function Inverses.md",
