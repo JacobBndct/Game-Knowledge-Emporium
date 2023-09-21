@@ -31,6 +31,9 @@ We can prove this by proving that the cardinality of the cartesian product is th
 
 For the special case where \#X = 1. In the case where the function PI2:  X * Y -> Y is an invertible function. Say X ={:smile:}. PI2((:smile:, y)) = Y has inverse F : Y -> X * Y given by function F(y) -> (:smile:, y). So #(X * Y) = \#Y because of the invertible PI2.
 
-Now the general case by induction: Say Sn is : If #X = n then 
+Now the general case by induction: Say Sn is : If \#X = n then #(X * Y) = #(X) * #(Y) is true.
+To prove S0 : If \#X = 0 then (exercise) X = Empty set, so #(X * Y) = #(X) * #(Y) holds. Assume Sn holds for some n e Natural numbers then we can prove Sn+1 : Recall lemma 2.9 : If A n B are disjoint and finite then #(A u B) = \#A + \#B, #(Complement of A) = \#X - \#A
+
+Assume \#X = n + 1: and take x0 e X. #(X * Y) = #(({x0} u {x0}^c) * Y) from part 0 we know that this
 
 #### Sources:
