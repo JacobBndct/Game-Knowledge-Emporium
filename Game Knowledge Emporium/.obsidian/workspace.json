@@ -57,6 +57,18 @@
             }
           },
           {
+            "id": "f23fc08f8ef921c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cartesian product and equivalence relations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8660f6c91b10b24f",
             "type": "leaf",
             "state": {
@@ -130,8 +142,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md",
+                "file": "Cartesian product and equivalence relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md",
+                "file": "Cartesian product and equivalence relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md"
+                "file": "Cartesian product and equivalence relations.md"
               }
             }
           },
@@ -223,15 +234,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8660f6c91b10b24f",
+  "active": "f23fc08f8ef921c0",
   "lastOpenFiles": [
+    "Frame-of-Reference Problem in Autonomous Agent Design.md",
+    "Cartesian product and equivalence relations.md",
+    "Mathematic Definitions.md",
     "Composition, Counting & Cardinality.md",
     "Function Inverses.md",
-    "Frame-of-Reference Problem in Autonomous Agent Design.md",
-    "Untitled.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Rough Notes Lecture 5.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces",
-    "Mathematic Definitions.md",
     "Cardinality.md",
     "Composition.md",
     "Hand Written Notes/School notes/CSCI/3162/Note Feb 2, 2023.pdf",
