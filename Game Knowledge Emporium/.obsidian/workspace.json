@@ -50,34 +50,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cartesian product and equivalence relations.md",
+                "file": "Boids.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "e63589076a0708f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equivalence relations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8b1aaaa2e9a8b7a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "bb92a511305e0a1e",
@@ -160,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equivalence relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equivalence relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,9 +177,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Equivalence relations.md"
-              }
+              "state": {}
             }
           },
           {
@@ -232,11 +208,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e63589076a0708f1",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Equivalence relations.md",
+    "Boids.md",
     "Cartesian product and equivalence relations.md",
+    "Equivalence relations.md",
+    "Untitled.md",
     "Frame-of-Reference Problem in Autonomous Agent Design.md",
     "Reinforcement learning.md",
     "Mathematic Definitions.md",
@@ -247,7 +224,6 @@
     "Cardinality.md",
     "Composition.md",
     "Hand Written Notes/School notes/CSCI/3162/Note Feb 2, 2023.pdf",
-    "Boids.md",
     "Hand Written Notes/School notes/Groningen/Sets & Numbers/Lab 1.pdf",
     "Hand Written Notes/School notes/Groningen/Sets & Numbers",
     "Hand Written Notes/School notes/Groningen",
