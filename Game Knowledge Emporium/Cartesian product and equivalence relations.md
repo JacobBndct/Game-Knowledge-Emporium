@@ -6,5 +6,7 @@ Projection functions: PI: X * Y -> X is defined by PI((x, y)) = x and like wise 
 
 Goal: If X and Y are finite then #(X * Y) = (#X)(#Y)
 
-also if X and Y are countably 
+also if X and Y are countably infinite then so is X * Y
+
+Lemma: If A, B, Y are sets then (A u B) * Y = (A * Y) U (B * Y)
 #### Sources:
