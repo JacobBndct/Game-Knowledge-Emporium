@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equivalence class.md",
+                "file": "Cartesian product and equivalence relations.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cart",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equivalence class.md",
+                "file": "Cartesian product and equivalence relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equivalence class.md",
+                "file": "Cartesian product and equivalence relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equivalence class.md"
+                "file": "Cartesian product and equivalence relations.md"
               }
             }
           },
@@ -226,9 +227,9 @@
   },
   "active": "2c4067a9da0c839b",
   "lastOpenFiles": [
+    "Equivalence class.md",
     "Equivalence relations.md",
     "Equality of Sets.md",
-    "Equivalence class.md",
     "Untitled.md",
     "Boids.md",
     "Cartesian product and equivalence relations.md",
