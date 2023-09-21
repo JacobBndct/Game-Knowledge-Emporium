@@ -14,5 +14,14 @@ Lemma: If A, B, Y are sets then,
 2. (A n B) * Y = (A * Y) n (B * Y)
 
 Proof of part 0 
-To prove L = R where L = (A u B) * Y and R = (A * Y) u ()
+To prove L = R where L = (A u B) * Y and R = (A * Y) u (B * Y)
+
+We will prove two things: 
+
+a) L is a subset of R
+b) R is a subset of L
+
+Proof of a): take l e L so l = (x, y) where x e A u B and y e Y. so either (x e A and then l = (x, y) e A * Y) or (x e B then l = (x, y) e B * Y) so in every case l e (A * Y) u (B * Y) = R therefore l e R.
+
+Proof of b): Pick r e R so r e A * Y or r e B * Y. In the case where r e A * Y we have r = (a, y) where a e A and y e Y. therefore r = (a, y) e (A u B) * Y = L because a e A u B. In the case where r e B * Y
 #### Sources:
