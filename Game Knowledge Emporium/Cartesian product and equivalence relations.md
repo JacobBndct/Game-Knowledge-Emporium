@@ -34,6 +34,6 @@ For the special case where \#X = 1. In the case where the function PI2:  X * Y -
 Now the general case by induction: Say Sn is : If \#X = n then #(X * Y) = #(X) * #(Y) is true.
 To prove S0 : If \#X = 0 then (exercise) X = Empty set, so #(X * Y) = #(X) * #(Y) holds. Assume Sn holds for some n e Natural numbers then we can prove Sn+1 : Recall lemma 2.9 : If A n B are disjoint and finite then #(A u B) = \#A + \#B, #(Complement of A) = \#X - \#A
 
-Assume \#X = n + 1: and take x0 e X. #(X * Y) = #(({x0} u {x0}^c) * Y) from part 0 we know that this
+Assume \#X = n + 1: and take x0 e X. #(X * Y) = #(({x0} u {x0}^c) * Y) from part 0 we know that this is equal to \#(({x0} * Y) u ({x0}^c) * Y)). Now we can apply lemma 2.9 because {x0} and {x0}^c are disjoint because they are complements and thus #(({x0} * Y) u ({x0}^c) * Y)) = #({x0} * Y) + #({x0}^c) * Y)
 
-#### Sources:
+#### Sources
