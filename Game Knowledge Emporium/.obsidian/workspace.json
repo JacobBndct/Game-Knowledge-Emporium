@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cart",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,8 +132,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,6 +226,7 @@
   },
   "active": "2c4067a9da0c839b",
   "lastOpenFiles": [
+    "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 6 Rough notes.pdf",
     "Equivalence class.md",
     "Equivalence relations.md",
     "Equality of Sets.md",
@@ -262,7 +262,6 @@
     "Templates/Basic Template.md",
     "Power Set.md",
     "Part 0 (Sets & Numbers - Lemma 1.5).md",
-    "Proof by contradiction.md",
     "Untitled.canvas"
   ]
 }
