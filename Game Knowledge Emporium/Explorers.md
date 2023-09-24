@@ -6,7 +6,7 @@ One of the four [[Bartle Taxonomy of Player Types |player types]] according to B
 
 Make up around ~10% of the average player base for most games.
 ### Single-player appeal
-
+Explores tend to care less about things like combat or gaining levels. They instead prefer games where they are deeply immersed in the story and world
 ### Multi-player appeal
 #### Sources:
 __________________________________________________________________________
