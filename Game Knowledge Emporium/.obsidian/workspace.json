@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement learning.md",
+                "file": "GPUs vs CPUs.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -152,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GPUs vs CPUs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GPUs vs CPUs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GPUs vs CPUs.md"
+              }
             }
           },
           {
@@ -220,35 +224,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "4e253c93b4866fb1",
   "lastOpenFiles": [
-    "Reinforcement learning.md",
-    "State Machine Pattern.md",
-    "Empty Set.md",
     "Boids.md",
-    "Cady Note Taking Advice.md",
-    "Adaptive Music.md",
-    "12 Basic Principles of Animation.md",
-    "Controls and Input Mapping.md",
-    "Function Inverses.md",
-    "Natural numbers.md",
-    "Mathematic Definitions.md",
-    "Dot product.md",
-    "Cartesian product and equivalence relations.md",
-    "Cardinality.md",
-    "Unsupervised learning.md",
-    "Transitivity of Subsets (Sets & Numbers - Lemma 1.4).md",
+    "Equality of Sets.md",
+    "Power Set.md",
     "Subsets.md",
-    "SOLID Principles.md",
-    "Real Number Analysis.md",
+    "Mathematic Definitions.md",
+    "Double Inclusion Lemma (Sets & Numbers - Lemma 1.6).md",
+    "Transitivity of Subsets (Sets & Numbers - Lemma 1.4).md",
     "Proof by contradiction.md",
     "Part 0 (Sets & Numbers - Lemma 1.5).md",
+    "Real Number Analysis.md",
+    "Metric and Topological Spaces - Lemma Lecture 2.md",
+    "Functions.md",
     "Composition, Counting & Cardinality.md",
-    "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 6 Rough notes.pdf",
-    "Equivalence class.md",
+    "Dot product.md",
+    "Unsupervised learning.md",
+    "Supervised Learning.md",
+    "Reinforcement learning.md",
+    "Function Inverses.md",
+    "Cardinality.md",
+    "Frame-of-Reference Problem in Autonomous Agent Design.md",
+    "Cartesian product and equivalence relations.md",
     "Equivalence relations.md",
-    "Equality of Sets.md",
-    "Untitled.md",
+    "Equivalence class.md",
+    "12 Basic Principles of Animation.md",
+    "State Machine Pattern.md",
+    "Empty Set.md",
+    "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 6 Rough notes.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Rough Notes Lecture 5.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces",
     "Hand Written Notes/School notes/CSCI/3162/Note Feb 2, 2023.pdf",

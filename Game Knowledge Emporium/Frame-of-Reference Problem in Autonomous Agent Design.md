@@ -1,4 +1,4 @@
-**Tags:**  #Programming #AI
+**Tags:**  #Programming/AI 
 
 The frame-of-reference problem concerns the
 relation between the observer, the designer (or the modeler), the artifact, the environment, and the observed agent.

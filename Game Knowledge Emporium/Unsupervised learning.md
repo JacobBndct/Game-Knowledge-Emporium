@@ -1,4 +1,4 @@
-**Tags:**  #Programming #AI 
+**Tags:**  #Programming/AI 
 
 Learning is done from the inputs alone
 

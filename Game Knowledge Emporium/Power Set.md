@@ -1,4 +1,4 @@
-**Tags:** #Math 
+**Tags:** #Math/SetTheory  
 
 Definition:
 For any set X define the powerset of X called 2^X = Set of all subsets of X

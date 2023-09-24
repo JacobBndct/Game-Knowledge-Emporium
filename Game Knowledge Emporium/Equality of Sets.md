@@ -1,4 +1,4 @@
-**Tags:** #Math 
+**Tags:** #Math/SetTheory  
 
 Definition: 
 - Two sets X and Y are equal if and only if: 

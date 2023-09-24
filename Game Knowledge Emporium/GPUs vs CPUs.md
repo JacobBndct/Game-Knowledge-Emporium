@@ -1,4 +1,4 @@
-**Tags:** #Shaders #Programming 
+**Tags:** #S
 
 #### Sources:
 [[CSCI2122 Introduction.pdf]]
