@@ -5,7 +5,9 @@ __________________________________________________________________________
 One of the four [[Bartle Taxonomy of Player Types |player types]] according to Bartle. 
 
 Make up around ~80% of the average player base for most games.
+### Single-player appeal
 
+### Multi-player appeal
 #### Sources:
 __________________________________________________________________________
 1. [Bartle taxonomy of player types - Wikipedia](https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types)
