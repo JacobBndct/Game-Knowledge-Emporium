@@ -4,11 +4,7 @@ __________________________________________________________________________
 __________________________________________________________________________
 One of the four [[Bartle Taxonomy of Player Types |player types]] according to Bartle. 
 
-Make up around ~10% of the average player base for most games.
-
-### Single-player appeal
-
-##
+Make up around ~1% of the average player base for most games.
 
 #### Sources:
 __________________________________________________________________________

@@ -6,10 +6,6 @@ One of the four [[Bartle Taxonomy of Player Types |player types]] according to B
 
 Make up around ~10% of the average player base for most games.
 
-### Single-player appeal
-
-##
-
 #### Sources:
 __________________________________________________________________________
 1. [Bartle taxonomy of player types - Wikipedia](https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types)

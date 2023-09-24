@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bartle Taxonomy of Player Types.md",
+                "file": "Achievers.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bartle Taxonomy of Player Types.md",
+                "file": "Achievers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bartle Taxonomy of Player Types.md",
+                "file": "Achievers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bartle Taxonomy of Player Types.md"
+                "file": "Achievers.md"
               }
             }
           },
@@ -177,8 +177,11 @@
   },
   "active": "2d703b16afd7d772",
   "lastOpenFiles": [
-    "Achievers.md",
+    "Explorers.md",
+    "Socializers.md",
+    "Killers.md",
     "Bartle Taxonomy of Player Types.md",
+    "Achievers.md",
     "SOLID Principles.md",
     "Empty Set.md",
     "Set Theory.md",
@@ -200,9 +203,6 @@
     "Subsets.md",
     "Power Set.md",
     "Mathematic Definitions.md",
-    "Double Inclusion Lemma (Sets & Numbers - Lemma 1.6).md",
-    "Transitivity of Subsets (Sets & Numbers - Lemma 1.4).md",
-    "Proof by contradiction.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 6 Rough notes.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Rough Notes Lecture 5.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces",
