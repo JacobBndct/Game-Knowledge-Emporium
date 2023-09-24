@@ -1,4 +1,4 @@
-**Tags:** #Math  
+**Tags:** #Math/SetTheory  
 
 One of the must fundamental sets in mathematics.
 

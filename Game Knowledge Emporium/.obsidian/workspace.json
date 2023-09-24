@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boids.md",
+                "file": "State Machine Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "bb92a511305e0a1e",
@@ -105,7 +105,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -152,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "State Machine Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "State Machine Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "State Machine Pattern.md"
+              }
             }
           },
           {
@@ -220,16 +224,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "4e253c93b4866fb1",
   "lastOpenFiles": [
-    "Cady Note Taking Advice.md",
+    "Empty Set.md",
+    "State Machine Pattern.md",
     "Boids.md",
+    "Cady Note Taking Advice.md",
     "Adaptive Music.md",
     "12 Basic Principles of Animation.md",
-    "State Machine Pattern.md",
     "Controls and Input Mapping.md",
     "Function Inverses.md",
-    "Empty Set.md",
     "Natural numbers.md",
     "Mathematic Definitions.md",
     "Dot product.md",
