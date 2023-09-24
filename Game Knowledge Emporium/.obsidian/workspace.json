@@ -21,6 +21,18 @@
             }
           },
           {
+            "id": "38ebdd7f54551b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "02ca3b945b641f25",
             "type": "leaf",
             "state": {
@@ -38,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Example Template.md",
+                "file": "Templates/Basic Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "bb92a511305e0a1e",
@@ -164,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Example Template.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Example Template.md",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Example Template.md"
+                "file": "Test.md"
               }
             }
           },
@@ -236,11 +248,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6919aacc43c85dbe",
+  "active": "38ebdd7f54551b4a",
   "lastOpenFiles": [
+    "Controls and Input Mapping.md",
+    "Test.md",
+    "Cady Note Taking Advice.md",
     "Templates/Basic Template.md",
     "Templates/Example Template.md",
-    "Untitled.md",
     "Mathematic Definitions.md",
     "Equivalence class.md",
     "Dependency Injection.md",
@@ -262,8 +276,6 @@
     "Supervised Learning.md",
     "Reinforcement learning.md",
     "Function Inverses.md",
-    "Cardinality.md",
-    "Frame-of-Reference Problem in Autonomous Agent Design.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 6 Rough notes.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Rough Notes Lecture 5.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces",

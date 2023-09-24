@@ -1,5 +1,7 @@
-Connected notes: [[]]
-### Example 1:
+*Date of Creation: {{date}}*
+### Related notes: [[]]
+__________________________________________________________________________
+#### Example 1:
 
 
 
