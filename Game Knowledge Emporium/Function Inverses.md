@@ -1,4 +1,7 @@
-**Tags:** #Math 
+__________________________________________________________________________
+#### **Tags:** #Math/SetTheory 
+###### *Date of Creation: 2023-09-24*
+__________________________________________________________________________
 
 Inverse of h o f = identity function of x
 Inverse of f o h = identity function of y

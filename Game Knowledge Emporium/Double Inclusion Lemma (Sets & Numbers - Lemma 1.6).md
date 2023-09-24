@@ -1,4 +1,7 @@
-**Tags:** #Math 
+__________________________________________________________________________
+#### **Tags:**  #Math/SetTheory 
+###### *Date of Creation: 2023-09-24*
+__________________________________________________________________________
 
 Lemma 1.6: Imagine sets X and Y. If X is a subset of Y and Y is a subset of X, then X = Y.
 

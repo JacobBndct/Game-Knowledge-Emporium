@@ -1,4 +1,7 @@
-**Tags:**  #Programming/AI 
+__________________________________________________________________________
+#### **Tags:** #Programming/AI 
+###### *Date of Creation: 2023-09-24*
+__________________________________________________________________________
 
 Takes inspiration from Psychology, Neuroscience, Control Theory, Artificial Intelligence 
 

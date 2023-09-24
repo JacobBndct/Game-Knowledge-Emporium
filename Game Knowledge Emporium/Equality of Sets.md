@@ -1,4 +1,7 @@
-**Tags:** #Math/SetTheory  
+__________________________________________________________________________
+#### **Tags:** #Math/SetTheory 
+###### *Date of Creation: 2023-09-24*
+__________________________________________________________________________
 
 Definition: 
 - Two sets X and Y are equal if and only if: 

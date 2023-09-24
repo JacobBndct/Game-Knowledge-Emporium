@@ -1,4 +1,7 @@
-**Tags:** #Math/SetTheory  
+__________________________________________________________________________
+#### **Tags:** #Math/SetTheory 
+###### *Date of Creation: 2023-09-24*
+__________________________________________________________________________
 
 Definition:
 X is a subset of Y if and only if every element of X is an element of Y 

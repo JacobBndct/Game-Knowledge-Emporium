@@ -1,4 +1,7 @@
-**Tags:**  #Math 
+__________________________________________________________________________
+#### **Tags:** #Math/SetTheory 
+###### *Date of Creation: 2023-09-24*
+__________________________________________________________________________
 
 Definition: the sets X and Y have the same cardinality iff there exist an invertible f : X -> Y
 

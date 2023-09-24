@@ -1,4 +1,7 @@
-**Tags:** #Math
+__________________________________________________________________________
+#### **Tags:** #Math/SetTheory 
+###### *Date of Creation: 2023-09-24*
+__________________________________________________________________________
 
 You can think of functions as manipulations rather than simply mapping one value to another as it is usually described in high school
 
