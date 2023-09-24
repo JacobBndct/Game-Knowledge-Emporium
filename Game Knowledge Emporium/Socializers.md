@@ -6,7 +6,7 @@ One of the four [[Bartle Taxonomy of Player Types |player types]] according to B
 
 Make up around ~80% of the average player base for most games.
 ### Single-player appeal
-
+Some games appeal to these players by pushing social aspects outside of the game itself by creating a strong sense of community.
 ### Multi-player appeal
 #### Sources:
 __________________________________________________________________________

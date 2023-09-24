@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Explorers.md",
+                "file": "Socializers.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Explorers.md",
+                "file": "Socializers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Explorers.md",
+                "file": "Socializers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Explorers.md"
+                "file": "Socializers.md"
               }
             }
           },
@@ -177,10 +177,10 @@
   },
   "active": "2d703b16afd7d772",
   "lastOpenFiles": [
+    "Explorers.md",
     "Achievers.md",
     "Killers.md",
     "Socializers.md",
-    "Explorers.md",
     "Bartle Taxonomy of Player Types.md",
     "SOLID Principles.md",
     "Empty Set.md",
