@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Basic Template.md",
+                "file": "Templates/Example Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Basic Template.md",
+                "file": "Templates/Example Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Basic Template.md",
+                "file": "Templates/Example Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Basic Template.md"
+                "file": "Templates/Example Template.md"
               }
             }
           },
@@ -238,8 +238,9 @@
   },
   "active": "6919aacc43c85dbe",
   "lastOpenFiles": [
-    "Templates/Example Template.md",
     "Templates/Basic Template.md",
+    "Templates/Example Template.md",
+    "Untitled.md",
     "Mathematic Definitions.md",
     "Equivalence class.md",
     "Dependency Injection.md",
@@ -263,7 +264,6 @@
     "Function Inverses.md",
     "Cardinality.md",
     "Frame-of-Reference Problem in Autonomous Agent Design.md",
-    "Cartesian product and equivalence relations.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 6 Rough notes.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Rough Notes Lecture 5.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces",
