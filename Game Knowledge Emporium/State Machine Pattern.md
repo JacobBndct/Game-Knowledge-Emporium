@@ -1,4 +1,4 @@
-**Tags:** #DesignPatterns #Programming 
+**Tags:** #Programming/DesignPatterns 
 
 
 #### Sources:

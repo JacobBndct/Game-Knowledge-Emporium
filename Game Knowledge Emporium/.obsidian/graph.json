@@ -5,8 +5,23 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Programming  ",
+      "color": {
+        "a": 1,
+        "rgb": 1201860
+      }
+    },
+    {
+      "query": "tag:#Programming/DesignPatterns  ",
+      "color": {
+        "a": 1,
+        "rgb": 16426752
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 14.375,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.1452848826402833,
+  "scale": 0.3582119689350127,
   "close": false
 }
