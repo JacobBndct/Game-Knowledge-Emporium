@@ -2,7 +2,7 @@ __________________________________________________________________________
 #### **Tags:** #PlayerBehavior #GameDesign 
 ###### *Date of Creation: 2023-09-24*
 __________________________________________________________________________
-The Bartle Taxonomy is a way to categorize players and how they like to play games
+The Bartle Taxonomy is a way to categorize players and how they like to play games. Though players may have a domin 
 ### [[Achievers]]
 **Summary**: Prefer concrete measurements of success such as points, levels, equipment, completion percentage, achievements, etc. 
 ### [[Explorers]]
@@ -14,3 +14,4 @@ The Bartle Taxonomy is a way to categorize players and how they like to play gam
 #### Sources:
 __________________________________________________________________________
 1. [Bartle taxonomy of player types - Wikipedia](https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types)
+2. [Understanding Your Audience and types of players- Bartle Player Taxonomy (gameanalytics.com)](https://gameanalytics.com/blog/understanding-your-audience-bartle-player-taxonomy/)
