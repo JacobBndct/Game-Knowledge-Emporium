@@ -1,4 +1,4 @@
-**Tags:**  #Programming 
+**Tags:**  #Programming/AI 
 
 Takes inspiration from Psychology, Neuroscience, Control Theory, Artificial Intelligence 
 

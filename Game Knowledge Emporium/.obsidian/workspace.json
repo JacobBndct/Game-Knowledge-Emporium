@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "State Machine Pattern.md",
+                "file": "Reinforcement learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State Machine Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "State Machine Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,9 +189,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "State Machine Pattern.md"
-              }
+              "state": {}
             }
           },
           {
@@ -224,10 +220,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4e253c93b4866fb1",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Empty Set.md",
+    "Reinforcement learning.md",
     "State Machine Pattern.md",
+    "Empty Set.md",
     "Boids.md",
     "Cady Note Taking Advice.md",
     "Adaptive Music.md",
@@ -252,7 +249,6 @@
     "Equivalence relations.md",
     "Equality of Sets.md",
     "Untitled.md",
-    "Frame-of-Reference Problem in Autonomous Agent Design.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Rough Notes Lecture 5.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces",
     "Hand Written Notes/School notes/CSCI/3162/Note Feb 2, 2023.pdf",
