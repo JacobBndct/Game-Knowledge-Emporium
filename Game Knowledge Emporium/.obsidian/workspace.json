@@ -6,7 +6,7 @@
       {
         "id": "956114ac0e1db8c5",
         "type": "tabs",
-        "dimension": 60.08883248730964,
+        "dimension": 63.89593908629442,
         "children": [
           {
             "id": "2d703b16afd7d772",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Empty Set.md",
+                "file": "Bartle Taxonomy of Player Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "bb92a511305e0a1e",
         "type": "tabs",
-        "dimension": 39.911167512690355,
+        "dimension": 36.10406091370558,
         "children": [
           {
             "id": "9fe1499f94fe0370",
@@ -173,9 +173,9 @@
   },
   "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
+    "Bartle Taxonomy of Player Types.md",
     "Empty Set.md",
     "Set Theory.md",
-    "Bartle Taxonomy of Player Types.md",
     "SOLID Principles.md",
     "Open-Closed Principle.md",
     "12 Basic Principles of Animation.md",
