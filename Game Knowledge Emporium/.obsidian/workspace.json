@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empty Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Empty Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Empty Set.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +171,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6c92691e8200022d",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
+    "Empty Set.md",
     "Set Theory.md",
     "Bartle Taxonomy of Player Types.md",
     "SOLID Principles.md",
@@ -194,7 +191,6 @@
     "Pulling vs. Pushing information.md",
     "State Machine Pattern.md",
     "Natural numbers.md",
-    "Empty Set.md",
     "Equality of Sets.md",
     "Subsets.md",
     "Power Set.md",
