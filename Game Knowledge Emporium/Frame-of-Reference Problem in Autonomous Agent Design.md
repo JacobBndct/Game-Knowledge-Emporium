@@ -18,4 +18,5 @@ The behavior of an agent is always the result of a system-environment interactio
 The complexity that is observed at the surface level by looking at the behavior of an agent is not necessarily indicative of the actual complexity of the mechanisms that guide it.
 
 #### Sources:
-[Understanding Intelligence (rug.nl)](https://web-s-ebscohost-com.proxy-ub.rug.nl/ehost/ebookviewer/ebook/bmxlYmtfXzEyNTQ5X19BTg2?sid=6f42bd39-33d6-4256-abac-3e1fc3598147@redis&vid=0&format=EB&rid=1)
+__________________________________________________________________________
+1. [Understanding Intelligence (rug.nl)](https://web-s-ebscohost-com.proxy-ub.rug.nl/ehost/ebookviewer/ebook/bmxlYmtfXzEyNTQ5X19BTg2?sid=6f42bd39-33d6-4256-abac-3e1fc3598147@redis&vid=0&format=EB&rid=1)

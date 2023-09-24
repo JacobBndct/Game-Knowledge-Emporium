@@ -1,4 +1,7 @@
-**Tags:** #PlayerBehavior #GameDesign #Narrative 
+__________________________________________________________________________
+#### **Tags:** #GameDesign #PlayerBehavior #Narrative 
+###### *Date of Creation: 2023-09-24*
+__________________________________________________________________________
 
 ### Pushing information
 This is when the game forces information onto the player such as in a cutscene. The player is not necessarily ready to receive this information and may not absorb the information correctly. If too much information is forced onto the player then the player may feel overwhelmed.

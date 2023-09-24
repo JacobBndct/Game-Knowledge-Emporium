@@ -1,4 +1,7 @@
-**Tags:** #Programming/AI  
+__________________________________________________________________________
+#### **Tags:** #Programming/AI 
+###### *Date of Creation: 2023-09-24*
+__________________________________________________________________________
 
 Boids are an artificial life program developed by Craig Reynolds in 1986. it attempts to simulate the behavior of flocks, herds, and schools in nature, 
 
