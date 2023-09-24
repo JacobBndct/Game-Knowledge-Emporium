@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPUs vs CPUs.md",
+                "file": "Dependency Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPUs vs CPUs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPUs vs CPUs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,9 +189,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "GPUs vs CPUs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -224,8 +220,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4e253c93b4866fb1",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
+    "Dependency Injection.md",
+    "GPUs vs CPUs.md",
     "Boids.md",
     "Equality of Sets.md",
     "Power Set.md",
@@ -250,8 +248,6 @@
     "Equivalence relations.md",
     "Equivalence class.md",
     "12 Basic Principles of Animation.md",
-    "State Machine Pattern.md",
-    "Empty Set.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 6 Rough notes.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Rough Notes Lecture 5.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces",
