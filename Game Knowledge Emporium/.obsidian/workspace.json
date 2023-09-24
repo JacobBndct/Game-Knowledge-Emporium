@@ -103,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bartle Taxonomy of Player Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bartle Taxonomy of Player Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bartle Taxonomy of Player Types.md"
+              }
             }
           },
           {
@@ -171,12 +175,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "2d703b16afd7d772",
   "lastOpenFiles": [
+    "SOLID Principles.md",
     "Bartle Taxonomy of Player Types.md",
     "Empty Set.md",
     "Set Theory.md",
-    "SOLID Principles.md",
     "Open-Closed Principle.md",
     "12 Basic Principles of Animation.md",
     "Adaptive Music.md",
