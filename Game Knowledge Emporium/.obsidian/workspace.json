@@ -45,6 +45,18 @@
             }
           },
           {
+            "id": "5dcb7d439122766e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Example Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4e253c93b4866fb1",
             "type": "leaf",
             "state": {
@@ -226,7 +238,7 @@
   },
   "active": "6919aacc43c85dbe",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Templates/Example Template.md",
     "Templates/Basic Template.md",
     "Mathematic Definitions.md",
     "Equivalence class.md",
