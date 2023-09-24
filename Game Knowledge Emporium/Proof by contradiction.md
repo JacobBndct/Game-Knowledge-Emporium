@@ -8,3 +8,5 @@ The general strategy for proof by contradiction is to assume statement S is not 
 Example: [[Part 0 (Sets & Numbers - Lemma 1.5)]]
 
 #### Sources:
+__________________________________________________________________________
+1. 

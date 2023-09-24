@@ -21,5 +21,7 @@ X is countably infinite if there is an invertible f : natural numbers -> X
 
 Cantor Theorem: There exists sets that are not countable. *Section 4*
 
-Composition of functions are associ  ative. For example: ((h o g) o f)(x) == (h o (g o f))
+Composition of functions are associative. For example: ((h o g) o f)(x) == (h o (g o f))
 #### Sources:
+__________________________________________________________________________
+1. 

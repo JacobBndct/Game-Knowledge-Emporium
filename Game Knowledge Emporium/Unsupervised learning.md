@@ -24,3 +24,5 @@ By learning to compress the (encode) a smaller latent representation and decompr
 
 
 #### Sources:
+__________________________________________________________________________
+1. 

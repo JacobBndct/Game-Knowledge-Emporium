@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cardinality.md",
+                "file": "Boids.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardinality.md",
+                "file": "Boids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cardinality.md",
+                "file": "Boids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cardinality.md"
+                "file": "Boids.md"
               }
             }
           },
@@ -250,16 +250,6 @@
   },
   "active": "02ca3b945b641f25",
   "lastOpenFiles": [
-    "Frame-of-Reference Problem in Autonomous Agent Design.md",
-    "Cartesian product and equivalence relations.md",
-    "Equivalence relations.md",
-    "Equivalence class.md",
-    "12 Basic Principles of Animation.md",
-    "Adaptive Music.md",
-    "Controls and Input Mapping.md",
-    "Composition.md",
-    "Cady Note Taking Advice.md",
-    "Boids.md",
     "Curiosity.md",
     "GPUs vs CPUs.md",
     "Dependency Injection.md",
@@ -276,6 +266,16 @@
     "Mathematic Definitions.md",
     "Double Inclusion Lemma (Sets & Numbers - Lemma 1.6).md",
     "Transitivity of Subsets (Sets & Numbers - Lemma 1.4).md",
+    "Proof by contradiction.md",
+    "Part 0 (Sets & Numbers - Lemma 1.5).md",
+    "Real Number Analysis.md",
+    "Metric and Topological Spaces - Lemma Lecture 2.md",
+    "Functions.md",
+    "Composition, Counting & Cardinality.md",
+    "Dot product.md",
+    "Unsupervised learning.md",
+    "Supervised Learning.md",
+    "Reinforcement learning.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 6 Rough notes.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Rough Notes Lecture 5.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces",

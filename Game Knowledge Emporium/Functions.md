@@ -18,3 +18,5 @@ A function is invertible if there exists a function g : Y -> X such that *g* o *
 Remark that sin^-1 is not a function on the reals and neither is sqt()
 
 #### Sources:
+__________________________________________________________________________
+1. 

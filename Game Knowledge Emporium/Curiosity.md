@@ -12,4 +12,5 @@ Ask what are the player's true motivations and why they want to achieve them - n
 - What am I doing to make them care about these questions?
 - What can I do to make them invent even more questions?
 #### Sources
-[(14) Sparking Curiosity-Driven Exploration Through Narrative in 'Outer Wilds' - YouTube](https://www.youtube.com/watch?v=QaGu9tGCNbI&t=1477s&ab_channel=GDC)
+__________________________________________________________________________
+1. [(14) Sparking Curiosity-Driven Exploration Through Narrative in 'Outer Wilds' - YouTube](https://www.youtube.com/watch?v=QaGu9tGCNbI&t=1477s&ab_channel=GDC)

@@ -14,4 +14,5 @@ Clients should not be forced to depend on interfaces that they do not want to us
 Depend upon abstractions, instead of concrete implementations.
 
 #### Sources:
-[SOLID - Wikipedia](https://en.wikipedia.org/wiki/SOLID)
+__________________________________________________________________________
+1. [SOLID - Wikipedia](https://en.wikipedia.org/wiki/SOLID)

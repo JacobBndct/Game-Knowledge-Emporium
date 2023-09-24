@@ -16,3 +16,5 @@ Reward actions that lead to good outcomes and punish actions that lead to bad ou
 [[Exploration]] and [[Exploitation]]
 
 #### Sources:
+__________________________________________________________________________
+1. 

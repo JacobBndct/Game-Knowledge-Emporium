@@ -7,3 +7,5 @@ Proving your knowledge in games can often be one of the greatest challenges in d
 
 ![[Deduction and curiosity.pdf]]
 #### Sources:
+__________________________________________________________________________
+1. 

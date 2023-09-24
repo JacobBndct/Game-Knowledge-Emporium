@@ -16,3 +16,5 @@ h = h o identity of y = h o (f o k) = (h o f) o k = identity of x o k = k
 
 thus h is equal to k. 
 #### Sources:
+__________________________________________________________________________
+1. 

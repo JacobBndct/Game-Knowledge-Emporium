@@ -10,3 +10,5 @@ Subset notation:
 If X is a set then { x e X: P(x) } is the subset of all the elements of X satisfying P where P is a condition.
 
 #### Sources:
+__________________________________________________________________________
+1. 

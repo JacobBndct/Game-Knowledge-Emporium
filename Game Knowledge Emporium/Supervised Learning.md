@@ -29,3 +29,5 @@ Step by step
 - ALVINN computes the difference (output error)
 
 #### Sources:
+__________________________________________________________________________
+1. 
