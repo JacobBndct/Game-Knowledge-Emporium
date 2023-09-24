@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cartesian product and equivalence relations.md",
+                "file": "Mathematic Definitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cartesian product and equivalence relations.md",
+                "file": "Mathematic Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cartesian product and equivalence relations.md",
+                "file": "Mathematic Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cartesian product and equivalence relations.md"
+                "file": "Mathematic Definitions.md"
               }
             }
           },
@@ -226,13 +226,13 @@
   },
   "active": "2c4067a9da0c839b",
   "lastOpenFiles": [
+    "Cartesian product and equivalence relations.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 6 Rough notes.pdf",
     "Equivalence class.md",
     "Equivalence relations.md",
     "Equality of Sets.md",
     "Untitled.md",
     "Boids.md",
-    "Cartesian product and equivalence relations.md",
     "Frame-of-Reference Problem in Autonomous Agent Design.md",
     "Reinforcement learning.md",
     "Mathematic Definitions.md",
@@ -257,7 +257,6 @@
     "Hand Written Notes/Lidar game/Test.pdf",
     "Hand Written Notes/Groningen/Sets & Numbers/Lab 1.pdf",
     "Hand Written Notes/Groningen/Sets & Numbers",
-    "Hand Written Notes/Groningen",
     "Metric and Topological Spaces - Lemma Lecture 2.md",
     "Templates/Basic Template.md",
     "Power Set.md",

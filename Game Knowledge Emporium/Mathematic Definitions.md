@@ -22,7 +22,7 @@
 
 ***infimum***: greatest element in partially ordered set P which is less than or equal to each element of S which is a subset of P.
 
-***Open***:
+***Open***:We define that a set X⊂R�⊂� is **open** if for every x∈X�∈� there exists some interval (x−ϵ,x+ϵ)(�−�,�+�) with ϵ>0�>0 such that this interval is also fully contained in X�.
 
 ***Closed***: 
 
