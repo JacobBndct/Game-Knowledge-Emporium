@@ -9,7 +9,7 @@ In calculus we have intervals \[-PI, PI\) ={ x e Real Numbers : -PI <= x < PI }
 
 Sets are order less
 
-Set ----Count elements----> Numbers
+Set ----> Count elements ----> Numbers
 #### Related Notes
 [[Empty Set]]
 [[Power Set]]

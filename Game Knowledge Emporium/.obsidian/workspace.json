@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2a938a6eb75a27af",
+        "id": "956114ac0e1db8c5",
         "type": "tabs",
-        "dimension": 67.44923857868021,
+        "dimension": 60.08883248730964,
         "children": [
           {
-            "id": "49f931cf475637fb",
+            "id": "2d703b16afd7d772",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOLID Principles.md",
+                "file": "Empty Set.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "bb92a511305e0a1e",
         "type": "tabs",
-        "dimension": 32.5507614213198,
+        "dimension": 39.911167512690355,
         "children": [
           {
             "id": "9fe1499f94fe0370",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOLID Principles.md",
+                "file": "Empty Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOLID Principles.md",
+                "file": "Empty Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOLID Principles.md"
+                "file": "Empty Set.md"
               }
             }
           },
@@ -175,9 +175,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "49f931cf475637fb",
+  "active": "6c92691e8200022d",
   "lastOpenFiles": [
+    "Set Theory.md",
     "Bartle Taxonomy of Player Types.md",
+    "SOLID Principles.md",
+    "Open-Closed Principle.md",
     "12 Basic Principles of Animation.md",
     "Adaptive Music.md",
     "Controls and Input Mapping.md",
@@ -190,10 +193,8 @@
     "Proving Your Knowledge.md",
     "Pulling vs. Pushing information.md",
     "State Machine Pattern.md",
-    "SOLID Principles.md",
     "Natural numbers.md",
     "Empty Set.md",
-    "Set Theory.md",
     "Equality of Sets.md",
     "Subsets.md",
     "Power Set.md",
@@ -202,7 +203,6 @@
     "Transitivity of Subsets (Sets & Numbers - Lemma 1.4).md",
     "Proof by contradiction.md",
     "Part 0 (Sets & Numbers - Lemma 1.5).md",
-    "Real Number Analysis.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 6 Rough notes.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Rough Notes Lecture 5.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces",
