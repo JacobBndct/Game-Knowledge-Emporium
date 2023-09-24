@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematic Definitions.md",
+                "file": "Templates/Basic Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dependency Injection.md",
+                "file": "Templates/Basic Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "bb92a511305e0a1e",
@@ -152,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Basic Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Basic Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Basic Template.md"
+              }
             }
           },
           {
@@ -220,15 +224,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "6919aacc43c85dbe",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Mathematic Definitions.md",
+    "Templates/Basic Template.md",
+    "Equivalence class.md",
     "Dependency Injection.md",
     "GPUs vs CPUs.md",
     "Boids.md",
     "Equality of Sets.md",
     "Power Set.md",
     "Subsets.md",
-    "Mathematic Definitions.md",
     "Double Inclusion Lemma (Sets & Numbers - Lemma 1.6).md",
     "Transitivity of Subsets (Sets & Numbers - Lemma 1.4).md",
     "Proof by contradiction.md",
@@ -245,9 +252,6 @@
     "Cardinality.md",
     "Frame-of-Reference Problem in Autonomous Agent Design.md",
     "Cartesian product and equivalence relations.md",
-    "Equivalence relations.md",
-    "Equivalence class.md",
-    "12 Basic Principles of Animation.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 6 Rough notes.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Rough Notes Lecture 5.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces",
