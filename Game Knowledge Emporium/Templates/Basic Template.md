@@ -1,4 +1,7 @@
+*Date of Creation: {{date}}*
 **Tags:** 
-{{date}} 
+
 
 #### Sources:
+1. Example
+2. 
