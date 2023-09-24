@@ -12,4 +12,4 @@ There are 3 key principles of boids
 #### Sources:
 __________________________________________________________________________
 1. [(15) Coding Adventure: Boids - YouTube](https://www.youtube.com/watch?v=bqtqltqcQhw&ab_channel=SebastianLague)
-[Craig Reynolds: Flocks, Herds, and Schools: A Distributed Behavioral Model (toronto.edu)](https://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/)
+2. [Craig Reynolds: Flocks, Herds, and Schools: A Distributed Behavioral Model (toronto.edu)](https://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/)

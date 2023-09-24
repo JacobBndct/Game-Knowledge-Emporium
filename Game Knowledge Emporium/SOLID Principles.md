@@ -3,7 +3,8 @@ __________________________________________________________________________
 ###### *Date of Creation: 2023-09-24*
 __________________________________________________________________________ 
 ### [[Single Responsibility Principle]]
-Each class should only have one responsibility. This means that each class only needs to be changes when you are making changes to it's responsibility.
+
+Summary: Each class should only have one responsibility. This means that each class only needs to be changes when you are making changes to it's responsibility.
 ### [[Open-Closed Principle]]
 Code should be open for extension, but closed for modification.
 ### [[Liskov Substitution Principle]]

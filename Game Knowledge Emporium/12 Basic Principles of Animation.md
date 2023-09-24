@@ -17,4 +17,5 @@ __________________________________________________________________________
 12. Appeal
 
 #### Sources:
-[Understand Disney's 12 principles of animation | Creative Bloq](https://www.creativebloq.com/advice/understand-the-12-principles-of-animation)
+__________________________________________________________________________
+1. [Understand Disney's 12 principles of animation | Creative Bloq](https://www.creativebloq.com/advice/understand-the-12-principles-of-animation)
