@@ -1,4 +1,7 @@
-**Tags:** #Math 
+__________________________________________________________________________
+#### **Tags:** #Math/SetTheory  
+###### *Date of Creation: 2023-09-24*
+__________________________________________________________________________
 
 Definition: The equivalence class of x e X is the set X^_ = { y e X: x ~ y } 
 
@@ -11,3 +14,5 @@ To check, any element of x e X belongs to a unique element of X/R.
 First x e x^_ because x ~ x
 Second if x e z^_ and x e y^_ then x ~ y and x ~ z so y ~ z so x belongs to only one equivalence class.
 #### Sources:
+__________________________________________________________________________
+1. 

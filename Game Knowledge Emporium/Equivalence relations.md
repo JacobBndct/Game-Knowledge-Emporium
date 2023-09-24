@@ -1,4 +1,7 @@
-**Tags:** #Math 
+__________________________________________________________________________
+#### **Tags:** #Math/SetTheory 
+###### *Date of Creation: 2023-09-24*
+__________________________________________________________________________
 
 Definition: An equivalence relation R on a set X is a subset relation R is a subset of X * X with the following properties. 
 
@@ -8,3 +11,5 @@ Using notation (x, y) e R will be written x ~ y
 1. If x ~ y then y ~ x (Symmetry)
 2. If x ~ y and y ~ z then x ~ z as well (Transitivity)
 #### Sources:
+__________________________________________________________________________
+1. 

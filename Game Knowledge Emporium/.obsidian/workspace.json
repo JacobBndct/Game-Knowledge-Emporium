@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cady Note Taking Advice.md",
+                "file": "Equivalence relations.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "bb92a511305e0a1e",
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Basic Template.md",
+                "file": "Equivalence relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Basic Template.md",
+                "file": "Equivalence relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Basic Template.md"
+                "file": "Equivalence relations.md"
               }
             }
           },
@@ -248,16 +248,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "38ebdd7f54551b4a",
+  "active": "02ca3b945b641f25",
   "lastOpenFiles": [
-    "Cady Note Taking Advice.md",
-    "Templates/Basic Template.md",
-    "Test.md",
-    "2023-09-24.md",
-    "Templates/Example Template.md",
-    "Controls and Input Mapping.md",
-    "Mathematic Definitions.md",
     "Equivalence class.md",
+    "Templates/Basic Template.md",
+    "Templates/Example Template.md",
+    "Equivalence relations.md",
+    "Cartesian product and equivalence relations.md",
+    "Frame-of-Reference Problem in Autonomous Agent Design.md",
+    "Test Example.md",
+    "Cady Note Taking Advice.md",
+    "Controls and Input Mapping.md",
+    "2023-09-24.md",
+    "Mathematic Definitions.md",
     "Dependency Injection.md",
     "GPUs vs CPUs.md",
     "Boids.md",
@@ -273,9 +276,6 @@
     "Functions.md",
     "Composition, Counting & Cardinality.md",
     "Dot product.md",
-    "Unsupervised learning.md",
-    "Supervised Learning.md",
-    "Reinforcement learning.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 6 Rough notes.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Rough Notes Lecture 5.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces",

@@ -1,4 +1,7 @@
-**Tags:**  #Math 
+__________________________________________________________________________
+#### **Tags:** #Math/SetTheory 
+###### *Date of Creation: 2023-09-24*
+__________________________________________________________________________
 
 Definition: If X and Y are sets then X * Y is the set of all (ordered) pairs (x, y) where x e X, y e Y.  X * Y = {(x, y), x e X, y e Y}
 
@@ -37,3 +40,5 @@ To prove S0 : If \#X = 0 then (exercise) X = Empty set, so #(X * Y) = #(X) * #(Y
 Assume \#X = n + 1: and take x0 e X. #(X * Y) = #(({x0} u {x0}^c) * Y) from part 0 we know that this is equal to \#(({x0} * Y) u ({x0}^c) * Y)). Now we can apply lemma 2.9 because {x0} and {x0}^c are disjoint because they are complements and thus #(({x0} * Y) u ({x0}^c) * Y)) = #({x0} * Y) + #({x0}^c) * Y). Since x0 is simply a single element in the set (the + 1 in n+1) we can say \#Y + #({x0}^c) * Y). Additionally since the cardinality of the complement of x0 are all the other elements of the set X (the n in the n+1) then \#Y + n * \#Y. We can simplify this to be (n+1)#Y. Finally since we know that the cardinality of X is n+1, we can do one final simplification and reach our final goal of \#X\#Y. **By induction all Sn hold.**
 
 #### Sources
+__________________________________________________________________________
+1. 
