@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bartle Taxonomy of Player Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bartle Taxonomy of Player Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bartle Taxonomy of Player Types.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,10 +171,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2d703b16afd7d772",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "SOLID Principles.md",
     "Bartle Taxonomy of Player Types.md",
+    "SOLID Principles.md",
     "Empty Set.md",
     "Set Theory.md",
     "Open-Closed Principle.md",

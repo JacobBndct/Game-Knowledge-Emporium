@@ -8,8 +8,9 @@ The Bartle Taxonomy is a way to categorize players and how they like to play gam
 ### [[Explorers]]
 **Summary**: Prefers discovery, exploration, and immersing themselves in the world.
 ### [[Socializers]]
-**Summary**: Plays games for the social aspects of the game such as, sharing achievements, interacting with others through the game,
+**Summary**: Plays games for the social aspects of the game such as, sharing achievements, interacting with others through the game, as well as sometimes interacting with in game characters who appeal to their personality.
 ### [[Killers]]
+**Summary**: These players love competition and want to win at all cost. They enjoy min-maxing and will use anything that might give them an edge.
 #### Sources:
 __________________________________________________________________________
 1. [Bartle taxonomy of player types - Wikipedia](https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types)
