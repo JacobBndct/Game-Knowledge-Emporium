@@ -1,6 +1,6 @@
 **Tags:**  #Math 
 
-a⋅b=∥a∥∥b∥cos(θ)
+a⋅b = ∥a∥∥b∥cos(θ)
 
 The dot product tells you what amount of one vector goes in the direction of another.
 

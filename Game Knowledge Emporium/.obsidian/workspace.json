@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Composition, Counting & Cardinality.md",
+                "file": "Empty Set.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,8 +68,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "bb92a511305e0a1e",
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematic Definitions.md",
+                "file": "Empty Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematic Definitions.md",
+                "file": "Empty Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematic Definitions.md"
+                "file": "Empty Set.md"
               }
             }
           },
@@ -224,43 +223,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2c4067a9da0c839b",
+  "active": "f7e07087dd8494ff",
   "lastOpenFiles": [
+    "Natural numbers.md",
+    "Mathematic Definitions.md",
+    "Dot product.md",
     "Cartesian product and equivalence relations.md",
+    "Cardinality.md",
+    "Cady Note Taking Advice.md",
+    "Boids.md",
+    "Adaptive Music.md",
+    "12 Basic Principles of Animation.md",
+    "Unsupervised learning.md",
+    "Transitivity of Subsets (Sets & Numbers - Lemma 1.4).md",
+    "Subsets.md",
+    "SOLID Principles.md",
+    "Real Number Analysis.md",
+    "Proof by contradiction.md",
+    "Part 0 (Sets & Numbers - Lemma 1.5).md",
+    "Composition, Counting & Cardinality.md",
+    "Function Inverses.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 6 Rough notes.pdf",
     "Equivalence class.md",
     "Equivalence relations.md",
     "Equality of Sets.md",
     "Untitled.md",
-    "Boids.md",
     "Frame-of-Reference Problem in Autonomous Agent Design.md",
     "Reinforcement learning.md",
-    "Mathematic Definitions.md",
-    "Composition, Counting & Cardinality.md",
-    "Function Inverses.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Rough Notes Lecture 5.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces",
-    "Cardinality.md",
     "Composition.md",
     "Hand Written Notes/School notes/CSCI/3162/Note Feb 2, 2023.pdf",
     "Hand Written Notes/School notes/Groningen/Sets & Numbers/Lab 1.pdf",
     "Hand Written Notes/School notes/Groningen/Sets & Numbers",
     "Hand Written Notes/School notes/Groningen",
-    "Unsupervised learning.md",
     "Supervised Learning.md",
-    "Subsets.md",
-    "Adaptive Music.md",
-    "Cady Note Taking Advice.md",
-    "Dot product.md",
-    "Functions.md",
-    "Real Number Analysis.md",
     "Hand Written Notes/Lidar game/Test.pdf",
     "Hand Written Notes/Groningen/Sets & Numbers/Lab 1.pdf",
     "Hand Written Notes/Groningen/Sets & Numbers",
-    "Metric and Topological Spaces - Lemma Lecture 2.md",
-    "Templates/Basic Template.md",
-    "Power Set.md",
-    "Part 0 (Sets & Numbers - Lemma 1.5).md",
     "Untitled.canvas"
   ]
 }
