@@ -12,11 +12,9 @@
             "id": "2d703b16afd7d772",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Socializers.md",
-                "mode": "source",
-                "source": false
+                "file": "Hand Written Notes/School notes/CSCI/3162/Analog and digital signals.pdf"
               }
             }
           }
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Socializers.md",
+                "file": "Hand Written Notes/School notes/CSCI/3162/Analog and digital signals.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Socializers.md",
+                "file": "Hand Written Notes/School notes/CSCI/3162/Analog and digital signals.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Socializers.md"
+                "file": "Hand Written Notes/School notes/CSCI/3162/Analog and digital signals.pdf"
               }
             }
           },
@@ -177,8 +175,16 @@
   },
   "active": "2d703b16afd7d772",
   "lastOpenFiles": [
-    "Killers.md",
+    "Hand Written Notes/School notes/CSCI/3162/Note Feb 2, 2023.pdf",
+    "Hand Written Notes/School notes/CSCI/3130/Software process models.pdf",
+    "Hand Written Notes/School notes/CSCI/3130/Note Apr 7, 2023.pdf",
+    "Hand Written Notes/School notes/CSCI/3130/Agile 1.pdf",
+    "Hand Written Notes/School notes/CSCI/3130/Software engineering history.pdf",
+    "Hand Written Notes/School notes/CSCI/2122/Note Jan 17, 2023 (2).pdf",
+    "Hand Written Notes/School notes/CSCI/2122/Note Mar 2, 2023.pdf",
+    "Hand Written Notes/School notes/CSCI/2122/Note Mar 30, 2023.pdf",
     "Socializers.md",
+    "Killers.md",
     "Explorers.md",
     "Achievers.md",
     "Bartle Taxonomy of Player Types.md",
@@ -202,17 +208,9 @@
     "Equality of Sets.md",
     "Subsets.md",
     "Power Set.md",
-    "Mathematic Definitions.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 6 Rough notes.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Rough Notes Lecture 5.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces",
-    "Hand Written Notes/School notes/CSCI/3162/Note Feb 2, 2023.pdf",
-    "Hand Written Notes/School notes/Groningen/Sets & Numbers/Lab 1.pdf",
-    "Hand Written Notes/School notes/Groningen/Sets & Numbers",
-    "Hand Written Notes/School notes/Groningen",
-    "Hand Written Notes/Lidar game/Test.pdf",
-    "Hand Written Notes/Groningen/Sets & Numbers/Lab 1.pdf",
-    "Hand Written Notes/Groningen/Sets & Numbers",
     "Untitled.canvas"
   ]
 }
