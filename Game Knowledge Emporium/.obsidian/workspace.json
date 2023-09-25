@@ -14,11 +14,22 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Hand Written Notes/School notes/CSCI/3162/Analog and digital signals.pdf"
+                "file": "Hand Written Notes/School notes/CSCI/3162/Complex numbers.pdf"
+              }
+            }
+          },
+          {
+            "id": "e5a49998a7b7d7bd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Hand Written Notes/School notes/CSCI/3162/Discrete Fourier transform.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bb92a511305e0a1e",
@@ -101,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hand Written Notes/School notes/CSCI/3162/Analog and digital signals.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hand Written Notes/School notes/CSCI/3162/Analog and digital signals.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hand Written Notes/School notes/CSCI/3162/Analog and digital signals.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -173,16 +180,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2d703b16afd7d772",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Hand Written Notes/School notes/CSCI/3162/Note Feb 2, 2023.pdf",
-    "Hand Written Notes/School notes/CSCI/3130/Software process models.pdf",
-    "Hand Written Notes/School notes/CSCI/3130/Note Apr 7, 2023.pdf",
-    "Hand Written Notes/School notes/CSCI/3130/Agile 1.pdf",
-    "Hand Written Notes/School notes/CSCI/3130/Software engineering history.pdf",
-    "Hand Written Notes/School notes/CSCI/2122/Note Jan 17, 2023 (2).pdf",
-    "Hand Written Notes/School notes/CSCI/2122/Note Mar 2, 2023.pdf",
+    "Hand Written Notes/School notes/CSCI/3162/Discrete Fourier transform.pdf",
+    "Complex Numbers.md",
+    "Hand Written Notes/School notes/CSCI/3162/Complex numbers.pdf",
+    "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
+    "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
     "Hand Written Notes/School notes/CSCI/2122/Note Mar 30, 2023.pdf",
+    "Hand Written Notes/School notes/CSCI/2122/Note Mar 2, 2023.pdf",
+    "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 1.pdf",
+    "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 3.pdf",
+    "Hand Written Notes/School notes/CSCI/2122/Note Jan 17, 2023 (2).pdf",
+    "Hand Written Notes/School notes/CSCI/3162/Intro to CSCI3162.pdf",
+    "Hand Written Notes/School notes/CSCI/3162/Intro.pdf",
     "Socializers.md",
     "Killers.md",
     "Explorers.md",
@@ -207,10 +218,6 @@
     "Natural numbers.md",
     "Equality of Sets.md",
     "Subsets.md",
-    "Power Set.md",
-    "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 6 Rough notes.pdf",
-    "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Rough Notes Lecture 5.pdf",
-    "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces",
     "Untitled.canvas"
   ]
 }
