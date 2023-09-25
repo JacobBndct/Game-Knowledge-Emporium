@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fun.md",
+                "file": "Curiosity.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "curi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Curiosity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Curiosity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Curiosity.md"
+              }
             }
           },
           {
@@ -218,9 +223,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "280f614b29215626",
   "lastOpenFiles": [
     "Fun.md",
+    "Untitled.md",
     "Surprise.md",
     "Venue.md",
     "Emotions.md",
@@ -255,7 +261,6 @@
     "Adaptive Music.md",
     "Controls and Input Mapping.md",
     "Composition.md",
-    "Boids.md",
     "Untitled.canvas"
   ]
 }
