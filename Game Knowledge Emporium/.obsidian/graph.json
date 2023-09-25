@@ -11,7 +11,7 @@
       "query": "tag:#Programming/DesignPatterns  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14965761
       }
     },
     {
@@ -22,17 +22,10 @@
       }
     },
     {
-      "query": "tag:#Programming/DesignPatterns  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
       "query": "tag:#Programming  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 16753264
       }
     },
     {
@@ -43,10 +36,66 @@
       }
     },
     {
-      "query": "tag:",
+      "query": "tag:#Math  ",
       "color": {
         "a": 1,
         "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#GameDesign",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#PlayerBehavior  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#Narrative  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#Animation  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Audio  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#Music  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Art  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#Accessibility  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -60,6 +109,6 @@
   "repelStrength": 14.375,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3157916582232268,
+  "scale": 0.271247929375317,
   "close": false
 }
