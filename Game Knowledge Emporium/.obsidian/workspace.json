@@ -8,6 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "dc0c71eea0f22e91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dithering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "654c320681cbddb8",
+        "type": "tabs",
+        "children": [
+          {
             "id": "9fe1499f94fe0370",
             "type": "leaf",
             "pinned": true,
@@ -16,31 +34,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "ae920d341c04b58c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Digital.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21343eeffbf8e450",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Digital.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,12 +169,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ae920d341c04b58c",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Digital.md",
-    "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",
+    "Dithering.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
+    "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
+    "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",
+    "Hand Written Notes/School notes/CSCI/3162/Linear time-invariant Systems.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Analog and digital signals.pdf",
+    "Hand Written Notes/School notes/CSCI/3162/Lossless Compression .pdf",
+    "Digital Audio.md",
     "Hand Written Notes/School notes/CSCI/3130/Software engineering history.pdf",
     "Hand Written Notes/School notes/CSCI/3130/Software process models.pdf",
     "Hand Written Notes/School notes/CSCI/2122/Unions.pdf",
@@ -191,10 +186,7 @@
     "Floating Point Numbers.md",
     "Hand Written Notes/School notes/CSCI/2122/Floating point, structures, and dynamic storage.pdf",
     "Data Structures.md",
-    "Hand Written Notes/School notes/CSCI/2122/Data structures.pdf",
     "Computer Registers.md",
-    "Hand Written Notes/School notes/CSCI/2122/Registers, and negative numbers.pdf",
-    "Hand Written Notes/School notes/CSCI/3162/Discrete Fourier transform.pdf",
     "Complex Numbers.md",
     "Socializers.md",
     "Killers.md",
@@ -215,7 +207,6 @@
     "GPUs vs CPUs.md",
     "Dependency Injection.md",
     "Proving Your Knowledge.md",
-    "Pulling vs. Pushing information.md",
     "Untitled.canvas"
   ]
 }
