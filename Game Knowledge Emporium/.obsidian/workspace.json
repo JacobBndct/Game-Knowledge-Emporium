@@ -342,7 +342,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -359,7 +358,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -381,9 +379,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Flow.md"
-              }
+              "state": {}
             }
           },
           {
@@ -414,8 +410,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "106d63608274525f",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
+    "Flow.md",
     "Curiosity.md",
     "The Toy.md",
     "Pleasure.md",
@@ -423,7 +420,6 @@
     "Achievers.md",
     "Dithering.md",
     "The Player.md",
-    "Flow.md",
     "Risk Mitigation.md",
     "The Eight Filters.md",
     "The Problem Statement.md",
