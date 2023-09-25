@@ -3,10 +3,12 @@ __________________________________________________________________________
 ###### *Date of Creation: 2023-09-25*
 __________________________________________________________________________
 
+The places in which we play games is greatly important to how we experience them. For example, mobile games might be played in various environmen 
+
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- What experience do I want the player to have?
-- What is essential to the experience?
-- How can my game capture that essence?
+- What type of venue best suits the game I'm trying to create?
+- Does my venue have special properties that will influence my game?
+- What elements of my game are in harmony with my venue? What elements are not?
 #### Sources:
 __________________________________________________________________________
 1. The Book of Lenses

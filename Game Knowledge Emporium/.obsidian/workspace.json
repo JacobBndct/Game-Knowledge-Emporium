@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48722668ee4b8bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emotions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af3e34782b3abf37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Venue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "654c320681cbddb8",
@@ -114,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essential Experiences.md",
+                "file": "Venue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essential Experiences.md",
+                "file": "Venue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essential Experiences.md"
+                "file": "Venue.md"
               }
             }
           },
@@ -186,10 +210,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d53f2e64f9e57842",
+  "active": "af3e34782b3abf37",
   "lastOpenFiles": [
+    "Surprise.md",
     "Emotions.md",
     "Essential Experiences.md",
+    "Venue.md",
     "Dithering.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
@@ -222,8 +248,6 @@
     "Composition.md",
     "Boids.md",
     "Cady Note Taking Advice.md",
-    "Curiosity.md",
-    "GPUs vs CPUs.md",
     "Untitled.canvas"
   ]
 }
