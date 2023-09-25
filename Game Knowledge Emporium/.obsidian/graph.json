@@ -46,7 +46,7 @@
       "query": "tag:#GameDesign",
       "color": {
         "a": 1,
-        "rgb": 11403519
+        "rgb": 6702813
       }
     },
     {
@@ -109,6 +109,6 @@
   "repelStrength": 14.375,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.1116489860074413,
-  "close": true
+  "scale": 0.14915222651669233,
+  "close": false
 }

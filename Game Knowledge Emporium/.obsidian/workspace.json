@@ -234,9 +234,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e7fd6494fa0f7c50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pleasure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "106d63608274525f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 20
       },
       {
         "id": "654c320681cbddb8",
@@ -318,7 +342,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Player.md",
+                "file": "Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +359,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Player.md",
+                "file": "Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,7 +382,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Player.md"
+                "file": "Flow.md"
               }
             }
           },
@@ -390,11 +414,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2783ee31285aae79",
+  "active": "106d63608274525f",
   "lastOpenFiles": [
-    "Passion.md",
-    "The Player.md",
+    "Curiosity.md",
     "The Toy.md",
+    "Pleasure.md",
+    "Passion.md",
+    "Achievers.md",
+    "Dithering.md",
+    "The Player.md",
+    "Flow.md",
     "Risk Mitigation.md",
     "The Eight Filters.md",
     "The Problem Statement.md",
@@ -408,25 +437,20 @@
     "Templates/Basic Template.md",
     "Templates/Example Template.md",
     "Endogenous Value.md",
-    "Curiosity.md",
     "Fun.md",
     "Surprise.md",
     "Venue.md",
     "Emotions.md",
     "Essential Experiences.md",
-    "Dithering.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Linear time-invariant Systems.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Analog and digital signals.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Lossless Compression .pdf",
-    "Digital Audio.md",
     "Hand Written Notes/School notes/CSCI/3130/Software engineering history.pdf",
     "Hand Written Notes/School notes/CSCI/3130/Software process models.pdf",
     "Hand Written Notes/School notes/CSCI/2122/Unions.pdf",
-    "Unions.md",
-    "Floating Point Numbers.md",
     "Hand Written Notes/School notes/CSCI/2122/Floating point, structures, and dynamic storage.pdf",
     "Untitled.canvas"
   ]
