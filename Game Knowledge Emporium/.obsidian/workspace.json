@@ -157,14 +157,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infinite Inspiration.md",
+                "file": "Unification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d98561d946252e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Problem Statement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e128af177c52061b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Eight Filters.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       },
       {
         "id": "654c320681cbddb8",
@@ -246,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infinite Inspiration.md",
+                "file": "The Eight Filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infinite Inspiration.md",
+                "file": "The Eight Filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infinite Inspiration.md"
+                "file": "The Eight Filters.md"
               }
             }
           },
@@ -318,12 +342,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a3e92481bb6c29aa",
+  "active": "e128af177c52061b",
   "lastOpenFiles": [
-    "Resonance.md",
+    "The Problem Statement.md",
+    "The Eight Filters.md",
     "Unification.md",
+    "Inspiration.md",
+    "Resonance.md",
     "Holographic Design.md",
-    "Infinite Inspiration.md",
     "The Elemental Tetrad.md",
     "Problem Solving.md",
     "Templates/Book of Lenses Template.md",
@@ -354,8 +380,6 @@
     "Computer Registers.md",
     "Complex Numbers.md",
     "Socializers.md",
-    "Killers.md",
-    "Explorers.md",
     "Untitled.canvas"
   ]
 }
