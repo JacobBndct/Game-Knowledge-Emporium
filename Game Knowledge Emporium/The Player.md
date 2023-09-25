@@ -4,8 +4,11 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- If my game had no goal, would it be fun at all? If not, how can I change that?
-- When people see my game, do they want to start interacting with it, even before they know what to do? If not, how can I change that?
+- In general, what do they like?
+- What don't they like? Why?
+- What do they expect to see in a game?
+- If I were in their place, what would I want to see in a game?
+- What will they like or dislike about my game in particular?
 #### Sources:
 __________________________________________________________________________
 1. The Book of Lenses
