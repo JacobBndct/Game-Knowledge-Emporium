@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10bc6e2fdd4b09d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emotions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "654c320681cbddb8",
@@ -171,6 +184,7 @@
   },
   "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
+    "Emotions.md",
     "Dithering.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
@@ -206,7 +220,6 @@
     "Curiosity.md",
     "GPUs vs CPUs.md",
     "Dependency Injection.md",
-    "Proving Your Knowledge.md",
     "Untitled.canvas"
   ]
 }
