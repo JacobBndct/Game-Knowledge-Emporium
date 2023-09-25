@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc0c71eea0f22e91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dithering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "10bc6e2fdd4b09d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Emotions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d53f2e64f9e57842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essential Experiences.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Essential Experiences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Essential Experiences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Essential Experiences.md"
+              }
             }
           },
           {
@@ -182,9 +186,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "d53f2e64f9e57842",
   "lastOpenFiles": [
     "Emotions.md",
+    "Essential Experiences.md",
     "Dithering.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
@@ -219,7 +224,6 @@
     "Cady Note Taking Advice.md",
     "Curiosity.md",
     "GPUs vs CPUs.md",
-    "Dependency Injection.md",
     "Untitled.canvas"
   ]
 }
