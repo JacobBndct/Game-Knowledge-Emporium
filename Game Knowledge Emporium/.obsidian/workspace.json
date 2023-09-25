@@ -4,37 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "956114ac0e1db8c5",
-        "type": "tabs",
-        "dimension": 63.89593908629442,
-        "children": [
-          {
-            "id": "2d703b16afd7d772",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Hand Written Notes/School notes/CSCI/3162/Complex numbers.pdf"
-              }
-            }
-          },
-          {
-            "id": "e5a49998a7b7d7bd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Hand Written Notes/School notes/CSCI/3162/Discrete Fourier transform.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "bb92a511305e0a1e",
         "type": "tabs",
-        "dimension": 36.10406091370558,
         "children": [
           {
             "id": "9fe1499f94fe0370",
@@ -182,18 +153,22 @@
   },
   "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
+    "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
+    "Hand Written Notes/School notes/CSCI/3162/Analog and digital signals.pdf",
+    "Hand Written Notes/School notes/CSCI/3130/Software engineering history.pdf",
+    "Hand Written Notes/School notes/CSCI/3130/Software process models.pdf",
+    "Hand Written Notes/School notes/CSCI/2122/Unions.pdf",
+    "Unions.md",
+    "Floating Point Numbers.md",
+    "Hand Written Notes/School notes/CSCI/2122/Floating point, structures, and dynamic storage.pdf",
+    "Data Structures.md",
+    "Hand Written Notes/School notes/CSCI/2122/Data structures.pdf",
+    "Computer Registers.md",
+    "Hand Written Notes/School notes/CSCI/2122/Registers, and negative numbers.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Discrete Fourier transform.pdf",
     "Complex Numbers.md",
     "Hand Written Notes/School notes/CSCI/3162/Complex numbers.pdf",
-    "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
-    "Hand Written Notes/School notes/CSCI/2122/Note Mar 30, 2023.pdf",
-    "Hand Written Notes/School notes/CSCI/2122/Note Mar 2, 2023.pdf",
-    "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 1.pdf",
-    "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 3.pdf",
-    "Hand Written Notes/School notes/CSCI/2122/Note Jan 17, 2023 (2).pdf",
-    "Hand Written Notes/School notes/CSCI/3162/Intro to CSCI3162.pdf",
-    "Hand Written Notes/School notes/CSCI/3162/Intro.pdf",
     "Socializers.md",
     "Killers.md",
     "Explorers.md",
@@ -214,10 +189,6 @@
     "Dependency Injection.md",
     "Proving Your Knowledge.md",
     "Pulling vs. Pushing information.md",
-    "State Machine Pattern.md",
-    "Natural numbers.md",
-    "Equality of Sets.md",
-    "Subsets.md",
     "Untitled.canvas"
   ]
 }
