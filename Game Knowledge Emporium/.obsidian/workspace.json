@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Venue.md",
+                "file": "Surprise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "280f614b29215626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fun.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "654c320681cbddb8",
@@ -138,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Venue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Venue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Venue.md"
-              }
+              "state": {}
             }
           },
           {
@@ -210,12 +218,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "af3e34782b3abf37",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
+    "Fun.md",
     "Surprise.md",
+    "Venue.md",
     "Emotions.md",
     "Essential Experiences.md",
-    "Venue.md",
     "Dithering.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
@@ -247,7 +256,6 @@
     "Controls and Input Mapping.md",
     "Composition.md",
     "Boids.md",
-    "Cady Note Taking Advice.md",
     "Untitled.canvas"
   ]
 }
