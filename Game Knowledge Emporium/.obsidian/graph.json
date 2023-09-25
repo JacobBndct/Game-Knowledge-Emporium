@@ -46,14 +46,14 @@
       "query": "tag:#GameDesign",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 11403519
       }
     },
     {
       "query": "tag:#PlayerBehavior  ",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 13870314
       }
     },
     {
@@ -67,35 +67,35 @@
       "query": "tag:#Animation  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 9511278
       }
     },
     {
       "query": "tag:#Audio  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 3923750
       }
     },
     {
       "query": "tag:#Music  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 10219658
       }
     },
     {
       "query": "tag:#Art  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 15083671
       }
     },
     {
       "query": "tag:#Accessibility  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 16775501
       }
     }
   ],
@@ -109,6 +109,6 @@
   "repelStrength": 14.375,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.271247929375317,
+  "scale": 0.1896063493245208,
   "close": false
 }
