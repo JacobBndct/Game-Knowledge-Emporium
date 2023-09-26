@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frame Rates.md",
+                "file": "Game Feel.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,6 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Feel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Feel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Game Feel.md"
+              }
             }
           },
           {
@@ -224,14 +229,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "9ececbe0dfa4fa8d",
   "lastOpenFiles": [
-    "Draw the Light, Not the Asset.md",
+    "Real-Time Control.md",
+    "Game Feel.md",
+    "Frame Rates.md",
     "Squeeze & Release.md",
+    "Draw the Light, Not the Asset.md",
     "Risk & Reward.md",
     "Inspiration.md",
     "Risk Mitigation.md",
-    "Frame Rates.md",
     "The Eight Filters.md",
     "Stops.md",
     "12 Basic Principles of Animation.md",
@@ -250,8 +257,6 @@
     "Holographic Design.md",
     "The Elemental Tetrad.md",
     "Problem Solving.md",
-    "Templates/Book of Lenses Template.md",
-    "Templates/Basic Template.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",
