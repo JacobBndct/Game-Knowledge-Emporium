@@ -59,13 +59,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Risk & Reward.md",
+                "file": "The Eight Filters.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -111,13 +112,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Risk & Reward.md",
+                "file": "The Eight Filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Risk & Reward.md",
+                "file": "The Eight Filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Risk & Reward.md"
+                "file": "The Eight Filters.md"
               }
             }
           },
@@ -207,8 +206,8 @@
   },
   "active": "33a420b468c40e96",
   "lastOpenFiles": [
-    "Stops.md",
     "Risk & Reward.md",
+    "Stops.md",
     "12 Basic Principles of Animation.md",
     "Frame Rates.md",
     "Triangle Rule.md",
