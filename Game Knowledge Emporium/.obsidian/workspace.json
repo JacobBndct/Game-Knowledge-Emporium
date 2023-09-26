@@ -6,7 +6,6 @@
       {
         "id": "49527eb505a9511e",
         "type": "tabs",
-        "dimension": 64.59390862944161,
         "children": [
           {
             "id": "2b282f0ddf2dd94a",
@@ -19,14 +18,19 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "654c320681cbddb8",
-        "type": "tabs",
-        "dimension": 35.40609137055837,
-        "children": [
+          },
+          {
+            "id": "622a3234efb0bc12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hit Stop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "9fe1499f94fe0370",
             "type": "leaf",
@@ -37,7 +41,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -103,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hit Stop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hit Stop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hit Stop.md"
+              }
             }
           },
           {
@@ -171,9 +181,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "622a3234efb0bc12",
   "lastOpenFiles": [
     "Triangle Rule.md",
+    "Hit Stop.md",
     "Flow.md",
     "Curiosity.md",
     "The Toy.md",
@@ -198,7 +209,6 @@
     "Fun.md",
     "Surprise.md",
     "Venue.md",
-    "Emotions.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",
