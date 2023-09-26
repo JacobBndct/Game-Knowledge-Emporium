@@ -64,20 +64,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c3884b8763323146",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inspiration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Risk & Reward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Risk & Reward.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Risk & Reward.md"
+              }
             }
           },
           {
@@ -212,7 +205,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "33a420b468c40e96",
   "lastOpenFiles": [
     "Inspiration.md",
     "Risk Mitigation.md",
