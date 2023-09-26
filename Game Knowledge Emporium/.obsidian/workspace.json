@@ -8,6 +8,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9fe1499f94fe0370",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
             "id": "2b282f0ddf2dd94a",
             "type": "leaf",
             "state": {
@@ -44,17 +54,18 @@
             }
           },
           {
-            "id": "9fe1499f94fe0370",
+            "id": "33a420b468c40e96",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
+              "type": "markdown",
+              "state": {
+                "file": "Risk & Reward.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frame Rates.md",
+                "file": "Risk & Reward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frame Rates.md",
+                "file": "Risk & Reward.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frame Rates.md"
+                "file": "Risk & Reward.md"
               }
             }
           },
@@ -194,9 +205,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9ececbe0dfa4fa8d",
+  "active": "33a420b468c40e96",
   "lastOpenFiles": [
     "Stops.md",
+    "Risk & Reward.md",
+    "12 Basic Principles of Animation.md",
     "Frame Rates.md",
     "Triangle Rule.md",
     "Flow.md",
@@ -220,8 +233,6 @@
     "Templates/Basic Template.md",
     "Templates/Example Template.md",
     "Endogenous Value.md",
-    "Fun.md",
-    "Surprise.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",
