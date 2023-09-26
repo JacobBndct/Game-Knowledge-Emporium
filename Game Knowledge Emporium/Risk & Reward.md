@@ -5,9 +5,9 @@ __________________________________________________________________________
 
 Risk and Reward is one of the most important aspects of game design. The concept is simple, take risks to get rewarded, but is also incredibly important. 
 
-[[Strategy]] is how we manage risks & rewards.
+[[Strategy]] is how we manage risks & rewards. 
 
-[[Balance]] is how the designer creates risk & reward. If a strategy has too much risk for it's reward, or too little risk for it's reward
+[[Balance]] is how the designer creates risk & reward. If a strategy has too much risk or too little risk for the rewards offered then this creates balance problems.
 
 ***Reward is also a Lens in the Book of lenses that asks the designer to consider:***
 - What rewards is my game giving out now? Can it give out others as well?

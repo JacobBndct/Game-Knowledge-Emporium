@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -144,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Risk & Reward.md",
+                "file": "Inspiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Risk & Reward.md",
+                "file": "Inspiration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Risk & Reward.md"
+                "file": "Inspiration.md"
               }
             }
           },
@@ -216,10 +217,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "33a420b468c40e96",
+  "active": "c3884b8763323146",
   "lastOpenFiles": [
-    "Inspiration.md",
+    "Risk Mitigation.md",
     "Risk & Reward.md",
+    "Inspiration.md",
     "Frame Rates.md",
     "The Eight Filters.md",
     "Stops.md",
@@ -233,7 +235,6 @@
     "Achievers.md",
     "Dithering.md",
     "The Player.md",
-    "Risk Mitigation.md",
     "The Problem Statement.md",
     "Unification.md",
     "Resonance.md",
