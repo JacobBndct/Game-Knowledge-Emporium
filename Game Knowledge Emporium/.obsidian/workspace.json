@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "9ececbe0dfa4fa8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frame Rates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9fe1499f94fe0370",
             "type": "leaf",
             "pinned": true,
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stops.md",
+                "file": "Frame Rates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stops.md",
+                "file": "Frame Rates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stops.md"
+                "file": "Frame Rates.md"
               }
             }
           },
@@ -182,10 +194,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "622a3234efb0bc12",
+  "active": "9ececbe0dfa4fa8d",
   "lastOpenFiles": [
-    "Triangle Rule.md",
     "Stops.md",
+    "Frame Rates.md",
+    "Triangle Rule.md",
     "Flow.md",
     "Curiosity.md",
     "The Toy.md",
@@ -209,7 +222,6 @@
     "Endogenous Value.md",
     "Fun.md",
     "Surprise.md",
-    "Venue.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",
