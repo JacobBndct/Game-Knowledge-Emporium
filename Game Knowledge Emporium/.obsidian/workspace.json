@@ -64,9 +64,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2441c85f5783dd94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Squeeze & Release.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Risk & Reward.md",
+                "file": "Squeeze & Release.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Risk & Reward.md",
+                "file": "Squeeze & Release.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Risk & Reward.md"
+                "file": "Squeeze & Release.md"
               }
             }
           },
@@ -205,11 +217,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "33a420b468c40e96",
+  "active": "2441c85f5783dd94",
   "lastOpenFiles": [
+    "Risk & Reward.md",
+    "Squeeze & Release.md",
     "Inspiration.md",
     "Risk Mitigation.md",
-    "Risk & Reward.md",
     "Frame Rates.md",
     "The Eight Filters.md",
     "Stops.md",
@@ -232,7 +245,6 @@
     "Templates/Book of Lenses Template.md",
     "Templates/Basic Template.md",
     "Templates/Example Template.md",
-    "Endogenous Value.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",
