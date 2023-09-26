@@ -89,8 +89,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Feel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +172,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Feel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,9 +193,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game Feel.md"
-              }
+              "state": {}
             }
           },
           {
@@ -229,10 +224,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9ececbe0dfa4fa8d",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Real-Time Control.md",
     "Game Feel.md",
+    "Real-Time Control.md",
     "Frame Rates.md",
     "Squeeze & Release.md",
     "Draw the Light, Not the Asset.md",
