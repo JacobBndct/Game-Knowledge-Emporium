@@ -4,19 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "654c320681cbddb8",
+        "id": "49527eb505a9511e",
         "type": "tabs",
+        "dimension": 64.59390862944161,
         "children": [
-          {
-            "id": "9fe1499f94fe0370",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
           {
             "id": "2b282f0ddf2dd94a",
             "type": "leaf",
@@ -29,8 +20,24 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "654c320681cbddb8",
+        "type": "tabs",
+        "dimension": 35.40609137055837,
+        "children": [
+          {
+            "id": "9fe1499f94fe0370",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Triangle Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Triangle Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Triangle Rule.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,7 +171,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2b282f0ddf2dd94a",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
     "Triangle Rule.md",
     "Flow.md",
