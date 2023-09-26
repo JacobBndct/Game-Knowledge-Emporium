@@ -76,9 +76,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8670f0784fc5e4be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draw the Light, Not the Asset.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Squeeze & Release.md",
+                "file": "Draw the Light, Not the Asset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Squeeze & Release.md",
+                "file": "Draw the Light, Not the Asset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Squeeze & Release.md"
+                "file": "Draw the Light, Not the Asset.md"
               }
             }
           },
@@ -217,10 +229,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2441c85f5783dd94",
+  "active": "8670f0784fc5e4be",
   "lastOpenFiles": [
-    "Risk & Reward.md",
     "Squeeze & Release.md",
+    "Draw the Light, Not the Asset.md",
+    "Risk & Reward.md",
     "Inspiration.md",
     "Risk Mitigation.md",
     "Frame Rates.md",
@@ -244,7 +257,6 @@
     "Problem Solving.md",
     "Templates/Book of Lenses Template.md",
     "Templates/Basic Template.md",
-    "Templates/Example Template.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",
