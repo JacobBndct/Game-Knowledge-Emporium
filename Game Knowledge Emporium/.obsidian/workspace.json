@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "2b282f0ddf2dd94a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Triangle Rule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Triangle Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Triangle Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Triangle Rule.md"
+              }
             }
           },
           {
@@ -151,8 +168,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "2b282f0ddf2dd94a",
   "lastOpenFiles": [
+    "Triangle Rule.md",
     "Flow.md",
     "Curiosity.md",
     "The Toy.md",
@@ -178,7 +196,6 @@
     "Surprise.md",
     "Venue.md",
     "Emotions.md",
-    "Essential Experiences.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",
