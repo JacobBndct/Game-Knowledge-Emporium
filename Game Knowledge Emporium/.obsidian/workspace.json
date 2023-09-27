@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bartle Taxonomy of Player Types.md",
+                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bartle Taxonomy of Player Types.md",
+                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bartle Taxonomy of Player Types.md",
+                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bartle Taxonomy of Player Types.md"
+                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md"
               }
             }
           },
@@ -242,6 +242,7 @@
   },
   "active": "64889e6ebdf228a8",
   "lastOpenFiles": [
+    "Bartle Taxonomy of Player Types.md",
     "Assigning Animations.md",
     "Triangle Rule.md",
     "Stops.md",
@@ -267,7 +268,6 @@
     "Unification.md",
     "Resonance.md",
     "Holographic Design.md",
-    "The Elemental Tetrad.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",
