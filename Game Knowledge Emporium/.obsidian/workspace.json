@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "64889e6ebdf228a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assigning Animations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2b282f0ddf2dd94a",
             "type": "leaf",
             "state": {
@@ -89,7 +101,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,6 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Assigning Animations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Assigning Animations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Assigning Animations.md"
+              }
             }
           },
           {
@@ -224,8 +241,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "64889e6ebdf228a8",
   "lastOpenFiles": [
+    "Assigning Animations.md",
     "Triangle Rule.md",
     "Stops.md",
     "Game Feel.md",
@@ -251,7 +269,6 @@
     "Resonance.md",
     "Holographic Design.md",
     "The Elemental Tetrad.md",
-    "Problem Solving.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",
