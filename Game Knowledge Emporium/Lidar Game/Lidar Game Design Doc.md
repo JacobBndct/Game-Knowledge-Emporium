@@ -1,70 +1,9 @@
+# [[Lidar - Overview|Overview]]
+
 # [[Lidar - Player Experience |Player Experience]]
 
-# Overview
+# [[Lidar - Theme & Setting|Theme]]
 
-## Genre 
-
-### Mystery
-
-- Conversation rather than combination lock (give feedback to theories the player presents).
-    
-- Two stories in a mystery; The mystery itself and the story of the player who is experiencing the mystery. In this 
-    
-- Construction rather than deduction
-    
-
-### Adventure
-
-- Getting lost is part of the fun
-    
-- Discovering “new” and unique areas and experiences
-    
-
-### Puzzle
-
-# Theme / Setting
-
-## Who? 
-
-- Explorer / Adventurer / cave dweller?
-    
-- Creatures that inhabit their own specific and unique environments
-    
-
-## What? 
-
-- Experience the world through the senses of those around you
-    
-
-## Where? 
-
-- Alien and foreign environments / universes that the player gets through into
-    
-
-## When?
-
--  A time loop that repeats 
-    
-
-## Why? 
-
-- Stuck in a loop that can only be broken by understanding the world through the perspectives of other creatures in the region. 
-    
-
-## How? 
-
--   
-    
-
-## How many?
-
--   
-    
-
-## How much?
-
--   
-    
 
 # Story
 

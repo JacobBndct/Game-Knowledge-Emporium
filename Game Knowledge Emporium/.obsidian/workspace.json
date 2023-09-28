@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "be59829fa4d457bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lidar - Theme & Setting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "73377af192fed8ea",
             "type": "leaf",
             "state": {
@@ -40,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8be20bdf31ae597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lidar Game/Lidar - Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +204,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "73377af192fed8ea",
+  "active": "fc4b08234264d178",
   "lastOpenFiles": [
-    "Lidar Game/Lidar - Player Experience.md",
+    "Lidar - Theme & Setting.md",
     "Lidar Game/Lidar Game Design Doc.md",
+    "Lidar Game/Lidar - Overview.md",
+    "Lidar Game/Lidar - Player Experience.md",
     "Lidar Game",
     "Bartle Taxonomy of Player Types.md",
     "Assigning Animations.md",
@@ -207,8 +233,6 @@
     "Achievers.md",
     "Dithering.md",
     "The Player.md",
-    "The Problem Statement.md",
-    "Unification.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",
