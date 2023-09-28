@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "fc4b08234264d178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2b282f0ddf2dd94a",
             "type": "leaf",
             "state": {
@@ -112,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -250,8 +262,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "77c7aa8e1b7c767b",
+  "active": "fc4b08234264d178",
   "lastOpenFiles": [
+    "Untitled.md",
     "Bartle Taxonomy of Player Types.md",
     "Assigning Animations.md",
     "Triangle Rule.md",
@@ -277,7 +290,6 @@
     "The Problem Statement.md",
     "Unification.md",
     "Resonance.md",
-    "Holographic Design.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",
