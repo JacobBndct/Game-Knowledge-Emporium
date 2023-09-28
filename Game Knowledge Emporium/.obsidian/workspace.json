@@ -30,6 +30,16 @@
             }
           },
           {
+            "id": "77c7aa8e1b7c767b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
             "id": "2b282f0ddf2dd94a",
             "type": "leaf",
             "state": {
@@ -102,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,7 +250,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "64889e6ebdf228a8",
+  "active": "77c7aa8e1b7c767b",
   "lastOpenFiles": [
     "Bartle Taxonomy of Player Types.md",
     "Assigning Animations.md",
