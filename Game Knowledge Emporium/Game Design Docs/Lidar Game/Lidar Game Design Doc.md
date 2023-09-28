@@ -1,28 +1,28 @@
-# [[Lidar - Overview|Overview]]
+# Overview
 
 ![[Lidar - Overview]]
 
-# [[Lidar - Player Experience |Player Experience]]
+# Player Experience
 
 ![[Lidar - Player Experience]]
-# [[Lidar - Theme & Setting|Theme & Setting]]
+# Theme & Setting
 
 ![[Lidar - Theme & Setting]]
-# [[Lidar - Story|Story]]
+# Story
 
 ![[Lidar - Story]]
-# [[Lidar - Gameplay|Gameplay]]
+# Gameplay
 
 ![[Lidar - Gameplay]]
-# [[Lidar - Areas|Areas]]   
+# Areas   
 
 ![[Lidar - Areas]]
-# [[Lidar - Benchmarks|Benchmarks]]
+# Benchmarks
 
 ![[Lidar - Benchmarks]]
-# [[Lidar - Visual Style|Visual Style]]
+# Visual Style
 
 ![[Lidar - Visual Style]]
-# [[Lidar - Other Considerations|Other Considerations]]
+# Other Considerations
 
 ![[Lidar - Other Considerations]]
