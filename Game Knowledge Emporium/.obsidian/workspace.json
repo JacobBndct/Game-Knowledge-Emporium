@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "a08ca113f00a07a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "82ec07e8fd50b71e",
             "type": "leaf",
             "state": {
@@ -114,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
+                "file": "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
+                "file": "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Benchmarks.md"
+                "file": "Game Design Docs/Lidar Game/Lidar Game Design Doc.md"
               }
             }
           },
@@ -252,13 +264,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6c92691e8200022d",
+  "active": "fc4b08234264d178",
   "lastOpenFiles": [
+    "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
+    "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
+    "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
     "Untitled 1",
     "Game Design Docs",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
-    "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
-    "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
     "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
@@ -289,7 +302,6 @@
     "Hand Written Notes/School notes/CSCI/3162/Analog and digital signals.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Lossless Compression .pdf",
     "Hand Written Notes/School notes/CSCI/3130/Software engineering history.pdf",
-    "Hand Written Notes/School notes/CSCI/3130/Software process models.pdf",
     "Untitled.canvas"
   ]
 }
