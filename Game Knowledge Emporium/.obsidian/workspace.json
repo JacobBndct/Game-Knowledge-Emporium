@@ -18,113 +18,19 @@
             }
           },
           {
-            "id": "64889e6ebdf228a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77c7aa8e1b7c767b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
             "id": "fc4b08234264d178",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b282f0ddf2dd94a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Triangle Rule.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "622a3234efb0bc12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ececbe0dfa4fa8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Feel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33a420b468c40e96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Risk & Reward.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2441c85f5783dd94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Squeeze & Release.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8670f0784fc5e4be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draw the Light, Not the Asset.md",
+                "file": "Lidar Game/Lidar Game Design Doc.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Lidar Game/Lidar Game Design Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Lidar Game/Lidar Game Design Doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Lidar Game/Lidar Game Design Doc.md"
               }
             }
           },
@@ -264,7 +170,8 @@
   },
   "active": "fc4b08234264d178",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Lidar Game",
+    "Lidar Game/Lidar Game Design Doc.md",
     "Bartle Taxonomy of Player Types.md",
     "Assigning Animations.md",
     "Triangle Rule.md",
@@ -289,7 +196,6 @@
     "The Player.md",
     "The Problem Statement.md",
     "Unification.md",
-    "Resonance.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",

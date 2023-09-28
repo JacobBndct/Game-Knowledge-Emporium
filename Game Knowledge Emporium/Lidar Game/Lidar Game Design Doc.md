@@ -1,7 +1,3 @@
-**
-
-Lidar Game Design Document
-
 # Player Experience
 
 What should the player be feeling?
@@ -287,6 +283,16 @@ Regular payoff to smaller mysteries to keep the player motivated 
 
 ### Lost in the woods
 
+## The girl from the other side
+
+### Folklore 
+
+## Gravity Falls
+
+### Symbols
+
+### Hidden meaning
+
 ## Obra Dinn
 
 ### Perspectives
@@ -321,45 +327,26 @@ Breath of the wild uses triangles to limit the information the player sees and h
 
 ## Visual considerations
 
-- Style that is easy to make
-    
+- Style that is easy to make 3d models
 - Should work around the limitations
-    
 - Shadows, light, and darkness are very important to a game like this
     
 
   
 
 - Subtractive charcoal drawing
-    
-
 - Grain texture for screen is applied
-    
-
 - This will be the “threshold” of force needed from each pixel to be applied to the screen
-    
-
 - If threshold is reached draw pixel if not draw white
-    
 - Use hatching for ocular occlusion
-    
 - Use lines or subtraction if area is too dark to create outline for objects in focus
-    
 - Use blending for everything outside depth of field (separate pass)
-    
 - Get area around objects do a distance transform and use “subtraction” to make objects stand out more
-    
-
-  
 
 Step by step
 
-  
-
 1. Basic outline / contour / edge detection shader
-    
 2. Apply paper grain noise which will change every X seconds
-    
 3. Use depth of field to find areas in focus
     
 
@@ -382,14 +369,6 @@ Step by step
 # Other Considerations
 
 - The game should add information needed to the perceptual field of the player. For example if the player needs to understand that light bends when changing medium then the game should have the player perceive and interact with this in some way beforehand so that the player has this added to their perceptual field beforehand they are expected to apply this information themselves.
-    
 - Different shapes for scan?
-    
 - Someone who knows things in the darkness
-    
 - Storyboard
-    
-
-  
-  
-** 
