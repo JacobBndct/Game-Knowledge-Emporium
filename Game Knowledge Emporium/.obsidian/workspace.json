@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "80315cdefab25e56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lidar - Other Considerations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a08ca113f00a07a9",
             "type": "leaf",
             "state": {
@@ -266,6 +278,7 @@
   },
   "active": "fc4b08234264d178",
   "lastOpenFiles": [
+    "Lidar - Other Considerations.md",
     "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
@@ -294,7 +307,6 @@
     "12 Basic Principles of Animation.md",
     "Flow.md",
     "Curiosity.md",
-    "The Toy.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",

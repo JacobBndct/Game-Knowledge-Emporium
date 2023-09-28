@@ -1,0 +1,4 @@
+- The game should add information needed to the perceptual field of the player. For example if the player needs to understand that light bends when changing medium then the game should have the player perceive and interact with this in some way beforehand so that the player has this added to their perceptual field beforehand they are expected to apply this information themselves.
+- Different shapes for scan?
+- Someone who knows things in the darkness
+- Storyboard

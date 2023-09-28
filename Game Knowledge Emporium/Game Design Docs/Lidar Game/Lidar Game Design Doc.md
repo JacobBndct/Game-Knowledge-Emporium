@@ -1,22 +1,23 @@
 # [[Lidar - Overview|Overview]]
 
+![[Lidar - Overview]]
+
 # [[Lidar - Player Experience |Player Experience]]
 
+![[Lidar - Player Experience]]
 # [[Lidar - Theme & Setting|Theme & Setting]]
 
+![[Lidar - Theme & Setting]]
 # [[Lidar - Story|Story]]
 
-# [[Gameplay]]
+![[Lidar - Story]]
+# [[Lidar - Gameplay|Gameplay]]
 
-# Areas / levels   
+# [[Lidar - Areas|Areas]]   
 
-# Similar Games and Inspiration
+# [[Lidar - Benchmarks|Benchmarks]]
 
-# Visual style
+# [[Lidar - Visual Style|Visual Style]]
 
-# Other Considerations
+# [[Lidar - Other Considerations|Other Considerations]]
 
-- The game should add information needed to the perceptual field of the player. For example if the player needs to understand that light bends when changing medium then the game should have the player perceive and interact with this in some way beforehand so that the player has this added to their perceptual field beforehand they are expected to apply this information themselves.
-- Different shapes for scan?
-- Someone who knows things in the darkness
-- Storyboard
