@@ -19,7 +19,9 @@ Tools can change the way the player perceives things and add more complexity by 
 - Play sound depending on depth of each beam
 - Encounter other “scanner” in the world that allow you to use your knowledge of them and learn from them
 ### Lamp
-- Keep lamp li
+- Keep lamp lite in order to explore the world.
+- When the lamp goes out, the player is in danger of being is reset back to the loop starting point.
+- Some areas require the player to have a light level high or low enough.
 ### Grapple Hook
 -   
 ### Traveling between dimensions
