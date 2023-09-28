@@ -2,8 +2,7 @@
 
 # [[Lidar - Player Experience |Player Experience]]
 
-# [[Lidar - Theme & Setting|Theme]]
-
+# [[Lidar - Theme & Setting|Theme & Setting]]
 
 # Story
 

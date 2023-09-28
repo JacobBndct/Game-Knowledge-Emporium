@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lidar Game/Lidar Game Design Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lidar Game/Lidar Game Design Doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lidar Game/Lidar Game Design Doc.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,10 +199,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fc4b08234264d178",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Lidar - Theme & Setting.md",
     "Lidar Game/Lidar Game Design Doc.md",
+    "Lidar - Theme & Setting.md",
     "Lidar Game/Lidar - Overview.md",
     "Lidar Game/Lidar - Player Experience.md",
     "Lidar Game",
