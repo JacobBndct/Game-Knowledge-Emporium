@@ -13,11 +13,16 @@
 ![[Lidar - Story]]
 # [[Lidar - Gameplay|Gameplay]]
 
+![[Lidar - Gameplay]]
 # [[Lidar - Areas|Areas]]   
 
+![[Lidar - Areas]]
 # [[Lidar - Benchmarks|Benchmarks]]
 
+![[Lidar - Benchmarks]]
 # [[Lidar - Visual Style|Visual Style]]
 
+![[Lidar - Visual Style]]
 # [[Lidar - Other Considerations|Other Considerations]]
 
+![[Lidar - Other Considerations]]
