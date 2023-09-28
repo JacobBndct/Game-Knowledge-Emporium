@@ -1,26 +1,4 @@
-# Player Experience
-
-What should the player be feeling?
-
-What are the guiding principles behind the design of the game?
-
-## Guiding Principle
-
-Without truly understanding others' perspectives, we repeat the same mistakes over and over again. 
-
-## Player Type
-
-### Explorer
-
-## Emotions
-
-### Curiosity 
-
-The main driving motivator for players in this game. Players should be driven to learn and explore because they are interested in learning more about the setting and mystery of the game.
-
-### Wonder
-
-Players should feel a sense of joy and wonder from discovering something new whether that be a new mechanic or place. Environment should be very important to the player. Channel the excitement of traveling. 
+# [[Lidar - Player Experience |Player Experience]]
 
 # Overview
 
@@ -183,70 +161,31 @@ Tools can change the way the player perceives things and add more complexity by 
 ## Outer Wilds
 
 Talk about places the player hasn’t traveled to yet and build interest.
-
 ### Tools breakdown
 
 Tools in Outer Wilds help you gather information about the environment that you need or move around in the environment in unique and interesting ways.
 
-  
-
 - Sound gun
-    
-
-- Detects distant noises in the direction you point
-    
-
+	- Detects distant noises in the direction you point
 - Drone / Camera
-    
-
-- Takes pictures
-    
-- Can be launched to see into areas you can’t reach yet
-    
-- Allows you to take photos of quantum objects so they don’t disappear
-    
-
+	- Takes pictures
+	- Can be launched to see into areas you can’t reach yet
+	- Allows you to take photos of quantum objects so they don’t disappear
 - Flashlight
-    
-
-- Allows you to see in the dark in front of you
-    
-- Control light objects in DLC
-    
-
+	- Allows you to see in the dark in front of you
+	- Control light objects in DLC
 - Translator
-    
-
-- Translates text as diegetic UI
-    
-
+	- Translates text as diegetic UI
 - Map (Solar System)
-    
-
-- Allows you to see where objects are in space
-    
-
+	- Allows you to see where objects are in space
 - Map (Planet)
-    
-
-- Tells you where on the planet you in accordance with the planet’s poles
-    
-
+	- Tells you where on the planet you in accordance with the planet’s poles
 - Jetpack / Space suit
-    
-
-- Move around in 3d space and allows you to live while exploring
-    
-
+	- Move around in 3d space and allows you to live while exploring
 - Ship
-    
-
-- Allows you to travel around space much more easily
-    
-- Safe place to replenish oxygen and fuel
-    
-- Ship logs allow you to
-    
+	- Allows you to travel around space much more easily
+	- Safe place to replenish oxygen and fuel
+	- Ship logs allow you to
 
 ### Curiosity driven gameplay
 
@@ -255,17 +194,14 @@ Knowledge as a reward for exploration and curiosity.
 The main goals in Outer Wilds’s design were to:
 
 - Inspire curiosity
-    
 - Facilitate exploration
-    
 - Reward exploration
-    
 
 Outer Wilds uses a sprawling mystery composed of several smaller mysteries 
 
 How do we get players to ask questions? -> What questions do we want the player to ask to guide the player’s journey?
 
-Show rather than tell is a much stronger motivator for these types of questions. In Outer Wilds they use big flashy events such as the Nomai statue at the start of the game and the Sun blowing up.Physical processes and locations grab the attention of the player and make them want to investigate.Big initial hooks for mysteries are mostly done with physical things.
+Show rather than tell is a much stronger motivator for these types of questions. In Outer Wilds they use big flashy events such as the Nomai statue at the start of the game and the Sun blowing up. Physical processes and locations grab the attention of the player and make them want to investigate. Big initial hooks for mysteries are mostly done with physical things.
 
 ![](https://lh6.googleusercontent.com/cI_dWukm9oEeLtFrWcH8O1SEzDmxoRAdZVNQZAiowo9Q7sPnLT9ExiOdqLuQeIMmZ5ECzYy3xEDx1fgFu9M-a3FmRIrT_BtKZMYB6EXTjiMA6F-fMlqK7rKw8NQ5d6biVVwJK7R0-NJzd-8_qeUgX0I)
 
@@ -330,9 +266,6 @@ Breath of the wild uses triangles to limit the information the player sees and h
 - Style that is easy to make 3d models
 - Should work around the limitations
 - Shadows, light, and darkness are very important to a game like this
-    
-
-  
 
 - Subtractive charcoal drawing
 - Grain texture for screen is applied
@@ -348,17 +281,9 @@ Step by step
 1. Basic outline / contour / edge detection shader
 2. Apply paper grain noise which will change every X seconds
 3. Use depth of field to find areas in focus
-    
-
-1. In focus areas use distance of pixels from edges to subtract some colour around an object
-    
-2. Objects out of focus get smudged depending on their distance 
-    
-
-5. Use hashing texture for ocular occlusion
-    
-
-  
+4. In focus areas use distance of pixels from edges to subtract some colour around an object
+5. Objects out of focus get smudged depending on their distance 
+6. Use hashing texture for ocular occlusion
 
 ## Visuals references
 ![](https://lh3.googleusercontent.com/VvrScGTth28C1h0XwVngwxjYj2D6aUnlmAPaydFA4u5lQz83JBm49Pn-pnthMPIsk4Rg2X67oacaAeHehAxG-CmhRh_4uH_W-CTB3XTjJQRvbzv0SQCjIVZEdmvftcT2ey1Tmo59Pzwvs3J6v_Jcgs8)
