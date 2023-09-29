@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Composition, Counting & Cardinality.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,14 +47,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Benchmarks.md"
+                "file": "Game Design Docs/Lidar Game/Lidar - Player Experience.md"
               }
             }
           },
@@ -192,17 +192,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2d1d4e3a22454871",
+  "active": "250075e02d96648f",
   "lastOpenFiles": [
-    "Game Design Docs/Lidar Game/Lidar - Areas.md",
-    "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
-    "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
-    "Cady Note Taking Advice.md",
-    "Composition, Counting & Cardinality.md",
     "Game Design Docs/Lidar Game/Lidar - Overview.md",
     "Game Design Docs/Lidar Game/Lidar - Theme & Setting.md",
     "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
+    "Composition, Counting & Cardinality.md",
+    "Cady Note Taking Advice.md",
+    "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
+    "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
+    "Game Design Docs/Lidar Game/Lidar - Areas.md",
+    "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
     "Hand Written Notes/Technical art/Shaders/The book of shaders/Algorithmic drawing.pdf",
     "Hand Written Notes/Lidar game/Test.pdf",
     "Cardinality.md",
@@ -211,7 +212,6 @@
     "Set Theory.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Lidar - Other Considerations.md",
-    "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
     "Untitled 1",
     "Game Design Docs",
     "Game Design Docs/Lidar Game",
