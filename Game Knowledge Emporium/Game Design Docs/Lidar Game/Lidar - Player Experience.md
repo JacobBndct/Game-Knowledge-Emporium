@@ -2,7 +2,6 @@ What should the player be feeling?
 What are the guiding principles behind the design of the game?
 ## Guiding Principle
 Losings your way in life and trying to find it again can be challenging and sometimes feel impossible and overwhelming.
-
 ## Player Type
 ### [[Explorers]]
 The explorer wants to solve the mystery, discover new areas, and be immersed in the world.
