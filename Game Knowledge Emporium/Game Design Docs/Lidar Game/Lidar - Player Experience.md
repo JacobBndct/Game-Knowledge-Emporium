@@ -4,7 +4,7 @@ What are the guiding principles behind the design of the game?
 - Losings your way in life and trying to find it again can be challenging and sometimes may feel impossible and overwhelming. 
 - It's fine to fail
 - Your life is your own
-- The road not taken by robert frost
+- The road not taken by Robert Frost
 ## Player Type
 ### [[Explorers]]
 The explorer wants to solve the mystery, discover new areas, and be immersed in the world.

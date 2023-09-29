@@ -1,0 +1,1 @@
+The story starts by the player waking up in a dark area 
