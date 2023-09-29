@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a1cbc0a9f82b4e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cady Note Taking Advice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -59,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Settheory",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Composition, Counting & Cardinality.md",
+                "file": "Cady Note Taking Advice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Composition, Counting & Cardinality.md",
+                "file": "Cady Note Taking Advice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Composition, Counting & Cardinality.md"
+                "file": "Cady Note Taking Advice.md"
               }
             }
           },
@@ -169,8 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "250075e02d96648f",
+  "active": "7a1cbc0a9f82b4e0",
   "lastOpenFiles": [
+    "Composition, Counting & Cardinality.md",
+    "Hand Written Notes/Technical art/Shaders/The book of shaders/Algorithmic drawing.pdf",
+    "Hand Written Notes/Lidar game/Test.pdf",
     "Cardinality.md",
     "Cartesian product and equivalence relations.md",
     "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
@@ -198,15 +212,11 @@
     "Frame Rates.md",
     "Squeeze & Release.md",
     "Draw the Light, Not the Asset.md",
-    "Inspiration.md",
-    "Risk Mitigation.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Linear time-invariant Systems.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Analog and digital signals.pdf",
-    "Hand Written Notes/School notes/CSCI/3162/Lossless Compression .pdf",
-    "Hand Written Notes/School notes/CSCI/3130/Software engineering history.pdf",
     "Untitled.canvas"
   ]
 }
