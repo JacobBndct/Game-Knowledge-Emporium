@@ -9,7 +9,7 @@ The composition of two functions f and g is called *g* o *f*. It is a function f
 
 Cardinality of a set is the number of elements in that set
 
-$$ *g* o *f* : X -> Z is defined by (*g* o *f*)(x) = g(f(x)) $$
+$$ g o f : X -> Z is defined by (*g* o *f*)(x) = g(f(x)) $$
 
 Definition: two sets, X and Y, have equal cardinality if there exists an invertible f : X -> Y
 
