@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cardinality.md",
+                "file": "Composition, Counting & Cardinality.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardinality.md",
+                "file": "Composition, Counting & Cardinality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cardinality.md",
+                "file": "Composition, Counting & Cardinality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cardinality.md"
+                "file": "Composition, Counting & Cardinality.md"
               }
             }
           },
@@ -169,10 +169,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c59900daccb853ab",
+  "active": "250075e02d96648f",
   "lastOpenFiles": [
-    "Cartesian product and equivalence relations.md",
     "Cardinality.md",
+    "Cartesian product and equivalence relations.md",
     "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
     "Natural numbers.md",
     "Set Theory.md",
