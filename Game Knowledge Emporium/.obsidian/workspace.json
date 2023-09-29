@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cady Note Taking Advice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cady Note Taking Advice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cady Note Taking Advice.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,9 +175,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7a1cbc0a9f82b4e0",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
     "Composition, Counting & Cardinality.md",
+    "Cady Note Taking Advice.md",
     "Hand Written Notes/Technical art/Shaders/The book of shaders/Algorithmic drawing.pdf",
     "Hand Written Notes/Lidar game/Test.pdf",
     "Cardinality.md",
