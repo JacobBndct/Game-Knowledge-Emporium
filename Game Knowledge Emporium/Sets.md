@@ -13,7 +13,8 @@ Properties of sets:
 
 Special sets:
 1. [[Empty set]]
-2. The set of [[natural numbers]] 
+2. The infinite set of [[natural numbers]]: $\Bbb N = \{0,1,2,3,\dots\}$
+3. The infinite set of [[integers]]: $\Bbb Z = {}
 #### Sources:
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)
