@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date of Creation: 2023-09-24*
 __________________________________________________________________________
 
-Counting collections of objects as sets and creating functions to describe the relations between sets is what set theory is all about. Functions are essential in showing how t
+Counting collections of objects as sets and creating functions to describe the relations between sets is what set theory is all about. Functions are essential in showing how sets relate and make the theory of sets more powerful and expressive than mere arithmetic.
 
 The motivation for Set Theory comes from Calculus. In calculus we have intervals like $[-\pi, \pi) = { x \epsilon \Bbb R : -\pi \le x \lt \pi }$
 

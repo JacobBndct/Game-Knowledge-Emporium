@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Set Theory.md",
+                "file": "Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "set theory",
+                "query": "file:sets",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set Theory.md",
+                "file": "Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set Theory.md",
+                "file": "Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Set Theory.md"
+                "file": "Sets.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "687ccbdeb23f87f8",
   "lastOpenFiles": [
-    "Sets.md",
     "Set Theory.md",
+    "Sets.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
     "Game Design Docs/Lidar Game/Lidar - Overview.md",
