@@ -12,11 +12,15 @@ The motivation for Set Theory comes from Calculus. In calculus we have intervals
 | Arithmetic | Set Theory |
 | -----------| -----------|
 | $0$ | $\emptyset$ |
-| $a$ | set $A$ with $a$ elements |
-| $a = b$| existence of an invertible function $f:A \rightarrow B$ |
-| $a \le b$ | existence of an injective function $f:A \rightarrow B$ |
-| $a + b$ | disjoint union: $A \cup B$, provided $A \cap B = \emptyset$ |
-| $a  b$
+| $a$ | Set $A$ with $a$ elements |
+| $a = b$| Existence of an invertible function $f:A \rightarrow B$ |
+| $a \le b$ | Existence of an injective function $f:A \rightarrow B$ |
+| $a + b$ | Disjoint union: $A \cup B$, provided $A \cap B = \emptyset$ |
+| $a -b$ | Set difference $A \setminus B$, provided $B \subseteq A$ |
+| $a \times b$ | Cartesian product $A \times B$ |
+| $2^a$ | Set of all subsets of $A$ ([[Power Set]] $2^A$) |
+| $b^a$ | Set $B^
+
 
 
 #### Sources:
