@@ -13,8 +13,12 @@ Properties of sets:
 
 Special sets:
 1. [[Empty set]]
-2. The infinite set of [[natural numbers]]: $\Bbb N = \{0,1,2,3,\dots\}$
-3. The infinite set of [[integers]]: $\Bbb Z = {}
+2. [[Power set]]
+3. The set of [[natural numbers]]: $\Bbb N = \{0,1,2,3,\dots\}$
+4. The set of [[integers]]: $\Bbb Z = \{\dots,-3,-2,-1,0,1,2,3\dots\}$
+5. The set of [[rational numbers]] (fractions): $\Bbb Q$
+6. The set of [[real numbers]]: $\Bbb R$
+7. The of ordered pairs of real numbers (x, y)
 #### Sources:
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)

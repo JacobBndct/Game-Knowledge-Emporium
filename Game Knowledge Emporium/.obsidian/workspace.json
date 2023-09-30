@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sets.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,10 +164,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "687ccbdeb23f87f8",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Empty Set.md",
     "Sets.md",
+    "Empty Set.md",
     "Power Set.md",
     "Subsets.md",
     "Set Theory.md",
