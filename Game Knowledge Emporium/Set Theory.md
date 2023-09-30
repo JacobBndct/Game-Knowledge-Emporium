@@ -16,7 +16,7 @@ The motivation for Set Theory comes from Calculus. In calculus we have intervals
 | $a = b$| existence of an invertible function $f:A \rightarrow B$ |
 | $a \le b$ | existence of an injective function $f:A \rightarrow B$ |
 | $a + b$ | disjoint union: $A \cup B$, provided $A \cap B = \emptyset$ |
-
+| $a  b$
 
 
 #### Sources:
