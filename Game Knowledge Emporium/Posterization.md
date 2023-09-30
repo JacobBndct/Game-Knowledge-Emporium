@@ -6,8 +6,8 @@ __________________________________________________________________________
 The conversion of a continuous gradation of tone to several regions of fewer tones, causing abrupt changes from one tone to another.
 
 Unwanted posterization, known as [[banding]], may occur as an artifact of [[Quantization|colour quantization]] and the [[bit depth]], also called colour depth when referring to colours, is insufficient to accurately sample a continuous gradation of colour tone.
-
 ### Applications
+It is often the first step in [[vectorization]] and is used for tracing [[contour lines]].
 #### Sources:
 __________________________________________________________________________
 1. [Posterization - Wikipedia](https://en.wikipedia.org/wiki/Posterization)
