@@ -7,6 +7,7 @@ Sets provide a language for grouping and organizing objects in mathematics. Sets
 
 Properties of sets:
 1. Sets have no order
+2. Can be finite or infinite
 #### Sources:
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)
