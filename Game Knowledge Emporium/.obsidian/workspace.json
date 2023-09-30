@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantization.md",
+                "file": "Posterization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantization.md",
+                "file": "Posterization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantization.md"
+                "file": "Posterization.md"
               }
             }
           },
@@ -192,14 +192,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "26c723438d9448d9",
+  "active": "cd6f9a5ad68fe915",
   "lastOpenFiles": [
+    "Quantization.md",
+    "Posterization.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Analog and digital signals.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Linear time-invariant Systems.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 1.pdf",
-    "Quantization.md",
-    "Posterization.md",
     "Sets.md",
     "Empty Set.md",
     "Power Set.md",
@@ -229,7 +229,6 @@
     "Assigning Animations.md",
     "Triangle Rule.md",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
-    "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",
     "Untitled.canvas"
   ]
 }
