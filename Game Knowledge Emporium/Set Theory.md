@@ -9,7 +9,12 @@ The motivation for Set Theory comes from Calculus. In calculus we have intervals
 
 [[Sets]] -> [[Counting]] -> [[Numbers]]
 
-| arithmetic | set theory |
+| Arithmetic | Set Theory |
+| -----------| -----------|
+| 0 | $\emptyset$ |
+| a | set $\A$ 
+
+
 #### Sources:
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)
