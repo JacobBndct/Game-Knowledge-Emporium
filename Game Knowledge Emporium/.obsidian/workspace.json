@@ -33,11 +33,9 @@
             "id": "cd6f9a5ad68fe915",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Posterization.md",
-                "mode": "source",
-                "source": false
+                "file": "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf"
               }
             }
           },
@@ -53,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf"
+              }
             }
           },
           {
@@ -187,10 +190,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "cd6f9a5ad68fe915",
   "lastOpenFiles": [
-    "Quantization.md",
     "Posterization.md",
+    "Books/CSCI3162_DigitalMedia_Slides.pdf",
+    "Books/Real-Time Rendering - PDF Room.pdf",
+    "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
+    "Books",
+    "New folder",
+    "Quantization.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Analog and digital signals.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Linear time-invariant Systems.pdf",
@@ -211,19 +219,14 @@
     "Cady Note Taking Advice.md",
     "Composition, Counting & Cardinality.md",
     "Hand Written Notes/Technical art/Shaders/The book of shaders/Algorithmic drawing.pdf",
-    "Hand Written Notes/Lidar game/Test.pdf",
     "Cardinality.md",
     "Cartesian product and equivalence relations.md",
     "Natural numbers.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Lidar - Other Considerations.md",
-    "Untitled 1",
-    "Game Design Docs",
-    "Game Design Docs/Lidar Game",
     "Bartle Taxonomy of Player Types.md",
     "Assigning Animations.md",
     "Triangle Rule.md",
-    "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
     "Untitled.canvas"
   ]
 }
