@@ -12,7 +12,8 @@ The motivation for Set Theory comes from Calculus. In calculus we have intervals
 | Arithmetic | Set Theory |
 | -----------| -----------|
 | 0 | $\emptyset$ |
-| a | set $\A$ 
+| a | set $A$ with $a$ elements |
+| a = b| existence
 
 
 #### Sources:
