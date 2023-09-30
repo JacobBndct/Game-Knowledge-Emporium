@@ -5,9 +5,7 @@ __________________________________________________________________________
 
 One of the must fundamental sets in mathematics.
 
-It is a subset of all sets.
-
-often denoted as {} 
+It is a subset of all sets. 
 
 [[Power Set]] of the empty set is 2^{} = {{}}
 

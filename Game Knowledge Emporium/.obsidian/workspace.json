@@ -23,13 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets.md",
+                "file": "Empty Set.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: empt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +76,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Empty Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Empty Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Empty Set.md"
+              }
             }
           },
           {
@@ -163,7 +169,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "687ccbdeb23f87f8",
   "lastOpenFiles": [
     "Sets.md",
     "Set Theory.md",
