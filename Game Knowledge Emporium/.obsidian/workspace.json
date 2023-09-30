@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Colour Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Colour Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Colour Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Colour Theory.md"
               }
             }
           },
@@ -195,7 +195,7 @@
   "active": "db9b6853cd84f40c",
   "lastOpenFiles": [
     "Sets.md",
-    "Untitled.md",
+    "Colour Theory.md",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Posterization.md",
