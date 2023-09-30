@@ -5,16 +5,11 @@ __________________________________________________________________________
 
 The motivation for Set Theory comes from Calculus.  
 
-In calculus we have intervals \[-PI, PI\) ={ x e Real Numbers : -PI <= x < PI }
+In calculus we have intervals like $$[-\pi, PI) ={ x e Real Numbers : -PI <= x < PI }$$
 
 Sets are order less
 
 Set ----> Count elements ----> Numbers
-#### Related Notes
-[[Empty Set]]
-[[Power Set]]
-[[Natural numbers]]
-[[Equality of Sets]]
 #### Sources:
 __________________________________________________________________________
-1. 
+1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)

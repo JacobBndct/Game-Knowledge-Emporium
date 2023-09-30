@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets.md",
+                "file": "Set Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "set theory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,6 +166,7 @@
   },
   "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
+    "Set Theory.md",
     "Sets.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
@@ -181,7 +183,6 @@
     "Cardinality.md",
     "Cartesian product and equivalence relations.md",
     "Natural numbers.md",
-    "Set Theory.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Lidar - Other Considerations.md",
     "Untitled 1",
