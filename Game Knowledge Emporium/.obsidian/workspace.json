@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: empt",
+                "query": "file: empty",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,6 +171,9 @@
   },
   "active": "687ccbdeb23f87f8",
   "lastOpenFiles": [
+    "Power Set.md",
+    "Empty Set.md",
+    "Subsets.md",
     "Sets.md",
     "Set Theory.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
@@ -199,9 +202,6 @@
     "Stops.md",
     "Game Feel.md",
     "Risk & Reward.md",
-    "Real-Time Control.md",
-    "Frame Rates.md",
-    "Squeeze & Release.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 2.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Audio basics.pdf",
