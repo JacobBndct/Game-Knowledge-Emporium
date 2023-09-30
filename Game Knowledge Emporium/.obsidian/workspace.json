@@ -30,12 +30,14 @@
             }
           },
           {
-            "id": "cd6f9a5ad68fe915",
+            "id": "db9b6853cd84f40c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -118,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf"
+                "file": "Untitled.md"
               }
             }
           },
@@ -190,12 +192,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cd6f9a5ad68fe915",
+  "active": "db9b6853cd84f40c",
   "lastOpenFiles": [
-    "Posterization.md",
+    "Sets.md",
+    "Untitled.md",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
-    "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
+    "Posterization.md",
+    "Books/Real-Time Rendering - PDF Room.pdf",
     "Books",
     "New folder",
     "Quantization.md",
@@ -203,7 +207,6 @@
     "Hand Written Notes/School notes/CSCI/3162/Analog and digital signals.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Linear time-invariant Systems.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 1.pdf",
-    "Sets.md",
     "Empty Set.md",
     "Power Set.md",
     "Subsets.md",
