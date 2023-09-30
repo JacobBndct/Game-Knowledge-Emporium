@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -49,7 +48,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -59,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:sets",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sets.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,10 +163,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "687ccbdeb23f87f8",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Set Theory.md",
     "Sets.md",
+    "Set Theory.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
     "Game Design Docs/Lidar Game/Lidar - Overview.md",
