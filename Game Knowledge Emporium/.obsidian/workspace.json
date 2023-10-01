@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equality of Sets.md",
+                "file": "Subsets.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Equa",
+                "query": "Subset",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equality of Sets.md",
+                "file": "Subsets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equality of Sets.md",
+                "file": "Subsets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equality of Sets.md"
+                "file": "Subsets.md"
               }
             }
           },
@@ -219,6 +219,8 @@
   },
   "active": "967c38d49383e0e3",
   "lastOpenFiles": [
+    "Empty Set.md",
+    "Equality of Sets.md",
     "Standard finite sets.md",
     "Walk Cycles.md",
     "Images/walk_cycle_inspiration_animators_survival_kit.jpeg",
@@ -237,7 +239,6 @@
     "Hand Written Notes/School notes/CSCI/3162/Analog and digital signals.pdf",
     "Hand Written Notes/School notes/CSCI/3162/Linear time-invariant Systems.pdf",
     "Hand Written Notes/School notes/CSCI/3162/CSCI3162 assignment 1.pdf",
-    "Empty Set.md",
     "Power Set.md",
     "Subsets.md",
     "Set Theory.md",
@@ -256,7 +257,6 @@
     "Natural numbers.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Lidar - Other Considerations.md",
-    "Bartle Taxonomy of Player Types.md",
     "Untitled.canvas"
   ]
 }
