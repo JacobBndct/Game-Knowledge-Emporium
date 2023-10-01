@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Part 0 (Sets & Numbers - Lemma 1.5).md",
+                "file": "Transitivity of Inclusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proof by contradiction.md",
+                "file": "Transitivity of Inclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proof by contradiction.md",
+                "file": "Transitivity of Inclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proof by contradiction.md"
+                "file": "Transitivity of Inclusion.md"
               }
             }
           },
@@ -240,8 +240,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "758fcd55c63cb260",
+  "active": "d851e59b61e47a53",
   "lastOpenFiles": [
+    "Proof by contradiction.md",
     "Part 0 (Sets & Numbers - Lemma 1.5).md",
     "Transitivity of Inclusion.md",
     "Sets.md",
@@ -279,7 +280,6 @@
     "Composition, Counting & Cardinality.md",
     "Cardinality.md",
     "Cartesian product and equivalence relations.md",
-    "Natural numbers.md",
     "Untitled.canvas"
   ]
 }
