@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transitivity of Inclusion.md",
+                "file": "Part 0 (Sets & Numbers - Lemma 1.5).md",
                 "mode": "source",
                 "source": false
               }
@@ -88,9 +88,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "758fcd55c63cb260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proof by contradiction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Subset",
+                "query": "file: part 0",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,8 +148,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transitivity of Inclusion.md",
+                "file": "Proof by contradiction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transitivity of Inclusion.md",
+                "file": "Proof by contradiction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transitivity of Inclusion.md"
+                "file": "Proof by contradiction.md"
               }
             }
           },
@@ -229,10 +240,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d851e59b61e47a53",
+  "active": "758fcd55c63cb260",
   "lastOpenFiles": [
-    "Sets.md",
+    "Part 0 (Sets & Numbers - Lemma 1.5).md",
     "Transitivity of Inclusion.md",
+    "Sets.md",
     "Subsets.md",
     "Empty Set.md",
     "Equality of Sets.md",
@@ -268,7 +280,6 @@
     "Cardinality.md",
     "Cartesian product and equivalence relations.md",
     "Natural numbers.md",
-    "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Untitled.canvas"
   ]
 }
