@@ -78,18 +78,6 @@
             }
           },
           {
-            "id": "12b2048fd37b997f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gaussian splatting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "db9b6853cd84f40c",
             "type": "leaf",
             "state": {
@@ -126,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -193,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaussian splatting.md",
+                "file": "Game Essence in RPGs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gaussian splatting.md",
+                "file": "Game Essence in RPGs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gaussian splatting.md"
+                "file": "Game Essence in RPGs.md"
               }
             }
           },
@@ -265,10 +253,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "12b2048fd37b997f",
+  "active": "10af3ce6bffaacf1",
   "lastOpenFiles": [
-    "Game Essence in RPGs.md",
     "Gaussian splatting.md",
+    "Game Essence in RPGs.md",
     "Assigning Animations.md",
     "Transitivity of Inclusion.md",
     "Proof by contradiction.md",
