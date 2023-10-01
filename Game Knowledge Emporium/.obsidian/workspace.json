@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Standard finite sets.md",
+                "file": "Equality of Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Equa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +124,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Equality of Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Equality of Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Equality of Sets.md"
+              }
             }
           },
           {
@@ -211,7 +217,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "967c38d49383e0e3",
   "lastOpenFiles": [
     "Standard finite sets.md",
     "Walk Cycles.md",
