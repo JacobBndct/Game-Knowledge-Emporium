@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "1e3d6e13da152352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Walk Cycles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "687ccbdeb23f87f8",
             "type": "leaf",
             "state": {
@@ -189,6 +201,10 @@
   },
   "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
+    "Walk Cycles.md",
+    "Images/walk_cycle_inspiration_animators_survival_kit.jpeg",
+    "Images/walk-cycle.webp",
+    "Images",
     "Colour Theory.md",
     "Sets.md",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
@@ -216,15 +232,12 @@
     "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
     "Cady Note Taking Advice.md",
     "Composition, Counting & Cardinality.md",
-    "Hand Written Notes/Technical art/Shaders/The book of shaders/Algorithmic drawing.pdf",
     "Cardinality.md",
     "Cartesian product and equivalence relations.md",
     "Natural numbers.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Lidar - Other Considerations.md",
     "Bartle Taxonomy of Player Types.md",
-    "Assigning Animations.md",
-    "Triangle Rule.md",
     "Untitled.canvas"
   ]
 }
