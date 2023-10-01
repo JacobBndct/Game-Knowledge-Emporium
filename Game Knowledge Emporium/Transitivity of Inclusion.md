@@ -3,10 +3,9 @@ __________________________________________________________________________
 ###### *Date of Creation: 2023-09-24*
 __________________________________________________________________________
 
-Lemma 1.4: Suppose X, Y, Z are sets. If X is a subset of Y and Y is a a subset of Z, then X is also a subset of Z.
-
-Proof: We need to prove that if some 
+*Imagine any sets $X$, $Y$ and $Z$. The following is true:
+0. *
 
 #### Sources:
 __________________________________________________________________________
-1. 
+1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)

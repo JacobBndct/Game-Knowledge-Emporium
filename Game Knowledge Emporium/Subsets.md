@@ -6,7 +6,7 @@ __________________________________________________________________________
 *Imagine two sets $X$ and $Y$. We define $X$ is a **subset** of $Y$ iff every element of $X$ is also an element of $Y$. Notation: $X \subseteq Y$. Sometimes the notation $X \subset Y$ is also used with the understanding that in that case $X \not = Y$.*
 
 There is strict inclusion between the common systems of numbers as follows:
-$$\Bbb N \subset \Bbb$$
+$$\Bbb N \subset \Bbb Z \subset \Bbb Q \subset \Bbb R \subset \Bbb C$$
 #### Sources:
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)

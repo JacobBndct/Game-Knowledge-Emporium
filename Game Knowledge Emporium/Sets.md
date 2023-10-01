@@ -7,11 +7,12 @@ A **set** is a collection of objects. Those objects are called the **[[elements]
 
 Sets provide a language for grouping and organizing objects in mathematics. Sets and set notation are useful for streamlining reasoning and demonstrations in the form of clear statements and proofs. 
 
-Properties of sets:
+### Properties of sets:
 1. Sets have no order
-2. Can be finite or infinite
+2. Can be infinite
+3. [[Transitivity of inclusion]]
 
-Special sets:
+### Special sets:
 1. [[Empty set]]
 2. [[Power set]]
 3. The set of [[natural numbers]]: $\Bbb N = \{0,1,2,3,\dots\}$
