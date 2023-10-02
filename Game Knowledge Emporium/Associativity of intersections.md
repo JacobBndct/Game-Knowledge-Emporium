@@ -11,7 +11,7 @@ To prove that $L \subseteq R$ we suppose $l \in L$ and argue that $l$ must also 
 
 The argument to prove that $L \supseteq R$ is very similar but for completeness sake we will give it anyways: Suppose $r \in R$ then $r \in X$ and $r \in (Y \cap Z)$ which means $r \in Y$ and $r \in Z$. To show that $r \in L$ we have to check that $r \in X \cap Y$  and $r \in Z$. Since we found that $r \in X$ and $r \in Y$ we have $r \in X \cap Y$ proving the first assertion. We also know that $r \in Z$ so we conclude that $r \in L$ so that $R \subseteq L$.
 
-Finally, using the double inclusion lemma we conclude from
+Finally, using the double inclusion lemma we conclude from $L \supseteq R$ and $L \subseteq R$ that $L = R$ finishing the proof. $\star$
 #### Sources:
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)
