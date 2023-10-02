@@ -54,31 +54,19 @@
             }
           },
           {
-            "id": "54dda42e68a6e172",
+            "id": "fdb5440f9f48fb9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2fadbd14b70cf79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cartesian product and equivalence relations.md",
+                "file": "Intersection & disjoint.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -107,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Math/SetTheory  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cartesian product and equivalence relations.md",
+                "file": "Intersection & disjoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cartesian product and equivalence relations.md",
+                "file": "Intersection & disjoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cartesian product and equivalence relations.md"
+                "file": "Intersection & disjoint.md"
               }
             }
           },
@@ -217,8 +205,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b2fadbd14b70cf79",
+  "active": "fdb5440f9f48fb9a",
   "lastOpenFiles": [
+    "Intersection & disjoint.md",
+    "Proof by contradiction.md",
+    "Cardinality.md",
+    "Equality of Sets.md",
+    "Cartesian product and equivalence relations.md",
     "Unions.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
@@ -228,11 +221,9 @@
     "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Subsets.md",
     "Transitivity of Inclusion.md",
-    "Proof by contradiction.md",
     "Double Inclusion is Equality.md",
     "3C's.md",
     "Game Feel.md",
-    "Equality of Sets.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
     "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
@@ -246,9 +237,6 @@
     "Risk & Reward.md",
     "Gaussian splatting.md",
     "Part 0 (Sets & Numbers - Lemma 1.5).md",
-    "Empty Set.md",
-    "Standard finite sets.md",
-    "Walk Cycles.md",
     "Images/walk_cycle_inspiration_animators_survival_kit.jpeg",
     "Images/walk-cycle.webp",
     "Images",

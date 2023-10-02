@@ -1,12 +1,9 @@
 __________________________________________________________________________
 #### **Tags:** #Math/SetTheory 
-###### *Date of Creation: 2023-09-24*
+###### *Date of Creation: 2023-10-02*
 __________________________________________________________________________
 
-*[[Sets|Set]] $X$ and $Y$ are said to be **equal** iff every element of $X$ is also an element of $Y$ and every element of $Y$ is an element of $X$.*
-*We also use $X \not = Y$ as a shorthand for $X$ is not equal to $Y$*
-
-it is important to note that [[double inclusion is equality]].
+*The **intersection** of two [[sets]] $X$ and $Y$ is the set whose [[elements]] are precisely those that are both in $X$ and in $Y$. The commonly used notation for this $X \cap Y$. We say $X$ and $Y$ are **disjoint** iff $X \cap Y = \emptyset$.*
 #### Sources:
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)
