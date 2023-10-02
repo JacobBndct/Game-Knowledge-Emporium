@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Double Inclusion is Equality.md",
+                "file": "Intersection & Disjoint.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,13 +124,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -146,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Double Inclusion is Equality.md",
+                "file": "Intersection & Disjoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Double Inclusion is Equality.md",
+                "file": "Intersection & Disjoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Double Inclusion is Equality.md"
+                "file": "Intersection & Disjoint.md"
               }
             }
           },
@@ -220,10 +218,10 @@
   },
   "active": "33de0bd315bbec2d",
   "lastOpenFiles": [
-    "Transitivity of Inclusion.md",
-    "Associativity of intersections.md",
-    "Proof by contradiction.md",
     "Double Inclusion is Equality.md",
+    "Proof by contradiction.md",
+    "Associativity of intersections.md",
+    "Transitivity of Inclusion.md",
     "Subsets.md",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
     "Intersection & Disjoint.md",
