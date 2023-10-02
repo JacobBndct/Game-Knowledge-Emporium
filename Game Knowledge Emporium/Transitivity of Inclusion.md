@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date of Creation: 2023-09-24*
 __________________________________________________________________________
 
-*Imagine any sets $X$, $Y$ and $Z$. The following is true:*
+*Imagine any [[sets]] $X$, $Y$ and $Z$. The following is true:*
 0. $\emptyset \subseteq X$
 1. if $X \subseteq Y$ and $Y \subseteq Z$ then $X \subseteq Z$
 
