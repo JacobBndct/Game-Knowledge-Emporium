@@ -71,14 +71,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intersection & Disjoint.md",
+                "file": "Intersection & Disjoint of Sets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54709045a0ba6af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unions of Sets.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intersection & Disjoint.md",
+                "file": "Unions of Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intersection & Disjoint.md",
+                "file": "Unions of Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intersection & Disjoint.md"
+                "file": "Unions of Sets.md"
               }
             }
           },
@@ -216,15 +228,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "33de0bd315bbec2d",
+  "active": "54709045a0ba6af4",
   "lastOpenFiles": [
+    "Intersection & Disjoint of Sets.md",
+    "Unions of Sets.md",
     "Double Inclusion is Equality.md",
     "Proof by contradiction.md",
     "Associativity of intersections.md",
     "Transitivity of Inclusion.md",
     "Subsets.md",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
-    "Intersection & Disjoint.md",
     "Sets.md",
     "Cardinality.md",
     "Equality of Sets.md",
@@ -247,7 +260,6 @@
     "Game Essence in RPGs.md",
     "Making Things Pop.md",
     "Risk & Reward.md",
-    "Gaussian splatting.md",
     "Images/walk_cycle_inspiration_animators_survival_kit.jpeg",
     "Images/walk-cycle.webp",
     "Images",
