@@ -3,8 +3,7 @@ __________________________________________________________________________
 ###### *Date of Creation: 2023-09-24*
 __________________________________________________________________________
 
-Lemma 1.6: Imagine sets X and Y. If X is a subset of Y and Y is a subset of X, then X = Y.
-
+*Suppose $X$ and $Y$ are sets. If $X \subseteq Y$*
 Proof: 
 To show that X = Y we need to check two statements:
 1.  For any x in X: if x e X than x e Y
