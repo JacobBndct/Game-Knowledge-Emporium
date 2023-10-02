@@ -101,8 +101,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +147,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,7 +169,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Double Inclusion is Equality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Double Inclusion is Equality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,9 +206,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Double Inclusion is Equality.md"
-              }
+              "state": {}
             }
           },
           {
@@ -241,8 +237,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6c92691e8200022d",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
+    "Double Inclusion is Equality.md",
+    "Equality of Sets.md",
     "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
@@ -253,7 +251,6 @@
     "Subsets.md",
     "Transitivity of Inclusion.md",
     "Proof by contradiction.md",
-    "Double Inclusion is Equality.md",
     "3C's.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 8 Rough notes (ch.10).pdf",
     "Localization.md",
@@ -265,7 +262,6 @@
     "Gaussian splatting.md",
     "Part 0 (Sets & Numbers - Lemma 1.5).md",
     "Empty Set.md",
-    "Equality of Sets.md",
     "Standard finite sets.md",
     "Walk Cycles.md",
     "Images/walk_cycle_inspiration_animators_survival_kit.jpeg",
