@@ -59,14 +59,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intersection & Disjoint.md",
+                "file": "Associativity of intersections.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -133,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intersection & Disjoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intersection & Disjoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Intersection & Disjoint.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,10 +201,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fdb5440f9f48fb9a",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Intersection & Disjoint.md",
+    "Subsets.md",
     "Proof by contradiction.md",
+    "Transitivity of Inclusion.md",
+    "Associativity of intersections.md",
+    "Game Design Docs/Lidar Game/Lidar - Areas.md",
+    "Intersection & Disjoint.md",
+    "Sets.md",
     "Cardinality.md",
     "Equality of Sets.md",
     "Cartesian product and equivalence relations.md",
@@ -217,10 +218,7 @@
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
     "Power Set.md",
-    "Sets.md",
     "Game Design Docs/Lidar Game/Lidar - Navigation.md",
-    "Subsets.md",
-    "Transitivity of Inclusion.md",
     "Double Inclusion is Equality.md",
     "3C's.md",
     "Game Feel.md",
@@ -228,7 +226,6 @@
     "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
     "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
-    "Game Design Docs/Lidar Game/Lidar - Areas.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 8 Rough notes (ch.10).pdf",
     "Localization.md",
     "Assigning Animations.md",
@@ -236,7 +233,6 @@
     "Making Things Pop.md",
     "Risk & Reward.md",
     "Gaussian splatting.md",
-    "Part 0 (Sets & Numbers - Lemma 1.5).md",
     "Images/walk_cycle_inspiration_animators_survival_kit.jpeg",
     "Images/walk-cycle.webp",
     "Images",
