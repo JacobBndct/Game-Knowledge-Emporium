@@ -18,7 +18,10 @@ Sets provide a language for grouping and organizing objects in mathematics. Sets
 5. The set of [[rational numbers]] (fractions): $\Bbb Q$
 6. The set of [[real numbers]]: $\Bbb R$
 
-The set of ordered pairs of real numbers $(x, y)$ is called $\Bbb R^2$ and is usually interpreted as coordinates of points in the plane. Similarly the set of ordered triples of real numbers $(x,y,z)$ is called $\Bbb R^3$ and is used to describe three-dimensional space. 
+The set of ordered pairs of real numbers $(x, y)$ is called $\Bbb R^2$ and is usually interpreted as coordinates of points in the plane. Similarly the set of ordered triples of real numbers $(x,y,z)$is called $\Bbb R^3$ and is used to describe three-dimensional space. 
+
+### Applications of sets
+Sets are not only studied for their own s
 #### Sources:
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)

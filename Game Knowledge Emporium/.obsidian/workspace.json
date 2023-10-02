@@ -88,8 +88,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ac8e951ddfd06a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -155,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sets.md"
+              }
             }
           },
           {
@@ -223,7 +240,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "6ac8e951ddfd06a8",
   "lastOpenFiles": [
     "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Subsets.md",
