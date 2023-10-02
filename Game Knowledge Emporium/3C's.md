@@ -2,6 +2,8 @@ __________________________________________________________________________
 #### **Tags:** #GameDesign 
 ###### *Date of Creation: 2023-10-02*
 __________________________________________________________________________
+
+In short, the 3C’s are responsible for your initial experience; how you feel when in control of the game, how you interact with the basic core mechanics of the game, and really, whether those first few minutes are fun or not.
 ### Character
 
 ### Controls
