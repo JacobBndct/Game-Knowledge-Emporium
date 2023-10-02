@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date of Creation: 2023-09-24*
 __________________________________________________________________________
 
-*The power set of a set $X$ is the set of all subsets of $X$. The commonly used notation to represent the power set is $*
+*The power set of a set $X$ is the set of all subsets of $X$. The commonly used notation to represent the power set is $2^X$*
 
 #### Sources:
 __________________________________________________________________________
