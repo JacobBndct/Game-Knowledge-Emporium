@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets.md",
+                "file": "Power Set.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets.md",
+                "file": "Power Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets.md",
+                "file": "Power Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets.md"
+                "file": "Power Set.md"
               }
             }
           },
@@ -242,6 +242,7 @@
   },
   "active": "6ac8e951ddfd06a8",
   "lastOpenFiles": [
+    "Sets.md",
     "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Subsets.md",
     "Transitivity of Inclusion.md",
@@ -257,7 +258,6 @@
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 8 Rough notes (ch.10).pdf",
     "Localization.md",
-    "Sets.md",
     "Assigning Animations.md",
     "Game Essence in RPGs.md",
     "Making Things Pop.md",
