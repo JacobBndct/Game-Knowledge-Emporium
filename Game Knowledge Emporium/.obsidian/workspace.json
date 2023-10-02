@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intersection & disjoint.md",
+                "file": "Intersection & Disjoint.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intersection & disjoint.md",
+                "file": "Intersection & Disjoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intersection & disjoint.md",
+                "file": "Intersection & Disjoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intersection & disjoint.md"
+                "file": "Intersection & Disjoint.md"
               }
             }
           },
@@ -207,7 +207,7 @@
   },
   "active": "fdb5440f9f48fb9a",
   "lastOpenFiles": [
-    "Intersection & disjoint.md",
+    "Intersection & Disjoint.md",
     "Proof by contradiction.md",
     "Cardinality.md",
     "Equality of Sets.md",
