@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Associativity of intersections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Associativity of intersections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Associativity of intersections.md"
+              }
             }
           },
           {
@@ -201,12 +206,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "fdb5440f9f48fb9a",
   "lastOpenFiles": [
-    "Subsets.md",
-    "Proof by contradiction.md",
     "Transitivity of Inclusion.md",
     "Associativity of intersections.md",
+    "Subsets.md",
+    "Proof by contradiction.md",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
     "Intersection & Disjoint.md",
     "Sets.md",
