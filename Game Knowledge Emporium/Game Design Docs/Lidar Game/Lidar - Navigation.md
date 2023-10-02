@@ -11,6 +11,6 @@ Players can ask NPCs for directions to a certain area or location they have alre
 ### Signposts 
 A written indicator that is always true and that points the player to certain areas.
 ### Branching paths
-
+A choice the player must make for where to go.
 ### Governing rules
-The rules that are used when mixing up the paths. If the player understands these rules, they should 
+The rules that are used when mixing up the paths. If the player understands these rules, they should be able to go anywhere they please.
