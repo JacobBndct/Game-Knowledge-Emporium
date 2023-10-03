@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Inverse Function is Unique.md",
+                "file": "Composition of Inverses.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Inverse Function is Unique.md",
+                "file": "Composition of Inverses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Inverse Function is Unique.md",
+                "file": "Composition of Inverses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Inverse Function is Unique.md"
+                "file": "Composition of Inverses.md"
               }
             }
           },
@@ -174,6 +174,7 @@
   "lastOpenFiles": [
     "Function Inverses.md",
     "The Inverse Function is Unique.md",
+    "Composition of Inverses.md",
     "Composition of Functions.md",
     "Composition is Associative.md",
     "Sets.md",
@@ -200,7 +201,6 @@
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
     "Power Set.md",
-    "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 8 Rough notes (ch.10).pdf",
     "Images/walk_cycle_inspiration_animators_survival_kit.jpeg",
     "Images/walk-cycle.webp",
