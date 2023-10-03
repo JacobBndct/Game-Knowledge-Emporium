@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Countable Sets.md",
+                "file": "Cardinality.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:set",
+                "query": "file:card",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Countable Sets.md",
+                "file": "Cardinality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Countable Sets.md",
+                "file": "Cardinality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Countable Sets.md"
+                "file": "Cardinality.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "184a0070a004fb7f",
   "lastOpenFiles": [
-    "Sets.md",
     "Countable Sets.md",
+    "Sets.md",
     "Finite sets.md",
     "Standard Finite Sets.md",
     "Unsupervised learning.md",
