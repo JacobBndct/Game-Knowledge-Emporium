@@ -136,9 +136,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "29608599ed3a9a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain & Co-Domain of Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -205,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions.md",
+                "file": "Domain & Co-Domain of Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions.md",
+                "file": "Domain & Co-Domain of Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions.md"
+                "file": "Domain & Co-Domain of Functions.md"
               }
             }
           },
@@ -277,10 +289,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1b08072dde6a028b",
+  "active": "29608599ed3a9a62",
   "lastOpenFiles": [
-    "Subsets.md",
     "Functions.md",
+    "Domain & Co-Domain of Functions.md",
+    "Subsets.md",
     "Proof by contradiction.md",
     "Associativity of intersections.md",
     "Repeated Union, Intersection.md",
@@ -307,7 +320,6 @@
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
     "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
-    "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 8 Rough notes (ch.10).pdf",
     "Images/walk_cycle_inspiration_animators_survival_kit.jpeg",
     "Images/walk-cycle.webp",
