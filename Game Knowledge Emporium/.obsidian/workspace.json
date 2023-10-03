@@ -100,9 +100,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09b5c3c985ae6d7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Difference and Complement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "De Morgan's law.md",
+                "file": "Difference and Complement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "De Morgan's law.md",
+                "file": "Difference and Complement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "De Morgan's law.md"
+                "file": "Difference and Complement.md"
               }
             }
           },
@@ -240,10 +252,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "773e56c3435d7431",
+  "active": "09b5c3c985ae6d7b",
   "lastOpenFiles": [
-    "Unions of Sets.md",
     "De Morgan's law.md",
+    "Difference and Complement.md",
+    "Unions of Sets.md",
     "Intersection & Disjoint of Sets.md",
     "Double Inclusion is Equality.md",
     "Proof by contradiction.md",
@@ -271,7 +284,6 @@
     "Localization.md",
     "Assigning Animations.md",
     "Game Essence in RPGs.md",
-    "Making Things Pop.md",
     "Images/walk_cycle_inspiration_animators_survival_kit.jpeg",
     "Images/walk-cycle.webp",
     "Images",
