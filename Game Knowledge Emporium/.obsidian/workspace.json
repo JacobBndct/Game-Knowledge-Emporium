@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cardinality.md",
+                "file": "Unsupervised learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:cardi",
+                "query": "file:set",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardinality.md",
+                "file": "Unsupervised learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cardinality.md",
+                "file": "Unsupervised learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cardinality.md"
+                "file": "Unsupervised learning.md"
               }
             }
           },
@@ -169,8 +168,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "27814c557de76dbd",
+  "active": "6c92691e8200022d",
   "lastOpenFiles": [
+    "Supervised Learning.md",
+    "Composition, Counting & Cardinality.md",
+    "Cartesian product and equivalence relations.md",
+    "Cardinality.md",
     "Functions.md",
     "Elements.md",
     "Composition of Inverses.md",
@@ -193,10 +196,6 @@
     "Double Inclusion is Equality.md",
     "Transitivity of Inclusion.md",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
-    "Cardinality.md",
-    "Equality of Sets.md",
-    "Cartesian product and equivalence relations.md",
-    "Unions.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
