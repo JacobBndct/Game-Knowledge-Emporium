@@ -1,9 +1,11 @@
 __________________________________________________________________________
-#### **Tags:** #Math/SetTheory 
+#### **Tags:** #Math/SetTheory #Math/Lemma 
 ###### *Date of Creation: 2023-10-03*
 __________________________________________________________________________
 
-*The **difference** of two [[sets]] $X$ and $Y$ is the set whose [[elements]] are precisely those elements of $X$ that are not in $Y$. Common notation for this is $X \setminus Y$. When $Y$ is a subset of $X$ and $X$ is clear from the context we also use the notation $Y^c$ for $X \setminus Y$ and call $Y^c$ the **complement** of * 
+*For any sets $X$, $Y$ and $Z$ we have $X \setminus (Y \cup Z) = (X \setminus Y) \cap (X \setminus Z)$*
+
+*Proof:* By the [[Double Inclusion is Equality|double inclusion lemma]] it suffices to prove that $L \subseteq R$ and $L \supseteq R$ where $L = X \setminus (Y \cup Z)$ and $R = 
 #### Sources:
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)
