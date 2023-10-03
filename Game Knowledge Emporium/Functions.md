@@ -5,9 +5,9 @@ __________________________________________________________________________
 
 *A **function** $f$ from [[Sets|set]] $X$ to set $Y$ is a rule that assigns to each element of $X$ precisely one element of $Y$. Notation: $f:X \rightarrow Y$ *
 
-**Identity function:** Maps a set to itself, for example the identity function of $A$ is $id_A : A -> A$
+**Identity function:** Maps a set to itself, for example the identity function of $A$ is $id_A : A \rightarrow A$ given by $id_X(x) = x$ for all $x \in X$.
 
-**Indicator functions:** for any subset A is a subset X of a set define a function where if x is contained by A it returns a 1 or a 0 if it is not contained
+**Indicator functions:** for any subset $A \subseteq X$ of a set define a function where if x is contained by A it returns a 1 or a 0 if it is not contained. Example $\Bbb I_A:X \rightarrow [2]$ by $$\Bbb I_A(x) = \{$$
 
 Two functions f : X -> Y and g : A -> B are equal iff X = A and Y = B and for every x e X, f(x) = g(x)
 
