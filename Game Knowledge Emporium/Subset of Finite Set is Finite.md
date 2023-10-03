@@ -10,7 +10,7 @@ To proceed by induction we first need to demonstrate $S_0$ is true and second pr
 
 First $[0] = \emptyset$ and the only subset of the empty set is $\emptyset$, which finite. Therefore $S_0$ holds.
 
-Next assume that $S_n$ holds and suppose $B \subseteq [n + 1]$.
+Next assume that $S_n$ holds and suppose $B \subseteq [n + 1]$. If $B = [n+1]$ then $B$ is finite. If $n \notin B$ then $B \subseteq [n]$ so $S_n$ implies $B$ is finite. The only other option is that $n \in B$ and there is some $k \in [n] \setminus B$. Define the function $f: [n + 1] \rightarrow [n + 1]$ by $f(k) = n, f(n) = k$ and $f(x) = x$ for all other $
 #### Sources:
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)
