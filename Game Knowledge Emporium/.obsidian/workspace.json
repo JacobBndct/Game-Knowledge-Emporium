@@ -131,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repeated union, intersection.md",
+                "file": "Repeated Union, Intersection.md",
                 "mode": "source",
                 "source": false
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repeated union, intersection.md",
+                "file": "Repeated Union, Intersection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repeated union, intersection.md",
+                "file": "Repeated Union, Intersection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repeated union, intersection.md"
+                "file": "Repeated Union, Intersection.md"
               }
             }
           },
@@ -279,7 +279,7 @@
   "active": "1b08072dde6a028b",
   "lastOpenFiles": [
     "Difference law.md",
-    "Repeated union, intersection.md",
+    "Repeated Union, Intersection.md",
     "Difference and Complement of Sets.md",
     "De Morgan's law.md",
     "Unions of Sets.md",
