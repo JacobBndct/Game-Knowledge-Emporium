@@ -18,151 +18,18 @@
             }
           },
           {
-            "id": "967c38d49383e0e3",
+            "id": "27814c557de76dbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subsets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "687ccbdeb23f87f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transitivity of Inclusion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "758fcd55c63cb260",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proof by contradiction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdb5440f9f48fb9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Associativity of intersections.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33de0bd315bbec2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intersection & Disjoint of Sets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54709045a0ba6af4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unions of Sets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "773e56c3435d7431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "De Morgan's law.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09b5c3c985ae6d7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Difference and Complement of Sets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f9d08ae0d7b578e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Difference law.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b08072dde6a028b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29608599ed3a9a62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Domain & Codomain of Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e4c80716fdf9930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Image and Range of Functions.md",
+                "file": "Composition of Functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Image and Range of Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Image and Range of Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Image and Range of Functions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -301,20 +164,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2e4c80716fdf9930",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
+    "Composition of Functions.md",
+    "Unions of Sets.md",
+    "De Morgan's law.md",
+    "Difference and Complement of Sets.md",
+    "Difference law.md",
+    "Functions.md",
     "Domain & Codomain of Functions.md",
     "Image and Range of Functions.md",
-    "Functions.md",
+    "Intersection & Disjoint of Sets.md",
+    "Associativity of intersections.md",
     "Subsets.md",
     "Proof by contradiction.md",
-    "Associativity of intersections.md",
     "Repeated Union, Intersection.md",
-    "Difference law.md",
-    "Difference and Complement of Sets.md",
-    "De Morgan's law.md",
-    "Unions of Sets.md",
-    "Intersection & Disjoint of Sets.md",
     "Double Inclusion is Equality.md",
     "Transitivity of Inclusion.md",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
@@ -331,7 +195,6 @@
     "3C's.md",
     "Game Feel.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
-    "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 8 Rough notes (ch.10).pdf",
     "Images/walk_cycle_inspiration_animators_survival_kit.jpeg",
     "Images/walk-cycle.webp",
