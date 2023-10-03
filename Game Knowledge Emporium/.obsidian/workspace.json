@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Math/SetTheory  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -96,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Composition of Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Composition of Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Composition of Functions.md"
+              }
             }
           },
           {
@@ -164,8 +170,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "27814c557de76dbd",
   "lastOpenFiles": [
+    "Sets.md",
     "Composition of Functions.md",
     "Unions of Sets.md",
     "De Morgan's law.md",
@@ -182,7 +189,6 @@
     "Double Inclusion is Equality.md",
     "Transitivity of Inclusion.md",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
-    "Sets.md",
     "Cardinality.md",
     "Equality of Sets.md",
     "Cartesian product and equivalence relations.md",
