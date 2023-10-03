@@ -3,13 +3,11 @@ __________________________________________________________________________
 ###### *Date of Creation: 2023-09-24*
 __________________________________________________________________________
 
-For any two sets X and Y we can consider functions f : x -> y
+*A **function** $f$ from [[Sets|set]] $X$ to set $Y$ is a rule that assigns to each element of $X$ precisely one element of $Y$. Notation: $f:X \rightarrow Y$ *
 
-Functions are rules that gives an element f(x) e Y for any x e X
+**Identity function:** Maps a set to itself, for example the identity function of $A$ is $id_A : A -> A$
 
-Indicator functions: for any subset A is a subset X of a set define a function where if x is contained by A it returns a 1 or a 0 if it is not contained
-
-Identity function: Maps a set to it's self, for example the identity function of A is id_A : A -> A
+**Indicator functions:** for any subset A is a subset X of a set define a function where if x is contained by A it returns a 1 or a 0 if it is not contained
 
 Two functions f : X -> Y and g : A -> B are equal iff X = A and Y = B and for every x e X, f(x) = g(x)
 
