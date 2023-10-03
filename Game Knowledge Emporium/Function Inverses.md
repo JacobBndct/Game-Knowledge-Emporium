@@ -3,6 +3,8 @@ __________________________________________________________________________
 ###### *Date of Creation: 2023-09-24*
 __________________________________________________________________________
 
+*Suppose $f: X \rightarrow Y$ is a function. A function $g : Y \rightarrow X$ is said to be an **inverse** of $f$ iff $g \circ f = id_X$ and*
+
 Inverse of h o f = identity function of x
 Inverse of f o h = identity function of y
 
@@ -17,4 +19,4 @@ h = h o identity of y = h o (f o k) = (h o f) o k = identity of x o k = k
 thus h is equal to k. 
 #### Sources:
 __________________________________________________________________________
-1. 
+1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)

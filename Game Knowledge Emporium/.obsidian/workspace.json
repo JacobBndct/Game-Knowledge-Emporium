@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Composition of Functions.md",
+                "file": "Function Inverses.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Composition of Functions.md",
+                "file": "Function Inverses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Composition of Functions.md",
+                "file": "Function Inverses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Composition of Functions.md"
+                "file": "Function Inverses.md"
               }
             }
           },
@@ -172,8 +172,8 @@
   },
   "active": "27814c557de76dbd",
   "lastOpenFiles": [
-    "Composition is Associative.md",
     "Composition of Functions.md",
+    "Composition is Associative.md",
     "Sets.md",
     "Unions of Sets.md",
     "De Morgan's law.md",
