@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subsets.md",
+                "file": "Subset of Finite Set is Finite.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subsets.md",
+                "file": "Subset of Finite Set is Finite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subsets.md",
+                "file": "Subset of Finite Set is Finite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subsets.md"
+                "file": "Subset of Finite Set is Finite.md"
               }
             }
           },
@@ -171,6 +171,8 @@
   },
   "active": "184a0070a004fb7f",
   "lastOpenFiles": [
+    "Subsets.md",
+    "Subset of Finite Set is Finite.md",
     "Cardinality.md",
     "Countable Sets.md",
     "Sets.md",
@@ -195,8 +197,6 @@
     "Image and Range of Functions.md",
     "Intersection & Disjoint of Sets.md",
     "Associativity of intersections.md",
-    "Subsets.md",
-    "Proof by contradiction.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",

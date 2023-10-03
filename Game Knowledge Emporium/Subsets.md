@@ -11,7 +11,7 @@ $$\Bbb N \subset \Bbb Z \subset \Bbb Q \subset \Bbb R \subset \Bbb C$$
 
 *Image a set $X$ and let us write down a statement $P(x)$ for each element $x$ of $X$. The following notation is used for the subset of all $x$ of $X$ for which $P(x)$ is true.* $$\{x \in X: P(x)\}$$
 ### Properties of subsets
-1. [[Subset of finite set is finite]]
+1. [[Subset of Finite Set is Finite]]
 #### Sources:
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)
