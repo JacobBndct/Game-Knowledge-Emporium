@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finite sets.md",
+                "file": "Countable Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finite sets.md",
+                "file": "Countable Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finite sets.md",
+                "file": "Countable Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finite sets.md"
+                "file": "Countable Sets.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   "active": "184a0070a004fb7f",
   "lastOpenFiles": [
     "Sets.md",
+    "Countable Sets.md",
     "Finite sets.md",
     "Standard Finite Sets.md",
     "Unsupervised learning.md",
@@ -196,7 +197,6 @@
     "Associativity of intersections.md",
     "Subsets.md",
     "Proof by contradiction.md",
-    "Repeated Union, Intersection.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
