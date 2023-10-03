@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date of Creation: 2023-09-24*
 __________________________________________________________________________
 
-*A **function** $f$ from [[Sets|set]] $X$ to set $Y$ is a rule that assigns to each [[elements|element]] of $X$ precisely one element of $Y$. Notation: $f:X \rightarrow Y$ *
+*A **function** $f$ from [[Sets|set]] $X$ to set $Y$ is a rule that assigns to each [[Elements|element]] of $X$ precisely one element of $Y$. Notation: $f:X \rightarrow Y$ *
 
 *Two functions $f : X \rightarrow Y$ and $g : A \rightarrow B$ are equal iff $X = A$ and $Y = B$ and for every $x \in X$, $f(x) = g(x)$.*
 
@@ -15,6 +15,7 @@ __________________________________________________________________________
 The special case where $A$ contains one element is often called the **[[Kronecker delta function]]** with the alternative notation: $\delta _ i = \Bbb I_{\{i\}}$ and sometimes $\delta _ i (j)$ is abbreviated as $\delta _{ij}$.
 
 A [[Function Inverses|function is invertible]] if there exists a function $g : Y \rightarrow X$ such that their [[Composition of Functions|composition]] $g \circ f = id_X$ and $f \circ g = id_Y$
+
 
 Remark that $sin^{-1}$ is not a function on the reals and neither is $\sqrt x$
 

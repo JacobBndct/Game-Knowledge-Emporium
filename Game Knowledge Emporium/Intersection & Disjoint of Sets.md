@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date of Creation: 2023-10-02*
 __________________________________________________________________________
 
-*The **intersection** of two [[sets]] $X$ and $Y$ is the set whose [[elements]] are precisely those that are both in $X$ and in $Y$. The commonly used notation for this $X \cap Y$. We say $X$ and $Y$ are **disjoint** iff $X \cap Y = \emptyset$.*
+*The **intersection** of two [[sets]] $X$ and $Y$ is the set whose [[Elements]] are precisely those that are both in $X$ and in $Y$. The commonly used notation for this $X \cap Y$. We say $X$ and $Y$ are **disjoint** iff $X \cap Y = \emptyset$.*
 
 Intersection is about looking at what two sets have in common using the [[logical AND operator]].
 ### Properties of intersections

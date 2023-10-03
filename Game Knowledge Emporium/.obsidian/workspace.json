@@ -23,14 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Composition of Inverses.md",
+                "file": "Elements.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:func",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Composition of Inverses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Composition of Inverses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Composition of Inverses.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,19 +165,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "27814c557de76dbd",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
+    "Elements.md",
+    "Functions.md",
+    "Composition of Inverses.md",
+    "Composition is Associative.md",
     "Function Inverses.md",
     "The Inverse Function is Unique.md",
-    "Composition of Inverses.md",
     "Composition of Functions.md",
-    "Composition is Associative.md",
     "Sets.md",
     "Unions of Sets.md",
     "De Morgan's law.md",
     "Difference and Complement of Sets.md",
     "Difference law.md",
-    "Functions.md",
     "Domain & Codomain of Functions.md",
     "Image and Range of Functions.md",
     "Intersection & Disjoint of Sets.md",
@@ -200,7 +196,6 @@
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
-    "Power Set.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 8 Rough notes (ch.10).pdf",
     "Images/walk_cycle_inspiration_animators_survival_kit.jpeg",
     "Images/walk-cycle.webp",
