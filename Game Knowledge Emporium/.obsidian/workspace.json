@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "27814c557de76dbd",
+            "id": "184a0070a004fb7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unsupervised learning.md",
+                "file": "Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unsupervised learning.md",
+                "file": "Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unsupervised learning.md",
+                "file": "Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unsupervised learning.md"
+                "file": "Sets.md"
               }
             }
           },
@@ -168,8 +169,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6c92691e8200022d",
+  "active": "184a0070a004fb7f",
   "lastOpenFiles": [
+    "Standard Finite Sets.md",
+    "Sets.md",
+    "Unsupervised learning.md",
     "Supervised Learning.md",
     "Composition, Counting & Cardinality.md",
     "Cartesian product and equivalence relations.md",
@@ -181,7 +185,6 @@
     "Function Inverses.md",
     "The Inverse Function is Unique.md",
     "Composition of Functions.md",
-    "Sets.md",
     "Unions of Sets.md",
     "De Morgan's law.md",
     "Difference and Complement of Sets.md",
@@ -194,8 +197,6 @@
     "Proof by contradiction.md",
     "Repeated Union, Intersection.md",
     "Double Inclusion is Equality.md",
-    "Transitivity of Inclusion.md",
-    "Game Design Docs/Lidar Game/Lidar - Areas.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
