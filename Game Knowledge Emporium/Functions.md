@@ -16,6 +16,10 @@ The special case where $A$ contains one element is often called the **[[Kronecke
 
 A [[Function Inverses|function is invertible]] if there exists a function $g : Y \rightarrow X$ such that their [[Composition of Functions|composition]] $g \circ f = id_X$ and $f \circ g = id_Y$
 
+When you see a function $f: X \rightarrow Y$ you should always be careful to check that it is *well-defined*, by which we mean that the following three things are true:
+0. $f(x)$ is defined for *every* possible input $x$ in the domain $X$.
+1. For each $x\in X$ there is no ambiguity in obtaining $f(x)$ from $x$.
+2. For each $x\in X$ the value $f(x)$ belongs to the codomain $Y$.
 
 Remark that $sin^{-1}$ is not a function on the reals and neither is $\sqrt x$
 
