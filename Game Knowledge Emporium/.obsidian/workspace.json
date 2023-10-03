@@ -124,9 +124,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b08072dde6a028b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repeated union, intersection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Difference law.md",
+                "file": "Repeated union, intersection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Difference law.md",
+                "file": "Repeated union, intersection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Difference law.md"
+                "file": "Repeated union, intersection.md"
               }
             }
           },
@@ -264,10 +276,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4f9d08ae0d7b578e",
+  "active": "1b08072dde6a028b",
   "lastOpenFiles": [
-    "Difference and Complement of Sets.md",
     "Difference law.md",
+    "Repeated union, intersection.md",
+    "Difference and Complement of Sets.md",
     "De Morgan's law.md",
     "Unions of Sets.md",
     "Intersection & Disjoint of Sets.md",
@@ -295,7 +308,6 @@
     "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 8 Rough notes (ch.10).pdf",
     "Localization.md",
-    "Assigning Animations.md",
     "Images/walk_cycle_inspiration_animators_survival_kit.jpeg",
     "Images/walk-cycle.webp",
     "Images",
