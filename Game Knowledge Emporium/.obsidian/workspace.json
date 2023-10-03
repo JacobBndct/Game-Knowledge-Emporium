@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cardinality.md",
+                "file": "Subsets.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:card",
+                "query": "file:sub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cardinality.md",
+                "file": "Subsets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cardinality.md",
+                "file": "Subsets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cardinality.md"
+                "file": "Subsets.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "184a0070a004fb7f",
   "lastOpenFiles": [
+    "Cardinality.md",
     "Countable Sets.md",
     "Sets.md",
     "Finite sets.md",
@@ -179,7 +180,6 @@
     "Supervised Learning.md",
     "Composition, Counting & Cardinality.md",
     "Cartesian product and equivalence relations.md",
-    "Cardinality.md",
     "Functions.md",
     "Elements.md",
     "Composition of Inverses.md",
