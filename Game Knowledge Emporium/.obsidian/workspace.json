@@ -64,9 +64,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a60181f34bd155a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sequences, and Vectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Number of Functions.md",
+                "file": "Sequences, and Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Number of Functions.md",
+                "file": "Sequences, and Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Number of Functions.md"
+                "file": "Sequences, and Vectors.md"
               }
             }
           },
@@ -205,10 +217,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7b0e9c375a880592",
+  "active": "a60181f34bd155a3",
   "lastOpenFiles": [
-    "Set of Functions.md",
     "The Number of Functions.md",
+    "Sequences, and Vectors.md",
+    "Set of Functions.md",
     "Inverse Image.md",
     "Existence of Inverses.md",
     "Functions.md",
@@ -233,7 +246,6 @@
     "Cartesian Power.md",
     "Cartesian product and equivalence relations.md",
     "Images/Figure 3.4.png",
-    "Cartesian product.md",
     "Images/Enumerating N x N.png",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",

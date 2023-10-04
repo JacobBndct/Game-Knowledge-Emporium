@@ -13,6 +13,8 @@ To finish the proof we introduce the function $\beta$ by $\beta(f) = (f(p), g_f 
 To show $\beta$ is invertible we check it is both injective and surjective: $\beta$ is injective because if $\beta(f) = \beta(h$) then $(f(p), g_f ) = (h(p), g_h)$ means $f(p) = h(p)$ and moreover for all $u ∈ X^\prime f(u) = h(u)$ so in conclusion $h = f$. 
 
 To show $\beta$ is surjective take $(r, h) ∈ Y \times Y^ {X^\prime}$ and notice that $\beta(f) = (r, h)$ where $f : X → Y$ is defined by $f(p) = r$ and $f(u) = h(u)$ for all $u ∈ X^\prime$ .
+
+The special case $Y^{[n]}$ where $X = [n]$ deserves special attention as it is commonly referred to under the name of vectors or sequences
 #### Sources:
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)
