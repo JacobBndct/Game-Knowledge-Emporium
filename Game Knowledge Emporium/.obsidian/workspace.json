@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Counting Disjoint Sets.md",
+                "file": "Composition, Counting & Cardinality.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Counting Disjoint Sets.md",
+                "file": "Composition, Counting & Cardinality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Counting Disjoint Sets.md",
+                "file": "Composition, Counting & Cardinality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Counting Disjoint Sets.md"
+                "file": "Composition, Counting & Cardinality.md"
               }
             }
           },
@@ -182,8 +183,8 @@
   },
   "active": "6ef1ebd36f0c8125",
   "lastOpenFiles": [
-    "Functions.md",
     "Counting Disjoint Sets.md",
+    "Functions.md",
     "Subset of Finite Set is Finite.md",
     "Subsets.md",
     "Sets.md",
