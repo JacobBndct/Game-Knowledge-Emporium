@@ -13,7 +13,11 @@ To give some more detail we start by describing the picture in formulas.
 
 The [[triangular number lemma]] is almost equivalent to part 0. All we need to do is reformulate it a bit in terms of invertible functions.
 
-*Proof:* If we introduce the set $J = \{(x,y) \in \Bbb N^2 : x \ge y\}$, shown in Figure 3.4 then the Triangular number lemma proves that 
+*Proof:* If we introduce the set $J = \{(x,y) \in \Bbb N^2 : x \ge y\}$, shown in Figure 3.4 then the Triangular number lemma proves that $T: J \rightarrow \Bbb N$ is an invertible function with inverse $F : \Bbb N \rightarrow J$ given by $F(n) = (k,l)$ where the $k,l$ depend on $n$ and are given by the lemma.
+
+To finish the proof of part 0 of the theorem we remark that the function $R: \Bbb N^2 \rightarrow J$ given by $R(x,y) = (x + y,y)$ is invertible with inverse $S: J \rightarrow \Bbb N^2$ given by $S(x,y) = (x-y,y)$. Then $T \circ R : \Bbb N^2 \rightarrow \Bbb N$ is the required invertible function showing that $\Bbb N^2$ is countable.
+
+To prove 
 
 ***Figure 3.3***
 ![[Enumerating N x N.png]]
