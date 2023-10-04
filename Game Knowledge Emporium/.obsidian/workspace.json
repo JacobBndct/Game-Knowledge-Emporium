@@ -102,42 +102,6 @@
             }
           },
           {
-            "id": "93ce4b5fa25d9bd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Surjective.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aaefa30021feb665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Injective.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "528240c0aa8b6333",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c0f6140f9cf29829",
             "type": "leaf",
             "state": {
@@ -186,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -232,8 +196,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Properties of composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Properties of composition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Properties of composition.md"
               }
             }
           },
@@ -325,14 +288,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "528240c0aa8b6333",
+  "active": "7d8021d15141b423",
   "lastOpenFiles": [
-    "Injective.md",
-    "Untitled.md",
-    "Surjective.md",
-    "Image and Range of Functions.md",
+    "Bijective (one-to-one & onto).md",
     "Properties of composition.md",
     "Composition of Functions.md",
+    "injective.md",
+    "Surjective (onto).md",
+    "Injective (one-to-one).md",
+    "Image and Range of Functions.md",
     "Functions.md",
     "Set of Equivalence Classes.md",
     "Equivalence Classes Partition a Set.md",
@@ -354,7 +318,6 @@
     "Counting Disjoint Sets.md",
     "Composition, Counting & Cardinality.md",
     "Cardinality.md",
-    "Subset of Finite Set is Finite.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",

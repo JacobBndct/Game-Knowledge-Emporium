@@ -3,8 +3,8 @@ __________________________________________________________________________
 ###### *Date of Creation: 2023-10-04*
 __________________________________________________________________________
 
-0. *The composition of two injective functions is injective*. 
-1. *The composition of two surjective functions is surjective.*
+0. *The composition of two injective functions is [[Injective (one-to-one)]]*. 
+1. *The composition of two surjective functions is [[Surjective (onto)]].*
 
 *Proof:* Suppose we have functions $f : X → Y$ and g : $Y → Z$. 
 
