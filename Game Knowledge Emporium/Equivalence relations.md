@@ -12,4 +12,4 @@ Using notation (x, y) e R will be written x ~ y
 2. If x ~ y and y ~ z then x ~ z as well (Transitivity)
 #### Sources:
 __________________________________________________________________________
-1. 
+1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)
