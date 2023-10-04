@@ -66,6 +66,18 @@
             }
           },
           {
+            "id": "3f1f396fe91726bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Triangular.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "379faf307db40801",
             "type": "leaf",
             "state": {
@@ -90,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cartesian Product preserves countability.md",
+                "file": "Triangular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cartesian Product preserves countability.md",
+                "file": "Triangular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cartesian Product preserves countability.md"
+                "file": "Triangular.md"
               }
             }
           },
@@ -228,11 +240,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6c92691e8200022d",
+  "active": "3f1f396fe91726bf",
   "lastOpenFiles": [
-    "Images/Enumerating N x N.png",
-    "Counting the Cartesian product.md",
     "Cartesian Product preserves countability.md",
+    "Counting the Cartesian product.md",
+    "Triangular.md",
+    "Images/Enumerating N x N.png",
     "Cartesian product.md",
     "Cartesian product and set operations.md",
     "Graph of a Function.md",
