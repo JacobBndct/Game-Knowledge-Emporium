@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Set of Equivalence Classes.md",
+                "file": "Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "file:functi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set of Equivalence Classes.md",
+                "file": "Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set of Equivalence Classes.md",
+                "file": "Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Set of Equivalence Classes.md"
+                "file": "Functions.md"
               }
             }
           },
@@ -277,11 +277,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c59900daccb853ab",
+  "active": "98e4f91056918627",
   "lastOpenFiles": [
+    "Set of Equivalence Classes.md",
     "Equivalence Classes Partition a Set.md",
     "Equivalence class.md",
-    "Set of Equivalence Classes.md",
     "Equivalence relations.md",
     "Relations on a Set.md",
     "Cartesian Power.md",

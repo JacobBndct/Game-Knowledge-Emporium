@@ -25,6 +25,10 @@ When you see a function $f: X \rightarrow Y$ you should always be careful to che
 
 Remark that $sin^{-1}$ is not a function on the reals and neither is $\sqrt x$
 
+*A function $f : X \rightarrow Y$ is called $\dots$*
+0. **injective***if f cannot take the same value twice. In other words: if for some $x_1x_2$ we have $f(x_1) = f(x_2)$ then we must have $x_1 = x_2$.*
+1. **surjective** *if the range equals the codomain: $f(X) = Y$.*
+2. **bijective** *if it is both injective and surjective.*
 #### Sources:
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)
