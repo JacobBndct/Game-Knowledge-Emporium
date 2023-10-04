@@ -16,7 +16,7 @@ You can think of functions as manipulations rather than simply mapping one value
 **Indicator functions:** for any subset $A \subseteq X$ of a set define a function where if x is contained by A it returns a 1 or a 0 if it is not contained. Example $\Bbb I_A:X \rightarrow [2]$ by $$\Bbb I_A(x) = \begin{cases}1 & \text{if $x \in A$} \\ 0 & \text{if $x \notin A$} \end{cases}$$
 The special case where $A$ contains one element is often called the **[[Kronecker delta function]]** with the alternative notation: $\delta _ i = \Bbb I_{\{i\}}$ and sometimes $\delta _ i (j)$ is abbreviated as $\delta _{ij}$.
 
-A [[Function Inverses|function is invertible]] if there exists a function $g : Y \rightarrow X$ such that their [[Composition of Functions|composition]] $g \circ f = id_X$ and $f \circ g = id_Y$
+A [[Function Inverses|function is invertible]] if there exists a function $g : Y \rightarrow X$ such that their [[Composition of Functions|composition]] $g \circ f = id_X$ and $f \circ g = id_Y$. Equally a function is invertible if and only if [[Existence of Inverses|the function is a bijection]].
 
 When you see a function $f: X \rightarrow Y$ you should always be careful to check that it is *well-defined*, by which we mean that the following three things are true:
 0. $f(x)$ is defined for *every* possible input $x$ in the domain $X$.

@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cartesian Product Preserves Countability.md",
+                "file": "Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cartesian Product Preserves Countability.md",
+                "file": "Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cartesian Product Preserves Countability.md",
+                "file": "Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cartesian Product Preserves Countability.md"
+                "file": "Functions.md"
               }
             }
           },
@@ -170,8 +170,11 @@
   },
   "active": "27cc3f789d37a9be",
   "lastOpenFiles": [
-    "Counting the Cartesian product.md",
+    "Bijective (one-to-one & onto).md",
+    "Functions.md",
+    "Function Inverses.md",
     "Cartesian Product Preserves Countability.md",
+    "Counting the Cartesian product.md",
     "Equivalence relations.md",
     "Equivalence class.md",
     "Composition of Functions.md",
@@ -180,12 +183,10 @@
     "Triangular Number Lemma.md",
     "Cartesian product and set operations.md",
     "Graph of a Function.md",
-    "Bijective (one-to-one & onto).md",
     "injective.md",
     "Surjective (onto).md",
     "Injective (one-to-one).md",
     "Image and Range of Functions.md",
-    "Functions.md",
     "Equivalence Classes Partition a Set.md",
     "Relations on a Set.md",
     "Cartesian Power.md",
@@ -197,7 +198,6 @@
     "Sets.md",
     "Counting Disjoint Sets.md",
     "Composition, Counting & Cardinality.md",
-    "Cardinality.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
