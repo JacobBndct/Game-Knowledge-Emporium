@@ -8,6 +8,9 @@ __________________________________________________________________________
 Intersection is about looking at what two sets have in common using the [[logical AND operator]].
 ### Properties of intersections
 1. [[Associativity of intersections]]: ex. ($(X \cap Y) \cap Z = X \cap (Y \cap Z)$)
+
+### Properties of Disjoint sets
+1. [[Counting disjoint sets]]
 #### Sources:
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)
