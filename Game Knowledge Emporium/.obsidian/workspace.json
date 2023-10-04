@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cartesian product.md",
+                "file": "Cartesian Product Preserves Countability.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cartesian Product preserves countability.md",
+                "file": "Cartesian Product Preserves Countability.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Triangular.md",
+                "file": "Triangular Number Lemma.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Triangular.md",
+                "file": "Triangular Number Lemma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Triangular.md",
+                "file": "Triangular Number Lemma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Triangular.md"
+                "file": "Triangular Number Lemma.md"
               }
             }
           },
@@ -242,14 +242,14 @@
   },
   "active": "3f1f396fe91726bf",
   "lastOpenFiles": [
-    "Cartesian Product preserves countability.md",
-    "Counting the Cartesian product.md",
-    "Triangular.md",
-    "Images/Enumerating N x N.png",
+    "Cartesian Product Preserves Countability.md",
     "Cartesian product.md",
+    "Counting the Cartesian product.md",
+    "Cartesian product and equivalence relations.md",
+    "Triangular Number Lemma.md",
     "Cartesian product and set operations.md",
     "Graph of a Function.md",
-    "Cartesian product and equivalence relations.md",
+    "Images/Enumerating N x N.png",
     "Graphs.md",
     "Sets.md",
     "Counting Disjoint Sets.md",

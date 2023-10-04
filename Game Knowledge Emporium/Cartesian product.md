@@ -10,6 +10,7 @@ __________________________________________________________________________
 ### Properties of Cartesian products
 1. [[Cartesian product and set operations]]
 2. [[Counting the Cartesian product]]
+3. [[Cartesian product preserves countability]]
 #### Sources:
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)
