@@ -8,7 +8,7 @@ __________________________________________________________________________
 *The **projection functions** $\pi_1 : X_1 \times X_2 \rightarrow X_1$ and $\pi_2 : X_1 \times X_2 \rightarrow X_2$ are defined by $\pi _1 (x_1, x_2) = x_1$ and $\pi _2 (x_1, x_2) = x_2$.*
 
 ### Properties of cartesian products
-1. [[]]
+1. [[Cartesian product and set operations]]
 #### Sources:
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)

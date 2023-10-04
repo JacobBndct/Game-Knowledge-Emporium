@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "379faf307db40801",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cartesian product and set operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1995991023fdf7f9",
             "type": "leaf",
             "state": {
@@ -54,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cartesian product.md",
+                "file": "Cartesian product and set operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cartesian product.md",
+                "file": "Cartesian product and set operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cartesian product.md"
+                "file": "Cartesian product and set operations.md"
               }
             }
           },
@@ -192,10 +204,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "27cc3f789d37a9be",
+  "active": "379faf307db40801",
   "lastOpenFiles": [
-    "Cartesian product and equivalence relations.md",
     "Cartesian product.md",
+    "Cartesian product and set operations.md",
+    "Cartesian product and equivalence relations.md",
     "Graph of a Function.md",
     "Graphs.md",
     "Sets.md",
@@ -219,7 +232,6 @@
     "Composition of Functions.md",
     "Unions of Sets.md",
     "De Morgan's law.md",
-    "Difference and Complement of Sets.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
