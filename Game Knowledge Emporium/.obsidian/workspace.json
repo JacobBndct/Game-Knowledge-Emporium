@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Triangular Number Lemma.md",
+                "file": "Cartesian Product Preserves Countability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Triangular Number Lemma.md",
+                "file": "Cartesian Product Preserves Countability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Triangular Number Lemma.md"
+                "file": "Cartesian Product Preserves Countability.md"
               }
             }
           },
@@ -240,13 +240,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3f1f396fe91726bf",
+  "active": "4b8050b3883660d3",
   "lastOpenFiles": [
+    "Images/Figure 3.4.png",
     "Cartesian Product Preserves Countability.md",
+    "Triangular Number Lemma.md",
     "Cartesian product.md",
     "Counting the Cartesian product.md",
     "Cartesian product and equivalence relations.md",
-    "Triangular Number Lemma.md",
     "Cartesian product and set operations.md",
     "Graph of a Function.md",
     "Images/Enumerating N x N.png",
@@ -268,7 +269,6 @@
     "Composition of Inverses.md",
     "Composition is Associative.md",
     "Function Inverses.md",
-    "The Inverse Function is Unique.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
