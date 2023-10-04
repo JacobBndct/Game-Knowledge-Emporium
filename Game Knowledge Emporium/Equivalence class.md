@@ -3,9 +3,9 @@ __________________________________________________________________________
 ###### *Date of Creation: 2023-09-24*
 __________________________________________________________________________
 
-The equivalence class of x e X is the set X^_ = { y e X: x ~ y } 
+*Given an equivalence relation $R$ on a set $X$ we say that the **equivalence class** of $x \in X$ is the set $\bar x = \{y \in X: y \sim x\}$.*
 
-Also define X/R = set of all equivalence classes
+Also define $X \setminus R$ = set of all equivalence classes
 
 Theorem: We say P is a subset of the powerset of X is  a partition of X if the union of all p = X with and for all p, q e P we have p n q = the empty set. If R is an equivalence relation on X then the set of equivalence classes X/R is a partition of X ***(This must be fixed)***
 

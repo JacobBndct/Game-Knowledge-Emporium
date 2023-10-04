@@ -78,6 +78,18 @@
             }
           },
           {
+            "id": "c0f6140f9cf29829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Set of Equivalence Classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3f1f396fe91726bf",
             "type": "leaf",
             "state": {
@@ -114,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -181,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equivalence class.md",
+                "file": "Set of Equivalence Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equivalence class.md",
+                "file": "Set of Equivalence Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equivalence class.md"
+                "file": "Set of Equivalence Classes.md"
               }
             }
           },
@@ -253,8 +265,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "27a625bf353f9c33",
+  "active": "c0f6140f9cf29829",
   "lastOpenFiles": [
+    "Equivalence class.md",
+    "Set of Equivalence Classes.md",
     "Equivalence relations.md",
     "Relations on a Set.md",
     "Cartesian Power.md",
@@ -281,8 +295,6 @@
     "Finite sets.md",
     "Elements.md",
     "Unsupervised learning.md",
-    "Supervised Learning.md",
-    "Composition of Inverses.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
