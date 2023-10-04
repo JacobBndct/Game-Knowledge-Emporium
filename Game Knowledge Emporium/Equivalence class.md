@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date of Creation: 2023-09-24*
 __________________________________________________________________________
 
-Definition: The equivalence class of x e X is the set X^_ = { y e X: x ~ y } 
+The equivalence class of x e X is the set X^_ = { y e X: x ~ y } 
 
 Also define X/R = set of all equivalence classes
 
@@ -15,4 +15,4 @@ First x e x^_ because x ~ x
 Second if x e z^_ and x e y^_ then x ~ y and x ~ z so y ~ z so x belongs to only one equivalence class.
 #### Sources:
 __________________________________________________________________________
-1. 
+1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)
