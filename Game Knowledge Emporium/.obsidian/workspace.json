@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b0e9c375a880592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Number of Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set of Functions.md",
+                "file": "The Number of Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set of Functions.md",
+                "file": "The Number of Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Set of Functions.md"
+                "file": "The Number of Functions.md"
               }
             }
           },
@@ -193,10 +205,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ef1949c8b659d390",
+  "active": "7b0e9c375a880592",
   "lastOpenFiles": [
-    "Inverse Image.md",
     "Set of Functions.md",
+    "The Number of Functions.md",
+    "Inverse Image.md",
     "Existence of Inverses.md",
     "Functions.md",
     "Bijective (one-to-one & onto).md",
@@ -222,7 +235,6 @@
     "Images/Figure 3.4.png",
     "Cartesian product.md",
     "Images/Enumerating N x N.png",
-    "Graphs.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
