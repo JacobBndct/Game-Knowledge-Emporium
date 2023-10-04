@@ -1,0 +1,14 @@
+__________________________________________________________________________
+#### **Tags:** #Math/SetTheory #Math/Lemma 
+###### *Date of Creation: 2023-10-04*
+__________________________________________________________________________
+
+0. $\Bbb N^2$ is countably infinite.
+1. if $X$ and $Y$ are countably infinite then so is $X \times Y$.
+
+The idea of the proof of the first part is shown in Figure 3.3. We propose to order the pairs of natural numbers $(m,n)$ according to their sum $m+n$ and order the pairs with equal sum bt their first entry. Enumerating in this order gives
+
+![[Enumerating N x N.png]]
+#### Sources:
+__________________________________________________________________________
+1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)
