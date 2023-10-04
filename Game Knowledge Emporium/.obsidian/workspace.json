@@ -126,6 +126,18 @@
             }
           },
           {
+            "id": "528240c0aa8b6333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c0f6140f9cf29829",
             "type": "leaf",
             "state": {
@@ -174,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -241,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Surjective.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Surjective.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Surjective.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -313,11 +325,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "93ce4b5fa25d9bd0",
+  "active": "528240c0aa8b6333",
   "lastOpenFiles": [
-    "Image and Range of Functions.md",
-    "Surjective.md",
     "Injective.md",
+    "Untitled.md",
+    "Surjective.md",
+    "Image and Range of Functions.md",
     "Properties of composition.md",
     "Composition of Functions.md",
     "Functions.md",
@@ -342,7 +355,6 @@
     "Composition, Counting & Cardinality.md",
     "Cardinality.md",
     "Subset of Finite Set is Finite.md",
-    "Subsets.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
