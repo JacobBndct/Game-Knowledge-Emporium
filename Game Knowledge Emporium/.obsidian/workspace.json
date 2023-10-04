@@ -83,7 +83,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions.md",
+                "file": "Composition of Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d8021d15141b423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Properties of composition.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -205,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions.md",
+                "file": "Properties of composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions.md",
+                "file": "Properties of composition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions.md"
+                "file": "Properties of composition.md"
               }
             }
           },
@@ -277,8 +289,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "98e4f91056918627",
+  "active": "7d8021d15141b423",
   "lastOpenFiles": [
+    "Composition of Functions.md",
+    "Properties of composition.md",
+    "Functions.md",
     "Set of Equivalence Classes.md",
     "Equivalence Classes Partition a Set.md",
     "Equivalence class.md",
@@ -298,15 +313,12 @@
     "Sets.md",
     "Counting Disjoint Sets.md",
     "Composition, Counting & Cardinality.md",
-    "Functions.md",
     "Cardinality.md",
     "Subset of Finite Set is Finite.md",
     "Subsets.md",
     "Standard Finite Sets.md",
     "Countable Sets.md",
     "Intersection & Disjoint of Sets.md",
-    "Finite sets.md",
-    "Elements.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
