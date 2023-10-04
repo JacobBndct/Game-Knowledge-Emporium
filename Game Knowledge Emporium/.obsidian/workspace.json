@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions.md",
+                "file": "Existence of Inverses.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions.md",
+                "file": "Existence of Inverses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions.md",
+                "file": "Existence of Inverses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions.md"
+                "file": "Existence of Inverses.md"
               }
             }
           },
@@ -170,8 +171,9 @@
   },
   "active": "27cc3f789d37a9be",
   "lastOpenFiles": [
-    "Bijective (one-to-one & onto).md",
     "Functions.md",
+    "Existence of Inverses.md",
+    "Bijective (one-to-one & onto).md",
     "Function Inverses.md",
     "Cartesian Product Preserves Countability.md",
     "Counting the Cartesian product.md",
@@ -197,7 +199,6 @@
     "Graphs.md",
     "Sets.md",
     "Counting Disjoint Sets.md",
-    "Composition, Counting & Cardinality.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
