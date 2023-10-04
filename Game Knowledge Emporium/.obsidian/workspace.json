@@ -28,129 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0a1267d280b3c14c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Counting the Cartesian product.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b8050b3883660d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cartesian Product Preserves Countability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "406950aeb993f14f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equivalence relations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27a625bf353f9c33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equivalence class.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98e4f91056918627",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Composition of Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d8021d15141b423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Properties of composition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0f6140f9cf29829",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Set of Equivalence Classes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f1f396fe91726bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Triangular Number Lemma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "379faf307db40801",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cartesian product and set operations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1995991023fdf7f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph of a Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Properties of composition.md",
+                "file": "Cartesian Product Preserves Countability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Properties of composition.md",
+                "file": "Cartesian Product Preserves Countability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Properties of composition.md"
+                "file": "Cartesian Product Preserves Countability.md"
               }
             }
           },
@@ -288,30 +168,30 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7d8021d15141b423",
+  "active": "27cc3f789d37a9be",
   "lastOpenFiles": [
-    "Bijective (one-to-one & onto).md",
-    "Properties of composition.md",
+    "Counting the Cartesian product.md",
+    "Cartesian Product Preserves Countability.md",
+    "Equivalence relations.md",
+    "Equivalence class.md",
     "Composition of Functions.md",
+    "Properties of composition.md",
+    "Set of Equivalence Classes.md",
+    "Triangular Number Lemma.md",
+    "Cartesian product and set operations.md",
+    "Graph of a Function.md",
+    "Bijective (one-to-one & onto).md",
     "injective.md",
     "Surjective (onto).md",
     "Injective (one-to-one).md",
     "Image and Range of Functions.md",
     "Functions.md",
-    "Set of Equivalence Classes.md",
     "Equivalence Classes Partition a Set.md",
-    "Equivalence class.md",
-    "Equivalence relations.md",
     "Relations on a Set.md",
     "Cartesian Power.md",
-    "Cartesian Product Preserves Countability.md",
-    "Counting the Cartesian product.md",
     "Cartesian product and equivalence relations.md",
     "Images/Figure 3.4.png",
-    "Triangular Number Lemma.md",
     "Cartesian product.md",
-    "Cartesian product and set operations.md",
-    "Graph of a Function.md",
     "Images/Enumerating N x N.png",
     "Graphs.md",
     "Sets.md",
