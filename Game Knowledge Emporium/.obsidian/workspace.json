@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph of a Function.md",
+                "file": "Cartesian product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph of a Function.md",
+                "file": "Cartesian product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph of a Function.md"
+                "file": "Cartesian product.md"
               }
             }
           },
@@ -192,11 +192,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1995991023fdf7f9",
+  "active": "27cc3f789d37a9be",
   "lastOpenFiles": [
+    "Cartesian product and equivalence relations.md",
     "Cartesian product.md",
     "Graph of a Function.md",
-    "Cartesian product and equivalence relations.md",
     "Graphs.md",
     "Sets.md",
     "Counting Disjoint Sets.md",
