@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebb3ae2b0d3f3f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cartesian product.md",
+                "file": "Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cartesian product.md",
+                "file": "Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cartesian product.md"
+                "file": "Graphs.md"
               }
             }
           },
@@ -181,10 +192,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "27cc3f789d37a9be",
+  "active": "ebb3ae2b0d3f3f78",
   "lastOpenFiles": [
-    "Cartesian product and equivalence relations.md",
+    "Graphs.md",
     "Cartesian product.md",
+    "Cartesian product and equivalence relations.md",
     "Sets.md",
     "Counting Disjoint Sets.md",
     "Composition, Counting & Cardinality.md",
@@ -208,7 +220,6 @@
     "De Morgan's law.md",
     "Difference and Complement of Sets.md",
     "Difference law.md",
-    "Domain & Codomain of Functions.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
