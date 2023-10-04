@@ -114,6 +114,18 @@
             }
           },
           {
+            "id": "aaefa30021feb665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Injective.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c0f6140f9cf29829",
             "type": "leaf",
             "state": {
@@ -303,8 +315,10 @@
   },
   "active": "93ce4b5fa25d9bd0",
   "lastOpenFiles": [
-    "Properties of composition.md",
+    "Image and Range of Functions.md",
     "Surjective.md",
+    "Injective.md",
+    "Properties of composition.md",
     "Composition of Functions.md",
     "Functions.md",
     "Set of Equivalence Classes.md",
@@ -329,8 +343,6 @@
     "Cardinality.md",
     "Subset of Finite Set is Finite.md",
     "Subsets.md",
-    "Standard Finite Sets.md",
-    "Countable Sets.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
