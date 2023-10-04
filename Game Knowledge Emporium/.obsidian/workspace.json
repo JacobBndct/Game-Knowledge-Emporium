@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef1949c8b659d390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Set of Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inverse Image.md",
+                "file": "Set of Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inverse Image.md",
+                "file": "Set of Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inverse Image.md"
+                "file": "Set of Functions.md"
               }
             }
           },
@@ -181,10 +193,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d198a365578f8789",
+  "active": "ef1949c8b659d390",
   "lastOpenFiles": [
-    "Existence of Inverses.md",
     "Inverse Image.md",
+    "Set of Functions.md",
+    "Existence of Inverses.md",
     "Functions.md",
     "Bijective (one-to-one & onto).md",
     "Function Inverses.md",
@@ -210,7 +223,6 @@
     "Cartesian product.md",
     "Images/Enumerating N x N.png",
     "Graphs.md",
-    "Sets.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
