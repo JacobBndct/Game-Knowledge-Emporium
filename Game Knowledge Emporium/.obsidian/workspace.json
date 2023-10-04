@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions.md",
+                "file": "Cardinality.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions.md",
+                "file": "Cardinality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions.md",
+                "file": "Cardinality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions.md"
+                "file": "Cardinality.md"
               }
             }
           },
@@ -170,19 +170,19 @@
   },
   "active": "184a0070a004fb7f",
   "lastOpenFiles": [
-    "Elements.md",
-    "Finite sets.md",
-    "Sets.md",
-    "Countable Sets.md",
-    "Subset of Finite Set is Finite.md",
     "Subsets.md",
+    "Subset of Finite Set is Finite.md",
+    "Countable Sets.md",
+    "Sets.md",
+    "Finite sets.md",
+    "Elements.md",
+    "Functions.md",
     "Cardinality.md",
     "Standard Finite Sets.md",
     "Unsupervised learning.md",
     "Supervised Learning.md",
     "Composition, Counting & Cardinality.md",
     "Cartesian product and equivalence relations.md",
-    "Functions.md",
     "Composition of Inverses.md",
     "Composition is Associative.md",
     "Function Inverses.md",
