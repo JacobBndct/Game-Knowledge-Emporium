@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "0a1267d280b3c14c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Counting the Cartesian product.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "379faf307db40801",
             "type": "leaf",
             "state": {
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cartesian product and set operations.md",
+                "file": "Counting the Cartesian product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cartesian product and set operations.md",
+                "file": "Counting the Cartesian product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cartesian product and set operations.md"
+                "file": "Counting the Cartesian product.md"
               }
             }
           },
@@ -204,12 +216,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "379faf307db40801",
+  "active": "0a1267d280b3c14c",
   "lastOpenFiles": [
-    "Cartesian product.md",
-    "Cartesian product and equivalence relations.md",
     "Cartesian product and set operations.md",
     "Graph of a Function.md",
+    "Counting the Cartesian product.md",
+    "Cartesian product.md",
+    "Cartesian product and equivalence relations.md",
     "Graphs.md",
     "Sets.md",
     "Counting Disjoint Sets.md",
@@ -231,7 +244,6 @@
     "The Inverse Function is Unique.md",
     "Composition of Functions.md",
     "Unions of Sets.md",
-    "De Morgan's law.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",

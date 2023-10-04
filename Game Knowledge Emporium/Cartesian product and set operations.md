@@ -8,7 +8,9 @@ __________________________________________________________________________
 1. $(A \cap B) \times Y = (A \times Y) \cap (B \times Y)$
 2. $(A \setminus B) \times Y = (A \times Y) \setminus (B \times Y)$
 
-*Proof:* We prove part 0 using the [[double inclusion is equality|double inclusion lemma]]. Suppose $(x,y) \in (A \cup B) \times Y$ then $x \in A \cup B$ and $y \in Y$. There are two possibilities: either $x \in A$ in which case $(x,y) \in A \times Y$ or $x \in B$ in which case $(x,y) \in B \times Y$. This shows that $x \in (A \times Y) \cup (B \times Y)$. Conversely, suppose $s \in (A \times Y) \cup (B \times Y)$ then there are two possibilities: either $s \in A \times Y$ or $s \in B \times Y$. In the first case we have $s = (x,y)$ with $x \in A$ and $y \in Y$ so $s \in (A \cup B) \times Y$. In the second case we have $s = (x,y)$ with $x \in B$ and $y \in Y$ so again $s \in (A \cup B) \times Y$ and the proof is complete.
+*Proof:* We prove part 0 using the [[double inclusion is equality|double inclusion lemma]]. Suppose $(x,y) \in (A \cup B) \times Y$ then $x \in A \cup B$ and $y \in Y$. There are two possibilities: either $x \in A$ in which case $(x,y) \in A \times Y$ or $x \in B$ in which case $(x,y) \in B \times Y$. This shows that $x \in (A \times Y) \cup (B \times Y)$. 
+
+Conversely, suppose $s \in (A \times Y) \cup (B \times Y)$ then there are two possibilities: either $s \in A \times Y$ or $s \in B \times Y$. In the first case we have $s = (x,y)$ with $x \in A$ and $y \in Y$ so $s \in (A \cup B) \times Y$. In the second case we have $s = (x,y)$ with $x \in B$ and $y \in Y$ so again $s \in (A \cup B) \times Y$ and the proof is complete.
 
 The proofs for the remaining parts 1 and 2 are left as an exercise to the reader. $\star$
 #### Sources:
