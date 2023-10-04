@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relations on a Set.md",
+                "file": "Equivalence relations.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relations on a Set.md",
+                "file": "Equivalence relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relations on a Set.md",
+                "file": "Equivalence relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relations on a Set.md"
+                "file": "Equivalence relations.md"
               }
             }
           },
@@ -255,8 +255,8 @@
   },
   "active": "27a625bf353f9c33",
   "lastOpenFiles": [
-    "Equivalence relations.md",
     "Relations on a Set.md",
+    "Equivalence relations.md",
     "Cartesian Power.md",
     "Cartesian Product Preserves Countability.md",
     "Counting the Cartesian product.md",
