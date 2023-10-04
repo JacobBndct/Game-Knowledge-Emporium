@@ -2,9 +2,6 @@ __________________________________________________________________________
 #### **Tags:** #Math/SetTheory 
 ###### *Date of Creation: 2023-09-24*
 __________________________________________________________________________
-
-Projection functions: PI: X * Y -> X is defined by PI((x, y)) = x and like wise PI2: X * Y -> Y
-
 Goal: If X and Y are finite then #(X * Y) = (#X)(#Y)
 
 also if X and Y are countably infinite then so is X * Y

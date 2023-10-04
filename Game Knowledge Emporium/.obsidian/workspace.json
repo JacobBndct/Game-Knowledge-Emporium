@@ -42,12 +42,12 @@
             }
           },
           {
-            "id": "ebb3ae2b0d3f3f78",
+            "id": "1995991023fdf7f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphs.md",
+                "file": "Graph of a Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphs.md",
+                "file": "Graph of a Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphs.md",
+                "file": "Graph of a Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs.md"
+                "file": "Graph of a Function.md"
               }
             }
           },
@@ -192,11 +192,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ebb3ae2b0d3f3f78",
+  "active": "1995991023fdf7f9",
   "lastOpenFiles": [
-    "Graphs.md",
     "Cartesian product.md",
+    "Graph of a Function.md",
     "Cartesian product and equivalence relations.md",
+    "Graphs.md",
     "Sets.md",
     "Counting Disjoint Sets.md",
     "Composition, Counting & Cardinality.md",
@@ -219,7 +220,6 @@
     "Unions of Sets.md",
     "De Morgan's law.md",
     "Difference and Complement of Sets.md",
-    "Difference law.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
