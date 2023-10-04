@@ -23,6 +23,7 @@ The set of ordered pairs of real numbers $(x, y)$ is called $\Bbb R^2$ and is us
 ### Types of sets:
 1. [[Finite sets]]
 2. [[Countable Sets]]
+3. There also exists sets that are not countable such as Cantor Theorem shown in *Section 4*
 ### Applications of sets
 Sets are not only studied for their own sake, because of their nature they are used as building blocks for more complex mathematical constructs as well. A couple examples are listed below:
 1. [[Graphs]]

@@ -18,24 +18,24 @@
             }
           },
           {
-            "id": "184a0070a004fb7f",
+            "id": "4a9e570862d492e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions.md",
+                "file": "Cartesian product and equivalence relations.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6ef1ebd36f0c8125",
+            "id": "27cc3f789d37a9be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Composition, Counting & Cardinality.md",
+                "file": "Cartesian product.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:",
+                "query": "file:com",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Composition, Counting & Cardinality.md",
+                "file": "Cartesian product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Composition, Counting & Cardinality.md",
+                "file": "Cartesian product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Composition, Counting & Cardinality.md"
+                "file": "Cartesian product.md"
               }
             }
           },
@@ -181,23 +181,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6ef1ebd36f0c8125",
+  "active": "27cc3f789d37a9be",
   "lastOpenFiles": [
+    "Cartesian product and equivalence relations.md",
+    "Cartesian product.md",
+    "Sets.md",
     "Counting Disjoint Sets.md",
+    "Composition, Counting & Cardinality.md",
     "Functions.md",
+    "Cardinality.md",
     "Subset of Finite Set is Finite.md",
     "Subsets.md",
-    "Sets.md",
     "Standard Finite Sets.md",
     "Countable Sets.md",
-    "Cardinality.md",
     "Intersection & Disjoint of Sets.md",
     "Finite sets.md",
     "Elements.md",
     "Unsupervised learning.md",
     "Supervised Learning.md",
-    "Composition, Counting & Cardinality.md",
-    "Cartesian product and equivalence relations.md",
     "Composition of Inverses.md",
     "Composition is Associative.md",
     "Function Inverses.md",
@@ -208,7 +209,6 @@
     "Difference and Complement of Sets.md",
     "Difference law.md",
     "Domain & Codomain of Functions.md",
-    "Image and Range of Functions.md",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",

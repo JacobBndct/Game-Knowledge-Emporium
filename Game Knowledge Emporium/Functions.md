@@ -5,6 +5,8 @@ __________________________________________________________________________
 
 *A **function** $f$ from [[Sets|set]] $X$ to set $Y$ is a rule that assigns to each [[Elements|element]] of $X$ precisely one element of $Y$. Notation: $f:X \rightarrow Y$*
 
+You can think of functions as manipulations rather than simply mapping one value to another as it is usually described in high school
+
 *Two functions $f : X \rightarrow Y$ and $g : A \rightarrow B$ are equal iff $X = A$ and $Y = B$ and for every $x \in X$, $f(x) = g(x)$.*
 
 **Identity function:** Maps a set to itself, for example the identity function of $A$ is $id_A : A \rightarrow A$ given by $id_X(x) = x$ for  all $x \in X$.
