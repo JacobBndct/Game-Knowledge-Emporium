@@ -76,9 +76,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ceed074f66ee1367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cantor's Diagonal Argument.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sequences, and Vectors.md",
+                "file": "Cantor's Diagonal Argument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sequences, and Vectors.md",
+                "file": "Cantor's Diagonal Argument.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sequences, and Vectors.md"
+                "file": "Cantor's Diagonal Argument.md"
               }
             }
           },
@@ -217,10 +229,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a60181f34bd155a3",
+  "active": "ceed074f66ee1367",
   "lastOpenFiles": [
-    "The Number of Functions.md",
     "Sequences, and Vectors.md",
+    "Cantor's Diagonal Argument.md",
+    "The Number of Functions.md",
     "Set of Functions.md",
     "Inverse Image.md",
     "Existence of Inverses.md",
@@ -244,7 +257,6 @@
     "Equivalence Classes Partition a Set.md",
     "Relations on a Set.md",
     "Cartesian Power.md",
-    "Cartesian product and equivalence relations.md",
     "Images/Figure 3.4.png",
     "Images/Enumerating N x N.png",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
