@@ -17,7 +17,7 @@ The [[triangular number lemma]] is almost equivalent to part 0. All we need to d
 
 To finish the proof of part 0 of the theorem we remark that the function $R: \Bbb N^2 \rightarrow J$ given by $R(x,y) = (x + y,y)$ is invertible with inverse $S: J \rightarrow \Bbb N^2$ given by $S(x,y) = (x-y,y)$. Then $T \circ R : \Bbb N^2 \rightarrow \Bbb N$ is the required invertible function showing that $\Bbb N^2$ is countable.
 
-To prove 
+To prove part 1, assume there are invertible $a : X \rightarrow \Bbb N$ and $b : Y \rightarrow \Bbb N$. Then $c : X \times Y \rightarrow \Bbb N \times \Bbb N$ defined by $c(x,y) = (a(x),b(y))$ is also invertible with inverse $c^{-1}(m,n) =  (a^{-1}(m),b^{-1}(n))$. From part 0 we found an invertible function $f : \Bbb N^2 \rightarrow \Bbb N$ so the composition $f \circ c$ is the soug
 
 ***Figure 3.3***
 ![[Enumerating N x N.png]]
