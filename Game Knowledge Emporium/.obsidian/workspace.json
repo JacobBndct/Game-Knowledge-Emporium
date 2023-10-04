@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subset of Finite Set is Finite.md",
+                "file": "Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:sub",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subset of Finite Set is Finite.md",
+                "file": "Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subset of Finite Set is Finite.md",
+                "file": "Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subset of Finite Set is Finite.md"
+                "file": "Functions.md"
               }
             }
           },
@@ -171,19 +170,19 @@
   },
   "active": "184a0070a004fb7f",
   "lastOpenFiles": [
-    "Subsets.md",
-    "Subset of Finite Set is Finite.md",
-    "Cardinality.md",
-    "Countable Sets.md",
-    "Sets.md",
+    "Elements.md",
     "Finite sets.md",
+    "Sets.md",
+    "Countable Sets.md",
+    "Subset of Finite Set is Finite.md",
+    "Subsets.md",
+    "Cardinality.md",
     "Standard Finite Sets.md",
     "Unsupervised learning.md",
     "Supervised Learning.md",
     "Composition, Counting & Cardinality.md",
     "Cartesian product and equivalence relations.md",
     "Functions.md",
-    "Elements.md",
     "Composition of Inverses.md",
     "Composition is Associative.md",
     "Function Inverses.md",
