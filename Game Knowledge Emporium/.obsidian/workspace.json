@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cartesian Power.md",
+                "file": "Graph of a Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cartesian Power.md",
+                "file": "Graph of a Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cartesian Power.md",
+                "file": "Graph of a Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cartesian Power.md"
+                "file": "Graph of a Function.md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "ceed074f66ee1367",
   "lastOpenFiles": [
+    "Cartesian Power.md",
     "Associativity of intersections.md",
     "Cantor's Diagonal Argument.md",
     "Sequences, and Vectors.md",
@@ -256,7 +257,6 @@
     "Injective (one-to-one).md",
     "Image and Range of Functions.md",
     "Equivalence Classes Partition a Set.md",
-    "Relations on a Set.md",
     "Images/Figure 3.4.png",
     "Images/Enumerating N x N.png",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
