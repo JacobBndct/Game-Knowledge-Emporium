@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embodied.md",
+                "file": "Robots.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,8 +148,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embodied.md",
+                "file": "Robots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embodied.md",
+                "file": "Robots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embodied.md"
+                "file": "Robots.md"
               }
             }
           },
@@ -243,8 +242,8 @@
   },
   "active": "515680a7807dcdb7",
   "lastOpenFiles": [
-    "Robots.md",
     "Embodied.md",
+    "Robots.md",
     "Autonomous.md",
     "Frame-of-Reference Problem in Autonomous Agent Design.md",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
