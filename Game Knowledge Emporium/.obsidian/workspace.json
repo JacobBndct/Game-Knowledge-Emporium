@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Areas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,10 +163,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5c58e6e474d1d50d",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
+    "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Existence of Inverses.md",
     "Braitenberg Vehicles.md",
