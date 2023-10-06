@@ -1,3 +1,4 @@
+Navigation in this game can be thought of as some sort of [[Functions|function]] that maps the current area to a new set of areas that the player is able to visit from their l
 ### Landmark
 A large visual indication of a way in which the player can locate something.
 ### Deterrent

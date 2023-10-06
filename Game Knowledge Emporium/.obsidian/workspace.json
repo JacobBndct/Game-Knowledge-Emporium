@@ -18,115 +18,19 @@
             }
           },
           {
-            "id": "27cc3f789d37a9be",
+            "id": "5c58e6e474d1d50d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Existence of Inverses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d198a365578f8789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inverse Image.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef1949c8b659d390",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Set of Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b0e9c375a880592",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Number of Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a60181f34bd155a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sequences, and Vectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceed074f66ee1367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "515680a7807dcdb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Robots.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "881d132ecda889e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emergent Behavior.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc5253c363adf79c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Braitenberg Vehicles.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Navigation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Programming/AI  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Braitenberg Vehicles.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Navigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Braitenberg Vehicles.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Navigation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Braitenberg Vehicles.md"
+                "file": "Game Design Docs/Lidar Game/Lidar - Navigation.md"
               }
             }
           },
@@ -265,16 +168,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fc5253c363adf79c",
+  "active": "5c58e6e474d1d50d",
   "lastOpenFiles": [
-    "Emergent Behavior.md",
+    "Game Design Docs/Lidar Game/Lidar - Areas.md",
+    "Game Design Docs/Lidar Game/Lidar - Navigation.md",
+    "Game Design Docs/Lidar Game/Lidar - Story.md",
+    "Existence of Inverses.md",
     "Braitenberg Vehicles.md",
+    "Emergent Behavior.md",
     "Robots.md",
     "Embodied.md",
     "Autonomous.md",
     "Frame-of-Reference Problem in Autonomous Agent Design.md",
-    "Game Design Docs/Lidar Game/Lidar - Areas.md",
-    "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Graph of a Function.md",
     "Cartesian Power.md",
     "Associativity of intersections.md",
@@ -283,7 +188,6 @@
     "The Number of Functions.md",
     "Set of Functions.md",
     "Inverse Image.md",
-    "Existence of Inverses.md",
     "Functions.md",
     "Bijective (one-to-one & onto).md",
     "Function Inverses.md",
@@ -292,7 +196,6 @@
     "Equivalence relations.md",
     "Equivalence class.md",
     "Composition of Functions.md",
-    "Properties of composition.md",
     "Images/Figure 3.4.png",
     "Images/Enumerating N x N.png",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
