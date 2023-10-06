@@ -88,9 +88,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "515680a7807dcdb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "autonomous.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -157,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md",
+                "file": "autonomous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md",
+                "file": "autonomous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md"
+                "file": "autonomous.md"
               }
             }
           },
@@ -229,8 +241,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ceed074f66ee1367",
+  "active": "515680a7807dcdb7",
   "lastOpenFiles": [
+    "Robots.md",
+    "autonomous.md",
+    "Frame-of-Reference Problem in Autonomous Agent Design.md",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
     "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Graph of a Function.md",
@@ -254,9 +269,6 @@
     "Set of Equivalence Classes.md",
     "Triangular Number Lemma.md",
     "Cartesian product and set operations.md",
-    "injective.md",
-    "Surjective (onto).md",
-    "Injective (one-to-one).md",
     "Images/Figure 3.4.png",
     "Images/Enumerating N x N.png",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
