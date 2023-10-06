@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph of a Function.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Areas.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,8 +136,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph of a Function.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Areas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph of a Function.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Areas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph of a Function.md"
+                "file": "Game Design Docs/Lidar Game/Lidar - Areas.md"
               }
             }
           },
@@ -231,6 +230,8 @@
   },
   "active": "ceed074f66ee1367",
   "lastOpenFiles": [
+    "Game Design Docs/Lidar Game/Lidar - Navigation.md",
+    "Graph of a Function.md",
     "Cartesian Power.md",
     "Associativity of intersections.md",
     "Cantor's Diagonal Argument.md",
@@ -251,12 +252,10 @@
     "Set of Equivalence Classes.md",
     "Triangular Number Lemma.md",
     "Cartesian product and set operations.md",
-    "Graph of a Function.md",
     "injective.md",
     "Surjective (onto).md",
     "Injective (one-to-one).md",
     "Image and Range of Functions.md",
-    "Equivalence Classes Partition a Set.md",
     "Images/Figure 3.4.png",
     "Images/Enumerating N x N.png",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",

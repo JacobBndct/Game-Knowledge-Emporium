@@ -8,3 +8,5 @@
 - The lost woods
 
 [[Lidar - Navigation]]
+
+Have some sort of [[Functions|function]] that maps any current area to a new set of areas
