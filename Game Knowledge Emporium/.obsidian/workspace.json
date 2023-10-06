@@ -100,9 +100,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "881d132ecda889e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emergent Behavior.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robots.md",
+                "file": "Emergent Behavior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robots.md",
+                "file": "Emergent Behavior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robots.md"
+                "file": "Emergent Behavior.md"
               }
             }
           },
@@ -240,10 +252,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "515680a7807dcdb7",
+  "active": "881d132ecda889e5",
   "lastOpenFiles": [
-    "Embodied.md",
     "Robots.md",
+    "Emergent Behavior.md",
+    "Embodied.md",
     "Autonomous.md",
     "Frame-of-Reference Problem in Autonomous Agent Design.md",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
@@ -267,7 +280,6 @@
     "Composition of Functions.md",
     "Properties of composition.md",
     "Set of Equivalence Classes.md",
-    "Triangular Number Lemma.md",
     "Images/Figure 3.4.png",
     "Images/Enumerating N x N.png",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
