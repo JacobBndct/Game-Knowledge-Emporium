@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robots.md",
+                "file": "Embodied.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robots.md",
+                "file": "Embodied.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robots.md",
+                "file": "Embodied.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robots.md"
+                "file": "Embodied.md"
               }
             }
           },
@@ -243,8 +243,9 @@
   },
   "active": "515680a7807dcdb7",
   "lastOpenFiles": [
-    "Autonomous.md",
     "Robots.md",
+    "Embodied.md",
+    "Autonomous.md",
     "Frame-of-Reference Problem in Autonomous Agent Design.md",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
     "Game Design Docs/Lidar Game/Lidar - Navigation.md",
@@ -268,7 +269,6 @@
     "Properties of composition.md",
     "Set of Equivalence Classes.md",
     "Triangular Number Lemma.md",
-    "Cartesian product and set operations.md",
     "Images/Figure 3.4.png",
     "Images/Enumerating N x N.png",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
