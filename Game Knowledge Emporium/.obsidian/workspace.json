@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "autonomous.md",
+                "file": "Robots.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "autonomous.md",
+                "file": "Robots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "autonomous.md",
+                "file": "Robots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "autonomous.md"
+                "file": "Robots.md"
               }
             }
           },
@@ -243,8 +243,8 @@
   },
   "active": "515680a7807dcdb7",
   "lastOpenFiles": [
+    "Autonomous.md",
     "Robots.md",
-    "autonomous.md",
     "Frame-of-Reference Problem in Autonomous Agent Design.md",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
     "Game Design Docs/Lidar Game/Lidar - Navigation.md",
