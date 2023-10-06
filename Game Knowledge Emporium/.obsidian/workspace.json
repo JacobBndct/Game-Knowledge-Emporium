@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Areas.md",
+                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Math/SetTheory  ",
+                "query": "tag:#Programming/AI  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +136,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Areas.md",
+                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Areas.md",
+                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Areas.md"
+                "file": "Frame-of-Reference Problem in Autonomous Agent Design.md"
               }
             }
           },
@@ -230,6 +231,7 @@
   },
   "active": "ceed074f66ee1367",
   "lastOpenFiles": [
+    "Game Design Docs/Lidar Game/Lidar - Areas.md",
     "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Graph of a Function.md",
     "Cartesian Power.md",
@@ -255,7 +257,6 @@
     "injective.md",
     "Surjective (onto).md",
     "Injective (one-to-one).md",
-    "Image and Range of Functions.md",
     "Images/Figure 3.4.png",
     "Images/Enumerating N x N.png",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",

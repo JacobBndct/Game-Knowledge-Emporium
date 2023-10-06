@@ -7,7 +7,6 @@ The frame-of-reference problem concerns the
 relation between the observer, the designer (or the modeler), the artifact, the environment, and the observed agent.
 
 The frame-of-reference problem has three main aspects:
-
 #### *Perspective issue:*
 The perspective of an observer looking at the agent and the perspective of the agent itself are different. The behaviors that the observer perceives should not the taken as the internal mechanisms that dictate the behavior of the agent.
 
