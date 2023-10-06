@@ -112,9 +112,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc5253c363adf79c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Braitenberg Vehicles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -160,7 +172,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emergent Behavior.md",
+                "file": "Braitenberg Vehicles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emergent Behavior.md",
+                "file": "Braitenberg Vehicles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emergent Behavior.md"
+                "file": "Braitenberg Vehicles.md"
               }
             }
           },
@@ -252,10 +265,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "881d132ecda889e5",
+  "active": "fc5253c363adf79c",
   "lastOpenFiles": [
-    "Robots.md",
     "Emergent Behavior.md",
+    "Braitenberg Vehicles.md",
+    "Robots.md",
     "Embodied.md",
     "Autonomous.md",
     "Frame-of-Reference Problem in Autonomous Agent Design.md",
@@ -279,7 +293,6 @@
     "Equivalence class.md",
     "Composition of Functions.md",
     "Properties of composition.md",
-    "Set of Equivalence Classes.md",
     "Images/Figure 3.4.png",
     "Images/Enumerating N x N.png",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
