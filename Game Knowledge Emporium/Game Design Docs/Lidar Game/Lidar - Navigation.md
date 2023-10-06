@@ -1,4 +1,4 @@
-Navigation in this game can be thought of as some sort of [[Functions|function]] that maps the current area to a new set of areas that the player is able to visit from their l
+Navigation in this game can be thought of as some sort of [[Functions|function]] that maps the current area to a new set of areas that the player is able to visit from their current location. This might be implemented as a sort of [[State Machine Pattern|state machine]].
 ### Landmark
 A large visual indication of a way in which the player can locate something.
 ### Deterrent
