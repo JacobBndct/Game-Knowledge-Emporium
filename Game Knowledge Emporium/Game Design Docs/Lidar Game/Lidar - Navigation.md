@@ -1,4 +1,4 @@
-Navigation in this game can be thought of as some sort of [[Functions|function]] that maps the current area to a new set of areas that the player is able to visit from their current location. This might be implemented as a sort of [[State Machine Pattern|state machine]]. 
+Navigation in this game can be thought of as some sort of [[Functions|function]] that maps the current area to a new set of areas that the player is able to visit from their current location. This can also be thought of as a graph. This might be implemented as a sort of [[State Machine Pattern|state machine]]. 
 
 Here are some of the ways to guide the player to locations.
 ### Landmark
@@ -20,4 +20,4 @@ The rules that are used when mixing up the paths. If the player understands thes
 
 ## Example map
 
-![[Area Map.pdf]]..
+![[Area Map.pdf]]
