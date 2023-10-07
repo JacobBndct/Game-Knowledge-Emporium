@@ -23,8 +23,11 @@ Step by step
 6. Use hashing texture for ocular occlusion
 
 ## Visuals references
+
+![[Girl from the other side.png]]
+
+![[Gravity Falls.png]] 
+
 ![](https://lh3.googleusercontent.com/VvrScGTth28C1h0XwVngwxjYj2D6aUnlmAPaydFA4u5lQz83JBm49Pn-pnthMPIsk4Rg2X67oacaAeHehAxG-CmhRh_4uH_W-CTB3XTjJQRvbzv0SQCjIVZEdmvftcT2ey1Tmo59Pzwvs3J6v_Jcgs8)
 
 ![](https://lh6.googleusercontent.com/GnI2DbWJ5LQ1G302KSIyIANYOo7nTn2uJwyIicCZzazUROkaJPwITdcIfuQe4OtpCsbE97eOekK7bkQweWDq4XxOAhRgKMnZXD5mgcK-pu3sHjFIw-OYdzOkO5mKchxVStcxFfUyODQ2l3iC25lLYCY)
-
-![[Gravity Falls.png]]

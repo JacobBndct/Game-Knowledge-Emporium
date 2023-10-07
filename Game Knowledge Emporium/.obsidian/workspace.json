@@ -18,27 +18,19 @@
             }
           },
           {
-            "id": "5c58e6e474d1d50d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Hand Written Notes/Lidar game/Area Map.pdf"
-              }
-            }
-          },
-          {
             "id": "229bf75002289ffc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Gravity Falls.png"
+                "file": "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Gravity Falls.png",
+                "file": "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Gravity Falls.png",
+                "file": "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Gravity Falls.png"
+                "file": "Game Design Docs/Lidar Game/Lidar - Visual Style.md"
               }
             }
           },
@@ -178,16 +170,17 @@
   },
   "active": "229bf75002289ffc",
   "lastOpenFiles": [
+    "Images/Girl from the other side.png",
+    "Robots.md",
     "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
     "Images/Gravity Falls.png",
-    "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Hand Written Notes/Lidar game/Area Map.pdf",
+    "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Existence of Inverses.md",
     "Braitenberg Vehicles.md",
     "Emergent Behavior.md",
-    "Robots.md",
     "Embodied.md",
     "Autonomous.md",
     "Frame-of-Reference Problem in Autonomous Agent Design.md",
