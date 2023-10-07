@@ -1,4 +1,6 @@
 Navigation in this game can be thought of as some sort of [[Functions|function]] that maps the current area to a new set of areas that the player is able to visit from their current location. This might be implemented as a sort of [[State Machine Pattern|state machine]]. 
+
+Here are some of the ways to guide the player to locations.
 ### Landmark
 A large visual indication of a way in which the player can locate something.
 ### Deterrent
@@ -15,3 +17,7 @@ A written indicator that is always true and that points the player to certain ar
 A choice the player must make for where to go.
 ### Governing rules
 The rules that are used when mixing up the paths. If the player understands these rules, they should be able to go anywhere they please.
+
+## Example map
+
+![[Area Map.pdf]]..
