@@ -27,4 +27,4 @@ Step by step
 
 ![](https://lh6.googleusercontent.com/GnI2DbWJ5LQ1G302KSIyIANYOo7nTn2uJwyIicCZzazUROkaJPwITdcIfuQe4OtpCsbE97eOekK7bkQweWDq4XxOAhRgKMnZXD5mgcK-pu3sHjFIw-OYdzOkO5mKchxVStcxFfUyODQ2l3iC25lLYCY)
 
-![](https://lh4.googleusercontent.com/dgllNL2NiMGRgNPAEqKBJBI1QtUrVas5bP6apJ7o1S0_NUdCWKGiY0lXALc9arPUzP3AX4P5hwIl3BHoc43TO2gysdQEQQOmPKr3ItrZgW-PqYlxFLBpp9Ms6gS0rW4w_fFG9i8Jjtspty6hZ-V3H6U)
+![[Gravity Falls.png]]

@@ -31,11 +31,9 @@
             "id": "229bf75002289ffc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Navigation.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Gravity Falls.png"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Navigation.md",
+                "file": "Images/Gravity Falls.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Navigation.md",
+                "file": "Images/Gravity Falls.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Navigation.md"
+                "file": "Images/Gravity Falls.png"
               }
             }
           },
@@ -180,8 +178,10 @@
   },
   "active": "229bf75002289ffc",
   "lastOpenFiles": [
-    "Hand Written Notes/Lidar game/Area Map.pdf",
+    "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
+    "Images/Gravity Falls.png",
     "Game Design Docs/Lidar Game/Lidar - Navigation.md",
+    "Hand Written Notes/Lidar game/Area Map.pdf",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Existence of Inverses.md",
@@ -205,7 +205,6 @@
     "Cartesian Product Preserves Countability.md",
     "Counting the Cartesian product.md",
     "Equivalence relations.md",
-    "Equivalence class.md",
     "Images/Figure 3.4.png",
     "Images/Enumerating N x N.png",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
