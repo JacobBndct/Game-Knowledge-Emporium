@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conway's Life.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conway's Life.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conway's Life.md"
+                "file": "Game Design Docs/Lidar Game/Lidar - Visual Style.md"
               }
             }
           },
@@ -181,10 +181,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cf37413aa4a9f5c6",
+  "active": "229bf75002289ffc",
   "lastOpenFiles": [
-    "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
     "Conway's Life.md",
+    "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
     "Images/Girl from the other side.png",
     "Robots.md",
     "Images/Gravity Falls.png",
