@@ -9,6 +9,7 @@ What are the guiding principles behind the design of the game?*
 	- Isolated
 	- Unease & anxiety
 	- Wanting to give up
+
 - It's fine to fail
 - Your life is your own
 - The road not taken by Robert Frost
