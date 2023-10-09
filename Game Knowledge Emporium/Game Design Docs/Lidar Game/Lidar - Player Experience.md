@@ -1,5 +1,5 @@
-What should the player be feeling?
-What are the guiding principles behind the design of the game?
+*What should the player be feeling?
+What are the guiding principles behind the design of the game?*
 ## Guiding Principle
 - Losings your way in life and trying to find it again can be challenging and sometimes may feel impossible and overwhelming. 
 - It's fine to fail
@@ -9,6 +9,7 @@ What are the guiding principles behind the design of the game?
 ### [[Explorers]]
 The explorer wants to solve the mystery, discover new areas, and be immersed in the world.
 ## Emotions
+### Unease
 ### [[Curiosity]] 
 The main driving motivator for players in this game. Players should be driven to learn and explore because they are interested in learning more about the setting and mystery of the game.
 ### [[Wonder]]
