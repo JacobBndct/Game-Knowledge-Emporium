@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
+                "file": "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
+                "file": "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
+                "file": "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Player Experience.md"
+                "file": "Game Design Docs/Lidar Game/Lidar Game Design Doc.md"
               }
             }
           },
@@ -183,7 +183,9 @@
   },
   "active": "277e10f30b7cb759",
   "lastOpenFiles": [
+    "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
+    "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
     "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
     "Conway's Life.md",
     "Images/Girl from the other side.png",
@@ -210,8 +212,6 @@
     "Functions.md",
     "Bijective (one-to-one & onto).md",
     "Function Inverses.md",
-    "Cartesian Product Preserves Countability.md",
-    "Counting the Cartesian product.md",
     "Images/Figure 3.4.png",
     "Images/Enumerating N x N.png",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",

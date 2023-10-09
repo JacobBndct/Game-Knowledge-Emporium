@@ -6,6 +6,7 @@ What are the guiding principles behind the design of the game?*
 	- A lack of purpose
 	- Unfulfilled  
 	- Lost
+	- Isolated
 	- Unease & anxiety
 	- Wanting to give up
 - It's fine to fail
