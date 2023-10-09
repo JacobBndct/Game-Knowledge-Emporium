@@ -4,8 +4,9 @@ What are the guiding principles behind the design of the game?*
 - Losings your way in life and trying to find it again can be challenging and sometimes may feel impossible and overwhelming.
 - People in this situation may feel
 	- A lack of purpose
+	- Unfulfilled  
 	- Lost
-	- Unease
+	- Unease & anxiety
 	- Wanting to give up
 - It's fine to fail
 - Your life is your own
