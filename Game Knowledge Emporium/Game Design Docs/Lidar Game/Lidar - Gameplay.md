@@ -8,7 +8,7 @@ How does the gameplay extend beyond the game?*
 Goals?
 How do you use the tool?*
 
-Tools can change the way the player perceives things and add more complexity by adding new ways to view a problem. In this way tools can be lenses. By using [[Duel purpose design]], tools can be both a new lenses for a player approach problems and serve a practical purpose in the game. 
+Tools can change the way the player perceives things and add more complexity by adding new ways to  view a problem. In this way tools can be lenses. By using [[Duel purpose design]], tools can be both a new lenses for a player approach problems and serve a practical purpose in the game. 
 ### Understanding others perspectives and how they experience the world
 - View the world through the perspectives of other creatures. Come to understand how they see the world around them and why they behave in a certain way.
 ### Lidar Gun
