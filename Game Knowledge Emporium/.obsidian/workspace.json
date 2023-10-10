@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,14 +47,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Navigation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,19 +192,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f9f4342aba4d2fc6",
+  "active": "229bf75002289ffc",
   "lastOpenFiles": [
-    "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
     "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
-    "Game Design Docs/Lidar Game/Lidar - Story.md",
+    "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
+    "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
+    "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Conway's Life.md",
     "Images/Girl from the other side.png",
     "Robots.md",
     "Images/Gravity Falls.png",
     "Hand Written Notes/Lidar game/Area Map.pdf",
-    "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
     "Existence of Inverses.md",
     "Braitenberg Vehicles.md",
