@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9f4342aba4d2fc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Visual Style.md"
+                "file": "Game Design Docs/Lidar Game/Lidar - Gameplay.md"
               }
             }
           },
@@ -180,12 +192,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "229bf75002289ffc",
+  "active": "f9f4342aba4d2fc6",
   "lastOpenFiles": [
-    "Game Design Docs/Lidar Game/Lidar - Story.md",
-    "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
     "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
     "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
+    "Game Design Docs/Lidar Game/Lidar - Story.md",
+    "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Conway's Life.md",
     "Images/Girl from the other side.png",
