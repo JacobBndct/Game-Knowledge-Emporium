@@ -9,6 +9,7 @@ What are the guiding principles behind the design of the game?*
 	- Isolated
 	- Unease & anxiety
 	- Wanting to give up
+	- They are losing time (it's important that the passage of time is clear to the player in this game)
 
 - It's fine to fail
 - Your life is your own

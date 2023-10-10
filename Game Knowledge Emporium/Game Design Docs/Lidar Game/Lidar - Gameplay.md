@@ -29,4 +29,6 @@ Tools can change the way the player perceives things and add more complexity by 
 - Perhaps you’re traveling more than just space when you swap universes, but also time?
 - Your body can be in a different reality than the one you’re seeing.
 - Picture the different realities as a graph of nodes.
-### 
+### Compass
+- Practical application of helping you understand directions from NPCs and helps you orient yourself.
+- Gives you a new lens to understand how the world works and how it moves you around to keep you lost.

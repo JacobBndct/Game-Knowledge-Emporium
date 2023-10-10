@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Gameplay.md"
+                "file": "Game Design Docs/Lidar Game/Lidar - Player Experience.md"
               }
             }
           },
@@ -194,9 +194,9 @@
   },
   "active": "229bf75002289ffc",
   "lastOpenFiles": [
+    "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
     "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
     "Game Design Docs/Lidar Game/Lidar - Navigation.md",
-    "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
     "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
