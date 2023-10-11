@@ -4,3 +4,4 @@ The story starts by the player waking up in a nearly completely dark area having
 - The player accepts their fate and choses to stay in their new world.
 - The player chooses to leave their friend behind and run away themselves.
 - The player saves their friend and escapes back to the real world with them.
+- Forsake the whole work for one person (3rd impact moment)

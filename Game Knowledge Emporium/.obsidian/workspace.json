@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Sound Design.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Story.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Sound Design.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Sound Design.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Sound Design.md"
+                "file": "Game Design Docs/Lidar Game/Lidar - Story.md"
               }
             }
           },
@@ -206,11 +206,11 @@
   },
   "active": "af977b99cf5574b4",
   "lastOpenFiles": [
+    "Game Design Docs/Lidar Game/Lidar - Navigation.md",
+    "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
     "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
     "Game Design Docs/Lidar Game/Lidar - Sound Design.md",
-    "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
     "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
-    "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Conway's Life.md",
