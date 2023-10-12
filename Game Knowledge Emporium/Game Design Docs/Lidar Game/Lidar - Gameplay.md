@@ -32,3 +32,7 @@ Tools can change the way the player perceives things and add more complexity by 
 ### Compass
 - Practical application of helping you understand directions from NPCs and helps you orient yourself.
 - Gives you a new lens to understand how the world works and how it moves you around to keep you lost.
+
+### Night and Day cycle
+- Night is more dangerous to travel in and so encourages the player to stay in safe areas and interact with them more.
+

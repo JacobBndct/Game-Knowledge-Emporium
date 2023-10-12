@@ -18,127 +18,19 @@
             }
           },
           {
-            "id": "de5542e60025bd06",
+            "id": "a5dbf850f68abf60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Action.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b467f79c74bd7418",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c817e3c756c24ff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "922fc38536fac7d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skill.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "274709b217ec0236",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Expected Value.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3eb19702ef6bbde7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b225e315d778a34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fairness.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d50d37f9bf386a5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Challenge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51ab501354c1971c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meaningful Choices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "565b63ec526137e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Risk & Reward.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Risk & Reward.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Risk & Reward.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Risk & Reward.md"
+                "file": "Game Design Docs/Lidar Game/Lidar - Gameplay.md"
               }
             }
           },
@@ -276,16 +168,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "565b63ec526137e2",
+  "active": "a5dbf850f68abf60",
   "lastOpenFiles": [
-    "Triangularity.md",
+    "Game Design Docs/Lidar Game/Lidar - Story.md",
+    "Colour Theory.md",
     "Risk & Reward.md",
+    "Skill.md",
+    "Triangularity.md",
     "Meaningful Choices.md",
     "Challenge.md",
     "Fairness.md",
     "Chance.md",
     "Expected Value.md",
-    "Skill.md",
     "Rules.md",
     "Goals.md",
     "Action.md",
@@ -303,8 +197,6 @@
     "Novelty.md",
     "Motivation.md",
     "Needs.md",
-    "Conway's Life.md",
-    "Flow.md",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
     "Hand Written Notes/Lidar game/Area Map.pdf",
