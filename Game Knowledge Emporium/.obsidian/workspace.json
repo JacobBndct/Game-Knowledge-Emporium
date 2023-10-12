@@ -6,31 +6,61 @@
       {
         "id": "af2d548946059fc6",
         "type": "tabs",
+        "dimension": 52.41116751269036,
         "children": [
           {
-            "id": "9fe1499f94fe0370",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "a5dbf850f68abf60",
+            "id": "504b3453a4d2ccdd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
+        ]
+      },
+      {
+        "id": "fd76769e734669e5",
+        "type": "split",
+        "dimension": 47.588832487309645,
+        "children": [
+          {
+            "id": "dea65dc07d568b44",
+            "type": "tabs",
+            "dimension": 47.480620155038764,
+            "children": [
+              {
+                "id": "c9ddad78931dd005",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Design Docs/Lidar Game/Lidar - Navigation.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "b0dc6dc0ce10923e",
+            "type": "tabs",
+            "dimension": 52.51937984496124,
+            "children": [
+              {
+                "id": "9fe1499f94fe0370",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -96,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Navigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
+                "file": "Game Design Docs/Lidar Game/Lidar - Navigation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Gameplay.md"
+                "file": "Game Design Docs/Lidar Game/Lidar - Navigation.md"
               }
             }
           },
@@ -165,16 +195,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "a5dbf850f68abf60",
+  "active": "c9ddad78931dd005",
   "lastOpenFiles": [
+    "Triangular Number Lemma.md",
+    "State Machine Pattern.md",
+    "Double Inclusion is Equality.md",
+    "Surprise.md",
+    "Conway's Life.md",
+    "De Morgan's law.md",
+    "Transitivity of Inclusion.md",
+    "Triangularity.md",
+    "Proof by contradiction.md",
+    "Inspiration.md",
+    "Graphs.md",
+    "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Colour Theory.md",
     "Risk & Reward.md",
     "Skill.md",
-    "Triangularity.md",
     "Meaningful Choices.md",
     "Challenge.md",
     "Fairness.md",
@@ -185,18 +227,7 @@
     "Action.md",
     "Emergence.md",
     "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
-    "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
-    "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
-    "Triangle Rule.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
-    "Secrets.md",
-    "The State Machine.md",
-    "Time.md",
-    "Functional Space.md",
-    "Judgment.md",
-    "Novelty.md",
-    "Motivation.md",
-    "Needs.md",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
     "Hand Written Notes/Lidar game/Area Map.pdf",

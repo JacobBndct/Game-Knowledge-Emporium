@@ -36,3 +36,5 @@ Tools can change the way the player perceives things and add more complexity by 
 ### Night and Day cycle
 - Night is more dangerous to travel in and so encourages the player to stay in safe areas and interact with them more.
 
+### Seasons changing
+- Helps to keep the novelty of the game and also makes it harder for the player to navigate with the environmental changes that come with seasons.
