@@ -8,6 +8,8 @@ A player will only be able to focus on all aspects of your game if all of their 
 ***A Lens in the Book of lenses that asks the designer to consider:***
 - On which levels of Maslow's hierarchy is my game operating?
 - Does it fill the needs of competence, autonomy, and relatedness?
+- How can I make my game fulfill more basic needs than it already does?
+- For the needs my game is already filling, how can it fill those needs even better?
 #### Sources:
 __________________________________________________________________________
 1. The Book of Lenses
