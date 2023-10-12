@@ -3,13 +3,12 @@ __________________________________________________________________________
 ###### *Date of Creation: 2023-10-12
 __________________________________________________________________________
 
-Change who has what information, and you change your game completely. To use this lens, think about who knows what and why.
-
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- What is known by the game only?
-- What is known by all players?
-- What is known by some or only one player?
-- Would changing who knows what information improve my game in some way?
+- What are the basic actions in my game?
+- What are the strategic actions?
+- What strategic actions would I like to see? How can I change my game in order to make those possible?
+- Am I happy with the ratio of strategic to basic actions?
+- What actions do players wish they could do in my game that they cannot? Can I somehow enable these, either as basic or strategic actions?
 #### Sources:
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

@@ -3,13 +3,12 @@ __________________________________________________________________________
 ###### *Date of Creation: 2023-10-12
 __________________________________________________________________________
 
-Change who has what information, and you change your game completely. To use this lens, think about who knows what and why.
-
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- What is known by the game only?
-- What is known by all players?
-- What is known by some or only one player?
-- Would changing who knows what information improve my game in some way?
+- How many verbs do my players have?
+- How many objects can each verb act on?
+- How many ways can players achieve their goals?
+- How many subjects do the players control?
+- How do side effects change constraints?
 #### Sources:
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]
