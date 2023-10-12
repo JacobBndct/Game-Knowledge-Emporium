@@ -18,55 +18,19 @@
             }
           },
           {
-            "id": "229bf75002289ffc",
+            "id": "54ac9909a399a1a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af977b99cf5574b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Story.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "277e10f30b7cb759",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Story.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9f4342aba4d2fc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Navigation.md",
+                "file": "Needs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Story.md",
+                "file": "Needs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Story.md",
+                "file": "Needs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Story.md"
+                "file": "Needs.md"
               }
             }
           },
@@ -204,14 +168,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "af977b99cf5574b4",
+  "active": "54ac9909a399a1a7",
   "lastOpenFiles": [
+    "Needs.md",
+    "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
     "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
     "Game Design Docs/Lidar Game/Lidar - Sound Design.md",
     "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
-    "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Conway's Life.md",
     "Images/Girl from the other side.png",
@@ -234,7 +199,6 @@
     "Set of Functions.md",
     "Inverse Image.md",
     "Functions.md",
-    "Bijective (one-to-one & onto).md",
     "Images/Figure 3.4.png",
     "Images/Enumerating N x N.png",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
