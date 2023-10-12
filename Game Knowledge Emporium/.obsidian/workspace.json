@@ -28,9 +28,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b467f79c74bd7418",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c817e3c756c24ff9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "922fc38536fac7d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skill.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "274709b217ec0236",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Expected Value.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -96,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Action.md",
+                "file": "Expected Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Action.md",
+                "file": "Expected Value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Action.md"
+                "file": "Expected Value.md"
               }
             }
           },
@@ -168,10 +216,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "de5542e60025bd06",
+  "active": "274709b217ec0236",
   "lastOpenFiles": [
-    "Emergence.md",
+    "Skill.md",
+    "Expected Value.md",
+    "Rules.md",
+    "Goals.md",
     "Action.md",
+    "Emergence.md",
     "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
@@ -193,10 +245,6 @@
     "The Toy.md",
     "Risk Mitigation.md",
     "The Eight Filters.md",
-    "The Problem Statement.md",
-    "Unification.md",
-    "Inspiration.md",
-    "Holographic Design.md",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
     "Hand Written Notes/Lidar game/Area Map.pdf",
