@@ -131,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Triangularity.md",
+                "file": "Risk & Reward.md",
                 "mode": "source",
                 "source": false
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Triangularity.md",
+                "file": "Risk & Reward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Triangularity.md",
+                "file": "Risk & Reward.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Triangularity.md"
+                "file": "Risk & Reward.md"
               }
             }
           },
@@ -278,8 +278,9 @@
   },
   "active": "565b63ec526137e2",
   "lastOpenFiles": [
-    "Meaningful Choices.md",
     "Triangularity.md",
+    "Risk & Reward.md",
+    "Meaningful Choices.md",
     "Challenge.md",
     "Fairness.md",
     "Chance.md",
@@ -304,7 +305,6 @@
     "Needs.md",
     "Conway's Life.md",
     "Flow.md",
-    "Pleasure.md",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
     "Hand Written Notes/Lidar game/Area Map.pdf",

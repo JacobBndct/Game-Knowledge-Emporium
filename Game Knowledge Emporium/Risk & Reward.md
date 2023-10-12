@@ -19,4 +19,4 @@ Risk and Reward is one of the most important aspects of game design. The concept
 #### Sources:
 __________________________________________________________________________
 1. [(27) Risk and Reward [Game Essence] - YouTube](https://www.youtube.com/watch?v=FXqEykD5Ub4&list=PLgKCjZ2WsVLSllvUzbkHIQurVIJdhAQ4m&index=6&ab_channel=MasahiroSakuraionCreatingGames)
-2. The Book of Lenses
+2. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]
