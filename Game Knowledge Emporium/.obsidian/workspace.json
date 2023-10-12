@@ -40,9 +40,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a564783be0f15731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Judgment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df82ca71dec6b5df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Space.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Novelty.md",
+                "file": "Functional Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Novelty.md",
+                "file": "Functional Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Novelty.md"
+                "file": "Functional Space.md"
               }
             }
           },
@@ -180,10 +204,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4b9561ad21c0ea4a",
+  "active": "df82ca71dec6b5df",
   "lastOpenFiles": [
-    "Motivation.md",
+    "Judgment.md",
+    "Functional Space.md",
     "Novelty.md",
+    "Motivation.md",
     "Needs.md",
     "Conway's Life.md",
     "Flow.md",
@@ -206,8 +232,6 @@
     "Surprise.md",
     "Venue.md",
     "Digital Audio.md",
-    "Floating Point Numbers.md",
-    "Complex Numbers.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
