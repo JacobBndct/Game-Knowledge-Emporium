@@ -15,4 +15,4 @@ The elemental tetrad are the core 4 elements that make up a game;
 - Are the four elements in harmony, reinforcing each other and working together towards a common theme?
 #### Sources:
 __________________________________________________________________________
-1. The Book of Lenses
+1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

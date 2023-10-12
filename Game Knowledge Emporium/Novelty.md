@@ -1,14 +1,13 @@
 __________________________________________________________________________
 #### **Tags:** #GameDesign 
-###### *Date of Creation: 2023-09-25
+###### *Date of Creation: 2023-10-12
 __________________________________________________________________________
 
-Holographic design is about understanding the game structure and the player experience together instead of separately. 
-
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- What elements of the game make the experience enjoyable?
-- What elements of the game may detract from the experience?
-- How can I change game elements to improve the experience?
+- What is novel about my game?
+- Does my game have novelties throughout or just at the beginning?
+- Do I have the right mix of the novel and the familiar?
+- When the novelty wears off, will players still enjoy my game?
 #### Sources:
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

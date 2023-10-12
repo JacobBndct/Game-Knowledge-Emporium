@@ -8,4 +8,4 @@ __________________________________________________________________________
 - What pleasures are missing from my game's experience? Why? can they be added?
 #### Sources:
 __________________________________________________________________________
-1. The Book of Lenses
+1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

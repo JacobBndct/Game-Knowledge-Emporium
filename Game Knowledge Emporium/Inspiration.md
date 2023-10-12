@@ -10,4 +10,4 @@ __________________________________________________________________________
 - In what small way can I capture the essence of that experience and put it into my game?
 #### Sources:
 __________________________________________________________________________
-1. The Book of Lenses
+1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

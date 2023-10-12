@@ -10,4 +10,4 @@ __________________________________________________________________________
 - I have certain instincts about how this game should be. What is driving those instincts?
 #### Sources:
 __________________________________________________________________________
-1. The Book of Lenses
+1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]
