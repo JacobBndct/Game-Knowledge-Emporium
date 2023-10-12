@@ -12,4 +12,4 @@ A player will only be able to focus on all aspects of your game if all of their 
 - For the needs my game is already filling, how can it fill those needs even better?
 #### Sources:
 __________________________________________________________________________
-1. The Book of Lenses
+1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

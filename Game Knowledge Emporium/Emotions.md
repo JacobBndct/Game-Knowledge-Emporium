@@ -11,4 +11,4 @@ __________________________________________________________________________
 - How can I bridge the gap between the emotions players are having and the emotions I'd like them to have?
 #### Sources:
 __________________________________________________________________________
-1. The Book of Lenses 
+1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

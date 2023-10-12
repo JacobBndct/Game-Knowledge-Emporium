@@ -11,4 +11,4 @@ The places in which we play games is greatly important to how we experience them
 - What elements of my game are in harmony with my venue? What elements are not?
 #### Sources:
 __________________________________________________________________________
-1. The Book of Lenses
+1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

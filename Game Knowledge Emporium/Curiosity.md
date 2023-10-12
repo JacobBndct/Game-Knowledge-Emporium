@@ -16,4 +16,4 @@ Ask what are the player's true motivations and why they want to achieve them - n
 #### Sources
 __________________________________________________________________________
 1. [(14) Sparking Curiosity-Driven Exploration Through Narrative in 'Outer Wilds' - YouTube](https://www.youtube.com/watch?v=QaGu9tGCNbI&t=1477s&ab_channel=GDC)
-2. The Book of Lenses
+2. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

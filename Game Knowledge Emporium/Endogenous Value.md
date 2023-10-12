@@ -9,4 +9,4 @@ __________________________________________________________________________
 - What is the relationship between value in the game and the player's motivations?
 #### Sources:
 __________________________________________________________________________
-1. The Book of Lenses
+1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

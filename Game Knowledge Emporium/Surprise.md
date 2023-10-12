@@ -10,4 +10,4 @@ __________________________________________________________________________
 - Do your rules give players ways to surprise themselves?
 #### Sources:
 __________________________________________________________________________
-1. The Book of Lenses
+1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

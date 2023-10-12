@@ -9,4 +9,4 @@ __________________________________________________________________________
 - How can my game generate new problems so that players keep coming back?
 #### Sources:
 __________________________________________________________________________
-1. The Book of Lenses
+1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]
