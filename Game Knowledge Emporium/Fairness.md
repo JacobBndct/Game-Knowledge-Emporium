@@ -4,10 +4,10 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- What is the actual chance of a certain event occurring?
-- What is the perceived change?
-- What value does the outcome of that event have? Can the value be quantified? Are there intangible aspects of value that I am not considering?
-- Each action a player can take has a different expected value. Am I happy with these values? Do they give the player interesting choices? Are they too rewarding, or too punishing?
+- Should my game be symmetrical? Why?
+- Should my game be asymmetrical? Why?
+- Which is more important: that my game is a reliable measure of who has the most skill, or that it provides an interesting challenge to all players?
+- If I want players of different skill levels to play together, what means will I use to make the game interesting and challenging for everyone?
 #### Sources:
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

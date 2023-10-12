@@ -4,10 +4,11 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- What is the actual chance of a certain event occurring?
-- What is the perceived change?
-- What value does the outcome of that event have? Can the value be quantified? Are there intangible aspects of value that I am not considering?
-- Each action a player can take has a different expected value. Am I happy with these values? Do they give the player interesting choices? Are they too rewarding, or too punishing?
+- What in my game is truly random? What parts just feel random?
+- Does the randomness give the players positive feelings of excitement and challenge, or negative feelings of hopelessness and lack of control?
+- Would changing my probability distribution curves improve my game?
+- Do players have the opportunity to take interesting risks?
+- What is the relationship between chance and skill in my game?
 #### Sources:
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

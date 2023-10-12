@@ -4,10 +4,12 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- What is the actual chance of a certain event occurring?
-- What is the perceived change?
-- What value does the outcome of that event have? Can the value be quantified? Are there intangible aspects of value that I am not considering?
-- Each action a player can take has a different expected value. Am I happy with these values? Do they give the player interesting choices? Are they too rewarding, or too punishing?
+- What are the challenges in my game?
+- Are they too easy, too hard, or just right?
+- Can my challenges accommodate a wide variety of skill levels?
+- How does the level of challenge increase as the player succeeds?
+- Is there enough variety in the challenges?
+- What is the maximum level of challenges in my game?
 #### Sources:
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

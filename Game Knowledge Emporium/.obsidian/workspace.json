@@ -76,9 +76,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3eb19702ef6bbde7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b225e315d778a34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fairness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d50d37f9bf386a5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Challenge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51ab501354c1971c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meaningful Choices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "565b63ec526137e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Triangularity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -144,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expected Value.md",
+                "file": "Triangularity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expected Value.md",
+                "file": "Triangularity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expected Value.md"
+                "file": "Triangularity.md"
               }
             }
           },
@@ -216,10 +276,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "274709b217ec0236",
+  "active": "565b63ec526137e2",
   "lastOpenFiles": [
-    "Skill.md",
+    "Meaningful Choices.md",
+    "Triangularity.md",
+    "Challenge.md",
+    "Fairness.md",
+    "Chance.md",
     "Expected Value.md",
+    "Skill.md",
     "Rules.md",
     "Goals.md",
     "Action.md",
@@ -240,11 +305,6 @@
     "Conway's Life.md",
     "Flow.md",
     "Pleasure.md",
-    "The Player.md",
-    "Passion.md",
-    "The Toy.md",
-    "Risk Mitigation.md",
-    "The Eight Filters.md",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
     "Hand Written Notes/Lidar game/Area Map.pdf",
