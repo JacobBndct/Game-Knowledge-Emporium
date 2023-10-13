@@ -12,8 +12,13 @@
             "id": "504b3453a4d2ccdd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fairness.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -35,7 +40,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Game Design Docs/Lidar Game/Lidar - Navigation.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -201,6 +206,13 @@
   },
   "active": "c9ddad78931dd005",
   "lastOpenFiles": [
+    "Fairness.md",
+    "Goals.md",
+    "Emergence.md",
+    "Challenge.md",
+    "Risk & Reward.md",
+    "Game Design Docs/Lidar Game/Lidar - Navigation.md",
+    "Meaningful Choices.md",
     "Triangular Number Lemma.md",
     "State Machine Pattern.md",
     "Double Inclusion is Equality.md",
@@ -215,18 +227,11 @@
     "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Colour Theory.md",
-    "Risk & Reward.md",
     "Skill.md",
-    "Meaningful Choices.md",
-    "Challenge.md",
-    "Fairness.md",
     "Chance.md",
     "Expected Value.md",
     "Rules.md",
-    "Goals.md",
     "Action.md",
-    "Emergence.md",
-    "Game Design Docs/Lidar Game/Lidar - Player Experience.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
