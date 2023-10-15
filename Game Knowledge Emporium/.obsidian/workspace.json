@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -105,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Lens of Passion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Lens of Passion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Lens of Passion.md"
+              }
             }
           },
           {
@@ -174,7 +179,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "a2813329a8e6c407",
   "lastOpenFiles": [
     "The Lens of Passion.md",
     "The Lens of Needs.md",
