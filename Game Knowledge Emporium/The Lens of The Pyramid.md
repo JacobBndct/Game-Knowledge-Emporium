@@ -4,9 +4,9 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- Are there bottlenecks in my design where players are unable to proceed if they cannot solve a particular challenge? Could parallel challenges help?
-- Are my parallel challenges different enough from each other to give players the benefit of variety?
-- Can my parallel challenges be connected somehow? Is there a way that making progress on one can make it easier to solve the others?
+- Is there a way all pieces of my puzzle can feed into a singular challenge at the end?
+- Big pyramids are often made of little pyramids - can I have a hierarchy of ever more challenging puzzle elements, gradually leading to a final challenge?
+- Is there challenge at the top of my pyramid interesting, compelling, and clear? Does it make people want to work in order to get to it?
 #### Sources:
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]
