@@ -4,12 +4,11 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- What must the player understand to play my game?
-- Can some element of imagination help them understand that better?
-- What high quality, realistic details can be provided in this game?
-- What details would be low quality if we provided them? Can imagination fill the gap instead?
-- Can I give details that the imagination will be able to reuse again and again?
-- Which details inspire imagination? Which stifle it?
+- How can my players earn money? Should there be other ways?
+- What can my players buy? Why?
+- Is money too easy to get? Too hard? How can I change this?
+- Are choices about earning and spending meaningful ones?
+- Is a universal currency a good idea in my game o should there be specialized currencies?
 #### Sources:
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]
