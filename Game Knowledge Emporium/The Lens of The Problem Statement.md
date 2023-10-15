@@ -1,13 +1,13 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign 
+#### **Tags:** #GameDesign/Lenses  
 ###### *Date of Creation: 2023-09-25
 __________________________________________________________________________
 
-"When you know how to listen, everybody is the guru" - Ram Dass
-
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- What is an experience I have had in my life that I want to share with others?
-- In what small way can I capture the essence of that experience and put it into my game?
+- What problem, or problems, am I really trying to solve?
+- Have I been making assumptions about this game that really have nothing to do with its true purpose?
+- Is a game really the best solution? Why?
+- How will I be able to tell if the problem is solved?
 #### Sources:
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

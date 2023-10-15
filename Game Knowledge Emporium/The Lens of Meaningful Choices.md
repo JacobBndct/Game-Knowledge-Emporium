@@ -1,16 +1,13 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign 
+#### **Tags:** #GameDesign/Lenses  
 ###### *Date of Creation: 2023-10-12
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- What is the ultimate goal of my game?
-- Is that goal clear to players?
-- If there are a series of goals, do the players understand that?
-- Are the different goals related to each other in a meaningful way?
-- Are my goals concrete, achievable and rewarding?
-- Do I have a good balance of short and long term goals?
-- Do players have a chance to decide their own goals?
+- What choices am I asking the players to make?
+- Are they meaningful? How?
+- Am I giving the player the right number of choices? Would more make them feel more powerful? Would fewer make the game clearer?
+- Are there any dominant strategies in my game?
 #### Sources:
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

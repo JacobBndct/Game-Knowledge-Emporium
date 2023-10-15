@@ -1,12 +1,14 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign 
-###### *Date of Creation: 2023-09-25*
+#### **Tags:** #GameDesign/Lenses  
+###### *Date of Creation: 2023-09-25
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- What problem does my game ask the player to solve?
-- Are there hidden problems to solve that arise as part of gameplay?
-- How can my game generate new problems so that players keep coming back?
+- In general, what do they like?
+- What don't they like? Why?
+- What do they expect to see in a game?
+- If I were in their place, what would I want to see in a game?
+- What will they like or dislike about my game in particular?
 #### Sources:
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

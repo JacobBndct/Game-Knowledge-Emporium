@@ -1,11 +1,15 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign 
-###### *Date of Creation: 2023-09-25
+#### **Tags:** #GameDesign/Lenses  
+###### *Date of Creation: 2023-10-15
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- What pleasures does my game five to the players? Can these be improved?
-- What pleasures are missing from my game's experience? Why? can they be added?
+- Does my game give a fair measurement of player skill?
+- Do people want to win my game? Why?
+- Is winning this game something people can be proud of? Why?
+- Can novice meaningfully compete at my game?
+- Can experts meaningfully compete at my game?
+- Can experts generally be sure they will defeat novices?
 #### Sources:
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

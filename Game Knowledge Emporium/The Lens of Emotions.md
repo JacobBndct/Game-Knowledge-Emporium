@@ -1,13 +1,14 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign 
+#### **Tags:** #GameDesign/Lenses  
 ###### *Date of Creation: 2023-09-25*
 __________________________________________________________________________
 
-Fun is often a very desirable aspect of games, but depending on the purpose of the game it is sometime better for it to not be fun.
+"People may forget what you said, but they'll never forget how you made them feel" - Maya Angelou
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- What parts of my game are fun?
-- What parts need to be more fun?
+- What emotions would I like my player to experience? Why?
+- What emotions are players (including me) having when they play now? Why?
+- How can I bridge the gap between the emotions players are having and the emotions I'd like them to have?
 #### Sources:
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

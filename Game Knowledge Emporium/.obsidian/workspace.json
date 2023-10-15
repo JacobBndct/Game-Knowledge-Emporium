@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Lens of Essential Experiences.md",
+                "file": "Novelty.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#GameDesign/Lens",
+                "query": "tag:#GameDesign",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Lens of Essential Experiences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Lens of Essential Experiences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Lens of Essential Experiences.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,34 +174,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "00f4b8bea3138480",
+  "active": "9fe1499f94fe0370",
   "lastOpenFiles": [
-    "The Lens of Curiosity.md",
-    "The Lens of Essential Experiences.md",
-    "Curiosity.md",
-    "The Lens of Punishment.md",
-    "Reward.md",
-    "Competition VS Cooperation.md",
-    "Risk & Reward.md",
-    "Cooperation.md",
-    "Competition.md",
-    "Head and Hands.md",
-    "Skill vs Chance.md",
-    "Triangularity.md",
+    "Novelty.md",
+    "The Lens of Challenge.md",
+    "Functional Space.md",
+    "The Lens of Goals.md",
+    "The Lens of Competition.md",
+    "The Lens of Meaningful Choices.md",
+    "The Lens of Skill vs Chance.md",
+    "The Lens of The Problem Statement.md",
+    "The Lens of Cooperation.md",
     "Chance.md",
-    "Colour Theory.md",
-    "Fairness.md",
-    "Templates/Example Template.md",
-    "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
-    "Boids.md",
-    "Templates/Basic Template.md",
-    "Game Design Docs/Lidar Game/Lidar - Navigation.md",
-    "Goals.md",
-    "Emergence.md",
-    "Challenge.md",
-    "Meaningful Choices.md",
-    "Triangular Number Lemma.md",
-    "State Machine Pattern.md",
+    "The Lens of Holographic Design.md",
+    "Endogenous Value.md",
+    "The Lens of Risk Mitigation.md",
+    "The Lens of Unification.md",
+    "The Lens of The Toy.md",
+    "The Eight Filters.md",
+    "The Lens of Fun.md",
+    "The Lens of Problem Solving.md",
+    "The Lens of Resonance.md",
+    "The Lens of Flow.md",
+    "The Lens of Passion.md",
+    "The Lens of The Player.md",
+    "The Lens of Inspiration.md",
+    "The Lens of Pleasure.md",
+    "The Lens of Emotions.md",
+    "The Lens of Needs.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",

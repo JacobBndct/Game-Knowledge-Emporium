@@ -1,13 +1,11 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign 
+#### **Tags:** #GameDesign/Lenses  
 ###### *Date of Creation: 2023-09-25
 __________________________________________________________________________
 
-"Because the sage always confronts difficulties, he never experiences them" - Tao Te Ching
-
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- What could keep this game from being great?
-- How can we stop that from happening?
+- If my game had no goal, would it be fun at all? If not, how can I change that?
+- When people see my game, do they want to start interacting with it, even before they know what to do? If not, how can I change that?
 #### Sources:
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

@@ -1,15 +1,13 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign 
-###### *Date of Creation: 2023-10-15
+#### **Tags:** #GameDesign/Lenses  
+###### *Date of Creation: 2023-09-25
 __________________________________________________________________________
 
+"When you know how to listen, everybody is the guru" - Ram Dass
+
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- Does my game give a fair measurement of player skill?
-- Do people want to win my game? Why?
-- Is winning this game something people can be proud of? Why?
-- Can novice meaningfully compete at my game?
-- Can experts meaningfully compete at my game?
-- Can experts generally be sure they will defeat novices?
+- What is an experience I have had in my life that I want to share with others?
+- In what small way can I capture the essence of that experience and put it into my game?
 #### Sources:
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]
