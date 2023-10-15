@@ -18,7 +18,7 @@ What are the guiding principles behind the design of the game?*
 ### [[Explorers]]
 The explorer wants to solve the mystery, discover new areas, and be immersed in the world.
 ## Emotions
-### [[Curiosity]] 
+### [[The Lens of Curiosity]] 
 The main driving motivator for players in this game. Players should be driven to learn and explore because they are interested in learning more about the setting and mystery of the game.
 ### [[Wonder]]
 Players should feel a sense of joy and wonder from discovering something new whether that be a new mechanic or place. Environment should be very important to the player. Channel the excitement of traveling. 
