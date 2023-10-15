@@ -4,10 +4,10 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- What are the puzzles in my game?
-- Should I have more puzzles, or less? Why?
-- Which of the ten puzzles principles apply to each of my puzzles?
-- Do I have incongruous puzzles? How can I better integrate them into the game?
+- When players use the interface, does it do what they expected? If not, why not?
+- Intuitive interfaces give a feeling of control. Is my interface easy to master, or hard to master?
+- Do my players feel they have a strong influence over the outcome of the game? If not how can I change that?
+- Feeling powerful = feeling in control. Do my players feel powerful? Can I make them feel more powerful somehow?
 #### Sources:
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]
