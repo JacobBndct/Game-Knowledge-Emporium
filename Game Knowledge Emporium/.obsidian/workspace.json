@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Lens of Surprise.md",
+                "file": "The Lens of Passion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "The player",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Lens of Surprise.md",
+                "file": "The Lens of Passion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Lens of Surprise.md",
+                "file": "The Lens of Passion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Lens of Surprise.md"
+                "file": "The Lens of Passion.md"
               }
             }
           },
@@ -178,8 +178,22 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a2813329a8e6c407",
+  "active": "c59900daccb853ab",
   "lastOpenFiles": [
+    "The Lens of The Toy.md",
+    "The Lens of Risk Mitigation.md",
+    "The Lens of The Problem Statement.md",
+    "The Lens of The Eight Filters.md",
+    "The Lens of Inspiration.md",
+    "The Lens of Resonance.md",
+    "The Lens of Unification.md",
+    "The Lens of Holographic Design.md",
+    "The Lens of The Elemental Tetrad.md",
+    "The Lens of Problem Solving.md",
+    "The Lens of Endogenous Value.md",
+    "The Lens of Curiosity.md",
+    "The Lens of Fun.md",
+    "The Lens of Surprise.md",
     "The Lens of Venue.md",
     "The Lens of Essential Experiences.md",
     "The Lens of Emotions.md",
@@ -192,20 +206,6 @@
     "The Lens of Parallelism.md",
     "The Lens of Visible Progress.md",
     "The Lens of Accessibility.md",
-    "The Lens of Balance.md",
-    "The Lens of Economy.md",
-    "The Lens of Imagination.md",
-    "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
-    "The Lens of Elegance.md",
-    "The Lens of Character.md",
-    "The Lens of Simplicity & Complexity.md",
-    "The Lens of Functional Space.md",
-    "The Lens of Expected Value.md",
-    "The Lens of Emergence.md",
-    "The Lens of Endogenous Value.md",
-    "The Lens of Chance.md",
-    "The Lens of The Elemental Tetrad.md",
-    "The Lens of The Eight Filters.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
