@@ -4,173 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "af2d548946059fc6",
+        "id": "9c07ee5958cc9cc4",
         "type": "tabs",
-        "dimension": 52.41116751269036,
+        "dimension": 53.236040609137056,
         "children": [
           {
-            "id": "00f4b8bea3138480",
+            "id": "a2813329a8e6c407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Risk & Reward.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bcd0b0e2ea3dc91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Simplicity & Complexity.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5e87c936aed08e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Elegance.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "904dda433b2b7fd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Economy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "334d31db22c0b556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Balance.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40171e22bf882a33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Accessibility.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8147a9c72299c43d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Visible Progress.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1b28644d06d53a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Parallelism.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1261c0bb625c2c2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of The Pyramid.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d0b2ba771d6a91f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of The Puzzle.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ea8c2b1f0d993c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Control.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a26e1c19834fe554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Physical Interface.md",
+                "file": "The Lens of Surprise.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       },
       {
         "id": "b0dc6dc0ce10923e",
         "type": "tabs",
-        "dimension": 47.588832487309645,
+        "dimension": 46.763959390862944,
         "children": [
           {
             "id": "9fe1499f94fe0370",
@@ -228,7 +84,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -248,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Lens of Physical Interface.md",
+                "file": "The Lens of Surprise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Lens of Physical Interface.md",
+                "file": "The Lens of Surprise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Lens of Physical Interface.md"
+                "file": "The Lens of Surprise.md"
               }
             }
           },
@@ -321,11 +178,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a26e1c19834fe554",
+  "active": "a2813329a8e6c407",
   "lastOpenFiles": [
-    "The Lens of Control.md",
-    "The Lens of Physical Interface.md",
+    "The Lens of Venue.md",
+    "The Lens of Essential Experiences.md",
+    "The Lens of Emotions.md",
+    "The Lens of Triangularity.md",
+    "Risk & Reward.md",
     "The Lens of The Puzzle.md",
+    "The Lens of Physical Interface.md",
+    "The Lens of Control.md",
     "The Lens of The Pyramid.md",
     "The Lens of Parallelism.md",
     "The Lens of Visible Progress.md",
@@ -337,18 +199,13 @@
     "The Lens of Elegance.md",
     "The Lens of Character.md",
     "The Lens of Simplicity & Complexity.md",
-    "Risk & Reward.md",
     "The Lens of Functional Space.md",
     "The Lens of Expected Value.md",
     "The Lens of Emergence.md",
-    "The Lens of Triangularity.md",
     "The Lens of Endogenous Value.md",
     "The Lens of Chance.md",
     "The Lens of The Elemental Tetrad.md",
     "The Lens of The Eight Filters.md",
-    "The Lens of Time.md",
-    "The Lens of Novelty.md",
-    "The Lens of Curiosity.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
