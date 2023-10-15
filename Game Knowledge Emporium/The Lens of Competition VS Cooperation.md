@@ -1,13 +1,13 @@
 __________________________________________________________________________
 #### **Tags:** #GameDesign/Lenses  
-###### *Date of Creation: 2023-10-12
+###### *Date of Creation: 2023-10-15
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- What is it that determines the length of my gameplay activities?
-- Are my players frustrated because the game ends too early, or bored because the game is too long?
-- Setting a time limit can make gameplay more exciting. Is it a good idea for my game?
-- Would a hierarchy of time structures help my game?
+- If "1" is Competition and "10" is Cooperation, what number should my game get?
+- Can I give players a choice whether to play cooperatively or competitively?
+- Does my audience prefer competition, cooperation, or a mix?
+- Is my team competition something that makes sense for my game? Is my game more fun with team competition, or with solo competition?
 #### Sources:
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

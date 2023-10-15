@@ -1,15 +1,13 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign 
-###### *Date of Creation: 2023-10-12
+#### **Tags:** #GameDesign/Lenses  
+###### *Date of Creation: 2023-09-25*
 __________________________________________________________________________
 
-Change who has what information, and you change your game completely. To use this lens, think about who knows what and why.
-
 ***A Lens in the Book of lenses that asks the designer to consider:***
-- What is known by the game only?
-- What is known by all players?
-- What is known by some or only one player?
-- Would changing who knows what information improve my game in some way?
+- What will surprise players when they play my game?
+- Does the story in my game have surprises? Do the game rules? Does the artwork? The technology?
+- Do your rules give players ways to surprise each other?
+- Do your rules give players ways to surprise themselves?
 #### Sources:
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]
