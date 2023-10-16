@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Lens of Physical Interface.md",
+                "file": "The Lens of Head and Hands.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Lens of Physical Interface.md",
+                "file": "The Lens of Head and Hands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Lens of Physical Interface.md",
+                "file": "The Lens of Head and Hands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Lens of Physical Interface.md"
+                "file": "The Lens of Head and Hands.md"
               }
             }
           },
@@ -202,16 +202,17 @@
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "random-note:Open random note": false,
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false
+      "homepage:Open homepage": false
     }
   },
   "active": "017abaa3cdc8dcca",
   "lastOpenFiles": [
+    "The Lens of The Puzzle.md",
+    "The Lens of Head and Hands.md",
     "The Lens of Needs.md",
     "The Lens of Physical Interface.md",
+    "The Lens of Control.md",
     "Home.md",
-    "The Lens of Head and Hands.md",
     "The Lens of Essential Experiences.md +.md",
     "Stops.md",
     "Test.md",
@@ -220,8 +221,6 @@
     "Difference law.md",
     "The Lens of Risk Mitigation.md",
     "The Lens of The Toy.md",
-    "The Lens of Control.md",
-    "The Lens of The Puzzle.md",
     "The Lens of The Pyramid.md",
     "The Lens of Parallelism.md",
     "The Lens of Visible Progress.md",
