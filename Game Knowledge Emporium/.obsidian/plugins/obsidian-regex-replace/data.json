@@ -1,0 +1,10 @@
+{
+  "findText": "\\*\\*\\*A Lens in the Book of lenses that asks the designer to consider:\\*\\*\\*",
+  "replaceText": "A Lens in the Book of lenses that asks the designer to consider",
+  "useRegEx": true,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": false,
+  "processTab": false,
+  "prefillFind": false
+}

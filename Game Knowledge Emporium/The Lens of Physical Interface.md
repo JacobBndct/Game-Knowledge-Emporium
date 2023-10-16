@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date of Creation: 2023-10-15
 __________________________________________________________________________
 
-#### ***A Lens in the Book of lenses that asks the designer to consider:***
+#### A Lens in the Book of lenses that asks the designer to consider
 - What does the player pick up and touch? Can this be made more pleasing?
 - How does this map the actions in the game world? Can the mapping be more direct?
 - If I can't create a custom physical interface, what metaphor am I using when I map the inputs to the game world?

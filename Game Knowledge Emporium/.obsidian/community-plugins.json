@@ -4,5 +4,6 @@
   "text-extractor",
   "obsidian-git",
   "homepage",
-  "dataview"
+  "dataview",
+  "obsidian-regex-replace"
 ]
