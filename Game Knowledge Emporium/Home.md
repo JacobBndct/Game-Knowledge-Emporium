@@ -19,6 +19,9 @@ function DayHash() {
 	return month;
 }
 
-DailyLenses("Game", 3);
-
+DailyLenses("Designer", 1);
+DailyLenses("Player", 1);
+DailyLenses("Experience", 1);
+DailyLenses("Process", 1);
+DailyLenses("Game", 1);
 ```
