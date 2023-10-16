@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cba2706be7c81e31",
+        "id": "020bb32100ff4dbf",
         "type": "tabs",
         "children": [
           {
-            "id": "6d89641bd29fa039",
+            "id": "bcaf4f9646478670",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,19 +20,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "f13d7ed9c4c2dac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Chance.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
             }
           }
         ]
@@ -175,7 +162,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6d89641bd29fa039",
+  "active": "bcaf4f9646478670",
   "lastOpenFiles": [
     "The Lens of Chance.md",
     "Home.md",

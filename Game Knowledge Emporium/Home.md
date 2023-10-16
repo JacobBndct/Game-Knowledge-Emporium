@@ -1,7 +1,7 @@
 ## Daily Lenses
 ___
 ```dataviewjs
-function DailyLenses(lensType, numberToShow) {
+async function DailyLenses(lensType, numberToShow) {
 	var notes = dv.pages(`#GameDesign/Lenses/${lensType}`)
 		.sort()
 		.map(note => note.file);
