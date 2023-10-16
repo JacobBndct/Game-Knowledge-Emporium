@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c04f2f4a1c5d241d",
+        "id": "cba2706be7c81e31",
         "type": "tabs",
         "children": [
           {
-            "id": "34a7fdaefc8a5f6b",
+            "id": "6d89641bd29fa039",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,6 +20,19 @@
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "f13d7ed9c4c2dac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Lens of Chance.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -68,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,11 +175,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "34a7fdaefc8a5f6b",
+  "active": "6d89641bd29fa039",
   "lastOpenFiles": [
-    "Home.md",
-    "The Lens of Emotions.md",
     "The Lens of Chance.md",
+    "Home.md",
+    "Templates/Basic Template.md",
+    "The Lens of Emotions.md",
     "Templates/Book of Lenses Template.md",
     "The Lens of Control.md",
     "The Lens of Challenge.md",
@@ -190,7 +203,6 @@
     "The Lens of Fun.md",
     "The Lens of Flow.md",
     "The Lens of Goals.md",
-    "The Lens of Inspiration.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
