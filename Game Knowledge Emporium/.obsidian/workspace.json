@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c07ee5958cc9cc4",
+        "id": "23ad50006d2c9c48",
         "type": "tabs",
         "children": [
           {
-            "id": "46209f5bbc6d271a",
+            "id": "36fa09a388149f49",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -19,22 +19,6 @@
                 "backlinks": false,
                 "source": false
               },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
-        "id": "23ad50006d2c9c48",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a672008aad50e3ec",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
               "pinned": true
             }
           },
@@ -51,8 +35,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "893d21d89298f652",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a672008aad50e3ec",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,11 +194,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "46209f5bbc6d271a",
+  "active": "36fa09a388149f49",
   "lastOpenFiles": [
     "Stops.md",
-    "Unions of Sets.md",
     "Home.md",
+    "Unions of Sets.md",
     "The Lens of Passion.md",
     "Difference law.md",
     "The Lens of Risk Mitigation.md",
