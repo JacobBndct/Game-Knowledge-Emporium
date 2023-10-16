@@ -3,11 +3,15 @@ ___
 ```dataviewjs
 function DailyLenses(lensType, numberToShow) {
 	const notes = dv.pages(`#GameDesign/Lenses/${lensType}`)
-		.map(note => note.file.path);
+		.map(note => note.file);
 	dv.header(3, `${lensType} Lenses`);
+
+	const displayNotes;
 	for(i = 0; i < numberToShow; i++) {
-		dv.paragraph(`![[${notes[(DayHash() + i) % notes.length]}#A Lens in the Book of lenses that asks the designer to consider ]]`);
+		displayNotes.add(notes[(DayHash() + i) % notes.length]);
 	}
+
+	displayNotes.Fdv.paragraph(`![[${}#A Lens in the Book of lenses that asks the designer to consider ]]`);
 }
 
 function DayHash() {
