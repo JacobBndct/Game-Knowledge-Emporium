@@ -12,6 +12,8 @@ function DailyLenses(lensType, numberToShow) {
 	dv.header(3, `${lensType} Lenses: ***${displayNotes.name.join()}***`);
 
 	displayNotes.forEach(note => dv.paragraph(`![[${note.path}#A Lens in the Book of lenses that asks the designer to consider ]]`));
+
+	for (const )
 }
 
 function DayHash() {
