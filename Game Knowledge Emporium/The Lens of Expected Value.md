@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-10-12
 __________________________________________________________________________
 
-***A Lens in the Book of lenses that asks the designer to consider:***
+#### ***A Lens in the Book of lenses that asks the designer to consider:***
 - What is the actual chance of a certain event occurring?
 - What is the perceived change?
 - What value does the outcome of that event have? Can the value be quantified? Are there intangible aspects of value that I am not considering?

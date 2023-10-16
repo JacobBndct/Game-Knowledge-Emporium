@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-10-12
 __________________________________________________________________________
 
-***A Lens in the Book of lenses that asks the designer to consider:***
+#### ***A Lens in the Book of lenses that asks the designer to consider:***
 - What motivations do players have to play my game?
 - Which motivations are most internal? which are most external?
 - Which are pleasure seeking? Which are pain avoiding?

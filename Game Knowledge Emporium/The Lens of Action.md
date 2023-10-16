@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-10-12
 __________________________________________________________________________
 
-***A Lens in the Book of lenses that asks the designer to consider:***
+#### ***A Lens in the Book of lenses that asks the designer to consider:***
 - What are the basic actions in my game?
 - What are the strategic actions?
 - What strategic actions would I like to see? How can I change my game in order to make those possible?

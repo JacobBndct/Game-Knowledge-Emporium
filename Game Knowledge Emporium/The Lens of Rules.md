@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-10-12
 __________________________________________________________________________
 
-***A Lens in the Book of lenses that asks the designer to consider:***
+#### ***A Lens in the Book of lenses that asks the designer to consider:***
 - What are the foundational rules of my game? How do these differ from the operational rules?
 - Are there "laws" or "house rules" that are forming as the game develops? Should these be incorporated into my game directly?
 - Are there different modes in my game? Do they make things simpler, or more complex? Would the game be better with more or less modes?

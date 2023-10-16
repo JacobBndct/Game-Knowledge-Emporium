@@ -5,7 +5,7 @@ __________________________________________________________________________
 
 The opposite of [[The Lens of Character]]. They are like miniature versions of simplicity and complexity, and must be kept in balance.
 
-***A Lens in the Book of lenses that asks the designer to consider:***
+#### ***A Lens in the Book of lenses that asks the designer to consider:***
 - What are the elements of my game?
 - What are the purposes of each element? Count these up to give the element an "elegance rating".
 - For elements with only one or two purposes, can some of these be combined into each other, or be removed altogether?

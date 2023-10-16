@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-10-13
 __________________________________________________________________________
 
-***A Lens in the Book of lenses that asks the designer to consider:***
+#### ***A Lens in the Book of lenses that asks the designer to consider:***
 - Are my players here to be judged (skill), or to take risks (chance)?
 - Skill tends to be more serious then chance: Is my game serious or casual?
 - Are parts of my game tedious? If so, will adding elements of chance enliven them?

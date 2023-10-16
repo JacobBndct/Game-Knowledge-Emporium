@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-10-15
 __________________________________________________________________________
 
-***A Lens in the Book of lenses that asks the designer to consider:***
+#### ***A Lens in the Book of lenses that asks the designer to consider:***
 - What rewards is my game giving out now? Can it give out others as well?
 - Are players excited when they get rewards in my game, or are they bored by them? Why?
 - Getting a reward you don't understand is like getting no reward at all. Do my players understand their rewards?

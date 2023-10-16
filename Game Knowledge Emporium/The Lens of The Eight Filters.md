@@ -5,7 +5,7 @@ __________________________________________________________________________
 
 The eight filters is a way to assess if your design is complete. A design is only complete when it can pass through all eight filters without needing to be changed.
 
-***A Lens in the Book of lenses that asks the designer to consider:***
+#### ***A Lens in the Book of lenses that asks the designer to consider:***
 - Does this game feel right?
 - Will the intended audience like this game enough?
 - Is this a well-designed game?

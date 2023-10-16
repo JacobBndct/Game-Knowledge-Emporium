@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-10-15
 __________________________________________________________________________
 
-***A Lens in the Book of lenses that asks the designer to consider:***
+#### ***A Lens in the Book of lenses that asks the designer to consider:***
 - What are the punishments in my game?
 - Why am I punishing the players? What do I hope to achieve by it?
 - Do my punishments seem fair to the players? Why or why not?

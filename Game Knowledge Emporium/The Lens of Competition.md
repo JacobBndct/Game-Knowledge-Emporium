@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-10-15
 __________________________________________________________________________
 
-***A Lens in the Book of lenses that asks the designer to consider:***
+#### ***A Lens in the Book of lenses that asks the designer to consider:***
 - Does my game give a fair measurement of player skill?
 - Do people want to win my game? Why?
 - Is winning this game something people can be proud of? Why?

@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-09-25
 __________________________________________________________________________
 
-***A Lens in the Book of lenses that asks the designer to consider:***
+#### ***A Lens in the Book of lenses that asks the designer to consider:***
 - What is it about my game that feels powerful and special?
 - When I describe my game to people, what ideas get them really excited?
 - If I had no constraints of any kind, what would this game be like?

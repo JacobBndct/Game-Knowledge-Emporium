@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-10-15
 __________________________________________________________________________
 
-***A Lens in the Book of lenses that asks the designer to consider:***
+#### ***A Lens in the Book of lenses that asks the designer to consider:***
 - How can my players earn money? Should there be other ways?
 - What can my players buy? Why?
 - Is money too easy to get? Too hard? How can I change this?

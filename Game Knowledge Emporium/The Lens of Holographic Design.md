@@ -5,7 +5,7 @@ __________________________________________________________________________
 
 Holographic design is about understanding the game structure and the player experience together instead of separately. 
 
-***A Lens in the Book of lenses that asks the designer to consider:***
+#### ***A Lens in the Book of lenses that asks the designer to consider:***
 - What elements of the game make the experience enjoyable?
 - What elements of the game may detract from the experience?
 - How can I change game elements to improve the experience?

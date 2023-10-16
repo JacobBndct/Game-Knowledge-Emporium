@@ -4,7 +4,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-10-12
 __________________________________________________________________________
 
-***A Lens in the Book of lenses that asks the designer to consider:***
+#### ***A Lens in the Book of lenses that asks the designer to consider:***
 - What skills does my game require from the player?
 - Are there categories of skill that this game is missing?
 - Which skills are dominant?

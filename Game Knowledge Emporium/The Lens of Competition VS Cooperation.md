@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-10-15
 __________________________________________________________________________
 
-***A Lens in the Book of lenses that asks the designer to consider:***
+#### ***A Lens in the Book of lenses that asks the designer to consider:***
 - If "1" is Competition and "10" is Cooperation, what number should my game get?
 - Can I give players a choice whether to play cooperatively or competitively?
 - Does my audience prefer competition, cooperation, or a mix?
