@@ -6,10 +6,9 @@
       {
         "id": "9c07ee5958cc9cc4",
         "type": "tabs",
-        "dimension": 53.236040609137056,
         "children": [
           {
-            "id": "f78a212337629aaf",
+            "id": "46209f5bbc6d271a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,29 +21,15 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "a2813329a8e6c407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Passion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       },
       {
-        "id": "b0dc6dc0ce10923e",
+        "id": "23ad50006d2c9c48",
         "type": "tabs",
-        "dimension": 46.763959390862944,
         "children": [
           {
-            "id": "9fe1499f94fe0370",
+            "id": "a672008aad50e3ec",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -192,13 +177,15 @@
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "random-note:Open random note": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f78a212337629aaf",
+  "active": "46209f5bbc6d271a",
   "lastOpenFiles": [
     "The Lens of Passion.md",
     "Home.md",
+    "Difference law.md",
     "The Lens of Risk Mitigation.md",
     "The Lens of The Toy.md",
     "The Lens of Needs.md",
@@ -222,7 +209,6 @@
     "The Lens of Competition.md",
     "The Lens of Head and Hands.md",
     "The Lens of Skill vs Chance.md",
-    "The Lens of Skill.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
