@@ -22,12 +22,15 @@
             }
           },
           {
-            "id": "a0ec82cee05816a1",
+            "id": "fbf6ceab9e581adb",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -117,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Lens of Passion.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Lens of Passion.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Lens of Passion.md"
+                "file": "Home.md"
               }
             }
           },
@@ -187,11 +190,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "a0ec82cee05816a1",
+  "active": "fbf6ceab9e581adb",
   "lastOpenFiles": [
+    "Home.md",
     "The Lens of Passion.md",
     "The Lens of Needs.md",
     "The Lens of Physical Interface.md",
@@ -217,7 +222,6 @@
     "The Lens of Skill.md",
     "The Lens of Triangularity.md",
     "The Lens of Meaningful Choices.md",
-    "The Lens of Challenge.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
