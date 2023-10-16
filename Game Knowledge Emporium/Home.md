@@ -6,7 +6,7 @@ async function DailyLenses(lensType, numberToShow) {
 		.sort()
 		.map(note => note.file);
 		
-	var displayNotes = notes
+	var displayNotes = await notes
 		.where(note => CountNotes(notes, note, numberToShow));
 	
 	dv.header(3, `${lensType} Lenses: ***${displayNotes.name.join()}***`);
