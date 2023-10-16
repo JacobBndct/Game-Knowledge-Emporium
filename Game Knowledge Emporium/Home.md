@@ -6,7 +6,5 @@ const notes = dv.pages('#GameDesign/Lenses')
 	.map(note => note.file.path);
 
 notes.forEach(note => dv.paragraph(`![[${note}]]`))
-
 ```
-
-![[]]
+![[The Lens of Head and Hands]]
