@@ -1,3 +1,4 @@
+
 ## Daily Lenses
 ___
 ```dataviewjs
@@ -6,7 +7,7 @@ function DailyLenses(lensType, numberToShow) {
 		.map(note => note.file);
 		
 	var displayNotes = notes
-		.where(note => notes.indexOf(note) = (DayHash() % notes.length));
+		.where(note => notes.indexOf(note) == (DayHash() % notes.length));
 	
 	dv.header(3, `${lensType} Lenses: ***${displayNotes.name.join()}***`);
 
