@@ -3,6 +3,7 @@ ___
 ```dataviewjs
 function DailyLenses(lensType, numberToShow) {
 	const notes = dv.pages(`#GameDesign/Lenses/${lensType}`)
+		.where 
 		.map(note => note.file);
 
 	const displayNotes = dv.array([]);
@@ -10,9 +11,9 @@ function DailyLenses(lensType, numberToShow) {
 		displayNotes.concat(notes[(DayHash() + i) % notes.length]);
 	}
 
-	dv.header(3, `${lensType} Lenses: ${notes.join()}`);
+	dv.header(3, `${lensType} Lenses: ${notes.name.join()}`);
 
-	displayNotes.forEach(note => dv.paragraph(`![[${note}#A Lens in the Book of lenses that asks the designer to consider ]]`));
+	notes.forEach(note => dv.paragraph(`![[${note}#A Lens in the Book of lenses that asks the designer to consider ]]`));
 }
 
 function DayHash() {
