@@ -20,8 +20,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a0ec82cee05816a1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b0dc6dc0ce10923e",
@@ -179,7 +190,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a2813329a8e6c407",
+  "active": "a0ec82cee05816a1",
   "lastOpenFiles": [
     "The Lens of Passion.md",
     "The Lens of Needs.md",
