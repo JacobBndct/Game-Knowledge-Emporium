@@ -121,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -188,14 +192,13 @@
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "random-note:Open random note": false,
-      "homepage:Open homepage": false,
-      "smart-random-note:Open Random Note from Search": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "9fe1499f94fe0370",
+  "active": "f78a212337629aaf",
   "lastOpenFiles": [
-    "Home.md",
     "The Lens of Passion.md",
+    "Home.md",
     "The Lens of Risk Mitigation.md",
     "The Lens of The Toy.md",
     "The Lens of Needs.md",
