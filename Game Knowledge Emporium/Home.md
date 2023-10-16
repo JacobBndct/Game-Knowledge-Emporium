@@ -6,4 +6,5 @@ const notes = dv.pages('#GameDesign/Lenses')
 	.map(note => note.file.link);
 dv.list(notes)
 
+dv.fileLink("", true)
 ```
