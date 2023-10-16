@@ -5,4 +5,6 @@ const notes = dv.pages('#GameDesign/Lenses')
 	.slice(0, numberToShow)
 	.map(note => dv.fileLink(note.file.path, true));
 dv.list(notes)
+
+jpgFiles.forEach(file => dv.paragraph(`![[${file.path}]]`))
 ```
