@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c8a54d2ecf4e21db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,20 +176,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "610a25bf037e833b",
+  "active": "c8a54d2ecf4e21db",
   "lastOpenFiles": [
+    "The Lens of Competition.md",
     "The Lens of Chance.md",
     "Home.md",
+    "The Lens of Challenge.md",
     "Templates/Basic Template.md",
     "The Lens of Emotions.md",
     "Templates/Book of Lenses Template.md",
     "The Lens of Control.md",
-    "The Lens of Challenge.md",
     "The Lens of Action.md",
     "The Lens of Competition vs Cooperation.md",
     "The Lens of Character.md",
     "The Lens of Curiosity.md",
-    "The Lens of Competition.md",
     "Transitivity of Inclusion.md",
     "The Lens of Emergence.md",
     "The Lens of Cooperation.md",
