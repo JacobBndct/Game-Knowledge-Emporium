@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8ef3540f145a485",
+        "id": "cf45f8a4051997fd",
         "type": "tabs",
         "children": [
           {
-            "id": "6656dc6ded70f4d5",
+            "id": "610a25bf037e833b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -162,7 +162,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6656dc6ded70f4d5",
+  "active": "610a25bf037e833b",
   "lastOpenFiles": [
     "The Lens of Chance.md",
     "Home.md",
