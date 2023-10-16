@@ -106,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,10 +177,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "46209f5bbc6d271a",
+  "active": "a672008aad50e3ec",
   "lastOpenFiles": [
-    "The Lens of Passion.md",
     "Home.md",
+    "The Lens of Passion.md",
     "Difference law.md",
     "The Lens of Risk Mitigation.md",
     "The Lens of The Toy.md",
