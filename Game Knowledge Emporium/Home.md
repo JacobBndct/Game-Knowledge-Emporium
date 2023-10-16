@@ -6,7 +6,7 @@ function DailyLenses(lensType, numberToShow) {
 		.map(note => note.file);
 		
 	var displayNotes = notes
-		.where(note => );
+		.where(note => CountNotes(notes, note, numberToShow));
 	
 	dv.header(3, `${lensType} Lenses: ***${displayNotes.name.join()}***`);
 
@@ -23,7 +23,7 @@ function DayHash() {
 	return year + month * 3 + day * 7;
 }
 
-function CountNotes() {
+function CountNotes(notes, note, numberToShow) {
 	for(i = 0; i < numberToShow; i++) {
 		if (notes.indexOf(note) == ((DayHash() + i) % notes.length)) {
 			return true;

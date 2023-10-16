@@ -8,9 +8,8 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36fa09a388149f49",
+            "id": "b893fece8d3d59c6",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -179,7 +177,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "36fa09a388149f49",
+  "active": "b893fece8d3d59c6",
   "lastOpenFiles": [
     "Home.md",
     "The Lens of Emotions.md",
