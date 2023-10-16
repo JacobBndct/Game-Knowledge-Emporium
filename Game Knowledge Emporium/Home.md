@@ -5,11 +5,12 @@ function DailyLenses(lensType, numberToShow) {
 	var notes = dv.pages(`#GameDesign/Lenses/${lensType}`)
 		.map(note => note.file);
 		
-	notes = notes.where(note => (DayHash() % notes.length) <= notes.indexOf(note) <= ((DayHash() + numberToShow) % notes.length));
+	var displayNotes = .concat(notes
+		.where(note => notes.indexOf(note) == 2));
 	
-	dv.header(3, `${lensType} Lenses: ${notes.name.join()}`);
+	dv.header(3, `${lensType} Lenses: ***${displayNotes.name.join()}***`);
 
-	notes.forEach(note => dv.paragraph(`![[${note.path}#A Lens in the Book of lenses that asks the designer to consider ]]`));
+	displayNotes.forEach(note => dv.paragraph(`![[${note.path}#A Lens in the Book of lenses that asks the designer to consider ]]`));
 }
 
 function DayHash() {
