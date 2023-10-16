@@ -6,13 +6,13 @@ async function DailyLenses(lensType, numberToShow) {
 		.sort()
 		.map(note => note.file);
 		
-	var displayNotes = await notes
+	var displayNotes = notes
 		.where(note => CountNotes(notes, note, numberToShow));
 	
 	dv.header(3, `${lensType} Lenses: ***${displayNotes.name.join()}***`);
 
 	for (const note of displayNotes) {
-		dv.paragraph(`![[${note.path}#A Lens in the Book of lenses that asks the designer to consider ]]`);
+		await dv.paragraph(`![[${note.path}#A Lens in the Book of lenses that asks the designer to consider ]]`);
 	}
 }
 
