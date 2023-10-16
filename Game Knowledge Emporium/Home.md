@@ -4,12 +4,13 @@ ___
 function DailyLenses(lensType, numberToShow) {
 	const notes = dv.pages(`#GameDesign/Lenses/${lensType}`)
 		.map(note => note.file);
-	dv.header(3, `${lensType} Lenses`);
 
 	const displayNotes = dv.array([]);
 	for(i = 0; i < numberToShow; i++) {
 		displayNotes.concat(notes[(DayHash() + i) % notes.length]);
 	}
+
+	dv.header(3, `${lensType} Lenses: ${notes.join()}`);
 
 	displayNotes.forEach(note => dv.paragraph(`![[${note}#A Lens in the Book of lenses that asks the designer to consider ]]`));
 }
