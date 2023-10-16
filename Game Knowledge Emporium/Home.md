@@ -5,7 +5,7 @@ function DailyLenses(lensType, numberToShow) {
 	var notes = dv.pages(`#GameDesign/Lenses/${lensType}`)
 		.map(note => note.file);
 		
-	notes = notes.where(note => (DayHash() % notes.length) <= note.index <= ((DayHash() + numberToShow) % notes.length));
+	notes = notes.where(note => (DayHash() % notes.length) <= notes.indexOf(note) <= ((DayHash() + numberToShow) % notes.length));
 	
 	dv.header(3, `${lensType} Lenses: ${notes.name.join()}`);
 
