@@ -131,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,10 +201,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "36fa09a388149f49",
+  "active": "017abaa3cdc8dcca",
   "lastOpenFiles": [
-    "The Lens of Emotions.md",
     "Home.md",
+    "The Lens of Emotions.md",
     "The Lens of Chance.md",
     "Templates/Book of Lenses Template.md",
     "The Lens of Control.md",
