@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date of Creation: 2023-10-13
 __________________________________________________________________________
 
-### ***A Lens in the Book of lenses that asks the designer to consider:***
+#### ***A Lens in the Book of lenses that asks the designer to consider:***
 - Are my players looking for mindless action, or an intellectual challenge?
 - Would adding more places that involve puzzle solving in my game make it more interesting?
 - Are there places where the player can relax their brain, and just play the game without thinking?

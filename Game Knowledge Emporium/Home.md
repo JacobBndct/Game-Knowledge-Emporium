@@ -1,5 +1,5 @@
 ```dataviewjs
-const numberToShow = 2
+const numberToShow = 1
 const notes = dv.pages('#GameDesign/Lenses')
 	.sort(() => 0.5 - Math.random())
 	.slice(0, numberToShow)
@@ -7,4 +7,3 @@ const notes = dv.pages('#GameDesign/Lenses')
 
 notes.forEach(note => dv.paragraph(`![[${note}]]`))
 ```
-![[The Lens of Head and Hands]]
