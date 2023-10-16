@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #Math/SetTheory 
-###### *Date of Creation: 2023-09-24*
+#### **Tags:** #Math/SetTheory
+###### *Date Of Creation: 2023-09-24*
 __________________________________________________________________________
 
 Counting collections of objects as sets and creating functions to describe the relations between sets is what set theory is all about. Functions are essential in showing how sets relate and make the theory of sets more powerful and expressive than mere arithmetic.
@@ -26,6 +26,6 @@ In the table below various concepts from elementary counting and arithmetic are 
 
 
 
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)

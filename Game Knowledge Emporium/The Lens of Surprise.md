@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign/Lenses/Experience   
-###### *Date of Creation: 2023-09-25*
+#### **Tags:** #GameDesign/Lenses/Experience
+###### *Date Of Creation: 2023-09-25*
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
@@ -8,6 +8,6 @@ __________________________________________________________________________
 - Does the story in my game have surprises? Do the game rules? Does the artwork? The technology?
 - Do your rules give players ways to surprise each other?
 - Do your rules give players ways to surprise themselves?
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

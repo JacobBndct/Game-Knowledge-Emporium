@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #Programming/AI 
-###### *Date of Creation: 2023-09-24*
+#### **Tags:** #Programming/AI
+###### *Date Of Creation: 2023-09-24*
 __________________________________________________________________________
 
 Takes inspiration from Psychology, Neuroscience, Control Theory, Artificial Intelligence 
@@ -15,6 +15,6 @@ Reward actions that lead to good outcomes and punish actions that lead to bad ou
 
 [[Exploration]] and [[Exploitation]]
 
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. 

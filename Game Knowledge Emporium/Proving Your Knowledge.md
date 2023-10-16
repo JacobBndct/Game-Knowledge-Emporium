@@ -1,11 +1,11 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign 
-###### *Date of Creation: 2023-09-24*
+#### **Tags:** #GameDesign
+###### *Date Of Creation: 2023-09-24*
 __________________________________________________________________________
 
 Proving your knowledge in games can often be one of the greatest challenges in designing a mystery / detective game. The big question that game designers have to solve is "How can you ask the player to prove their deduction or knowledge without giving away the solution?"
 
 ![[Deduction and curiosity.pdf]]
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. 

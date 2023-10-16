@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign/Lenses/Game  
-###### *Date of Creation: 2023-10-15
+#### **Tags:** #GameDesign/Lenses/Game
+###### *Date Of Creation: 2023-10-15
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
@@ -10,6 +10,6 @@ __________________________________________________________________________
 - Are the rewards my game gives out too regular? Can they be given out in a more variable way?
 - How are my rewards related to one another? Is there a way they could be better connected?
 - How are my rewards building? Too fast, too slow, just right?
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

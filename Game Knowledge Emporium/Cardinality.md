@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #Math/SetTheory 
-###### *Date of Creation: 2023-09-24*
+#### **Tags:** #Math/SetTheory
+###### *Date Of Creation: 2023-09-24*
 __________________________________________________________________________
 
 *Two sets $X$ and $Y$ have the same **cardinality** iff there us an [[function inverses|invertible function]] $f: X \rightarrow Y$.* 
@@ -13,6 +13,6 @@ To show that that two sets have the same cardinality:
 3. Prove that its the inverse.
 
 Remark that both the set $\Bbb N$ and $\Bbb Z$ have the *same* cardinality because we can find an invertible function $h: \Bbb N \rightarrow \Bbb Z$. Intuitively this means that $\Bbb N$ and $\Bbb Z$ are "equally infinite". The sets for which $\Bbb N$ is suffice to count the elements of a set are called *[[countable sets]]*.
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)

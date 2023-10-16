@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #Programming 
-###### *Date of Creation: 2023-09-24*
+#### **Tags:** #Programming
+###### *Date Of Creation: 2023-09-24*
 __________________________________________________________________________ 
 ### [[Single Responsibility Principle]]
 **Summary**: Each class should only have one responsibility. This means that each class only needs to be changes when you are making changes to it's responsibility.
@@ -13,6 +13,6 @@ __________________________________________________________________________
 ### [[Dependency Inversion Principle]]
 **Summary**: Depend upon abstractions, instead of concrete implementations.
 
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. [SOLID - Wikipedia](https://en.wikipedia.org/wiki/SOLID)

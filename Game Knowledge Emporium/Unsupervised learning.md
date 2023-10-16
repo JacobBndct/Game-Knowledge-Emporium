@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #Programming/AI 
-###### *Date of Creation: 2023-09-24*
+#### **Tags:** #Programming/AI
+###### *Date Of Creation: 2023-09-24*
 __________________________________________________________________________
 
 Learning is done from the inputs alone
@@ -23,6 +23,6 @@ Reducing the dimensionality of data
 By learning to compress the (encode) a smaller latent representation and decompress from (decode) a smaller latent representation
 
 
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. 

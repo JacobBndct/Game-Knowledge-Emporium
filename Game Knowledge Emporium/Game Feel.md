@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign 
-###### *Date of Creation: 2023-09-26*
+#### **Tags:** #GameDesign
+###### *Date Of Creation: 2023-09-26*
 __________________________________________________________________________
 
 According to Steve Swink in his book Game Feel, there are three requirements that must be met for a game to have game feel:
@@ -9,6 +9,6 @@ According to Steve Swink in his book Game Feel, there are three requirements tha
 2. [[Spatial Simulation]]
 3. [[Polish]]
 
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. Game Feel - Steve Swink

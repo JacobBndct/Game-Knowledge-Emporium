@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign/Lenses/Player  
-###### *Date of Creation: 2023-09-25
+#### **Tags:** #GameDesign/Lenses/Player
+###### *Date Of Creation: 2023-09-25
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
@@ -9,6 +9,6 @@ __________________________________________________________________________
 - What do they expect to see in a game?
 - If I were in their place, what would I want to see in a game?
 - What will they like or dislike about my game in particular?
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

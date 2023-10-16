@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign/Lenses/Game   
-###### *Date of Creation: 2023-10-15
+#### **Tags:** #GameDesign/Lenses/Game
+###### *Date Of Creation: 2023-10-15
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
@@ -9,6 +9,6 @@ __________________________________________________________________________
 - Is money too easy to get? Too hard? How can I change this?
 - Are choices about earning and spending meaningful ones?
 - Is a universal currency a good idea in my game o should there be specialized currencies?
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign/Lenses/Player #PlayerBehavior 
-###### *Date of Creation: 2023-10-12
+#### **Tags:** #GameDesign/Lenses/Player #PlayerBehavior
+###### *Date Of Creation: 2023-10-12
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
@@ -9,6 +9,6 @@ __________________________________________________________________________
 - Which are pleasure seeking? Which are pain avoiding?
 - Which motivations support each other?
 - Which motivations are in conflict?
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

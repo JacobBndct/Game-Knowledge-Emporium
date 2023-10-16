@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign/Lenses/Game  
-###### *Date of Creation: 2023-10-15
+#### **Tags:** #GameDesign/Lenses/Game
+###### *Date Of Creation: 2023-10-15
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
@@ -9,6 +9,6 @@ __________________________________________________________________________
 - Do my punishments seem fair to the players? Why or why not?
 - Is there a way to turn these punishments into rewards and get the same, or better effects?
 - Are my strong punishments balanced against commensurately strong rewards?
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign/Lenses/Experience   
-###### *Date of Creation: 2023-09-25
+#### **Tags:** #GameDesign/Lenses/Experience
+###### *Date Of Creation: 2023-09-25
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
@@ -8,6 +8,6 @@ __________________________________________________________________________
 - When I describe my game to people, what ideas get them really excited?
 - If I had no constraints of any kind, what would this game be like?
 - I have certain instincts about how this game should be. What is driving those instincts?
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

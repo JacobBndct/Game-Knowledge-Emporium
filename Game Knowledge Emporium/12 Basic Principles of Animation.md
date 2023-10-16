@@ -1,6 +1,6 @@
 __________________________________________________________________________
 #### **Tags:** #Animation
-###### *Date of Creation: 2023-09-24*
+###### *Date Of Creation: 2023-09-24*
 __________________________________________________________________________
 
 1. Squash and stretch
@@ -16,6 +16,6 @@ __________________________________________________________________________
 11. Solid drawing
 12. Appeal
 
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. [Understand Disney's 12 principles of animation | Creative Bloq](https://www.creativebloq.com/advice/understand-the-12-principles-of-animation)

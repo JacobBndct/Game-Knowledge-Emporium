@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #Programming/AI 
-###### *Date of Creation: 2023-09-24*
+#### **Tags:** #Programming/AI
+###### *Date Of Creation: 2023-09-24*
 __________________________________________________________________________
 
 Learning the relation between input-output pairs
@@ -15,7 +15,7 @@ Forward propagation
 
 Back propagation
 - Look back at the notes lmao
-#### Example: ALVINN
+#### Example: Alvinn
 
 ALVINN is a robot with a Neural NEtwork
 - Objective : autonomous lane following
@@ -28,6 +28,6 @@ Step by step
 - The human steering angle is presented
 - ALVINN computes the difference (output error)
 
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. 

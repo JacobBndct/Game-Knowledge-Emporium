@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign/Lenses/Player   
-###### *Date of Creation: 2023-10-12
+#### **Tags:** #GameDesign/Lenses/Player
+###### *Date Of Creation: 2023-10-12
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
@@ -9,6 +9,6 @@ __________________________________________________________________________
 - Do players feel the judgement is fair?
 - Do they care about the judgement?
 - Does the judgment make them want to improve?
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

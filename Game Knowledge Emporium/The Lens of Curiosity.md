@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign/Lenses/Experience  
-###### *Date of Creation: 2023-09-24*
+#### **Tags:** #GameDesign/Lenses/Experience
+###### *Date Of Creation: 2023-09-24*
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***

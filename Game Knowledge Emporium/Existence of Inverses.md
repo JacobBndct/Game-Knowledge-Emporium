@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #Math/SetTheory #Math/Lemma 
-###### *Date of Creation: 2023-10-04*
+#### **Tags:** #Math/SetTheory #Math/Lemma
+###### *Date Of Creation: 2023-10-04*
 __________________________________________________________________________
 
 *The function $f: X \rightarrow Y$ is invertible if and only if $f$ is a bijection*
@@ -12,6 +12,6 @@ First assume there exists an inverse $f^{−1}$ . So $f^{−1} \circ f = id_X$ a
 Now assume $f$ is a bijection. We will show that there exists an inverse $g : Y → X$. Take any $y ∈ Y$ . Since $f$ is surjective there exists at least one $x ∈ X$ such that $f(x) = y$. In fact, since $f$ is injective there exists precisely one $x$ such that $f(x) = y$. We can therefore define $g(y) = x$. In other words, $g(y) = x$ where $x$ is the unique $x ∈ X$ satisfying $f(x) = y$. 
 
 It remains to check that $f \circ g = id_Y$ and $g \circ f = id_X$ with the above definition of $g$. Take $y ∈ Y$ and $x$ the unique $x ∈ X$ such that $f(x) = y$. By definition of $g$ we have $(f \circ g)(y) = f(g(y)) = f(x) = y$. This proves $f \circ g = id_Y$ . Likewise $(g \circ f)(x) = g(f(x)) = g(y) = x$ showing $g \circ f = id_X$. This completes the proof that if f is a bijection then it has an inverse. $\star$
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)

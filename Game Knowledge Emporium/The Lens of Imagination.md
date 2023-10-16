@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign/Lenses/Player   
-###### *Date of Creation: 2023-10-15
+#### **Tags:** #GameDesign/Lenses/Player
+###### *Date Of Creation: 2023-10-15
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
@@ -10,6 +10,6 @@ __________________________________________________________________________
 - What details would be low quality if we provided them? Can imagination fill the gap instead?
 - Can I give details that the imagination will be able to reuse again and again?
 - Which details inspire imagination? Which stifle it?
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

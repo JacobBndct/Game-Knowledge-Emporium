@@ -1,6 +1,6 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign/Lenses/Game   
-###### *Date of Creation: 2023-10-12
+#### **Tags:** #GameDesign/Lenses/Game
+###### *Date Of Creation: 2023-10-12
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
@@ -9,6 +9,6 @@ __________________________________________________________________________
 - What are the boundaries of the space?
 - Are there sub-spaces? How are they connected?
 - Is there more than one useful way to abstractly model the space of this game?
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

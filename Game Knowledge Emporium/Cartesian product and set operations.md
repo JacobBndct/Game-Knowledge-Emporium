@@ -1,9 +1,9 @@
 __________________________________________________________________________
-#### **Tags:** #Math/SetTheory #Math/Lemma  
-###### *Date of Creation: 2023-10-04*
+#### **Tags:** #Math/SetTheory #Math/Lemma
+###### *Date Of Creation: 2023-10-04*
 __________________________________________________________________________
 
-*If $A$ and $B$ and $Y$ are sets then*
+*If $A$ and $B$ and $Y$ are sets then*  
 0. $(A \cup B) \times Y = (A \times Y) \cup (B \times Y)$
 1. $(A \cap B) \times Y = (A \times Y) \cap (B \times Y)$
 2. $(A \setminus B) \times Y = (A \times Y) \setminus (B \times Y)$
@@ -13,6 +13,6 @@ __________________________________________________________________________
 Conversely, suppose $s \in (A \times Y) \cup (B \times Y)$ then there are two possibilities: either $s \in A \times Y$ or $s \in B \times Y$. In the first case we have $s = (x,y)$ with $x \in A$ and $y \in Y$ so $s \in (A \cup B) \times Y$. In the second case we have $s = (x,y)$ with $x \in B$ and $y \in Y$ so again $s \in (A \cup B) \times Y$ and the proof is complete.
 
 The proofs for the remaining parts 1 and 2 are left as an exercise to the reader. $\star$
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)

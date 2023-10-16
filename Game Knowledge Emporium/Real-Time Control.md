@@ -1,10 +1,10 @@
 
 __________________________________________________________________________
-#### **Tags:** #GameDesign 
-###### *Date of Creation: 2023-09-26*
+#### **Tags:** #GameDesign
+###### *Date Of Creation: 2023-09-26*
 __________________________________________________________________________
 
 One of the 3 requirements for [[Game Feel]] according to Steve Swink
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. Game Feel - Steve Swink

@@ -1,7 +1,7 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign/Lenses/Game 
+#### **Tags:** #GameDesign/Lenses/Game
 
-###### *Date of Creation: 2023-10-12
+###### *Date Of Creation: 2023-10-12
 __________________________________________________________________________
 
 ***A Lens in the Book of lenses that asks the designer to consider:***
@@ -13,6 +13,6 @@ __________________________________________________________________________
 - Does this make the game feel unfair?
 - Can players improve their skills with practice?
 - Does this game demand the right level of skill?
-#### Sources:
+#### Sources
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

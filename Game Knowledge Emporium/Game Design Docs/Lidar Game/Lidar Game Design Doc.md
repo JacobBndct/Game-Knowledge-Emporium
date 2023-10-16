@@ -14,7 +14,7 @@
 # Gameplay
 
 ![[Lidar - Gameplay]]
-# Areas   
+# Areas
 
 ![[Lidar - Areas]]
 # Benchmarks

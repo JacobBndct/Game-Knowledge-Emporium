@@ -1,4 +1,4 @@
-## Visual considerations
+## Visual Considerations
 
 - Style that is easy to make 3d models
 - Should work around the limitations
@@ -6,12 +6,12 @@
 
 - Subtractive charcoal drawing
 - Grain texture for screen is applied
-- This will be the “threshold” of force needed from each pixel to be applied to the screen
+- This will be the "threshold" of force needed from each pixel to be applied to the screen
 - If threshold is reached draw pixel if not draw white
 - Use hatching for ocular occlusion
 - Use lines or subtraction if area is too dark to create outline for objects in focus
 - Use blending for everything outside depth of field (separate pass)
-- Get area around objects do a distance transform and use “subtraction” to make objects stand out more
+- Get area around objects do a distance transform and use "subtraction" to make objects stand out more
 
 Step by step
 
@@ -22,7 +22,7 @@ Step by step
 5. Objects out of focus get smudged depending on their distance 
 6. Use hashing texture for ocular occlusion
 
-## Visuals references
+## Visuals References
 
 ![[Girl from the other side.png]]
 
