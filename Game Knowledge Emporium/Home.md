@@ -1,3 +1,5 @@
+## Daily Lenses
+___
 ```dataviewjs
 function DailyLenses(lensType, numberToShow) {
 	const notes = dv.pages(`#GameDesign/Lenses/${lensType}`)
@@ -9,6 +11,6 @@ function DailyLenses(lensType, numberToShow) {
 	notes.forEach(note => dv.paragraph(`![[${note}#***A Lens in the Book of lenses that asks the designer to consider ***]]`));
 }
 
-DailyLenses("poop", 3);
-DailyLenses("Game", 2);
+DailyLenses("Game", 1);
+
 ```
