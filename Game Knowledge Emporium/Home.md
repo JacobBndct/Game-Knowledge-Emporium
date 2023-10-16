@@ -6,14 +6,12 @@ function DailyLenses(lensType, numberToShow) {
 		.map(note => note.file);
 	dv.header(3, `${lensType} Lenses`);
 
-	var displayNotes;
+	const displayNotes = dv.array([]);
 	for(i = 0; i < numberToShow; i++) {
-		displayNotes.push(notes[(DayHash() + i) % notes.length]);
+		displayNotes.concat(notes[(DayHash() + i) % notes.length]);
 	}
-	
-	for(const note of displayNotes) {
-		dv.paragraph(`![[${note}#A Lens in the Book of lenses that asks the designer to consider ]]`)
-	}
+
+	displayNotes.forEach(note => dv.paragraph(`![[${note}#A Lens in the Book of lenses that asks the designer to consider ]]`));
 }
 
 function DayHash() {
