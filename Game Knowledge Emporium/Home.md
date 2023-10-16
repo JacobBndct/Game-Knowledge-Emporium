@@ -3,13 +3,8 @@ ___
 ```dataviewjs
 function DailyLenses(lensType, numberToShow) {
 	const notes = dv.pages(`#GameDesign/Lenses/${lensType}`)
-		.where 
+		.where(note => (DayHash() % notes.length) <= note.index <= ((DayHash() + numberToShow) % notes.length)) 
 		.map(note => note.file);
-
-	const displayNotes = dv.array([]);
-	for(i = 0; i < numberToShow; i++) {
-		displayNotes.concat(notes[(DayHash() + i) % notes.length]);
-	}
 
 	dv.header(3, `${lensType} Lenses: ${notes.name.join()}`);
 
