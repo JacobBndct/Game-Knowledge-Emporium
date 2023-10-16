@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: {{date}}
 __________________________________________________________________________
 
-***A Lens in the Book of lenses that asks the designer to consider:***
+#### ***A Lens in the Book of Lenses that Asks the Designer to consider:***
 - 
 #### Sources
 __________________________________________________________________________
