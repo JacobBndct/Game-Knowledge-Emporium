@@ -5,5 +5,5 @@ const notes = dv.pages('#GameDesign/Lenses')
 	.slice(0, numberToShow)
 	.map(note => note.file.path);
 
-notes.forEach(note => dv.paragraph(`![[${note}]]`))
+notes.forEach(note => dv.paragraph(`![[${note}#***A Lens in the Book of lenses that asks the designer to consider ***]]`))
 ```
