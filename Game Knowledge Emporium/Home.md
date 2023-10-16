@@ -3,6 +3,7 @@ ___
 ```dataviewjs
 function DailyLenses(lensType, numberToShow) {
 	var notes = dv.pages(`#GameDesign/Lenses/${lensType}`)
+		.
 		.map(note => note.file);
 		
 	var displayNotes = notes
@@ -29,7 +30,6 @@ function CountNotes(notes, note, numberToShow) {
 			return true;
 		}
 	}
-
 	return false;
 }
 

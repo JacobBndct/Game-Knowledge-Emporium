@@ -12,16 +12,6 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "24c960f5356f262b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
@@ -32,8 +22,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +163,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "24c960f5356f262b",
+  "active": "017abaa3cdc8dcca",
   "lastOpenFiles": [
     "Home.md",
     "The Lens of Emotions.md",
