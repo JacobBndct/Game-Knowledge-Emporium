@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "893d21d89298f652",
+        "id": "c04f2f4a1c5d241d",
         "type": "tabs",
         "children": [
           {
-            "id": "017abaa3cdc8dcca",
+            "id": "34a7fdaefc8a5f6b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -163,7 +163,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "017abaa3cdc8dcca",
+  "active": "34a7fdaefc8a5f6b",
   "lastOpenFiles": [
     "Home.md",
     "The Lens of Emotions.md",
