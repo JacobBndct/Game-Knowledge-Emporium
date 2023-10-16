@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "23ad50006d2c9c48",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b893fece8d3d59c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "893d21d89298f652",
         "type": "tabs",
         "children": [
@@ -35,8 +16,24 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "24c960f5356f262b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +174,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b893fece8d3d59c6",
+  "active": "24c960f5356f262b",
   "lastOpenFiles": [
     "Home.md",
     "The Lens of Emotions.md",
