@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "c8a54d2ecf4e21db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +162,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c8a54d2ecf4e21db",
+  "active": "610a25bf037e833b",
   "lastOpenFiles": [
     "The Lens of Competition.md",
     "The Lens of Chance.md",

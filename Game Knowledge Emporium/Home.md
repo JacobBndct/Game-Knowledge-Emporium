@@ -23,12 +23,12 @@ function DayHash() {
 	var month = String(today.getMonth() + 1).padStart(2, '0');
 	var year = today.getFullYear();
 
-	return year + month * 3 + day * 7;
+	return year + (month * 3) + day;
 }
 
 function CountNotes(notes, note, numberToShow) {
 	for(i = 0; i < numberToShow; i++) {
-		if (notes.indexOf(note) == ((DayHash() + i) % notes.length)) {
+		if (notes.indexOf(note) == ((DayHash() + (i * 3)) % notes.length)) {
 			return true;
 		}
 	}
