@@ -23,19 +23,6 @@
             }
           },
           {
-            "id": "017abaa3cdc8dcca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Head and Hands.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e77536860450e1a0",
             "type": "leaf",
             "state": {
@@ -47,16 +34,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89f4df0fabce9176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Lens of Head and Hands.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "893d21d89298f652",
         "type": "tabs",
         "children": [
           {
-            "id": "a672008aad50e3ec",
+            "id": "017abaa3cdc8dcca",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -205,14 +205,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "017abaa3cdc8dcca",
+  "active": "89f4df0fabce9176",
   "lastOpenFiles": [
-    "The Lens of The Puzzle.md",
-    "The Lens of Head and Hands.md",
     "The Lens of Needs.md",
     "The Lens of Physical Interface.md",
     "The Lens of Control.md",
+    "The Lens of The Puzzle.md",
     "Home.md",
+    "The Lens of Head and Hands.md",
     "The Lens of Essential Experiences.md +.md",
     "Stops.md",
     "Test.md",
