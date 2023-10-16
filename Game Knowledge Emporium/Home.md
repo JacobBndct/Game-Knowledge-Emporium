@@ -1,18 +1,9 @@
-```
-<%*
-const dv = app.plugins.plugins.dataview.api
+```dataview
+const numberToShow = 3
+const notes = dv.pages('#PermanentNote')
+	.sort(() => 0.5 - Math.random())
+	.slice(0, numberToShow)
+	.map(note => note.file.link);
+dv.list(notes)
 
-const candidates = await dv.tryQuery(`
-  LIST WITHOUT ID file.path
-  FROM #daily_random_note
-`)
-const randomNo = Math.floor(Math.random() *
-  (candidates.values.length - 1))
-const filename = candidates.values[ randomNo ]
-const randomContent = await dv.io.load(filename)  
-_%>
-
-... 
-
-<% randomContent %>
 ```

@@ -4,5 +4,6 @@
   "text-extractor",
   "obsidian-git",
   "homepage",
-  "templater-obsidian"
+  "templater-obsidian",
+  "dataview"
 ]
