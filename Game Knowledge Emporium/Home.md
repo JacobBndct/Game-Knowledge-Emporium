@@ -2,13 +2,14 @@
 ___
 ```dataviewjs
 function DailyLenses(lensType, numberToShow) {
-	const notes = dv.pages(`#GameDesign/Lenses/${lensType}`)
-		.where(note => (DayHash() % notes.length) <= note.index <= ((DayHash() + numberToShow) % notes.length)) 
+	var notes = dv.pages(`#GameDesign/Lenses/${lensType}`)
 		.map(note => note.file);
-
+		
+	notes = notes.where(note => (DayHash() % notes.length) <= note.index <= ((DayHash() + numberToShow) % notes.length));
+	
 	dv.header(3, `${lensType} Lenses: ${notes.name.join()}`);
 
-	notes.forEach(note => dv.paragraph(`![[${note}#A Lens in the Book of lenses that asks the designer to consider ]]`));
+	notes.forEach(note => dv.paragraph(`![[${note.path}#A Lens in the Book of lenses that asks the designer to consider ]]`));
 }
 
 function DayHash() {
