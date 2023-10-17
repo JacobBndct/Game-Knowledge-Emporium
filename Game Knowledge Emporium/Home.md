@@ -2,11 +2,15 @@
 ___
 ```dataviewjs
 async function DailyLenses(lensType, numberToShow) {
-	var notes = ```
-await Promise.all(
-`dv.pages(`#GameDesign/Lenses/${lensType}`)
+	var notes = await Promise.all(
+		dv
+		.pages(`#GameDesign/Lenses/${lensType}`)
 		.sort()
-		.map(note => note.file);
+		.map(note => new Promise(async (resolve, reject) => {
+			const file = await dv.io.load(note.file);
+			
+			})
+	);
 		
 	var displayNotes = notes
 		.where(note => CountNotes(notes, note, numberToShow));
