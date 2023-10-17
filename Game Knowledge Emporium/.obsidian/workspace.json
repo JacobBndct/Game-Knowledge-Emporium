@@ -6,6 +6,7 @@
       {
         "id": "13a800e6f26743ff",
         "type": "tabs",
+        "dimension": 49.36079545454545,
         "children": [
           {
             "id": "9cf38ce6969dac91",
@@ -21,14 +22,21 @@
               },
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6994e3036d752ccb",
+        "type": "tabs",
+        "dimension": 50.63920454545454,
+        "children": [
           {
-            "id": "85df6884291f6650",
+            "id": "4bcfec14fac10adf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
+                "file": "Real-Time Control.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,132 +44,19 @@
             }
           },
           {
-            "id": "6d130283d3a5b4c5",
+            "id": "e49677394725724b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Lens of Beauty.md",
+                "file": "Spatial Simulation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "cdaedf72829f252c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Projection.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f702f5226936eef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Story Machine.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e9515ff62d9dd4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Obstacle.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37f07228ef509021",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Simplicity and Transcendence.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f87eb3dcdce65bd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of The Hero's Journey.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4f26dc9dc17c66e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of The Weirdest Thing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "332ac501b02a0f9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Story.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d66566e28305f800",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Freedom.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "869945caa47a0c45",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -227,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Real-Time Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Real-Time Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Real-Time Control.md"
+              }
             }
           },
           {
@@ -297,8 +197,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "869945caa47a0c45",
+  "active": "4bcfec14fac10adf",
   "lastOpenFiles": [
+    "Game Feel.md",
+    "Real-Time Control.md",
+    "Spatial Simulation.md",
+    "Home.md",
     "The Lens of Freedom.md",
     "The Lens of Help.md",
     "The Lens of Story.md",
@@ -309,7 +213,6 @@
     "The Lens of Story Machine.md",
     "The Lens of Projection.md",
     "The Lens of Beauty.md",
-    "Home.md",
     "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
     "The Lens of Inherent Interest.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
@@ -322,9 +225,6 @@
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
     "Game Design Docs/Lidar Game/Lidar - Sound Design.md",
     "The Lens of Interest Curve.md",
-    "The Lens of Channels and Dimensions.md",
-    "The Lens of Modes.md",
-    "The Lens of Moments.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
