@@ -99,9 +99,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e46200f746605c84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Lens of Modes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8024386c4ef4576d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Lens of Moments.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6134f2d51b9fdce6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Lens of Interest Curve.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -167,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Lens of Channels and Dimensions.md",
+                "file": "The Lens of Interest Curve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Lens of Channels and Dimensions.md",
+                "file": "The Lens of Interest Curve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Lens of Channels and Dimensions.md"
+                "file": "The Lens of Interest Curve.md"
               }
             }
           },
@@ -241,10 +280,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ef5c3552dc87327c",
+  "active": "6134f2d51b9fdce6",
   "lastOpenFiles": [
-    "The Lens of Primality.md",
+    "The Lens of Moments.md",
+    "The Lens of Interest Curve.md",
+    "The Lens of Modes.md",
     "The Lens of Channels and Dimensions.md",
+    "The Lens of Primality.md",
     "The Lens of Juiciness.md",
     "The Lens of Feedback.md",
     "Transparency.md",
@@ -266,9 +308,6 @@
     "The Lens of Cooperation.md",
     "The Lens of Economy.md",
     "The Lens of Elegance.md",
-    "The Number of Functions.md",
-    "The Lens of Endogenous Value.md",
-    "The Lens of Fairness.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
