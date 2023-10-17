@@ -41,3 +41,6 @@ DailyLenses("Experience", 1);
 DailyLenses("Process", 1);
 DailyLenses("Game", 1);
 ```
+
+
+![[The Lens of Freedom#***A Lens in the Book of Lenses that Asks the Designer to consider ***|]]
