@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cf45f8a4051997fd",
+        "id": "13a800e6f26743ff",
         "type": "tabs",
         "children": [
           {
-            "id": "610a25bf037e833b",
+            "id": "9cf38ce6969dac91",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -162,7 +162,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "610a25bf037e833b",
+  "active": "9cf38ce6969dac91",
   "lastOpenFiles": [
     "The Lens of Competition.md",
     "The Lens of Chance.md",
