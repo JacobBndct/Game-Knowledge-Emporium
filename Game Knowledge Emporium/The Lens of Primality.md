@@ -4,11 +4,8 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 #### ***A Lens in the Book of Lenses that Asks the Designer to consider:***
-- What do players need to know at this moment?
-- What do players want to know at this moment?
-- What do I want players to feel at this moment? How can I give feedback that creates that feeling?
-- What do the players want to feel at this moment? Is there an opportunity for them to create a situation where they will feel that?
-- What is the player's goal at this moment? What feedback will help them toward that goal?
+- What parts of my game are so primal an animal could play? Why?
+- What parts of my game could be more primal?
 #### Sources
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]
