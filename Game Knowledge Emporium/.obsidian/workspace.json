@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real-Time Control.md",
+                "file": "Polish.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spatial Simulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spatial Simulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spatial Simulation.md"
+              }
             }
           },
           {
@@ -203,11 +208,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "da071ee985411c06",
+  "active": "e49677394725724b",
   "lastOpenFiles": [
-    "Spatial Simulation.md",
-    "Real-Time Control.md",
+    "Polish.md",
     "Game Feel.md",
+    "Real-Time Control.md",
+    "Spatial Simulation.md",
     "Frame Rates.md",
     "Home.md",
     "The Lens of Freedom.md",
@@ -230,7 +236,6 @@
     "Game Design Docs/Lidar Game/Lidar - Theme & Setting.md",
     "Game Design Docs/Lidar Game/Lidar - Overview.md",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
-    "Game Design Docs/Lidar Game/Lidar - Sound Design.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",

@@ -4,8 +4,6 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 One of the 3 requirements for [[Game Feel]] according to Steve Swink. 
-
-Simulated space refers to the simulated physical interactions in v
 #### Sources
 __________________________________________________________________________
 1. Game Feel - Steve Swink
