@@ -55,17 +55,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0b64b76c305ca38b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Real-Time Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Real-Time Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Real-Time Control.md"
+              }
             }
           },
           {
@@ -202,11 +197,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0b64b76c305ca38b",
+  "active": "4bcfec14fac10adf",
   "lastOpenFiles": [
-    "Real-Time Control.md",
     "Game Feel.md",
     "Spatial Simulation.md",
+    "Frame Rates.md",
+    "Real-Time Control.md",
     "Home.md",
     "The Lens of Freedom.md",
     "The Lens of Help.md",
@@ -229,7 +225,6 @@
     "Game Design Docs/Lidar Game/Lidar - Overview.md",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
     "Game Design Docs/Lidar Game/Lidar - Sound Design.md",
-    "The Lens of Interest Curve.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
