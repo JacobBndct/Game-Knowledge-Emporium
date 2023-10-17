@@ -4,10 +4,10 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 #### ***A Lens in the Book of Lenses that Asks the Designer to consider:***
-- When do my players have freedom of action? Do they feel free at these times?
-- When are they constrained? Do they feel constrained at these times?
-- Are there any places I can let them feel more free than they do now?
-- Are there any places where they are overwhelmed by too much freedom?
+- Within the context of the game, who is the player helping?
+- Can I make the player feel more connected to the characters who need help?
+- Can I better tell the story of how meeting game goals helps someone?
+- How can the helped character show their appreciation?
 #### Sources
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

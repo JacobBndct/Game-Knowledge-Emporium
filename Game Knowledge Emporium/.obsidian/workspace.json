@@ -151,9 +151,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "869945caa47a0c45",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -219,7 +227,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Lens of Freedom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +243,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Lens of Freedom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,9 +264,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Lens of Freedom.md"
-              }
+              "state": {}
             }
           },
           {
@@ -293,10 +297,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d66566e28305f800",
+  "active": "869945caa47a0c45",
   "lastOpenFiles": [
-    "The Lens of Story.md",
     "The Lens of Freedom.md",
+    "The Lens of Help.md",
+    "The Lens of Story.md",
     "The Lens of The Weirdest Thing.md",
     "The Lens of The Hero's Journey.md",
     "The Lens of Simplicity and Transcendence.md",
@@ -320,7 +325,6 @@
     "The Lens of Channels and Dimensions.md",
     "The Lens of Modes.md",
     "The Lens of Moments.md",
-    "The Lens of Primality.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
