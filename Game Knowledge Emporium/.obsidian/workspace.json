@@ -4,31 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "13a800e6f26743ff",
-        "type": "tabs",
-        "dimension": 49.36079545454545,
-        "children": [
-          {
-            "id": "9cf38ce6969dac91",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
         "id": "6994e3036d752ccb",
         "type": "tabs",
-        "dimension": 50.63920454545454,
         "children": [
           {
             "id": "da071ee985411c06",
@@ -41,16 +18,18 @@
             }
           },
           {
-            "id": "4bcfec14fac10adf",
+            "id": "d27b49d38bb7b671",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Feel.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -195,7 +174,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9cf38ce6969dac91",
+  "active": "d27b49d38bb7b671",
   "lastOpenFiles": [
     "Game Feel.md",
     "Polish.md",
