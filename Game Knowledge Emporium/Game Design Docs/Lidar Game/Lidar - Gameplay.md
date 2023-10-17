@@ -22,8 +22,6 @@ Tools can change the way the player perceives things and add more complexity by 
 - Keep lamp lite in order to explore the world.
 - When the lamp goes out, the player is in danger of being is reset back to the loop starting point.
 - Some areas require the player to have a light level high or low enough.
-### Grapple Hook
--   
 ### Traveling between Dimensions
 - Travel between realities to combine to interact with or combine things together.
 - Perhaps you're traveling more than just space when you swap universes, but also time?
