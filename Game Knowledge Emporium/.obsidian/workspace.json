@@ -60,9 +60,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4f702f5226936eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Lens of Projection.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Lens of Projection.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Lens of Projection.md"
+                "file": "Home.md"
               }
             }
           },
@@ -202,10 +214,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cdaedf72829f252c",
+  "active": "9cf38ce6969dac91",
   "lastOpenFiles": [
-    "The Lens of Beauty.md",
+    "Untitled.md",
     "The Lens of Projection.md",
+    "The Lens of Beauty.md",
     "The Lens of Inherent Interest.md",
     "Home.md",
     "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
@@ -229,7 +242,6 @@
     "The Lens of Virtual Interface.md",
     "The Lens of Competition.md",
     "The Lens of Chance.md",
-    "The Lens of Challenge.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
