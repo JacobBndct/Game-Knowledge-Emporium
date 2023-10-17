@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "translucency": false,
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "HomePage"
+  ]
 }
