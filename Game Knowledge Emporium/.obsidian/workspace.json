@@ -41,7 +41,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Transparency.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f338ea62a06978d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Lens of Feedback.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "The Lens of Feedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "The Lens of Feedback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "The Lens of Feedback.md"
               }
             }
           },
@@ -189,10 +202,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2a4b81629be22cb3",
+  "active": "4f338ea62a06978d",
   "lastOpenFiles": [
+    "Transparency.md",
+    "The Lens of Feedback.md",
     "The Lens of Virtual Interface.md",
-    "Untitled.md",
     "Home.md",
     "The Lens of Competition.md",
     "The Lens of Chance.md",
@@ -216,7 +230,6 @@
     "The Lens of Essential Experiences.md",
     "The Lens of Expected Value.md",
     "The Lens of Functional Space.md",
-    "The Lens of Fun.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
