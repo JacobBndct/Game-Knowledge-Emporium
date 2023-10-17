@@ -6,6 +6,7 @@ The player encounters several areas each encompassing a different aspect of them
 - Meeting expectations (Towering area which is unreachable)
 - Pressure to do what others want from you (religion)
 - Imposter syndrome 
+- Isolation & desolation 
 ### Potential Endings
 - The player accepts their fate and choses to stay in their new world.
 - The player chooses to leave their friend behind and run away themselves.
