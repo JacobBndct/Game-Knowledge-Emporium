@@ -12,7 +12,7 @@ async function DailyLenses(lensType, numberToShow) {
 	dv.header(3, `${lensType} Lenses: ***${displayNotes.name.join()}***`);
 
 	for (const note of displayNotes) {
-		await dv.paragraph(`![[${note.path}#A Lens in the Book of lenses that asks the designer to consider ]]`);
+		dv.paragraph(`![[${note.path}#A Lens in the Book of lenses that asks the designer to consider ]]`);
 	}
 }
 
