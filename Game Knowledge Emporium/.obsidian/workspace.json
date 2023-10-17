@@ -52,22 +52,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e49677394725724b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spatial Simulation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spatial Simulation.md",
+                "file": "Polish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spatial Simulation.md",
+                "file": "Polish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spatial Simulation.md"
+                "file": "Polish.md"
               }
             }
           },
@@ -208,12 +195,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e49677394725724b",
+  "active": "4bcfec14fac10adf",
   "lastOpenFiles": [
+    "Spatial Simulation.md",
     "Polish.md",
     "Game Feel.md",
     "Real-Time Control.md",
-    "Spatial Simulation.md",
     "Frame Rates.md",
     "Home.md",
     "The Lens of Freedom.md",
