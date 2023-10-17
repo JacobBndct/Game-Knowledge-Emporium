@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Story.md",
+                "file": "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Story.md",
+                "file": "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Story.md",
+                "file": "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Story.md"
+                "file": "Game Design Docs/Lidar Game/Lidar Game Design Doc.md"
               }
             }
           },
@@ -295,7 +295,16 @@
   },
   "active": "85df6884291f6650",
   "lastOpenFiles": [
+    "Game Design Docs/Lidar Game/Lidar - Story.md",
+    "Game Design Docs/Lidar Game/Lidar - Navigation.md",
+    "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
+    "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Game Design Docs/Lidar Game/Lidar - Theme & Setting.md",
+    "Game Design Docs/Lidar Game/Lidar - Overview.md",
+    "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
+    "Game Design Docs/Lidar Game/Lidar - Areas.md",
+    "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
+    "Game Design Docs/Lidar Game/Lidar - Sound Design.md",
     "The Lens of Interest Curve.md",
     "The Lens of Channels and Dimensions.md",
     "The Lens of Modes.md",
@@ -312,15 +321,6 @@
     "The Lens of Challenge.md",
     "Templates/Basic Template.md",
     "The Lens of Emotions.md",
-    "Templates/Book of Lenses Template.md",
-    "The Lens of Control.md",
-    "The Lens of Action.md",
-    "The Lens of Competition vs Cooperation.md",
-    "The Lens of Character.md",
-    "The Lens of Curiosity.md",
-    "Transitivity of Inclusion.md",
-    "The Lens of Emergence.md",
-    "The Lens of Cooperation.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
