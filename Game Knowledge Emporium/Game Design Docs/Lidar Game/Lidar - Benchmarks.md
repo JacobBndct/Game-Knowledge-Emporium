@@ -1,7 +1,7 @@
 ## Outer Wilds
 
 Talk about places the player hasn't traveled to yet and build interest.
-### Tools Breakdown
+#### Tools Breakdown
 
 Tools in Outer Wilds help you gather information about the environment that you need or move around in the environment in unique and interesting ways.
 
@@ -27,11 +27,11 @@ Tools in Outer Wilds help you gather information about the environment that you 
 	- Safe place to replenish oxygen and fuel
 	- Ship logs allow you to
 
-### Curiosity Driven Gameplay
+#### Curiosity Driven Gameplay
 
 Knowledge as a reward for exploration and curiosity.
 
-The main goals in Outer Wilds's design were to:
+The main goals in Outer Wilds' design were to:
 
 - Inspire curiosity
 - Facilitate exploration
@@ -45,54 +45,49 @@ Show rather than tell is a much stronger motivator for these types of questions.
 
 ![](https://lh6.googleusercontent.com/cI_dWukm9oEeLtFrWcH8O1SEzDmxoRAdZVNQZAiowo9Q7sPnLT9ExiOdqLuQeIMmZ5ECzYy3xEDx1fgFu9M-a3FmRIrT_BtKZMYB6EXTjiMA6F-fMlqK7rKw8NQ5d6biVVwJK7R0-NJzd-8_qeUgX0I)
 
-### Big Key Moments
+#### Big Key Moments
 
 Regular payoff to smaller mysteries to keep the player motivated 
-
-## Lidar.exe
-
-### Lidar Mechanic
-
 ## Over the Garden Wall
 
-### Haunting
+#### Haunting
 
-### Lost in the Woods
+#### Lost in the Woods
 
 ## The Girl from the other Side
 
-### Folklore
+#### Folklore
 
 ## Gravity Falls
 
-### Symbols
+#### Symbols
 
-### Hidden Meaning
+#### Hidden Meaning
 
 ## Obra Dinn
 
-### Perspectives
+#### Perspectives
 
-### Detective and Deduction
+#### Detective and Deduction
 
 ## Abzu / Journey
 
-### Silent Storytelling
+#### Silent Storytelling
 
-### Importance of Environment
+#### Importance of Environment
 
 ## Hollow Knight
 
-### Progression and Discovery
+#### Progression and Discovery
 
-### Overlapping Stories and Living Worlds
+#### Overlapping Stories and Living Worlds
 
 ## Breath of the Wild
 
-### Triangles
+#### Triangles
 
 Breath of the wild uses triangles to limit the information the player sees and has access to so as not to overwhelm them and they feel like there's always something to discover around the corner.
 
-### Bread Crumb Trail of Points of Interest
+#### Bread Crumb Trail of Points of Interest
 
 ![](https://lh4.googleusercontent.com/nP1ron_M_tgaSBjigZnzroMxrksKQT-JzU7P_pEfqXSMYT3ewebgaFag_RT7QzTQpp-sh9eyPmhvw16_L3IeBoI746e0eXtTIHlBCLSBL3l2PVOVTaqka2t3MvPexBGd4ko2hx1qhlPbyIN_M1-VvwQ)
