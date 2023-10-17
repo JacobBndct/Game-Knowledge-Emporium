@@ -5,24 +5,24 @@ Talk about places the player hasn't traveled to yet and build interest.
 
 Tools in Outer Wilds help you gather information about the environment that you need or move around in the environment in unique and interesting ways.
 
-- Sound gun
+**- Sound gun**
 	- Detects distant noises in the direction you point
-- Drone / Camera
+**- Drone / Camera**
 	- Takes pictures
 	- Can be launched to see into areas you can't reach yet
 	- Allows you to take photos of quantum objects so they don't disappear
-- Flashlight
+**- Flashlight**
 	- Allows you to see in the dark in front of you
 	- Control light objects in DLC
-- Translator
+**- Translator**
 	- Translates text as diegetic UI
-- Map (Solar System)
+**- Map (Solar System)**
 	- Allows you to see where objects are in space
-- Map (Planet)
+**- Map (Planet)**
 	- Tells you where on the planet you in accordance with the planet's poles
-- Jetpack / Space suit
+**- Jetpack / Space suit**
 	- Move around in 3d space and allows you to live while exploring
-- Ship
+**- Ship**
 	- Allows you to travel around space much more easily
 	- Safe place to replenish oxygen and fuel
 	- Ship logs allow you to
@@ -88,6 +88,6 @@ Regular payoff to smaller mysteries to keep the player motivated 
 
 Breath of the wild uses triangles to limit the information the player sees and has access to so as not to overwhelm them and they feel like there's always something to discover around the corner.
 
-#### Bread Crumb Trail of Points of Interest
+### Bread Crumb Trail of Points of Interest
 
 ![](https://lh4.googleusercontent.com/nP1ron_M_tgaSBjigZnzroMxrksKQT-JzU7P_pEfqXSMYT3ewebgaFag_RT7QzTQpp-sh9eyPmhvw16_L3IeBoI746e0eXtTIHlBCLSBL3l2PVOVTaqka2t3MvPexBGd4ko2hx1qhlPbyIN_M1-VvwQ)
