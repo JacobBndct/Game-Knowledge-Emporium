@@ -31,6 +31,16 @@
         "dimension": 50.63920454545454,
         "children": [
           {
+            "id": "da071ee985411c06",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
             "id": "4bcfec14fac10adf",
             "type": "leaf",
             "state": {
@@ -123,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Real-Time Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Real-Time Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Real-Time Control.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,12 +203,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4bcfec14fac10adf",
+  "active": "da071ee985411c06",
   "lastOpenFiles": [
-    "Game Feel.md",
     "Spatial Simulation.md",
-    "Frame Rates.md",
     "Real-Time Control.md",
+    "Game Feel.md",
+    "Frame Rates.md",
     "Home.md",
     "The Lens of Freedom.md",
     "The Lens of Help.md",
