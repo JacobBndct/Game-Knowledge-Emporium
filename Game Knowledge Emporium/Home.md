@@ -2,7 +2,9 @@
 ___
 ```dataviewjs
 async function DailyLenses(lensType, numberToShow) {
-	var notes = dv.pages(`#GameDesign/Lenses/${lensType}`)
+	var notes = ```
+await Promise.all(
+`dv.pages(`#GameDesign/Lenses/${lensType}`)
 		.sort()
 		.map(note => note.file);
 		
@@ -11,9 +13,7 @@ async function DailyLenses(lensType, numberToShow) {
 	
 	dv.header(3, `${lensType} Lenses: ***${displayNotes.name.join()}***`);
 
-	for (const note of displayNotes) {
-		dv.paragraph(`![[${note.path}#A Lens in the Book of lenses that asks the designer to consider ]]`);
-	}
+	displayNotes.forEach(note => dv.paragraph(`![[${note.path}#A Lens in the Book of lenses that asks the designer to consider ]]`););
 }
 
 function DayHash() {
