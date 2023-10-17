@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6994e3036d752ccb",
+        "id": "b1343db9a6414ee4",
         "type": "tabs",
         "children": [
           {
-            "id": "fd1e4f22a4c7bb5e",
+            "id": "55e72b85d9d3b0fe",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -19,22 +19,6 @@
                 "backlinks": false,
                 "source": false
               },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
-        "id": "267dae361764ef35",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "da071ee985411c06",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
               "pinned": true
             }
           }
@@ -105,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -175,7 +163,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "da071ee985411c06",
+  "active": "55e72b85d9d3b0fe",
   "lastOpenFiles": [
     "Home.md",
     "Game Feel.md",
