@@ -4,9 +4,8 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 #### ***A Lens in the Book of Lenses that Asks the Designer to consider:***
-- What elements make up my game? How can each one be more beautiful?
-- Some things are not beautiful in themselves, but are beautiful in combination. How can elements of my game be composed in a way that is poetic and beautiful?
-- What does beauty mean within the context of my game?
+- What is there in my game that players can relate to? What else can I add?
+- What is there in my game that will capt
 #### Sources
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

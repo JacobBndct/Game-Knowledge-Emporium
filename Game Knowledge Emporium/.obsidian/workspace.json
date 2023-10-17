@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "aee1178d120dcdb0",
+            "id": "6d130283d3a5b4c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Lens of Inherent Interest.md",
+                "file": "The Lens of Beauty.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,12 +49,12 @@
             }
           },
           {
-            "id": "6d130283d3a5b4c5",
+            "id": "cdaedf72829f252c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Lens of Beauty.md",
+                "file": "The Lens of Projection.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Lens of Beauty.md",
+                "file": "The Lens of Projection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Lens of Beauty.md",
+                "file": "The Lens of Projection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Lens of Beauty.md"
+                "file": "The Lens of Projection.md"
               }
             }
           },
@@ -202,10 +202,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6d130283d3a5b4c5",
+  "active": "cdaedf72829f252c",
   "lastOpenFiles": [
-    "The Lens of Inherent Interest.md",
     "The Lens of Beauty.md",
+    "The Lens of Projection.md",
+    "The Lens of Inherent Interest.md",
     "Home.md",
     "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
@@ -229,7 +230,6 @@
     "The Lens of Competition.md",
     "The Lens of Chance.md",
     "The Lens of Challenge.md",
-    "Templates/Basic Template.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
