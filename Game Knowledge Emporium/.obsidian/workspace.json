@@ -34,9 +34,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aee1178d120dcdb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Lens of Inherent Interest.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d130283d3a5b4c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Lens of Beauty.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
+                "file": "The Lens of Beauty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
+                "file": "The Lens of Beauty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar - Benchmarks.md"
+                "file": "The Lens of Beauty.md"
               }
             }
           },
@@ -176,24 +202,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "85df6884291f6650",
+  "active": "6d130283d3a5b4c5",
   "lastOpenFiles": [
+    "The Lens of Inherent Interest.md",
+    "The Lens of Beauty.md",
+    "Home.md",
+    "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
-    "Home.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
     "Game Design Docs/Lidar Game/Lidar - Theme & Setting.md",
     "Game Design Docs/Lidar Game/Lidar - Overview.md",
     "Game Design Docs/Lidar Game/Lidar - Areas.md",
-    "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
     "Game Design Docs/Lidar Game/Lidar - Sound Design.md",
     "The Lens of Interest Curve.md",
     "The Lens of Channels and Dimensions.md",
     "The Lens of Modes.md",
     "The Lens of Moments.md",
-    "The Lens of Inherent Interest.md",
     "The Lens of Primality.md",
     "The Lens of Juiciness.md",
     "The Lens of Feedback.md",
@@ -203,7 +230,6 @@
     "The Lens of Chance.md",
     "The Lens of Challenge.md",
     "Templates/Basic Template.md",
-    "The Lens of Emotions.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
