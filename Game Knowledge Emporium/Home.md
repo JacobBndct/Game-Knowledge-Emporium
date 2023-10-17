@@ -2,25 +2,18 @@
 ___
 ```dataviewjs
 async function DailyLenses(lensType, numberToShow) {
-	var notes = await Promise.all(
-		dv
-		.pages(`#GameDesign/Lenses/${lensType}`)
+	var notes = dv.pages(`#GameDesign/Lenses/${lensType}`)
 		.sort()
-		.map(note => new Promise(async (resolve, reject) => {
-			const file = await dv.io.load(note.file);
-			resolve({
-				name: note.file,
-				content
-			});
-		}))
-	);
+		.map(note => note.file);
 		
 	var displayNotes = notes
 		.where(note => CountNotes(notes, note, numberToShow));
 	
 	dv.header(3, `${lensType} Lenses: ***${displayNotes.name.join()}***`);
 
-	displayNotes.forEach(note => dv.paragraph(`![[${note.path}#A Lens in the Book of lenses that asks the designer to consider ]]`));
+	for (const note of displayNotes) {
+		dv.paragraph(`![[${note.path}#A Lens in the Book of lenses that asks the designer to consider ]]`);
+	}
 }
 
 function DayHash() {

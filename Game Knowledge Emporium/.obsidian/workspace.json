@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da071ee985411c06",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "fd1e4f22a4c7bb5e",
             "type": "leaf",
             "pinned": true,
@@ -32,8 +22,23 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "267dae361764ef35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da071ee985411c06",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,14 +175,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fd1e4f22a4c7bb5e",
+  "active": "da071ee985411c06",
   "lastOpenFiles": [
+    "Home.md",
     "Game Feel.md",
     "Polish.md",
     "Spatial Simulation.md",
     "Real-Time Control.md",
     "Frame Rates.md",
-    "Home.md",
     "The Lens of Freedom.md",
     "The Lens of Help.md",
     "The Lens of Story.md",
