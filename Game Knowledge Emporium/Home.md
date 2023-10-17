@@ -8,8 +8,11 @@ async function DailyLenses(lensType, numberToShow) {
 		.sort()
 		.map(note => new Promise(async (resolve, reject) => {
 			const file = await dv.io.load(note.file);
-			
-			})
+			resolve({
+				name: note.file,
+				content
+			});
+		}))
 	);
 		
 	var displayNotes = notes
@@ -17,7 +20,7 @@ async function DailyLenses(lensType, numberToShow) {
 	
 	dv.header(3, `${lensType} Lenses: ***${displayNotes.name.join()}***`);
 
-	displayNotes.forEach(note => dv.paragraph(`![[${note.path}#A Lens in the Book of lenses that asks the designer to consider ]]`););
+	displayNotes.forEach(note => dv.paragraph(`![[${note.path}#A Lens in the Book of lenses that asks the designer to consider ]]`));
 }
 
 function DayHash() {
