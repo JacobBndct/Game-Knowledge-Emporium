@@ -1,12 +1,11 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign/Lenses/Game
+#### **Tags:** #GameDesign/Lenses/Experience 
 ###### *Date Of Creation: 2023-10-18
 __________________________________________________________________________
 
 #### ***A Lens in the Book of Lenses that Asks the Designer to consider:***
-- How is my world better than the real world?
-- Can there be multiple gateways to my world? How do they differ? How do they support each other?
-- Is my world centered on a single story, or could many stories happen here?
+- What traits define my character?
+- How do these traits manifest themselves in the wrold
 #### Sources
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

@@ -1,12 +1,11 @@
 __________________________________________________________________________
-#### **Tags:** #GameDesign/Lenses/Game
+#### **Tags:** #GameDesign/Lenses/Player #GameDesign/Lenses/Game
 ###### *Date Of Creation: 2023-10-18
 __________________________________________________________________________
 
 #### ***A Lens in the Book of Lenses that Asks the Designer to consider:***
-- How is my world better than the real world?
-- Can there be multiple gateways to my world? How do they differ? How do they support each other?
-- Is my world centered on a single story, or could many stories happen here?
+- Is my avatar an ideal form that will appeal to my players?
+- Does my avatar have iconic qualities that let a player project themselves into the character?
 #### Sources
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]

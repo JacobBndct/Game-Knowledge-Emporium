@@ -73,9 +73,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d0ebb5c07df56a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Lens of The Avatar.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a663d09de7e46c83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Lens of Character Function.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5715334ab7ae3774",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Lens of Character Traits.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -141,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Lens of The World.md",
+                "file": "The Lens of Character Traits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Lens of The World.md",
+                "file": "The Lens of Character Traits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Lens of The World.md"
+                "file": "The Lens of Character Traits.md"
               }
             }
           },
@@ -215,10 +254,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2496e45eaaa51f22",
+  "active": "5715334ab7ae3774",
   "lastOpenFiles": [
-    "The Lens of Fantasy.md",
+    "The Lens of Character Function.md",
+    "The Lens of Character Traits.md",
+    "The Lens of The Avatar.md",
     "The Lens of The World.md",
+    "The Lens of Fantasy.md",
     "The Lens of Collusion.md",
     "The Lens of Indirect Control.md",
     "Home.md",
@@ -243,9 +285,6 @@
     "Game Design Docs/Lidar Game/Lidar - Benchmarks.md",
     "The Lens of Inherent Interest.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
-    "Game Design Docs/Lidar Game/Lidar - Gameplay.md",
-    "Game Design Docs/Lidar Game/Lidar - Story.md",
-    "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
