@@ -11,7 +11,7 @@ __________________________________________________________________________
 - Can visual design get players to do it?
 - Can game characters get players to do it?
 - Can music or sound get players to do it?
-- Is there some other method I can use to coerce players towards ideal behavior with
+- Is there some other method I can use to coerce players towards ideal behavior without impinging on their feeling of freedom?
 #### Sources
 __________________________________________________________________________
 1. [[Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf|The Book of Lenses]]
