@@ -36,8 +36,7 @@ function CountNotes(notes, note, numberToShow) {
 }
 
 function getRandomInt(min, max) {
-    return Math.floor(Math.random() * (max - min + 1)) + min;
-    
+    return min + ((17317 * DayHash()) % (max - min));
 }
 
 function randomInts(n, min, max, minSum, maxSum) {
