@@ -61,6 +61,8 @@ function randomInts(n, min, max, minSum, maxSum) {
     return ints; 
 }
 
+var ints = randomInts(5, 0, 2);
+
 DailyLenses("Designer", 1);
 DailyLenses("Player", 1);
 DailyLenses("Experience", 1);
