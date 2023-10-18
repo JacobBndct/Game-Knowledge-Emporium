@@ -6,6 +6,7 @@
       {
         "id": "19779b3e8225c580",
         "type": "tabs",
+        "dimension": 52.48579545454546,
         "children": [
           {
             "id": "652a42b2cc01f5af",
@@ -23,12 +24,12 @@
             }
           },
           {
-            "id": "d636e69e74608260",
+            "id": "59136ed496fcab1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Lens of The Nameless Quality.md",
+                "file": "The Lens of The Client.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,174 +37,26 @@
             }
           },
           {
-            "id": "7dd7dab6fea4a14f",
+            "id": "3af179f127ccf400",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Lens of Atmosphere.md",
+                "file": "The Lens of The Pitch.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "fed0645568989b5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Spectation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4201b74bf2362c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Friendship.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d20e7b14e765da2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Expression.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42300837654da13b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Community.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b0316f3011c2593",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Griefing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b91f614171fa558",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Love.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fe875ccc147f564",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of The Team.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7febaf956be6ecca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Documentation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "241dfbe3140a342b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Playtesting.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c537446ecfc1823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Technology.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3333f86ce2c58250",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of The Crystal Ball.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e2da294056f1f83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Utopia.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "04c5f75b73356b48",
+        "type": "tabs",
+        "dimension": 47.51420454545455,
+        "children": [
           {
             "id": "0cb0d3c2a3f5693e",
             "type": "leaf",
@@ -212,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Lens of The Pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Lens of The Pitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Lens of The Pitch.md"
+              }
             }
           },
           {
@@ -349,8 +205,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0cb0d3c2a3f5693e",
+  "active": "3af179f127ccf400",
   "lastOpenFiles": [
+    "The Lens of The Client.md",
+    "The Lens of The Pitch.md",
+    "Home.md",
     "The Lens of Utopia.md",
     "The Lens of The Crystal Ball.md",
     "The Lens of Technology.md",
@@ -374,9 +233,6 @@
     "The Lens of Character Function.md",
     "The Lens of The Avatar.md",
     "The Lens of The World.md",
-    "The Lens of Fantasy.md",
-    "The Lens of Collusion.md",
-    "The Lens of Indirect Control.md",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",
     "Pasted image 20231018133326.png",
