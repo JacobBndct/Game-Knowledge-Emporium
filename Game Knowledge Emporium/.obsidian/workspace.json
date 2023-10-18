@@ -21,19 +21,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "e3d36e6e197b0fe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Freedom.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -85,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -177,8 +165,11 @@
   },
   "active": "84c174fa4c3afdb9",
   "lastOpenFiles": [
-    "The Lens of Freedom.md",
+    "Pasted image 20231018133322.png",
     "Home.md",
+    "Pasted image 20231018133331.png",
+    "Pasted image 20231018133326.png",
+    "The Lens of Freedom.md",
     "Spatial Simulation.md",
     "Game Feel.md",
     "Polish.md",
@@ -202,7 +193,6 @@
     "Game Design Docs/Lidar Game/Lidar - Visual Style.md",
     "Game Design Docs/Lidar Game/Lidar - Theme & Setting.md",
     "Game Design Docs/Lidar Game/Lidar - Overview.md",
-    "Game Design Docs/Lidar Game/Lidar - Areas.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
