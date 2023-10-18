@@ -35,7 +35,32 @@ function CountNotes(notes, note, numberToShow) {
 	return false;
 }
 
+function getRandomInt(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+    
+}
 
+function randomInts(n, min, max, minSum, maxSum) {
+    if (min * n > maxSum || max * n < minSum) {
+       throw 'Impossible';
+    }
+
+    var ints = [];
+    while (n--) {
+        // calculate a lower bound for this number
+        // n * max is the max of the next n numbers
+        var thisMin = Math.max(min, minSum - n * max);
+        // calculate an upper bound for this number
+        // n * min is the min of the next n numbers
+        var thisMax = Math.min(max, maxSum - n * min);
+
+        var int = getRandomInt(thisMin, thisMax);
+        minSum -= int;
+        maxSum -= int;
+        ints.push(int);
+    }
+    return ints; 
+}
 
 DailyLenses("Designer", 1);
 DailyLenses("Player", 1);
