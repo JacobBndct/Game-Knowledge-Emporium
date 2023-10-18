@@ -35,8 +35,6 @@ function CountNotes(notes, note, numberToShow) {
 	return false;
 }
 
-
-
 DailyLenses("Designer", 1);
 DailyLenses("Player", 1);
 DailyLenses("Experience", 1);
