@@ -2,13 +2,15 @@
 ___
 ```dataviewjs
 function DailyLenses(lensType, numberToShow) {
+	if (numberToShow == 0) return;
+
 	var notes = dv.pages(`#GameDesign/Lenses/${lensType}`)
 		.sort()
 		.map(note => note.file);
 		
 	var displayNotes = notes
 		.where(note => CountNotes(notes, note, numberToShow));
-	
+
 	dv.header(3, `${lensType} Lenses: ***${displayNotes.name.join()}***`);
 
 	for (const note of displayNotes) {
@@ -61,11 +63,11 @@ function randomInts(n, min, max, minSum, maxSum) {
     return ints; 
 }
 
-var ints = randomInts(5, 0, 2);
+var ints = randomInts(5, 0, 2, 3, 3);
 
-DailyLenses("Designer", 1);
-DailyLenses("Player", 1);
-DailyLenses("Experience", 1);
-DailyLenses("Process", 1);
-DailyLenses("Game", 1);
+DailyLenses("Designer", ints[0]);
+DailyLenses("Player", ints[1]);
+DailyLenses("Experience", ints[2]);
+DailyLenses("Process", ints[3]);
+DailyLenses("Game", ints[4]);
 ```
