@@ -1,5 +1,4 @@
 ## Daily Lenses
-___
 ```dataviewjs
 function DailyLenses(lensType, numberToShow) {
 	if (numberToShow == 0) return;
@@ -13,8 +12,11 @@ function DailyLenses(lensType, numberToShow) {
 
 	dv.header(3, `${lensType} Lens${numberToShow >= 2 ? 'es': ''}: `);
 
+	dv.paragraph("___");
+
 	for (const note of displayNotes) {
-		dv.paragraph(`***${note.name}*** ![[${note.path}#A Lens in the Book of lenses that asks the designer to consider|no-h4 collapse]] \n`);
+		dv.header(5, `***${note.name}***`);
+		dv.paragraph(`![[${note.path}#A Lens in the Book of lenses that asks the designer to consider|no-h4 collapse]] \n`);
 	}
 }
 
