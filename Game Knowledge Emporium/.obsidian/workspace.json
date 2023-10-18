@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "756c320f424e2b62",
+        "id": "19779b3e8225c580",
         "type": "tabs",
         "children": [
           {
-            "id": "84c174fa4c3afdb9",
+            "id": "652a42b2cc01f5af",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -163,7 +163,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "84c174fa4c3afdb9",
+  "active": "652a42b2cc01f5af",
   "lastOpenFiles": [
     "Pasted image 20231018133322.png",
     "Home.md",
