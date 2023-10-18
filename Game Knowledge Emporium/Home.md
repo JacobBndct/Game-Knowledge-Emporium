@@ -55,7 +55,7 @@ function randomInts(n, min, max, minSum, maxSum) {
         // n * min is the min of the next n numbers
         var thisMax = Math.min(max, maxSum - n * min);
 
-        var int = getRandomInt(thisMin, thisMax);
+        var int = getRandomInt(thisMin, thisMax, n);
         minSum -= int;
         maxSum -= int;
         ints.push(int);
@@ -63,17 +63,12 @@ function randomInts(n, min, max, minSum, maxSum) {
     return ints; 
 }
 
-var ints = randomInts(6, 0, 10, 30, 300);
+var ints = randomInts(5, 0, 2, 3, 3);
 
-dv.paragraph(ints[0]);
-dv.paragraph(ints[1]);
-dv.paragraph(ints[2]);
-dv.paragraph(ints[3]);
-dv.paragraph(ints[4]);
-
-```
 DailyLenses("Designer", ints[0]);
 DailyLenses("Player", ints[1]);
 DailyLenses("Experience", ints[2]);
 DailyLenses("Process", ints[3]);
 DailyLenses("Game", ints[4]);
+
+```
