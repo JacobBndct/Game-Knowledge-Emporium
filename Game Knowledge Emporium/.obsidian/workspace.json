@@ -151,9 +151,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "241dfbe3140a342b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Lens of Playtesting.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c537446ecfc1823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Lens of Technology.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3333f86ce2c58250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Lens of The Crystal Ball.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e2da294056f1f83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -219,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Lens of Documentation.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Lens of Documentation.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Lens of Documentation.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -293,10 +345,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7febaf956be6ecca",
+  "active": "9e2da294056f1f83",
   "lastOpenFiles": [
-    "The Lens of The Team.md",
+    "The Lens of The Crystal Ball.md",
+    "Untitled.md",
+    "The Lens of Technology.md",
+    "The Lens of Playtesting.md",
     "The Lens of Documentation.md",
+    "The Lens of The Team.md",
     "The Lens of Love.md",
     "The Lens of Griefing.md",
     "The Lens of Community.md",
@@ -317,13 +373,9 @@
     "The Lens of Fantasy.md",
     "The Lens of Collusion.md",
     "The Lens of Indirect Control.md",
-    "Home.md",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",
     "Pasted image 20231018133326.png",
-    "The Lens of Freedom.md",
-    "Spatial Simulation.md",
-    "Game Feel.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Images/Girl from the other side.png",
     "Images/Gravity Falls.png",
