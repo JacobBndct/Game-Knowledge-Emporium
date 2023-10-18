@@ -21,6 +21,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e3d36e6e197b0fe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Lens of Freedom.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -72,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -165,13 +177,13 @@
   },
   "active": "b5a2d6c2ea910fe3",
   "lastOpenFiles": [
+    "The Lens of Freedom.md",
+    "Spatial Simulation.md",
     "Home.md",
     "Game Feel.md",
     "Polish.md",
-    "Spatial Simulation.md",
     "Real-Time Control.md",
     "Frame Rates.md",
-    "The Lens of Freedom.md",
     "The Lens of Help.md",
     "The Lens of Story.md",
     "The Lens of The Weirdest Thing.md",
