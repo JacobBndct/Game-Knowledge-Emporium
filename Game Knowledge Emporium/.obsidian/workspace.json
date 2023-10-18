@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5a2d6c2ea910fe3",
+            "id": "84c174fa4c3afdb9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -175,11 +175,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b5a2d6c2ea910fe3",
+  "active": "84c174fa4c3afdb9",
   "lastOpenFiles": [
     "The Lens of Freedom.md",
-    "Spatial Simulation.md",
     "Home.md",
+    "Spatial Simulation.md",
     "Game Feel.md",
     "Polish.md",
     "Real-Time Control.md",

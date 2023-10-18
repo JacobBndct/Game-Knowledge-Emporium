@@ -11,11 +11,10 @@ function DailyLenses(lensType, numberToShow) {
 	var displayNotes = notes
 		.where(note => CountNotes(notes, note, numberToShow));
 
-	dv.header(3, `${lensType} Lenses: `);
+	dv.header(3, `${lensType} Lens${numberToShow >= 2 ? 'es': ''}: `);
 
 	for (const note of displayNotes) {
-		dv.header(5, `***${note.name}***`);
-		dv.span(`![[${note.path}#A Lens in the Book of lenses that asks the designer to consider|clean no-h4 ]]`);
+		dv.span(`***${note.name}*** ![[${note.path}#A Lens in the Book of lenses that asks the designer to consider|clean no-h4 ]]`);
 	}
 }
 
