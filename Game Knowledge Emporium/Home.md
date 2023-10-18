@@ -6,7 +6,7 @@ function DailyLenses(lensType, numberToShow) {
 		.map(note => note.file.path);
 	dv.header(3, `${lensType} Lenses`);
 	for(i = 0; i < numberToShow; i++) {
-		dv.paragraph(`![[${notes[]}#***A Lens in the Book of lenses that asks the designer to consider ***]]`
+		dv.paragraph(`![[${notes[DayHash()]}#***A Lens in the Book of lenses that asks the designer to consider ***]]`);
 	}
 }
 
@@ -16,9 +16,9 @@ function DayHash() {
 	var month = String(today.getMonth() + 1).padStart(2, '0');
 	var year = today.getFullYear();
 
-	return day;
+	return month;
 }
 
-DailyLenses("Game", 1);
+DailyLenses("Game", 3);
 
 ```
