@@ -63,11 +63,17 @@ function randomInts(n, min, max, minSum, maxSum) {
     return ints; 
 }
 
-var ints = randomInts(5, 0, 2, 3, 3);
+var ints = randomInts(6, 0, 2, 3, 3);
 
+dv.paragraph(ints[0]);
+dv.paragraph(ints[1]);
+dv.paragraph(ints[2]);
+dv.paragraph(ints[3]);
+dv.paragraph(ints[4]);
+
+```
 DailyLenses("Designer", ints[0]);
 DailyLenses("Player", ints[1]);
 DailyLenses("Experience", ints[2]);
 DailyLenses("Process", ints[3]);
 DailyLenses("Game", ints[4]);
-```
