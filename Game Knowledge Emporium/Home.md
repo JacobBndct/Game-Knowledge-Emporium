@@ -37,8 +37,8 @@ function CountNotes(notes, note, numberToShow) {
 	return false;
 }
 
-function getRandomInt(min, max) {
-    return min + ((17317 * DayHash()) % (max - min));
+function getRandomInt(min, max, n) {
+    return min + ((17317 * n * DayHash()) % (max - min + 1));
 }
 
 function randomInts(n, min, max, minSum, maxSum) {
@@ -63,7 +63,7 @@ function randomInts(n, min, max, minSum, maxSum) {
     return ints; 
 }
 
-var ints = randomInts(6, 0, 2, 3, 3);
+var ints = randomInts(6, 0, 10, 30, 300);
 
 dv.paragraph(ints[0]);
 dv.paragraph(ints[1]);
