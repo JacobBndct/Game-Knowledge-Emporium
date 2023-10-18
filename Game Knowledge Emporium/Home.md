@@ -1,4 +1,5 @@
 ## Daily Lenses
+The three randomly selected lenses to consider today are:
 ```dataviewjs
 function DailyLenses(lensType, numberToShow) {
 	if (numberToShow == 0) return;
@@ -11,8 +12,6 @@ function DailyLenses(lensType, numberToShow) {
 		.where(note => CountNotes(notes, note, numberToShow));
 
 	dv.header(3, `${lensType} Lens${numberToShow >= 2 ? 'es': ''}: `);
-
-	dv.paragraph("___");
 
 	for (const note of displayNotes) {
 		dv.header(5, `***${note.name}***`);
