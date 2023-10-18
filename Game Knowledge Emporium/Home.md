@@ -14,7 +14,7 @@ function DailyLenses(lensType, numberToShow) {
 	dv.header(3, `${lensType} Lens${numberToShow >= 2 ? 'es': ''}: `);
 
 	for (const note of displayNotes) {
-		dv.span(`***${note.name}*** ![[${note.path}#A Lens in the Book of lenses that asks the designer to consider|no-h4 ]]`);
+		dv.paragraph(`***${note.name}*** ![[${note.path}#A Lens in the Book of lenses that asks the designer to consider|no-h4 collapse]] \n`);
 	}
 }
 
