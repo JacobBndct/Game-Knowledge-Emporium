@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "19779b3e8225c580",
+        "id": "04c5f75b73356b48",
         "type": "tabs",
-        "dimension": 52.48579545454546,
         "children": [
           {
-            "id": "652a42b2cc01f5af",
+            "id": "0cb0d3c2a3f5693e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,21 +20,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          }
-        ]
-      },
-      {
-        "id": "04c5f75b73356b48",
-        "type": "tabs",
-        "dimension": 47.51420454545455,
-        "children": [
-          {
-            "id": "0cb0d3c2a3f5693e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -178,7 +162,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "652a42b2cc01f5af",
+  "active": "0cb0d3c2a3f5693e",
   "lastOpenFiles": [
     "The Lens of Your Secret Purpose.md",
     "The Lens of The Raven.md",
