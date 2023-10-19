@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Lens of The Team.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Lens of The Team.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Lens of The Team.md"
+                "file": "Home.md"
               }
             }
           },
@@ -186,8 +185,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8e7df88a8e12be03",
+  "active": "0cb0d3c2a3f5693e",
   "lastOpenFiles": [
+    "The Lens of The Team.md",
     "Home.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "The Lens of Your Secret Purpose.md",
@@ -202,7 +202,6 @@
     "The Lens of Technology.md",
     "The Lens of Playtesting.md",
     "The Lens of Documentation.md",
-    "The Lens of The Team.md",
     "The Lens of Love.md",
     "The Lens of Griefing.md",
     "The Lens of Community.md",
