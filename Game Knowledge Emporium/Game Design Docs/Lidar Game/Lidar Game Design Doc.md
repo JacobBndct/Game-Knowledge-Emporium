@@ -23,6 +23,10 @@
 # Visual Style
 
 ![[Lidar - Visual Style]]
+
+# Sound Design
+
+![[Lidar - Sound Design]]
 # Other Considerations
 
 ![[Lidar - Other Considerations]]
