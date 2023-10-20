@@ -36,51 +36,12 @@
             }
           },
           {
-            "id": "ba32455c83c4166d",
+            "id": "d64249ef30628b24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics of What Makes Something a Game.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "728be07458bd29e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Types of Fun.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fac6c2cd677d16d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ff171916a9f28fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creating a Targeted Experience.md",
+                "file": "Hard vs Unfair.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creating a Targeted Experience.md",
+                "file": "Hard vs Unfair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creating a Targeted Experience.md",
+                "file": "Hard vs Unfair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creating a Targeted Experience.md"
+                "file": "Hard vs Unfair.md"
               }
             }
           },
@@ -228,13 +189,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5ff171916a9f28fe",
+  "active": "d64249ef30628b24",
   "lastOpenFiles": [
+    "Game Design Docs/Lidar Game/Lidar - Story.md",
+    "Hard vs Unfair.md",
+    "Basics of What Makes Something a Game.md",
+    "Types of Fun.md",
     "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Creating a Targeted Experience.md",
-    "Types of Fun.md",
-    "Basics of What Makes Something a Game.md",
-    "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Game Design Docs/Lidar Game/Lidar - Navigation.md",
     "Home.md",
     "The Lens of The Team.md",
@@ -256,7 +218,6 @@
     "The Lens of Community.md",
     "The Lens of Expression.md",
     "The Lens of Friendship.md",
-    "The Lens of Spectation.md",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",
     "Pasted image 20231018133326.png",
