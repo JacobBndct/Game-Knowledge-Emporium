@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-10-06*
 __________________________________________________________________________
 
-"A robot is an *[[autonomous]]* system which exists in the *physical* world, can *sense* it's environment, and can *act* on it to achieve some *goals*."
+"A robot is an *[[Autonomous Systems]]* which exists in the *physical* world, can *sense* it's environment, and can *act* on it to achieve some *goals*."
 
 5 Different components that make something a robot are:
 - Autonomous
@@ -11,6 +11,8 @@ __________________________________________________________________________
 - Sense
 - Act
 - Goal
+
+[[Teleoperated]]
 
 To exist in the physical world, is to be embodied.
 - Capable of maintaining itself in the outside world. 
