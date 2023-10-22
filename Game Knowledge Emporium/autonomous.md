@@ -6,4 +6,4 @@ __________________________________________________________________________
 Can act on based on its own decisions without being explicitly told what to do or how to do it.
 #### Sources
 __________________________________________________________________________
-1. 
+1. [mataric-primer.pdf (ucsd.edu)](https://pages.ucsd.edu/~ehutchins/cogs8/mataric-primer.pdf)

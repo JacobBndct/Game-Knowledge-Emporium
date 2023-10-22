@@ -3,7 +3,14 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-10-06*
 __________________________________________________________________________
 
-A robot is an [[autonomous]] system which exists in the physical world, can sense it's environment, and can act on it to achieve some goals.
+"A robot is an *[[autonomous]]* system which exists in the *physical* world, can *sense* it's environment, and can *act* on it to achieve some *goals*."
+
+5 Different components that make something a robot are:
+- Autonomous
+- Physical
+- Sense
+- Act
+- Goal
 
 To exist in the physical world, is to be embodied.
 - Capable of maintaining itself in the outside world. 
@@ -11,8 +18,6 @@ To exist in the physical world, is to be embodied.
 
 To be situated in the physical world, is to be able to exist in and sense the world.
 - Foregoes the necessity of acting
-
-5 Dif
 #### Sources
 __________________________________________________________________________
 1. [mataric-primer.pdf (ucsd.edu)](https://pages.ucsd.edu/~ehutchins/cogs8/mataric-primer.pdf)
