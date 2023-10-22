@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "04c5f75b73356b48",
+        "id": "8d33890cd359569b",
         "type": "tabs",
         "children": [
           {
-            "id": "5d6a6d269ef1bb7b",
+            "id": "7f654a22c374e3cb",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "94164df2f1b91ee1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basics of What Makes Something a Game.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics of What Makes Something a Game.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics of What Makes Something a Game.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics of What Makes Something a Game.md"
+                "file": "Home.md"
               }
             }
           },
@@ -176,7 +162,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "94164df2f1b91ee1",
+  "active": "7f654a22c374e3cb",
   "lastOpenFiles": [
     "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Hard vs Unfair.md",
