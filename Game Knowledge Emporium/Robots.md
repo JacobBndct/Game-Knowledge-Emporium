@@ -11,6 +11,8 @@ To exist in the physical world, is to be embodied.
 
 To be situated in the physical world, is to be able to exist in and sense the world.
 - Foregoes the necessity of acting
+
+5 Dif
 #### Sources
 __________________________________________________________________________
-1. 
+1. [mataric-primer.pdf (ucsd.edu)](https://pages.ucsd.edu/~ehutchins/cogs8/mataric-primer.pdf)
