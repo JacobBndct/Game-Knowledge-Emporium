@@ -12,7 +12,7 @@ __________________________________________________________________________
 - Act
 - Goal
 
-[[Teleoperated]]
+Machines that are not autonomous, but are instead externally controlled by humans are called [[Teleoperated]].
 
 To exist in the physical world, is to be embodied.
 - Capable of maintaining itself in the outside world. 
