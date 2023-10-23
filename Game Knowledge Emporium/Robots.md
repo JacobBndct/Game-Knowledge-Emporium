@@ -11,7 +11,6 @@ __________________________________________________________________________
 - Sense
 - Act
 - Goal
-
 ## Autonomy
 Machines that are not autonomous, but are instead externally controlled by humans are called [[Teleoperated]].
 ## Embodiment 
@@ -21,8 +20,12 @@ To exist in the physical world, is to be embodied.
 ## Sensing
 To be situated in the physical world, is to be able to exist in and sense the world.
 - Foregoes the necessity of acting
-- Must sense the environment with its own sensors and cannot act without consideration for the environment
+- Must sense the environment with its own sensors
 ## Acting
+A robot must be able to act in the physical environment based on the information it senses
+- Cannot act randomly, uselessly, or without consideration for the environment
+## Goals
+A robot must also act with purpose towards a goal or do something useful to itself and/or others.
 
 #### Sources
 __________________________________________________________________________
