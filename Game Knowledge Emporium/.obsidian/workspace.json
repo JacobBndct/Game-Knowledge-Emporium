@@ -23,28 +23,30 @@
             }
           },
           {
+            "id": "5f80578ff0f8f37d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
             "id": "a6f80028dfecb4fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics.md",
+                "file": "Robots.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "5f80578ff0f8f37d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Robots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Robots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Robots.md"
+              }
             }
           },
           {
@@ -180,10 +186,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5f80578ff0f8f37d",
+  "active": "a6f80028dfecb4fa",
   "lastOpenFiles": [
-    "Home.md",
     "Robotics.md",
+    "Home.md",
     "Real Number Analysis.md",
     "Robots.md",
     "Cybernetics.md",
