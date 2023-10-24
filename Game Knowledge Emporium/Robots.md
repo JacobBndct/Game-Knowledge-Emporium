@@ -21,8 +21,8 @@ To exist in the physical world, is to be embodied.
 To be situated in the physical world, is to be able to exist in and sense the world.
 - Foregoes the necessity of acting.
 - Must sense the environment with its own sensors.
-- All possible sensory readings that the robot is capable of with all its different sensors is called the sensor space
-- Sensing allows the robot to know it's own internal state and the environment's external state .
+- All possible combination of sensory readings that the robot is capable of with all its different sensors is called the sensor space.
+- Sensing allows the robot to know it's own internal state and the environment's external state.
 	- The state of a robot is not always known and can be observable, partially observable, or hidden.
 	- States here are similar to how they are in [[State Machine Pattern]].
 ## Acting

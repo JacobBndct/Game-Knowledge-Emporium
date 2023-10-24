@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Lens of Feedback.md",
+                "file": "Robots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Lens of Feedback.md",
+                "file": "Robots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Lens of Feedback.md"
+                "file": "Robots.md"
               }
             }
           },
@@ -212,8 +212,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "56f6497cfcef3e11",
+  "active": "a6f80028dfecb4fa",
   "lastOpenFiles": [
+    "The Lens of Feedback.md",
     "The Lens of Functional Space.md",
     "Robots.md",
     "Robotics.md",
@@ -239,7 +240,6 @@
     "Autonomous Systems.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Hard vs Unfair.md",
-    "Basics of What Makes Something a Game.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",
