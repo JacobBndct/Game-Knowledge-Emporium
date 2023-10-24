@@ -22,6 +22,8 @@ To be situated in the physical world, is to be able to exist in and sense the wo
 - Foregoes the necessity of acting
 - Must sense the environment with its own sensors
 - Sensing allows the robot to know it's own state
+	- The state of a robot is not always known and can be observable, partially observable, or hidden.
+	- States here are similar to how they are in [[State Machine Pattern]]
 ## Acting
 A robot must be able to act in the physical environment based on the information it senses
 - Cannot act randomly, uselessly, or without consideration for the environment
