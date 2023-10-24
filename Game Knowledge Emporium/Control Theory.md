@@ -4,6 +4,8 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 According to The Robotics Primer "Control theory is the mathematical study of the properties of automated control systems ranging from steam engines to airplanes, and much in between."
+
+Control theory's formalisms help understand fundemental concepts that are important to mechanical 
 #### Sources
 __________________________________________________________________________
 1. [mataric-primer.pdf (ucsd.edu)](https://pages.ucsd.edu/~ehutchins/cogs8/mataric-primer.pdf)
