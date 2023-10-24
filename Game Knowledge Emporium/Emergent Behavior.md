@@ -6,4 +6,4 @@ __________________________________________________________________________
 In AI emergent behavior can be the sequence of actions (patterns) is complex, and not programmed in directly (i.e. not hard-coded), and hard to predict from the governing control scheme.
 #### Sources
 __________________________________________________________________________
-1. 
+1. [mataric-primer.pdf (ucsd.edu)](https://pages.ucsd.edu/~ehutchins/cogs8/mataric-primer.pdf)
