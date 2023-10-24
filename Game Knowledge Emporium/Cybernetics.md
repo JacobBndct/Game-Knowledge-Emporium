@@ -3,6 +3,8 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-10-24*
 __________________________________________________________________________
 
+Pioneered in the 1940s by Norbert Wiener around the time of the second world war to better understand artificial and biological systems.
+
 
 #### Sources
 __________________________________________________________________________

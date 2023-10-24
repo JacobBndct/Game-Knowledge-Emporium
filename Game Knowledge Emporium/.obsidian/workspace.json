@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control Theory.md",
+                "file": "Cybernetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Control Theory.md",
+                "file": "Cybernetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Control Theory.md"
+                "file": "Cybernetics.md"
               }
             }
           },
@@ -216,7 +216,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4a12e7c13fbda32f",
+  "active": "9f01a933608f415f",
   "lastOpenFiles": [
     "Control Theory.md",
     "Cybernetics.md",
