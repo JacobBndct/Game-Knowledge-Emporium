@@ -47,9 +47,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f01a933608f415f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybernetics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a12e7c13fbda32f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Control Theory.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "W. Grey Walter's Tortoise.md",
+                "file": "Control Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "W. Grey Walter's Tortoise.md",
+                "file": "Control Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "W. Grey Walter's Tortoise.md"
+                "file": "Control Theory.md"
               }
             }
           },
@@ -190,11 +216,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3a0bc027d2cd8f7f",
+  "active": "4a12e7c13fbda32f",
   "lastOpenFiles": [
+    "Cybernetics.md",
     "W. Grey Walter's Tortoise.md",
     "Robots.md",
     "Home.md",
+    "Control Theory.md",
     "Exponentiation.md",
     "Autonomous Systems.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
@@ -217,8 +245,6 @@
     "The Lens of The Crystal Ball.md",
     "The Lens of Technology.md",
     "The Lens of Playtesting.md",
-    "The Lens of Documentation.md",
-    "The Lens of Love.md",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",
     "Pasted image 20231018133326.png",
