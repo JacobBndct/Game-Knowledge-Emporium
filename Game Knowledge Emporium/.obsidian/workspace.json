@@ -36,20 +36,12 @@
             }
           },
           {
-            "id": "3b634842e94bf03d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ba8e89bdfe499612",
+            "id": "3a0bc027d2cd8f7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exponentiation.md",
+                "file": "W. Grey Walter's Tortoise.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exponentiation.md",
+                "file": "W. Grey Walter's Tortoise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exponentiation.md",
+                "file": "W. Grey Walter's Tortoise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exponentiation.md"
+                "file": "W. Grey Walter's Tortoise.md"
               }
             }
           },
@@ -198,11 +190,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ba8e89bdfe499612",
+  "active": "3a0bc027d2cd8f7f",
   "lastOpenFiles": [
-    "Exponentiation.md",
+    "W. Grey Walter's Tortoise.md",
     "Robots.md",
     "Home.md",
+    "Exponentiation.md",
     "Autonomous Systems.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Hard vs Unfair.md",
@@ -226,7 +219,6 @@
     "The Lens of Playtesting.md",
     "The Lens of Documentation.md",
     "The Lens of Love.md",
-    "The Lens of Griefing.md",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",
     "Pasted image 20231018133326.png",
