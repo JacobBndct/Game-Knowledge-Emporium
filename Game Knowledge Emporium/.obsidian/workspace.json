@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control Theory.md",
+                "file": "Cybernetics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emergent Behavior.md",
+                "file": "Cybernetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emergent Behavior.md",
+                "file": "Cybernetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emergent Behavior.md"
+                "file": "Cybernetics.md"
               }
             }
           },
@@ -241,16 +241,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f9f9993a532e0514",
+  "active": "4a12e7c13fbda32f",
   "lastOpenFiles": [
+    "Control Theory.md",
+    "Biomimetic.md",
     "Reactive Control.md",
     "Emergent Behavior.md",
-    "Biomimetic.md",
-    "Untitled.md",
     "W. Grey Walter's Tortoise.md",
     "Robots.md",
     "Home.md",
-    "Control Theory.md",
+    "Untitled.md",
     "Cybernetics.md",
     "control theory..md",
     "Exponentiation.md",
