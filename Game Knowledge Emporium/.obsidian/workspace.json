@@ -34,9 +34,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b634842e94bf03d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba8e89bdfe499612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exponentiation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robots.md",
+                "file": "Exponentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robots.md",
+                "file": "Exponentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robots.md"
+                "file": "Exponentiation.md"
               }
             }
           },
@@ -177,11 +198,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a6f80028dfecb4fa",
+  "active": "ba8e89bdfe499612",
   "lastOpenFiles": [
+    "Exponentiation.md",
+    "Robots.md",
     "Home.md",
     "Autonomous Systems.md",
-    "Robots.md",
     "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Hard vs Unfair.md",
     "Basics of What Makes Something a Game.md",
@@ -205,7 +227,6 @@
     "The Lens of Documentation.md",
     "The Lens of Love.md",
     "The Lens of Griefing.md",
-    "The Lens of Community.md",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",
     "Pasted image 20231018133326.png",
