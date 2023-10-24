@@ -11,7 +11,7 @@ According to The Robotics Primer:
 
 A key concept of cybernetics relevant to [[robots|robotics]] is the focus on the coupling, combining, and interaction between the mechanism or organism and its environment.
 
-
+Cybernetics deals with "thinking", "acting", and the interaction with the environment.  When the fields of AI and Robotics would come to be the components of "thinking" and "acting" would be split with Robotics concentrating on acting and AI 
 #### Sources
 __________________________________________________________________________
 1. [mataric-primer.pdf (ucsd.edu)](https://pages.ucsd.edu/~ehutchins/cogs8/mataric-primer.pdf)
