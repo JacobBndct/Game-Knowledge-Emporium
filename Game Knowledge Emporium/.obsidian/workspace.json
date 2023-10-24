@@ -34,9 +34,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "927b10a4b24c3a9a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robotics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Robotics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,12 +180,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a6f80028dfecb4fa",
+  "active": "927b10a4b24c3a9a",
   "lastOpenFiles": [
+    "Robotics.md",
     "Robots.md",
     "Cybernetics.md",
     "Braitenberg's Vehicles.md",
-    "Robotics.md",
     "Artificial Intelligence.md",
     "AI-Inspired Robotics.md",
     "Types of Robot Control.md",
