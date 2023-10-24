@@ -93,20 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control Theory.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9da2de4b0a2e51c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Robotics VS Artificial Intelligence.md",
+                "file": "Cybernetics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -164,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -181,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics VS Artificial Intelligence.md",
+                "file": "Cybernetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robotics VS Artificial Intelligence.md",
+                "file": "Cybernetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robotics VS Artificial Intelligence.md"
+                "file": "Cybernetics.md"
               }
             }
           },
@@ -255,7 +241,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f9da2de4b0a2e51c",
+  "active": "4a12e7c13fbda32f",
   "lastOpenFiles": [
     "Robotics VS Artificial Intelligence.md",
     "Robots.md",
