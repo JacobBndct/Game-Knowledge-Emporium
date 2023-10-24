@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "927b10a4b24c3a9a",
+            "id": "5f80578ff0f8f37d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -180,9 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "927b10a4b24c3a9a",
+  "active": "5f80578ff0f8f37d",
   "lastOpenFiles": [
+    "Home.md",
     "Robotics.md",
+    "Real Number Analysis.md",
     "Robots.md",
     "Cybernetics.md",
     "Braitenberg's Vehicles.md",
@@ -197,7 +199,6 @@
     "Reactive Control.md",
     "Emergent Behavior.md",
     "W. Grey Walter's Tortoise.md",
-    "Home.md",
     "Robotics VS Artificial Intelligence.md",
     "Control Theory.md",
     "control theory..md",
@@ -207,7 +208,6 @@
     "Hard vs Unfair.md",
     "Basics of What Makes Something a Game.md",
     "Types of Fun.md",
-    "Game Design Docs/Lidar Game/Lidar Game Design Doc.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",
