@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-10-24*
 __________________________________________________________________________
 
-Pioneered in the 1940s by Norbert Wiener around the time of the second world war to better understand artificial and biological systems using methodes of [[Control Theory]].
+Pioneered in the 1940s by Norbert Wiener around the time of the second world war to better understand artificial and biological systems using methods of [[control theory]].
 
 According to The Robotics Primer: 
 

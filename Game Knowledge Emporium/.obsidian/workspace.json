@@ -93,7 +93,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybernetics.md",
+                "file": "Control Theory.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9da2de4b0a2e51c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Robotics VS Artificial Intelligence.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -151,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -167,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybernetics.md",
+                "file": "Robotics VS Artificial Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybernetics.md",
+                "file": "Robotics VS Artificial Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybernetics.md"
+                "file": "Robotics VS Artificial Intelligence.md"
               }
             }
           },
@@ -241,16 +255,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4a12e7c13fbda32f",
+  "active": "f9da2de4b0a2e51c",
   "lastOpenFiles": [
-    "Control Theory.md",
-    "Biomimetic.md",
-    "Reactive Control.md",
-    "Emergent Behavior.md",
-    "W. Grey Walter's Tortoise.md",
+    "Robotics VS Artificial Intelligence.md",
     "Robots.md",
+    "W. Grey Walter's Tortoise.md",
+    "Emergent Behavior.md",
+    "Reactive Control.md",
+    "Biomimetic.md",
+    "Control Theory.md",
     "Home.md",
-    "Untitled.md",
     "Cybernetics.md",
     "control theory..md",
     "Exponentiation.md",
