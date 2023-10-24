@@ -19,14 +19,15 @@ To exist in the physical world, is to be embodied.
 - Adapting and reacting differently to changing environment which can include learning mechanisms.
 ## Sensing and Perception
 To be situated in the physical world, is to be able to exist in and sense the world.
-- Foregoes the necessity of acting
-- Must sense the environment with its own sensors
-- Sensing allows the robot to know it's own state
+- Foregoes the necessity of acting.
+- Must sense the environment with its own sensors.
+- All possible sensory readings that the robot is capable of with all its different sensors is called the sensor space
+- Sensing allows the robot to know it's own internal state and the environment's external state .
 	- The state of a robot is not always known and can be observable, partially observable, or hidden.
-	- States here are similar to how they are in [[State Machine Pattern]]
+	- States here are similar to how they are in [[State Machine Pattern]].
 ## Acting
 A robot must be able to act in the physical environment based on the information it senses
-- Cannot act randomly, uselessly, or without consideration for the environment
+- Cannot act randomly, uselessly, or without consideration for the environment.
 ## Goals
 A robot must also act with purpose towards a goal or do something useful to itself and/or others.
 
