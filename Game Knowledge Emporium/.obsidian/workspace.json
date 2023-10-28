@@ -8,7 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0eb4f4a943ea1125",
+            "id": "5f80578ff0f8f37d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "890876876c4bd9bd",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,58 +31,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5f80578ff0f8f37d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "a6f80028dfecb4fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Robots.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01846286625c983b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Functional Space.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56f6497cfcef3e11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Lens of Feedback.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robots.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robots.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robots.md"
+                "file": "Home.md"
               }
             }
           },
@@ -212,7 +173,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a6f80028dfecb4fa",
+  "active": "890876876c4bd9bd",
   "lastOpenFiles": [
     "The Lens of Feedback.md",
     "The Lens of Functional Space.md",
