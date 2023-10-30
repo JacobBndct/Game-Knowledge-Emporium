@@ -26,7 +26,10 @@ To be situated in the physical world, is to be able to exist in and sense the wo
 	- The state of a robot is not always known and can be observable, partially observable, or hidden.
 	- States here are similar to how they are in [[State Machine Pattern]].
 ## Acting
-A robot must be able to act in the physical environment based on the information it senses
+A robot must be able to act in the physical environment based on the information it senses. This is done with physical components such as motors which are referred to as "actuator".
+- Actuators are used for two things
+	1. *Locomotion*: moving around, going places
+	2. *Manipulation*: handling objects
 - Cannot act randomly, uselessly, or without consideration for the environment.
 ## Goals
 A robot must also act with purpose towards a goal or do something useful to itself and/or others.
