@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "890876876c4bd9bd",
+            "id": "112300e53717e525",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -31,19 +31,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "112300e53717e525",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/CSCI3162_DigitalMedia_Slides.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/CSCI3162_DigitalMedia_Slides.pdf",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/CSCI3162_DigitalMedia_Slides.pdf",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/CSCI3162_DigitalMedia_Slides.pdf"
+                "file": "Home.md"
               }
             }
           },
