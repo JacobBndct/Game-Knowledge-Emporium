@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evolutionary Algorithms.md",
+                "file": "Genetic Algorithms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evolutionary Algorithms.md",
+                "file": "Genetic Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evolutionary Algorithms.md",
+                "file": "Genetic Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evolutionary Algorithms.md"
+                "file": "Genetic Algorithms.md"
               }
             }
           },
@@ -219,8 +219,9 @@
   },
   "active": "8774ab588daca2df",
   "lastOpenFiles": [
-    "Robots.md",
     "Evolutionary Algorithms.md",
+    "Genetic Algorithms.md",
+    "Robots.md",
     "Reinforcement learning.md",
     "Supervised Learning.md",
     "Unsupervised learning.md",
@@ -246,7 +247,6 @@
     "Inhibitory Connection.md",
     "Biomimetic.md",
     "Reactive Control.md",
-    "Emergent Behavior.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",
