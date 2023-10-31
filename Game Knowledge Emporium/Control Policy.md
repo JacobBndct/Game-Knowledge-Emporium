@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-10-31*
 __________________________________________________________________________
 
-In machine learning the process of using what has already been learned is called *Exploitation*. This process uses all of what has been learned to the fullest. Relying too much on exploitation prevents growth and reaching the "best" solution.
+A *control policy*
 #### Sources
 __________________________________________________________________________
 1. [mataric-primer.pdf (ucsd.edu)](https://pages.ucsd.edu/~ehutchins/cogs8/mataric-primer.pdf)

@@ -7,7 +7,7 @@ Takes inspiration from Psychology, Neuroscience, Control Theory, Artificial Inte
 
 Learning happens through interaction with the environment and achieving specific goals. Mapping situations to "best" actions to get closer to the goal. This is done through optimizing a reward signal. The general idea comes from rewarding actions that lead to good outcomes and punishing actions that lead to bad outcomes.
 
-[[Exploration]] and [[Exploitation]]
+[[Exploration]] vs [[Exploitation]] is the trade-off between constantly learning and using the information that is already known.
 
 #### Sources
 __________________________________________________________________________
