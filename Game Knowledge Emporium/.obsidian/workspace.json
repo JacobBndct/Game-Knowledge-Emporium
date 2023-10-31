@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -180,11 +179,11 @@
   "active": "42967fa0ec240c07",
   "lastOpenFiles": [
     "Home.md",
+    "Robots.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
     "The Lens of Feedback.md",
     "The Lens of Functional Space.md",
-    "Robots.md",
     "Robotics.md",
     "Real Number Analysis.md",
     "Cybernetics.md",
