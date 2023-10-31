@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd8a2173c80ce9c6",
+        "id": "681ba7094df978c7",
         "type": "tabs",
         "children": [
           {
-            "id": "5f80578ff0f8f37d",
+            "id": "713f5671b5a0b408",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,74 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "42967fa0ec240c07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Robots.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8774ab588daca2df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Genetic Algorithms.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f987163ce3525f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Selfish Gene Hypothesis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "857c80531ca805c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Control Policy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6334ab9ed3701911",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Supervised Learning.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genetic Algorithms.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genetic Algorithms.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genetic Algorithms.md"
+                "file": "Home.md"
               }
             }
           },
@@ -230,7 +164,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8774ab588daca2df",
+  "active": "713f5671b5a0b408",
   "lastOpenFiles": [
     "Selfish Gene Hypothesis.md",
     "Genetic Algorithms.md",
