@@ -5,7 +5,9 @@ __________________________________________________________________________
 
 Genetic algorithms usually take two parents individuals and they recombine their genetic material to produce a child that inherits genetic material from both parents.
 
-If the child performs well on the evaluation test (evaluating an individual and measuring how well an individual performs is commonly done by the use of a fitness function), it will also be selected for reproduction and in this way the genetic material can again be propagated to new generations. Since the individuals themselves will usually die (they are often replaced by individuals of the next generation). [[Selfish Gene Hypothesis]]
+If the child performs well on the evaluation test (evaluating an individual and measuring how well an individual performs is commonly done by the use of a fitness function), it will also be selected for reproduction and in this way the genetic material can again be propagated to new generations. Since the individuals themselves will usually die (they are often replaced by individuals of the next generation). In reference to this the [[Selfish Gene Hypothesis]] was proposed.
+
+
 #### Sources
 __________________________________________________________________________
 1. 
