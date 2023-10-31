@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robots.md",
+                "file": "Exploration.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rein",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,11 +82,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robots.md",
+                "file": "Exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robots.md",
+                "file": "Exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robots.md"
+                "file": "Exploration.md"
               }
             }
           },
@@ -178,8 +180,10 @@
   },
   "active": "42967fa0ec240c07",
   "lastOpenFiles": [
-    "Home.md",
+    "Reinforcement learning.md",
+    "Exploration.md",
     "Robots.md",
+    "Home.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
     "The Lens of Feedback.md",
@@ -204,7 +208,6 @@
     "control theory..md",
     "Exponentiation.md",
     "Autonomous Systems.md",
-    "Game Design Docs/Lidar Game/Lidar - Story.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",
