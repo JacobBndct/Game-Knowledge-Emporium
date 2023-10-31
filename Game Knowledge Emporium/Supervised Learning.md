@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-09-24*
 __________________________________________________________________________
 
-Learning the relation between input-output pairs. Neural networks are one example of things that make use of supervised learning.
+Learning the relation between input-output pairs. Neural networks are a very popular approach use for supervised learning.
 
 Forward propagation
 - Calculate the activation values for nodes in the first layer

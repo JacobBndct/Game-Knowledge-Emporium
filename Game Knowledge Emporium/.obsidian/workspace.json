@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement learning.md",
+                "file": "Supervised Learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement learning.md",
+                "file": "Supervised Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement learning.md",
+                "file": "Supervised Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement learning.md"
+                "file": "Supervised Learning.md"
               }
             }
           },
@@ -206,9 +206,9 @@
   },
   "active": "42967fa0ec240c07",
   "lastOpenFiles": [
-    "Unsupervised learning.md",
     "Reinforcement learning.md",
     "Supervised Learning.md",
+    "Unsupervised learning.md",
     "Value Function.md",
     "Control Policy.md",
     "Exploitation.md",
