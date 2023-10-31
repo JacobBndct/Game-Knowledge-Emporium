@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-09-24*
 __________________________________________________________________________
 
-Learning the relation between input-output pairs. Neural networks are a very popular approach use for supervised learning.
+Learning the relation between input-output pairs. Neural networks are a very popular approach use for supervised learning. This technique lends itself very well to things like teaching [[Robots]] inverse kinematics or dynamics where the right answer is readily available and the error is easy to calculate. 
 
 Forward propagation
 - Calculate the activation values for nodes in the first layer

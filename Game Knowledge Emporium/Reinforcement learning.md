@@ -11,6 +11,8 @@ Learning happens through interaction with the environment and achieving specific
 
 Reinforcement learning is an example of [[Unsupervised learning]].
 
+[[Forgetting]] incorrec
+
 #### Sources
 __________________________________________________________________________
 1. [mataric-primer.pdf (ucsd.edu)](https://pages.ucsd.edu/~ehutchins/cogs8/mataric-primer.pdf)
