@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Value Function.md",
+                "file": "Supervised Learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Value Function.md",
+                "file": "Reinforcement learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Value Function.md",
+                "file": "Reinforcement learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Value Function.md"
+                "file": "Reinforcement learning.md"
               }
             }
           },
@@ -204,11 +204,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6334ab9ed3701911",
+  "active": "42967fa0ec240c07",
   "lastOpenFiles": [
-    "Control Policy.md",
-    "Value Function.md",
+    "Unsupervised learning.md",
     "Reinforcement learning.md",
+    "Supervised Learning.md",
+    "Value Function.md",
+    "Control Policy.md",
     "Exploitation.md",
     "Exploration.md",
     "Robots.md",
@@ -232,8 +234,6 @@
     "Reactive Control.md",
     "Emergent Behavior.md",
     "W. Grey Walter's Tortoise.md",
-    "Robotics VS Artificial Intelligence.md",
-    "Control Theory.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",

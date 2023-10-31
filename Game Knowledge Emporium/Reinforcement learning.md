@@ -9,6 +9,8 @@ Learning happens through interaction with the environment and achieving specific
 
 [[Exploration]] vs [[Exploitation]] is the trade-off between constantly learning and using the information that is already known.
 
+Reinforcement learning is an example of [[Unsupervised learning]].
+
 #### Sources
 __________________________________________________________________________
 1. [mataric-primer.pdf (ucsd.edu)](https://pages.ucsd.edu/~ehutchins/cogs8/mataric-primer.pdf)

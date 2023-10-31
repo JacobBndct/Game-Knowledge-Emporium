@@ -3,9 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-09-24*
 __________________________________________________________________________
 
-Learning is done from the inputs alone
-
-Usually similarity or a distance measure is optimized
+Learning is done from the inputs alone. Usually similarity or a distance measure is optimized.
 
 Clustering
 - grouping similar data together
@@ -25,4 +23,4 @@ By learning to compress the (encode) a smaller latent representation and decompr
 
 #### Sources
 __________________________________________________________________________
-1. 
+1. [mataric-primer.pdf (ucsd.edu)](https://pages.ucsd.edu/~ehutchins/cogs8/mataric-primer.pdf)
