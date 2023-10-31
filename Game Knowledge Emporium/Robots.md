@@ -28,7 +28,7 @@ To be situated in the physical world, is to be able to exist in and sense the wo
 ## Acting
 A robot must be able to act in the physical environment based on the information it senses. This is done with physical components such as motors which are referred to as "actuator".
 - Actuators are used for two things
-	1. *Locomotion*: moving around, going places
+	1. *[[Locomotion]]*: moving around, going places
 	2. *Manipulation*: handling objects
 - Cannot act randomly, uselessly, or without consideration for the environment.
 ## Goals

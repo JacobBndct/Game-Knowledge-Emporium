@@ -11,7 +11,7 @@ Learning happens through interaction with the environment and achieving specific
 
 Reinforcement learning is an example of [[Unsupervised learning]].
 
-[[Forgetting]] incorrec
+Forgetting old behavior is also a very important part of learning to both get rid of older incorrect behavior and to free up memory.
 
 #### Sources
 __________________________________________________________________________

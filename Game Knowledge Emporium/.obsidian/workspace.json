@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement learning.md",
+                "file": "Robots.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8774ab588daca2df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evolutionary Algorithms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement learning.md",
+                "file": "Evolutionary Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement learning.md",
+                "file": "Evolutionary Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement learning.md"
+                "file": "Evolutionary Algorithms.md"
               }
             }
           },
@@ -204,16 +217,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "42967fa0ec240c07",
+  "active": "8774ab588daca2df",
   "lastOpenFiles": [
-    "Supervised Learning.md",
+    "Robots.md",
+    "Evolutionary Algorithms.md",
     "Reinforcement learning.md",
+    "Supervised Learning.md",
     "Unsupervised learning.md",
     "Value Function.md",
     "Control Policy.md",
     "Exploitation.md",
     "Exploration.md",
-    "Robots.md",
     "Home.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
@@ -233,7 +247,6 @@
     "Biomimetic.md",
     "Reactive Control.md",
     "Emergent Behavior.md",
-    "W. Grey Walter's Tortoise.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",
