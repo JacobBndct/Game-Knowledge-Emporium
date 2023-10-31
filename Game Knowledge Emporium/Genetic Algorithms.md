@@ -7,7 +7,10 @@ Genetic algorithms usually take two parents individuals and they recombine their
 
 If the child performs well on the evaluation test (evaluating an individual and measuring how well an individual performs is commonly done by the use of a fitness function), it will also be selected for reproduction and in this way the genetic material can again be propagated to new generations. Since the individuals themselves will usually die (they are often replaced by individuals of the next generation). In reference to this the [[Selfish Gene Hypothesis]] was proposed.
 
-
+A genetic algorithm in pseudo-code may look like:
+1. Initialize a population of N individuals
+2. Repeat:
+	1. Evaluate all individuals in the population using the fitness functi 
 #### Sources
 __________________________________________________________________________
 1. 
