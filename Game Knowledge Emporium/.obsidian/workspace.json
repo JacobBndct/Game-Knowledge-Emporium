@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploration.md",
+                "file": "Exploitation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploration.md",
+                "file": "Exploitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploration.md",
+                "file": "Exploitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploration.md"
+                "file": "Exploitation.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   "active": "42967fa0ec240c07",
   "lastOpenFiles": [
     "Reinforcement learning.md",
+    "Exploitation.md",
     "Exploration.md",
     "Robots.md",
     "Home.md",
@@ -207,7 +208,6 @@
     "Control Theory.md",
     "control theory..md",
     "Exponentiation.md",
-    "Autonomous Systems.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",
