@@ -23,8 +23,11 @@ Both the population itself and each N individual have a state. After each genera
 
 After sufficiently long the population may contain the optimal solution. Since the optimal solution may get lost, the nest solution found so far is always stored.
 ## Representation
+Individuals for genetic algorithms can be represented as binary strings.
 
+Recombination can be done by combining two strings in some way.
 
+Mutation is done by swapping of
 #### Sources
 __________________________________________________________________________
 1. 
