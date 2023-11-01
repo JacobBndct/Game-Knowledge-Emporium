@@ -22,6 +22,9 @@ A genetic algorithm in pseudo-code may look like:
 Both the population itself and each N individual have a state. After each generation the population makes a transition to a new state.
 
 After sufficiently long the population may contain the optimal solution. Since the optimal solution may get lost, the nest solution found so far is always stored.
+## Representation
+
+
 #### Sources
 __________________________________________________________________________
 1. 
