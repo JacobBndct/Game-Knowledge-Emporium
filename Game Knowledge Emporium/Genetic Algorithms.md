@@ -27,7 +27,7 @@ Individuals for genetic algorithms can be represented as binary strings.
 
 Recombination can be done by combining two strings in some way.
 
-Mutation is done by swapping of
+Mutation is done by swapping for real numbers or swapping bits for binary.
 #### Sources
 __________________________________________________________________________
 1. 
