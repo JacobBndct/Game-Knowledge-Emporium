@@ -18,6 +18,8 @@ A genetic algorithm in pseudo-code may look like:
 		3. Mutate the offspring
 		4. Inset the offspring in a new population
 	3. Replace the population by the new population
+
+Both the population itself and each N individual have a state. 
 #### Sources
 __________________________________________________________________________
 1. 
