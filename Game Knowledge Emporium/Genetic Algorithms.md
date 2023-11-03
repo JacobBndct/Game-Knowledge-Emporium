@@ -23,8 +23,11 @@ Both the population itself and each N individual have a state. After each genera
 
 After sufficiently long the population may contain the optimal solution. Since the optimal solution may get lost, the nest solution found so far is always stored.
 ## Representation
-Individuals for genetic algorithms can be represented as binary strings.
-
+Individuals for genetic algorithms can be represented as binary strings or by strings of real numbers.
+## Genetic operators
+Genetic operators are the operations that are used to recombine and mutate selected members of one specific generation G. There are two operators which are the most common ones:
+- [[Crossover]]
+- [[Mutation]]
 Recombination can be done by combining two strings in some way.
 
 Mutation is done by swapping for real numbers or swapping bits for binary.
