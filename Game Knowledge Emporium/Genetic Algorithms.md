@@ -28,10 +28,9 @@ Individuals for genetic algorithms can be represented as binary strings or by st
 Genetic operators are the operations that are used to recombine and mutate selected members of one specific generation G. There are two operators which are the most common ones:
 
 - [[Crossover]]
+	- Recombination can be done by combining two strings in some way.
 - [[Mutation]]
-Recombination can be done by combining two strings in some way.
-
-Mutation is done by swapping for real numbers or swapping bits for binary.
+	- Mutation is done by swapping for real numbers or swapping bits for binary.
 #### Sources
 __________________________________________________________________________
 1. 
