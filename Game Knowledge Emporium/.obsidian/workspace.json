@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "681ba7094df978c7",
+        "id": "33fe92665857f627",
         "type": "tabs",
         "children": [
           {
-            "id": "713f5671b5a0b408",
+            "id": "fc4ca425eee857af",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,35 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "6fe40c6b7a16279b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Genetic Algorithms.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "414db8256515ab37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Life.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Life.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Life.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Life.md"
+                "file": "Home.md"
               }
             }
           },
@@ -189,7 +162,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "414db8256515ab37",
+  "active": "fc4ca425eee857af",
   "lastOpenFiles": [
     "Genetic Algorithms.md",
     "Artificial Life.md",
