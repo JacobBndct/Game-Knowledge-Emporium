@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Life.md",
+                "file": "Robots.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "exter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Life.md",
+                "file": "Robots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Life.md",
+                "file": "Robots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Life.md"
+                "file": "Robots.md"
               }
             }
           },
@@ -176,11 +177,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d82658dd5737f33a",
+  "active": "c59900daccb853ab",
   "lastOpenFiles": [
+    "Artificial Life.md",
     "Home.md",
     "Genetic Algorithms.md",
-    "Artificial Life.md",
     "Selfish Gene Hypothesis.md",
     "Evolutionary Algorithms.md",
     "Robots.md",
