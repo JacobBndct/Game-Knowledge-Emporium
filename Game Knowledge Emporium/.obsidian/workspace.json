@@ -41,15 +41,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MathJax.md",
+                "file": "Crossover.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "3aa9854ae471b8dd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MathJax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MathJax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MathJax.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,9 +193,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "04e70ee36d130f13",
+  "active": "3aa9854ae471b8dd",
   "lastOpenFiles": [
     "Crossover.md",
+    "Untitled.md",
     "MathJax.md",
     "Home.md",
     "Genetic Algorithms.md",
@@ -218,7 +223,6 @@
     "AI-Inspired Robotics.md",
     "Types of Robot Control.md",
     "Photophilic.md",
-    "Photophobic.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",
