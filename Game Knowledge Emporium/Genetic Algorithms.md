@@ -26,6 +26,7 @@ After sufficiently long the population may contain the optimal solution. Since t
 Individuals for genetic algorithms can be represented as binary strings or by strings of real numbers.
 ## Genetic operators
 Genetic operators are the operations that are used to recombine and mutate selected members of one specific generation G. There are two operators which are the most common ones:
+
 - [[Crossover]]
 - [[Mutation]]
 Recombination can be done by combining two strings in some way.

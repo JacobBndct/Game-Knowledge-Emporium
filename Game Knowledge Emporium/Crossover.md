@@ -12,9 +12,9 @@ $$\begin{align} p_1 = 11101\pmb {\{001000\}} \\ p_2 = \mathbb {\{00001\}} 010101
 ## Two-Point Crossover
 
 ***First Child:***
-$$\begin{align} p_1 = 11 \pmb {\{10100\}} 1000\\ p_2 = \mathbb {\{00\}} 00101 \mathbb {\{0101\}}  \\ \\ c_1 = \mathbb {\{00\}} 00101 \mathbb {\{0101\}}\end{align}$$
+$$\begin{align} p_1 = 11 \pmb {\{10100\}} 1000\\ p_2 = \mathbb {\{00\}} 00101 \mathbb {\{0101\}}  \\ \\ c_1 = \mathbb {\{00\}}\pmb {\{10100\}} \mathbb {\{0101\}}\end{align}$$
 ***Second Child:***
-$$\begin{align} p_1 = 11101\pmb {\{001000\}} \\ p_2 = \mathbb {\{00001\}} 010101 \\ \\ c_2 = \mathbb {\{00001\}} \pmb {\{001000\}} \end{align}$$
+$$\begin{align} p_1 = \pmb {\{11\}} 10100 \pmb {\{1000\}} \\ p_2 = 00 \mathbb {\{00101\}} 0101  \\ \\ c_1 = \pmb {\{11\}}\mathbb {\{00101\}} \pmb {\{1000\}}\end{align}$$
 
 #### Sources
 __________________________________________________________________________
