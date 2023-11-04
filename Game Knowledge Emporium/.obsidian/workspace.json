@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning From Demonstration or Imitation.md",
+                "file": "Artificial Life.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -116,8 +116,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning From Demonstration or Imitation.md",
+                "file": "Artificial Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning From Demonstration or Imitation.md",
+                "file": "Artificial Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning From Demonstration or Imitation.md"
+                "file": "Artificial Life.md"
               }
             }
           },
@@ -213,8 +212,8 @@
   },
   "active": "3513357704411909",
   "lastOpenFiles": [
-    "Reinforcement learning.md",
     "Learning From Demonstration or Imitation.md",
+    "Reinforcement learning.md",
     "Unsupervised learning.md",
     "Supervised Learning.md",
     "Artificial Life.md",
