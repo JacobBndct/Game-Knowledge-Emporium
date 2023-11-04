@@ -62,6 +62,19 @@
             }
           },
           {
+            "id": "11226fe2b30e6ea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Life VS Artificial Intelligence.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3aa9854ae471b8dd",
             "type": "leaf",
             "state": {
@@ -70,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Artificial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +129,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Life.md",
+                "file": "Artificial Life VS Artificial Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Life.md",
+                "file": "Artificial Life VS Artificial Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Life.md"
+                "file": "Artificial Life VS Artificial Intelligence.md"
               }
             }
           },
@@ -210,13 +224,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3513357704411909",
+  "active": "11226fe2b30e6ea7",
   "lastOpenFiles": [
+    "Artificial Life.md",
+    "Artificial Life VS Artificial Intelligence.md",
+    "Artificial Intelligence.md",
     "Learning From Demonstration or Imitation.md",
     "Reinforcement learning.md",
     "Unsupervised learning.md",
     "Supervised Learning.md",
-    "Artificial Life.md",
     "Genetic Programming.md",
     "Genetic Algorithms.md",
     "Mutation.md",
@@ -238,8 +254,6 @@
     "Real Number Analysis.md",
     "Cybernetics.md",
     "Braitenberg's Vehicles.md",
-    "Artificial Intelligence.md",
-    "AI-Inspired Robotics.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",

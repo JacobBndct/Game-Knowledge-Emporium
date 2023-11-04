@@ -11,6 +11,8 @@ The field of *artificial intelligence (AI)* was officially "born" in 1956 when m
 - Symbolic representation of information
 - Hierarchical system organization
 - Sequential program execution
+
+One of the most well known algorithms in artificial intelligence are [[Genetic Algorithms]]. 
 #### Sources
 __________________________________________________________________________
 1. [mataric-primer.pdf (ucsd.edu)](https://pages.ucsd.edu/~ehutchins/cogs8/mataric-primer.pdf)
