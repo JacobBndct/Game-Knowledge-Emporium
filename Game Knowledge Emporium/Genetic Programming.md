@@ -16,7 +16,15 @@ To do this we represent computer programs via a [[Tree]]:
 
 In Genetic Programming: 
 1. We use the same genetic operators that define Genetic Algorithms
-2. Howev
+2. However, we need to define the set of primitive functions e.g. $+, \sqrt, sin \dots$ which is not trivial
+3. A solution is represented by an entire program tree, which can make their evaluation expressive
+
+## Pros & Cons
+Among the main benefits we have that:
+- The underlying concept is easy to understand
+- Can be used for multi-objective optimization
+- Support distributed learning
+- Same cooking recipe can b
 #### Sources
 __________________________________________________________________________
 1. 
