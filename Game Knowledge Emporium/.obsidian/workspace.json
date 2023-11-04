@@ -41,7 +41,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genetic Programming.md",
+                "file": "Reinforcement learning.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3513357704411909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning From Demonstration or Imitation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genetic Programming.md",
+                "file": "Learning From Demonstration or Imitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genetic Programming.md",
+                "file": "Learning From Demonstration or Imitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genetic Programming.md"
+                "file": "Learning From Demonstration or Imitation.md"
               }
             }
           },
@@ -197,8 +211,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1030fe9f9f435846",
+  "active": "3513357704411909",
   "lastOpenFiles": [
+    "Reinforcement learning.md",
+    "Learning From Demonstration or Imitation.md",
+    "Unsupervised learning.md",
+    "Supervised Learning.md",
+    "Artificial Life.md",
     "Genetic Programming.md",
     "Genetic Algorithms.md",
     "Mutation.md",
@@ -206,12 +225,8 @@
     "MathJax.md",
     "Home.md",
     "Robots.md",
-    "Artificial Life.md",
     "Selfish Gene Hypothesis.md",
     "Evolutionary Algorithms.md",
-    "Reinforcement learning.md",
-    "Supervised Learning.md",
-    "Unsupervised learning.md",
     "Value Function.md",
     "Control Policy.md",
     "Exploitation.md",
@@ -226,7 +241,6 @@
     "Braitenberg's Vehicles.md",
     "Artificial Intelligence.md",
     "AI-Inspired Robotics.md",
-    "Types of Robot Control.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",

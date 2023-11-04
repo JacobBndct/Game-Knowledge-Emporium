@@ -3,6 +3,8 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-09-24*
 __________________________________________________________________________
 
+**Find patterns in data**
+
 Learning is done from the inputs alone. Usually similarity or a distance measure is optimized.
 
 Clustering

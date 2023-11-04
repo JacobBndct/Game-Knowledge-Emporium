@@ -19,12 +19,19 @@ In Genetic Programming:
 2. However, we need to define the set of primitive functions e.g. $+, \sqrt, sin \dots$ which is not trivial
 3. A solution is represented by an entire program tree, which can make their evaluation expressive
 
-## Pros & Cons
+## Pros
 Among the main benefits we have that:
 - The underlying concept is easy to understand
 - Can be used for multi-objective optimization
 - Support distributed learning
-- Same cooking recipe can b
+- Same cooking recipe can be used across large variety of tasks
+- Work well when the problem is not differentiable
+## Cons
+Among such limitations we have:
+- No convergence guarantees in finite time
+- Computing the evaluation function $f(x)$ can be expensive
+- Lots of implementation parameters need to be defined
+- Termination Criteria?
 #### Sources
 __________________________________________________________________________
 1. 
