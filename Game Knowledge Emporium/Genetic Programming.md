@@ -3,9 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-11-04*
 __________________________________________________________________________
 
-A special case of [[Crossover]] which only requires a single parent.
-## Point Mutation
-$$\begin{aligned} p_1 = 11101\pmb01000 \\ p_1 = 11101\pmb11000 \\ \\ c_1 = 1110111000\end{aligned}$$
+Genetic Programming is a form of evolutionary computation in which the individuals in the evolving population are full ****
 #### Sources
 __________________________________________________________________________
 1. 
