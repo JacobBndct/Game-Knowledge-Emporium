@@ -4,7 +4,6 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 The field of Artificial Life (AL) studies \[models and simulations] of \[agents and complex systems].
-
 ### Models
 - a domain and set of rules/equations describing a phenomenon
 ### Simulation
