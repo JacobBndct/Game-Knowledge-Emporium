@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genetic Algorithms.md",
+                "file": "Mutation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genetic Algorithms.md",
+                "file": "Mutation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genetic Algorithms.md",
+                "file": "Mutation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genetic Algorithms.md"
+                "file": "Mutation.md"
               }
             }
           },
@@ -187,10 +187,11 @@
   "active": "d82658dd5737f33a",
   "lastOpenFiles": [
     "Crossover.md",
+    "Mutation.md",
+    "Genetic Algorithms.md",
     "Untitled.md",
     "MathJax.md",
     "Home.md",
-    "Genetic Algorithms.md",
     "Robots.md",
     "Artificial Life.md",
     "Selfish Gene Hypothesis.md",
@@ -213,7 +214,6 @@
     "Artificial Intelligence.md",
     "AI-Inspired Robotics.md",
     "Types of Robot Control.md",
-    "Photophilic.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",
