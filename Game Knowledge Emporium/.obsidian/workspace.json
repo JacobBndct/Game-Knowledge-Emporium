@@ -75,6 +75,19 @@
             }
           },
           {
+            "id": "6100d7df0d98b244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Divisiblility.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3aa9854ae471b8dd",
             "type": "leaf",
             "state": {
@@ -83,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Life VS Artificial Intelligence.md",
+                "file": "Divisiblility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Life VS Artificial Intelligence.md",
+                "file": "Divisiblility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Life VS Artificial Intelligence.md"
+                "file": "Divisiblility.md"
               }
             }
           },
@@ -224,10 +237,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "11226fe2b30e6ea7",
+  "active": "6100d7df0d98b244",
   "lastOpenFiles": [
-    "Artificial Life.md",
     "Artificial Life VS Artificial Intelligence.md",
+    "Divisiblility.md",
+    "Artificial Life.md",
     "Artificial Intelligence.md",
     "Learning From Demonstration or Imitation.md",
     "Reinforcement learning.md",
@@ -253,7 +267,6 @@
     "Robotics.md",
     "Real Number Analysis.md",
     "Cybernetics.md",
-    "Braitenberg's Vehicles.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",
