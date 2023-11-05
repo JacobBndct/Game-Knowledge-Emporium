@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets.md",
+                "file": "Divisiblility.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transitivity",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sets.md",
+                "file": "Divisiblility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sets.md",
+                "file": "Divisiblility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sets.md"
+                "file": "Divisiblility.md"
               }
             }
           },
@@ -239,6 +239,8 @@
   },
   "active": "6100d7df0d98b244",
   "lastOpenFiles": [
+    "Sets.md",
+    "Transitivity of Inclusion.md",
     "Divisiblility.md",
     "Artificial Life VS Artificial Intelligence.md",
     "Artificial Life.md",
@@ -265,8 +267,6 @@
     "The Lens of Feedback.md",
     "The Lens of Functional Space.md",
     "Robotics.md",
-    "Real Number Analysis.md",
-    "Cybernetics.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",
