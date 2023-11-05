@@ -3,7 +3,11 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-11-05*
 __________________________________________________________________________
 
-*For $a,b, \in \Bbb Z$ such that $(a, b) \not = (0,0)$ the greatest common divisor **gcd** is the maximal element of $[[Set of Divisors|]]$* 
+*For $a,b, \in \Bbb Z$ such that $(a, b) \not = (0,0)$ the greatest common divisor **gcd** is the maximal element of the [[Set of Divisors|sets of divisors]] of $Dvs(a) \cap Dvs(b)$. Notation $k = gcd(a, b)$.* 
+
+If $gcd(a, b) = 1$ we say $a$ and $b$ are **relatively prime**.
+
+
 
 #### Sources
 __________________________________________________________________________
