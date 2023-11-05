@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-11-05*
 __________________________________________________________________________
 
-## Properties of divisibility
+## Properties of divisibility (Theorem 7.1)
 *In what follow a, b, c are integers.*
 1. *If $a|b$ then $a|bc$ for any c.*
 2. *If $a|b$ and $b|c$ then $a|c$.* ([[transitivity]])
