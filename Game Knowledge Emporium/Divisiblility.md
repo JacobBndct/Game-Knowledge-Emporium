@@ -3,6 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-11-05*
 __________________________________________________________________________
 
+Divisibility can be written as $a|b$ and is read as *a **divides** b*
 ## Properties of divisibility (Theorem 7.1)
 *In what follow a, b, c are integers.*
 1. *If $a|b$ then $a|bc$ for any c.*
