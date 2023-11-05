@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Greatest Common Divisors.md",
+                "file": "Set of Divisors.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d018cfad0e26c42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Set of Divisors.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sets",
+                "query": "Sets",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +103,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Greatest Common Divisors.md",
+                "file": "Set of Divisors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Greatest Common Divisors.md",
+                "file": "Set of Divisors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Greatest Common Divisors.md"
+                "file": "Set of Divisors.md"
               }
             }
           },
@@ -185,16 +197,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "df759e772626e4ce",
+  "active": "7d018cfad0e26c42",
   "lastOpenFiles": [
+    "Greatest Common Divisors.md",
+    "Divisiblility.md",
+    "Set of Divisors.md",
+    "Bijective (one-to-one & onto).md",
     "Home.md",
     "Cardinality.md",
     "Mutation.md",
     "Reinforcement learning.md",
     "Artificial Life.md",
     "Artificial Life VS Artificial Intelligence.md",
-    "Divisiblility.md",
-    "Greatest Common Divisors.md",
     "Sets.md",
     "Transitivity of Inclusion.md",
     "Artificial Intelligence.md",
@@ -211,10 +225,8 @@
     "Value Function.md",
     "Control Policy.md",
     "Exploitation.md",
-    "Exploration.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
-    "The Lens of Feedback.md",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
     "Pasted image 20231018133322.png",
     "Pasted image 20231018133331.png",

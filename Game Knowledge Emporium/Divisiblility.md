@@ -12,4 +12,4 @@ Divisibility can be written as $a|b$ and is read as *a **divides** b*
 4. *If $a|b$ and $a|c$ then $a|(br -cs)$ for every $r, s \in \Bbb Z$.*
 #### Sources
 __________________________________________________________________________
-1. 
+1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)
