@@ -75,6 +75,19 @@
             }
           },
           {
+            "id": "2877c7b3062efb78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bézout's identity.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7d018cfad0e26c42",
             "type": "leaf",
             "state": {
@@ -96,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Euclid's Algorithm.md",
+                "file": "Bézout's identity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Euclid's Algorithm.md",
+                "file": "Bézout's identity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Euclid's Algorithm.md"
+                "file": "Bézout's identity.md"
               }
             }
           },
@@ -236,10 +249,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "270a0f389386359b",
+  "active": "2877c7b3062efb78",
   "lastOpenFiles": [
-    "Division with remainder.md",
     "Euclid's Algorithm.md",
+    "Bézout's identity.md",
+    "Division with remainder.md",
     "Lemma 7.5.md",
     "Greatest Common Divisors.md",
     "Set of Divisors.md",
@@ -263,7 +277,6 @@
     "MathJax.md",
     "Robots.md",
     "Selfish Gene Hypothesis.md",
-    "Evolutionary Algorithms.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
