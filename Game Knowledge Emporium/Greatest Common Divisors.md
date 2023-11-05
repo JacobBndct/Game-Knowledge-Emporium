@@ -9,7 +9,9 @@ If $gcd(a, b) = 1$ we say $a$ and $b$ are **relatively prime**.
 ## Properties of GCD
 -  $gcd(a, 0) = |a|$ (provided $a \not = 0)$.
 - $gcd(a,b) = gcd(b,a).$
-- $gcd
+- $gcd(a,b) = gcd(|a|,|b|).$
+
+
 #### Sources
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)
