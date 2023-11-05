@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divisiblility.md",
+                "file": "Sets.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Artificial",
+                "query": "transitivity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Divisiblility.md",
+                "file": "Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Divisiblility.md",
+                "file": "Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Divisiblility.md"
+                "file": "Sets.md"
               }
             }
           },
@@ -239,8 +239,8 @@
   },
   "active": "6100d7df0d98b244",
   "lastOpenFiles": [
-    "Artificial Life VS Artificial Intelligence.md",
     "Divisiblility.md",
+    "Artificial Life VS Artificial Intelligence.md",
     "Artificial Life.md",
     "Artificial Intelligence.md",
     "Learning From Demonstration or Imitation.md",
