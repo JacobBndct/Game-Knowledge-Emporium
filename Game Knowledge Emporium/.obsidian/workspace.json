@@ -93,9 +93,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types of Robot Control.md",
+                "file": "Hybrid Control.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of Robot Control.md",
+                "file": "Hybrid Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Types of Robot Control.md",
+                "file": "Hybrid Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Types of Robot Control.md"
+                "file": "Hybrid Control.md"
               }
             }
           },
@@ -342,12 +342,14 @@
   },
   "active": "0fa2b5261b072e36",
   "lastOpenFiles": [
-    "Reactive Control.md",
-    "Hybrid Control.md",
     "Behaviour-Based Control.md",
-    "W. Grey Walter's Tortoise.md",
-    "Types of Robot Control.md",
     "Deliberate Control.md",
+    "Hybrid Control.md",
+    "Gait.md",
+    "Types of Robot Control.md",
+    "behavior-based control.md",
+    "Reactive Control.md",
+    "W. Grey Walter's Tortoise.md",
     "Trajectory Planning.md",
     "Legs VS Wheels.md",
     "Wheels.md",
@@ -356,7 +358,6 @@
     "Artificial Life.md",
     "Robots.md",
     "Degrees of Freedom.md",
-    "Gait.md",
     "Images/Stability.png",
     "Holonomic.md",
     "Cellular Automata.md",
@@ -368,7 +369,6 @@
     "Mutation.md",
     "Reinforcement learning.md",
     "Learning From Demonstration or Imitation.md",
-    "Bézout's identity.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",

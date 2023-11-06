@@ -7,7 +7,7 @@ Because of the many directions [[robotics]] took in it's early days, a method of
 
 1. [[Reactive Control]]
 2. [[hybrid control]]
-3. [[behavior-based control]]
+3. [[Behaviour-Based Control]]
 
 These are now called *purely deliberative control* and are no longer used in modern day robotics.
 #### Sources
