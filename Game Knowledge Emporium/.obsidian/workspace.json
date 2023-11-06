@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Holonomic.md",
+                "file": "Degrees of Freedom.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Holonomic.md",
+                "file": "Degrees of Freedom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Holonomic.md",
+                "file": "Degrees of Freedom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Holonomic.md"
+                "file": "Degrees of Freedom.md"
               }
             }
           },
@@ -224,10 +224,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6c92691e8200022d",
+  "active": "1dd08dbebe1eedf8",
   "lastOpenFiles": [
-    "Robots.md",
     "Holonomic.md",
+    "Degrees of Freedom.md",
+    "Robots.md",
     "Cellular Automata.md",
     "Artificial Life.md",
     "Lamarckian Learning.md",
@@ -251,7 +252,6 @@
     "Sets.md",
     "Transitivity of Inclusion.md",
     "Unsupervised learning.md",
-    "Supervised Learning.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
