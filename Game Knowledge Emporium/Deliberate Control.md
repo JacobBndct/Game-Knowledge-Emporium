@@ -39,7 +39,10 @@ Planning is the process of
 	- The planner assumes that the used representation is accurate and up-to-date
 	- Therefore, the representation must be updated and checked as often as necessary to keep it accurate for the task
 - Deliberate control is only useful if
-	- T
+	- The environment is completely known and does not change during the execution of the plan
+	- The robot knows what the state of the world is and what the state of the plan is at all times
+	- The robot's effectors are accurate enough to execute each step of the plan
+		- otherwise, more complex planning algorithms must be used (e.g., Partially Observable Markov Decision Processes - POMDPs)
 #### Sources
 __________________________________________________________________________
 1. 
