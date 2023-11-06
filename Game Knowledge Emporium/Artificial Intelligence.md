@@ -14,7 +14,7 @@ The field of *artificial intelligence (AI)* was officially "born" in 1956 when m
 
 One of the most well known algorithms in artificial intelligence are [[Genetic Algorithms]]. 
 
-The goal of AI is to create intelligence of nay kind. Optionally it also borrows from real-life organisms and processes. It uses both bottom-up and top-down approaches.
+The goal of AI is to create intelligence of nay kind. Optionally it also borrows from real-life organisms and processes. It uses both bottom-up and top-down approaches.1
 #### Sources
 __________________________________________________________________________
 1. [mataric-primer.pdf (ucsd.edu)](https://pages.ucsd.edu/~ehutchins/cogs8/mataric-primer.pdf)
