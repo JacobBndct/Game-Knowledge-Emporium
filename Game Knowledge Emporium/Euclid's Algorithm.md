@@ -10,7 +10,9 @@ __________________________________________________________________________
 ## Extension
 Using what was learned from [[Bézout's identity]] we can extend Euclid's Algorithm.
 
-*For integers$a,b$ with the property $(a,b) \not = (0,0)$ the following method cop*
+*For integers$a,b$ with the property $(a,b) \not = (0,0)$ the following method computes $g = gcd(a,b)$ as well as integers $x,y$ satisfying $ax+by=g:$*
+- *Interchange $a,b$ if necessary, so that $|b| \le |a|$. *
+- *If $b=0$ then $g = |a|$ and $a \; \cdot \; ()$ *
 #### Sources
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)
