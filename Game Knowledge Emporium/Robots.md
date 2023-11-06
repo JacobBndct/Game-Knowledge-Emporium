@@ -25,6 +25,8 @@ To be situated in the physical world, is to be able to exist in and sense the wo
 - Sensing allows the robot to know it's own internal state and the environment's external state.
 	- The state of a robot is not always known and can be observable, partially observable, or hidden.
 	- States here are similar to how they are in [[State Machine Pattern]].
+		- External state (environment -> sensors)
+		- Internal state (inside robot )
 ## Acting
 A robot must be able to act in the physical environment based on the information it senses. This is done with physical components such as motors which are referred to as "actuator".
 - Actuators are used for two things

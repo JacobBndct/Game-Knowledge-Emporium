@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cellular Automata.md",
+                "file": "Robots.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sets",
+                "query": "state space",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cellular Automata.md",
+                "file": "Robots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cellular Automata.md",
+                "file": "Robots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cellular Automata.md"
+                "file": "Robots.md"
               }
             }
           },
@@ -210,10 +211,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4900d4a277e44515",
+  "active": "c59900daccb853ab",
   "lastOpenFiles": [
-    "Artificial Life.md",
     "Cellular Automata.md",
+    "Artificial Life.md",
     "Lamarckian Learning.md",
     "Evolution and Learning.md",
     "Baldwin Effect.md",
