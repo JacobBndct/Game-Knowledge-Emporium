@@ -38,6 +38,8 @@ A robot must also act with purpose towards a goal or do something useful to itse
 ## Effectors and Actuators
 **Effectors:** devices that have an effect on the robot's environment (e.g., legs, wheels, arms, grippers, fingers)
 
+**Actuators:** mechanisms that enable the effector to execute an action or movement (E.g., motors, muscles and tendons)
+
 #### Sources
 __________________________________________________________________________
 1. [mataric-primer.pdf (ucsd.edu)](https://pages.ucsd.edu/~ehutchins/cogs8/mataric-primer.pdf)
