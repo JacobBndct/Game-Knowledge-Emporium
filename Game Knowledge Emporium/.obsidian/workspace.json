@@ -23,51 +23,12 @@
             }
           },
           {
-            "id": "df759e772626e4ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Greatest Common Divisors.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ee4fe0bfee163c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lemma 7.5.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "256aa74405290173",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Division with remainder.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "270a0f389386359b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Euclid's Algorithm.md",
+                "file": "Artificial Intelligence.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -83,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Euclid's Algorithm.md",
+                "file": "Artificial Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Euclid's Algorithm.md",
+                "file": "Artificial Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Euclid's Algorithm.md"
+                "file": "Artificial Intelligence.md"
               }
             }
           },
@@ -223,8 +184,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "270a0f389386359b",
+  "active": "6c92691e8200022d",
   "lastOpenFiles": [
+    "Euclid's Algorithm.md",
     "Mutation.md",
     "Reinforcement learning.md",
     "Learning From Demonstration or Imitation.md",
@@ -235,7 +197,6 @@
     "Greatest Common Divisors.md",
     "Set of Divisors.md",
     "Divisiblility.md",
-    "Euclid's Algorithm.md",
     "Untitled.md",
     "Bijective (one-to-one & onto).md",
     "Home.md",
