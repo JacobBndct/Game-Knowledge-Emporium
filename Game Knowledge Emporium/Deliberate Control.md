@@ -14,6 +14,10 @@ __________________________________________________________________________
 - Planning is the solution!
 ## Planning
 Planning is the process of  
+- Looking ahead at the outcomes of possible actions
+- Searching for the sequence of actions that will reach the desired goal
+
+
 #### Sources
 __________________________________________________________________________
 1. 
