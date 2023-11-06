@@ -4,6 +4,10 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 Wheel arrangement and type are important factors to consider.
+
+The minimum amount of wheels required for [[Stability]] are two, though 
+
+
 #### Sources
 __________________________________________________________________________
 1. 
