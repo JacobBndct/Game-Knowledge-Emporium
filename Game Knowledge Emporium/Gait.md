@@ -15,6 +15,16 @@ The number of possible gaits depends on the number of legs a robot has. To find 
 - **Energy efficiency** -> efficient energy does not use too much energy
 - **Robustness** -> gait can recover from some types of failures
 - **Simplicity** -> the controller for generating the gait is not unwieldy
+
+## Number and Types of Legs
+Many types of configurations are possible
+- Number of components
+- Number of DOFs
+
+Different number of legs
+- Fewer legs -> more complex locomotion
+- More legs -> more complex control
+- More legs -> more complex gaits
 #### Sources
 __________________________________________________________________________
 1. 
