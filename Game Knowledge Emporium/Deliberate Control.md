@@ -3,6 +3,13 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-11-06*
 __________________________________________________________________________
 
+This solution for control is useful when there is a clear goal to reach and all possible "paths" to reach the goal are searchable.
+
+Deliberative control has three main steps performed in sequence;
+- Sense,
+- Plan,
+- Act
+
 **Deliberation**
 - Thinking hard
 - Thoughtfulness in decision and action
@@ -16,7 +23,6 @@ __________________________________________________________________________
 Planning is the process of  
 - Looking ahead at the outcomes of possible actions
 - Searching for the sequence of actions that will reach the desired goal
-
 ## Drawbacks
 - Time scale
 	- many sensors combined with a large internal representation models result in a large state space
@@ -29,6 +35,11 @@ Planning is the process of
 	- The robot's representation must contain all information needed for localizing the robot and planning (distances, images, etc)
 	- This uses a lot memory!
 	- Memory is cheap and there less a problem than time, but memory is finite and running out of it causes problems.
+- Information
+	- The planner assumes that the used representation is accurate and up-to-date
+	- Therefore, the representation must be updated and checked as often as necessary to keep it accurate for the task
+- Deliberate control is only useful if
+	- T
 #### Sources
 __________________________________________________________________________
 1. 
