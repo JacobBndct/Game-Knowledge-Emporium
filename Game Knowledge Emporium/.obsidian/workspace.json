@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence.md",
+                "file": "Artificial Life.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94ba5af7d78e72cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evolution and Learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence.md",
+                "file": "Evolution and Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence.md",
+                "file": "Evolution and Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence.md"
+                "file": "Evolution and Learning.md"
               }
             }
           },
@@ -184,24 +197,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6c92691e8200022d",
+  "active": "94ba5af7d78e72cd",
   "lastOpenFiles": [
+    "Artificial Life.md",
+    "Evolution and Learning.md",
+    "Artificial Intelligence.md",
     "Euclid's Algorithm.md",
     "Mutation.md",
     "Reinforcement learning.md",
     "Learning From Demonstration or Imitation.md",
-    "Artificial Intelligence.md",
     "Bézout's identity.md",
     "Division with remainder.md",
     "Lemma 7.5.md",
     "Greatest Common Divisors.md",
     "Set of Divisors.md",
     "Divisiblility.md",
-    "Untitled.md",
     "Bijective (one-to-one & onto).md",
     "Home.md",
     "Cardinality.md",
-    "Artificial Life.md",
     "Artificial Life VS Artificial Intelligence.md",
     "Sets.md",
     "Transitivity of Inclusion.md",

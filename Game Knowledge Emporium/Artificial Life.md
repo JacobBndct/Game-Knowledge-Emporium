@@ -10,6 +10,8 @@ The field of Artificial Life (AL) studies \[models and simulations] of \[agents 
 - using the AL-model to play out the phenomenon over time (epoch)
 ### Agents
 - Can be an abstraction of living entities or bots
+
+The goal of Artificial Life is to imitate and simulate real-life organisms and processes. Generally bottom-up; complex behavior should follow from a set of low-level rules.
 #### Sources
 __________________________________________________________________________
 1. 
