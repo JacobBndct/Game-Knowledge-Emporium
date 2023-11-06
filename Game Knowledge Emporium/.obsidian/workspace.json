@@ -41,7 +41,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lamarckian Learning.md",
+                "file": "Artificial Life.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4900d4a277e44515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cellular Automata.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lamarckian Learning.md",
+                "file": "Cellular Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lamarckian Learning.md",
+                "file": "Cellular Automata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lamarckian Learning.md"
+                "file": "Cellular Automata.md"
               }
             }
           },
@@ -197,12 +210,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "94ba5af7d78e72cd",
+  "active": "4900d4a277e44515",
   "lastOpenFiles": [
-    "Evolution and Learning.md",
-    "Lamarckian Learning.md",
-    "Baldwin Effect.md",
     "Artificial Life.md",
+    "Cellular Automata.md",
+    "Lamarckian Learning.md",
+    "Evolution and Learning.md",
+    "Baldwin Effect.md",
     "Artificial Intelligence.md",
     "Euclid's Algorithm.md",
     "Mutation.md",
@@ -224,7 +238,6 @@
     "Supervised Learning.md",
     "Genetic Programming.md",
     "Genetic Algorithms.md",
-    "Crossover.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
