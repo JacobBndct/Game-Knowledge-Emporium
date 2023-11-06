@@ -13,7 +13,7 @@ Using what was learned from [[Bézout's identity]] we can extend Euclid's Algori
 *For integers$a,b$ with the property $(a,b) \not = (0,0)$ the following method computes $g = gcd(a,b)$ as well as integers $x,y$ satisfying $ax+by=g:$*
 - *Interchange $a,b$ if necessary, so that $|b| \le |a|$. *
 - *If $b=0$ then $g = |a|$ and $a \; \cdot \; (\pm 1) + b \; \cdot \; 0 = g$ for a suitable choice of $\pm 1$.*
-- *If $b \not = 0$ then write $|a| = q|b| + r$ for integers $q,r$ with $0 \le r \le |b| - 1$ and start from equalities $\{ \begin{start}$*
+- *If $b \not = 0$ then write $|a| = q|b| + r$ for integers $q,r$ with $0 \le r \le |b| - 1$ and start from equalities $\left\{ \begin{aligned} 1\\ 1\end{aligned}$*
 #### Sources
 __________________________________________________________________________
 1. [Sets_and_Numbers.pdf (rolandvdv.nl)](https://www.rolandvdv.nl/Sets_and_Numbers.pdf)

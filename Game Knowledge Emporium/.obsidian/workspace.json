@@ -75,32 +75,6 @@
             }
           },
           {
-            "id": "2877c7b3062efb78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Euclid's Algorithm.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d018cfad0e26c42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Set of Divisors.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3aa9854ae471b8dd",
             "type": "leaf",
             "state": {
@@ -109,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -249,27 +223,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2877c7b3062efb78",
+  "active": "270a0f389386359b",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Mutation.md",
+    "Reinforcement learning.md",
+    "Learning From Demonstration or Imitation.md",
+    "Artificial Intelligence.md",
     "Bézout's identity.md",
-    "Euclid's Algorithm.md",
     "Division with remainder.md",
     "Lemma 7.5.md",
     "Greatest Common Divisors.md",
     "Set of Divisors.md",
     "Divisiblility.md",
+    "Euclid's Algorithm.md",
+    "Untitled.md",
     "Bijective (one-to-one & onto).md",
     "Home.md",
     "Cardinality.md",
-    "Mutation.md",
-    "Reinforcement learning.md",
     "Artificial Life.md",
     "Artificial Life VS Artificial Intelligence.md",
     "Sets.md",
     "Transitivity of Inclusion.md",
-    "Artificial Intelligence.md",
-    "Learning From Demonstration or Imitation.md",
     "Unsupervised learning.md",
     "Supervised Learning.md",
     "Genetic Programming.md",
