@@ -15,6 +15,17 @@ __________________________________________________________________________
 	- Reactive layer
 	- Planning layer
 	- Middle layer (i.e. a layer to link them)
+- Designing the middles layer that controls what type of control to use is hard!
+	- Changes in
+		- world
+		- map
+		- task
+	- When the reactive layer detects a change, the planning layer should update the representation
+	- New plans can be created in the future
+	- The robot has to visit a specific room multiple times, should it replan the path every time?
+	- A popular solution is to store computed plans
+		- Can be used for fast lookup in the future
+		- Ideal for frequently occurring situations and/or which require fast decision
 #### Sources
 __________________________________________________________________________
 1. 

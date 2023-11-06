@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hybrid Control.md",
+                "file": "Behaviour-Based Control.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hybrid Control.md",
+                "file": "Behaviour-Based Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hybrid Control.md",
+                "file": "Behaviour-Based Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hybrid Control.md"
+                "file": "Behaviour-Based Control.md"
               }
             }
           },
@@ -342,9 +342,9 @@
   },
   "active": "0fa2b5261b072e36",
   "lastOpenFiles": [
+    "Hybrid Control.md",
     "Behaviour-Based Control.md",
     "Deliberate Control.md",
-    "Hybrid Control.md",
     "Gait.md",
     "Types of Robot Control.md",
     "behavior-based control.md",
