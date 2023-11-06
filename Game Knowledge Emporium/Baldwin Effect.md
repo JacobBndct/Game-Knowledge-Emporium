@@ -3,11 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-11-06*
 __________________________________________________________________________
 
-Learning generally improves knowledge relatively fast for a single individual, whereas evolution slowly progresses knowledge through generations.
-
-[[Baldwin Effect]]
-
-[[Lamarckian Learning]]
+An agent learns by interacting with the environment to increase its fitness. A better learner can obtain a higher fitness, although learning knowledge is usually* not hard copied to offspring.
 #### Sources
 __________________________________________________________________________
 1. 

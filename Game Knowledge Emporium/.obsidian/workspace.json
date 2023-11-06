@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evolution and Learning.md",
+                "file": "Lamarckian Learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evolution and Learning.md",
+                "file": "Lamarckian Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evolution and Learning.md",
+                "file": "Lamarckian Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evolution and Learning.md"
+                "file": "Lamarckian Learning.md"
               }
             }
           },
@@ -199,8 +199,10 @@
   },
   "active": "94ba5af7d78e72cd",
   "lastOpenFiles": [
-    "Artificial Life.md",
     "Evolution and Learning.md",
+    "Lamarckian Learning.md",
+    "Baldwin Effect.md",
+    "Artificial Life.md",
     "Artificial Intelligence.md",
     "Euclid's Algorithm.md",
     "Mutation.md",
@@ -223,8 +225,6 @@
     "Genetic Programming.md",
     "Genetic Algorithms.md",
     "Crossover.md",
-    "MathJax.md",
-    "Robots.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
