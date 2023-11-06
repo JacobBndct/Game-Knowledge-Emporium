@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Degrees of Freedom.md",
+                "file": "Controllable VS Uncontrollable DOF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Degrees of Freedom.md",
+                "file": "Controllable VS Uncontrollable DOF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Degrees of Freedom.md"
+                "file": "Controllable VS Uncontrollable DOF.md"
               }
             }
           },
@@ -237,10 +237,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1dd08dbebe1eedf8",
+  "active": "7130280ea54d5cc2",
   "lastOpenFiles": [
-    "Controllable VS Uncontrollable DOF.md",
     "Degrees of Freedom.md",
+    "Controllable VS Uncontrollable DOF.md",
     "Holonomic.md",
     "Robots.md",
     "Cellular Automata.md",
