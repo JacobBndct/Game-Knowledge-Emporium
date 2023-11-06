@@ -10,8 +10,6 @@ The minimum amount of wheels required for [[Stability]] are two, though three wh
 - **Ackerman steering**: Designed for steering a car or other vehicles with 4 or more wheels
 - **Differential drive:** A two-wheeled drive system with independent actuators for each wheel. This can result in the ability to maneuver complicated paths.
 - **Omnidirectional robots:** Swedish wheels, Synchronously turning wheels
-## Controllability
-- 
 #### Sources
 __________________________________________________________________________
 1. 
