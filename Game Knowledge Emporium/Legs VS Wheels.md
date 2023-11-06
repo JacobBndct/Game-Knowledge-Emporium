@@ -13,6 +13,15 @@ __________________________________________________________________________
 - Mechanical complexity
 - High number of CDOFs
 
+## Wheels Advantages
+- Energy efficient
+- Fast
+- Stable
+- Simple
+## Wheels Disadvantages
+- Need for relatively hard surface
+- Need for relatively flat surface
+
 #### Sources
 __________________________________________________________________________
 1. 

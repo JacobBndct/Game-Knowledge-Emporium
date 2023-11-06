@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Legs VS Wheels.md",
+                "file": "Trajectory Planning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Legs VS Wheels.md",
+                "file": "Trajectory Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Legs VS Wheels.md",
+                "file": "Trajectory Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Legs VS Wheels.md"
+                "file": "Trajectory Planning.md"
               }
             }
           },
@@ -303,8 +303,8 @@
   },
   "active": "a328bf847d99a33f",
   "lastOpenFiles": [
-    "Wheels.md",
     "Legs VS Wheels.md",
+    "Wheels.md",
     "Stability.md",
     "Controllable VS Uncontrollable DOF.md",
     "Artificial Life.md",
