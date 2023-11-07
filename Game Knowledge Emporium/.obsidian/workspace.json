@@ -292,7 +292,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +308,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence.md"
+                "file": "MWAH MWAH MWAH.md"
               }
             }
           },
@@ -366,8 +364,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "01a0d1590d8d9f36",
+  "active": "6c92691e8200022d",
   "lastOpenFiles": [
+    "Artificial Intelligence.md",
+    "MWAH MWAH MWAH.md",
     "Divisiblility.md",
     "Test Exam Autonomous Systems.md",
     "Robot Perception.md",
@@ -395,8 +395,6 @@
     "Cellular Automata.md",
     "Lamarckian Learning.md",
     "Evolution and Learning.md",
-    "Baldwin Effect.md",
-    "Artificial Intelligence.md",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
     "Books/Jesse Schell - The Art of Game Design A Book of Lenses -By www.LearnEngineering.in.pdf",
