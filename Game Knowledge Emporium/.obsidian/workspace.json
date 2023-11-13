@@ -23,6 +23,32 @@
             }
           },
           {
+            "id": "e55ac87865bb7cae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Natural numbers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7712b61956373347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Integers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d640db0279fd2cc8",
             "type": "leaf",
             "state": {
@@ -225,11 +251,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -245,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Irrational Numbers.md",
+                "file": "Natural numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Irrational Numbers.md",
+                "file": "Natural numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Irrational Numbers.md"
+                "file": "Natural numbers.md"
               }
             }
           },
@@ -319,20 +347,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d640db0279fd2cc8",
+  "active": "e55ac87865bb7cae",
   "lastOpenFiles": [
-    "Rational Numbers.md",
-    "Irrational Numbers.md",
-    "Reverse Triangle Inequality.md",
-    "Triangle Inequality.md",
-    "Nested Interval Property.md",
-    "The Archimedean Property.md",
-    "Absolute Value.md",
-    "Axiom of Completeness.md",
-    "Lower Bounds.md",
-    "Upper Bounds.md",
-    "Supremum.md",
+    "Integers.md",
+    "Natural numbers.md",
+    "Images/Interaction of Layers.png",
     "Infimum.md",
+    "Irrational Numbers.md",
+    "Divisiblility.md",
+    "Rational Numbers.md",
+    "Supremum.md",
+    "Upper Bounds.md",
+    "Lower Bounds.md",
+    "Axiom of Completeness.md",
+    "Absolute Value.md",
+    "The Archimedean Property.md",
+    "Nested Interval Property.md",
+    "Triangle Inequality.md",
+    "Reverse Triangle Inequality.md",
     "Ideal Gas.md",
     "Mathematic Definitions.md",
     "Ideal Gas Law.md",
@@ -343,12 +375,7 @@
     "Avogadro's Principle.md",
     "Thermodynamics.md",
     "Energy Conversion.md",
-    "Isotherm.md",
-    "Intensive Quantity.md",
-    "Extensive Quantity.md",
-    "Fossil Fuel Combustion.md",
     "Images/Energy Conversion.png",
-    "Images/Interaction of Layers.png",
     "Images/Subsumption arch picture.png",
     "Images/Stability.png",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
