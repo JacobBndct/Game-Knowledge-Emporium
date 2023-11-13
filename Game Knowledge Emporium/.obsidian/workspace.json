@@ -101,6 +101,19 @@
             }
           },
           {
+            "id": "d5f8e6ea5da85e92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Upper Bounds.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "09a86037491fa092",
             "type": "leaf",
             "state": {
@@ -153,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -219,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infimum.md",
+                "file": "Upper Bounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infimum.md",
+                "file": "Upper Bounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infimum.md"
+                "file": "Upper Bounds.md"
               }
             }
           },
@@ -293,12 +306,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fc6d1429dc7910ee",
+  "active": "d5f8e6ea5da85e92",
   "lastOpenFiles": [
-    "Mathematic Definitions.md",
     "Supremum.md",
+    "Upper Bounds.md",
     "Infimum.md",
     "Ideal Gas.md",
+    "Mathematic Definitions.md",
     "Ideal Gas Law.md",
     "Charles' Law.md",
     "Home.md",
@@ -321,7 +335,6 @@
     "Images/Energy Conversion.png",
     "Artificial Intelligence.md",
     "MWAH MWAH MWAH.md",
-    "Divisiblility.md",
     "Images/Interaction of Layers.png",
     "Images/Subsumption arch picture.png",
     "Images/Stability.png",

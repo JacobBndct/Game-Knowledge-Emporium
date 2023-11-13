@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-11-13*
 __________________________________________________________________________
 
-***Supremum***: least element in partially ordered set P which is greater than or equal to each element of S which is a subset of P.
+$A \subseteq \Bbb R$ us called bounded above if $$\exists b \in \Bbb R \text{such that} a \le b \;\forall$$ 
 #### Sources
 __________________________________________________________________________
 1. 
