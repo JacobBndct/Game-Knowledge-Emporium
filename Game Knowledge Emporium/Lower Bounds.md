@@ -3,7 +3,7 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-11-13*
 __________________________________________________________________________
 
-$A \subseteq \Bbb R$ us called *bounded above* if $$\exists \; b \in \Bbb R \;\;\; \text{such that} a \le b \;\;\;\forall \; a \in A$$ 
+$A \subseteq \Bbb R$ is called *bounded below* if $$\exists \; \ell \in \Bbb R \;\;\; \text{such that} \;\;\; \ell \le a \;\;\; \forall \; a \in A$$
 #### Sources
 __________________________________________________________________________
 1. 

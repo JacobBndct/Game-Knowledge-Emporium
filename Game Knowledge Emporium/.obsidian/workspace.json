@@ -114,6 +114,19 @@
             }
           },
           {
+            "id": "935afb4cc5ca749e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lower Bounds.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "09a86037491fa092",
             "type": "leaf",
             "state": {
@@ -166,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -232,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Upper Bounds.md",
+                "file": "Lower Bounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Upper Bounds.md",
+                "file": "Lower Bounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Upper Bounds.md"
+                "file": "Lower Bounds.md"
               }
             }
           },
@@ -306,10 +319,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d5f8e6ea5da85e92",
+  "active": "935afb4cc5ca749e",
   "lastOpenFiles": [
-    "Supremum.md",
     "Upper Bounds.md",
+    "Lower Bounds.md",
+    "Supremum.md",
     "Infimum.md",
     "Ideal Gas.md",
     "Mathematic Definitions.md",
@@ -334,7 +348,6 @@
     "Reversibility.md",
     "Images/Energy Conversion.png",
     "Artificial Intelligence.md",
-    "MWAH MWAH MWAH.md",
     "Images/Interaction of Layers.png",
     "Images/Subsumption arch picture.png",
     "Images/Stability.png",
