@@ -231,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Triangle Inequality.md",
+                "file": "Reverse Triangle Inequality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Triangle Inequality.md",
+                "file": "Reverse Triangle Inequality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Triangle Inequality.md"
+                "file": "Reverse Triangle Inequality.md"
               }
             }
           },
@@ -373,8 +373,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c5314b258ca36550",
+  "active": "ffbf248dd4f40003",
   "lastOpenFiles": [
+    "Triangle Inequality.md",
     "Absolute Value.md",
     "The Rational Numbers are Dense in The Reals.md",
     "Nested Interval Property.md",
@@ -393,7 +394,6 @@
     "Home.md",
     "Images/Interaction of Layers.png",
     "Divisiblility.md",
-    "Triangle Inequality.md",
     "Reverse Triangle Inequality.md",
     "Ideal Gas.md",
     "Mathematic Definitions.md",
