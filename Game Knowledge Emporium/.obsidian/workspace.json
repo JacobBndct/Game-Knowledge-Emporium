@@ -218,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infimum.md",
+                "file": "Supremum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infimum.md",
+                "file": "Supremum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infimum.md"
+                "file": "Supremum.md"
               }
             }
           },
@@ -360,13 +360,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fc6d1429dc7910ee",
+  "active": "9dd0de7fe9f31fd3",
   "lastOpenFiles": [
+    "Lemma - Least Upper Bound.md",
+    "Lower Bounds.md",
+    "Infimum.md",
     "Axiom of Completeness.md",
     "Absolute Value.md",
-    "Infimum.md",
-    "Lower Bounds.md",
-    "Lemma - Least Upper Bound.md",
     "Supremum.md",
     "Upper Bounds.md",
     "Real Numbers.md",

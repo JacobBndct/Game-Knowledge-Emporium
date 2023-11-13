@@ -5,6 +5,8 @@ __________________________________________________________________________
 
 ***Supremum***: least element in partially ordered set P which is greater than or equal to each 
 element of S which is a subset of P.
+
+It is important to note that a supremum is not always a maximum, but a maximum is always a supremum.
 ## Definition:
 $S \in \Bbb R$ is called the *least upper bound* of $A \subseteq \Bbb R$ if
 - $s$ is an upper bound for $A$
