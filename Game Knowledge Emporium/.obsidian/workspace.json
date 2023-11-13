@@ -114,6 +114,14 @@
             }
           },
           {
+            "id": "6ba078d7207ec423",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "011fdf4ed1928e49",
             "type": "leaf",
             "state": {
@@ -140,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -207,7 +215,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Isotherm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +231,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Isotherm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,9 +252,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Isotherm.md"
-              }
+              "state": {}
             }
           },
           {
@@ -281,10 +285,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9e1df0f54e0d5267",
+  "active": "6ba078d7207ec423",
   "lastOpenFiles": [
-    "Adiabatic.md",
+    "Heat Capacity.md",
     "Isotherm.md",
+    "Adiabatic.md",
     "Reversibility.md",
     "The First Law of Thermodynamics.md",
     "Ideal Gas Law.md",
@@ -311,7 +316,6 @@
     "Reactive Control.md",
     "W. Grey Walter's Tortoise.md",
     "Trajectory Planning.md",
-    "Legs VS Wheels.md",
     "Images/Stability.png",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
