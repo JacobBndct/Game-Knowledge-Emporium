@@ -67,7 +67,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Boyle's Law.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d92a5a2ca292279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charles' Law.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -140,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -207,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Charles' Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Charles' Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Charles' Law.md"
               }
             }
           },
@@ -281,10 +294,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "789c062c19b81462",
+  "active": "6d92a5a2ca292279",
   "lastOpenFiles": [
+    "Boyle's Law.md",
+    "Charles' Law.md",
     "Avogadro's Principle.md",
-    "Untitled.md",
     "Isotherm.md",
     "Thermodynamics.md",
     "Energy Conversion.md",
@@ -311,7 +325,6 @@
     "Images/Interaction of Layers.png",
     "Images/Subsumption arch picture.png",
     "Behaviour-Based Control.md",
-    "Hybrid Control.md",
     "Images/Stability.png",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
