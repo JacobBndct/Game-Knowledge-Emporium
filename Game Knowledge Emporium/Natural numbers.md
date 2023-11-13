@@ -5,7 +5,9 @@ __________________________________________________________________________
 
 Natural numbers is the set of all positive integers.
 
-Represented by $
+Represented by $\Bbb N$ 
+## Algebraic Operations
+$+, \times$ 
 #### Sources
 __________________________________________________________________________
 1. 

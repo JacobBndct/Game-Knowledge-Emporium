@@ -205,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -273,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Natural numbers.md",
+                "file": "Rational Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Natural numbers.md",
+                "file": "Rational Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Natural numbers.md"
+                "file": "Rational Numbers.md"
               }
             }
           },
@@ -347,15 +347,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e55ac87865bb7cae",
+  "active": "344ae4d02537c00e",
   "lastOpenFiles": [
+    "Irrational Numbers.md",
     "Integers.md",
+    "Rational Numbers.md",
     "Natural numbers.md",
+    "Home.md",
     "Images/Interaction of Layers.png",
     "Infimum.md",
-    "Irrational Numbers.md",
     "Divisiblility.md",
-    "Rational Numbers.md",
     "Supremum.md",
     "Upper Bounds.md",
     "Lower Bounds.md",
@@ -369,7 +370,6 @@
     "Mathematic Definitions.md",
     "Ideal Gas Law.md",
     "Charles' Law.md",
-    "Home.md",
     "Boyle's Law.md",
     "The First Law of Thermodynamics.md",
     "Avogadro's Principle.md",
