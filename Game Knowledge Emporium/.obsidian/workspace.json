@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "d31feecb09bbeef5",
+            "id": "d640db0279fd2cc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energy Conversion.md",
+                "file": "Irrational Numbers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,38 +36,12 @@
             }
           },
           {
-            "id": "94af64715b6366af",
+            "id": "344ae4d02537c00e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "789c062c19b81462",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boyle's Law.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d92a5a2ca292279",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideal Gas.md",
+                "file": "Rational Numbers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -140,12 +114,12 @@
             }
           },
           {
-            "id": "09a86037491fa092",
+            "id": "c8ccb36fc0edf253",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The First Law of Thermodynamics.md",
+                "file": "Absolute Value.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -153,12 +127,12 @@
             }
           },
           {
-            "id": "a3c106b4a14406e8",
+            "id": "f0dab4dacf21720b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reversibility.md",
+                "file": "The Archimedean Property.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -166,12 +140,12 @@
             }
           },
           {
-            "id": "4f65c4f26eaa343c",
+            "id": "7e6ceed241d8d8fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adiabatic.md",
+                "file": "Nested Interval Property.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -179,12 +153,25 @@
             }
           },
           {
-            "id": "9e1df0f54e0d5267",
+            "id": "c5314b258ca36550",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isotherm.md",
+                "file": "Triangle Inequality.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffbf248dd4f40003",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reverse Triangle Inequality.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -192,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Axiom of Completeness.md",
+                "file": "Irrational Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Axiom of Completeness.md",
+                "file": "Irrational Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Axiom of Completeness.md"
+                "file": "Irrational Numbers.md"
               }
             }
           },
@@ -332,10 +319,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "020ae782751670a6",
+  "active": "d640db0279fd2cc8",
   "lastOpenFiles": [
-    "Lower Bounds.md",
+    "Rational Numbers.md",
+    "Irrational Numbers.md",
+    "Reverse Triangle Inequality.md",
+    "Triangle Inequality.md",
+    "Nested Interval Property.md",
+    "The Archimedean Property.md",
+    "Absolute Value.md",
     "Axiom of Completeness.md",
+    "Lower Bounds.md",
     "Upper Bounds.md",
     "Supremum.md",
     "Infimum.md",
@@ -353,13 +347,6 @@
     "Intensive Quantity.md",
     "Extensive Quantity.md",
     "Fossil Fuel Combustion.md",
-    "Quantity of Energy.md",
-    "Exponentiation.md",
-    "Posterization.md",
-    "Metric and Topological Spaces - Lemma Lecture 2.md",
-    "Heat Capacity.md",
-    "Adiabatic.md",
-    "Reversibility.md",
     "Images/Energy Conversion.png",
     "Images/Interaction of Layers.png",
     "Images/Subsumption arch picture.png",
