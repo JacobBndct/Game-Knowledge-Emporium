@@ -11,22 +11,17 @@ Important macroscopic parameters:
 - temperature: T
 
 **Mass**
-- m (kg)
-
+- m ($kg$)
 **Volume**
 - V ($m^3$)
-
-**amount: the mole**
-- n (mol)
-
+**Amount: the mole**
+- n ($mol$)
 **Energy**
-- E (J = kg $m^2 s^{-2}$)
-
+- E ($J = kg m^2 s^{-2}$)
 **Pressure**
-- p (Pa = $N/m^2$)
-
+- p ($Pa = N/m^2$)
 **Temperature**
-- T (K)
+- T ($K$)
 
 #### Sources
 __________________________________________________________________________
