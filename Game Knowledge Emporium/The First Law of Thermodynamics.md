@@ -24,8 +24,12 @@ Valid for a perfectly isolated system: $E$ is constant
 For a closed, but not isolated system $E$ can change by:
 - [[Work]] (W)
 - [[Heat]] (Q)
+### The first law: $\Delta E = W + Q$
+All forms of work are equivalent
+Heat, too, is measured with the same unit (Joule).
 
-The first law:
+Normally, in the transition form a state $E_1$ to another state $E_2$ heat and work are not constant. Therefore the first law in its infinitesimal form:
+$$dE =$$
 #### Sources
 __________________________________________________________________________
 1. 
