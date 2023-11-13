@@ -166,12 +166,12 @@
             }
           },
           {
-            "id": "c8ccb36fc0edf253",
+            "id": "7e6ceed241d8d8fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Absolute Value.md",
+                "file": "Nested Interval Property.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -179,12 +179,12 @@
             }
           },
           {
-            "id": "7e6ceed241d8d8fb",
+            "id": "c8ccb36fc0edf253",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nested Interval Property.md",
+                "file": "Absolute Value.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -218,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Archimedean Property.md",
+                "file": "Nested Interval Property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Archimedean Property.md",
+                "file": "Nested Interval Property.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Archimedean Property.md"
+                "file": "Nested Interval Property.md"
               }
             }
           },
@@ -360,11 +360,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f0dab4dacf21720b",
+  "active": "7e6ceed241d8d8fb",
   "lastOpenFiles": [
-    "Axiom of Completeness.md",
-    "The Archimedean Property.md",
     "Absolute Value.md",
+    "The Archimedean Property.md",
+    "Axiom of Completeness.md",
     "Infimum.md",
     "Lower Bounds.md",
     "Lemma - Least Upper Bound.md",
