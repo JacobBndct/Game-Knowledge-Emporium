@@ -231,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Rational Numbers are Dense in The Reals.md",
+                "file": "Triangle Inequality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Rational Numbers are Dense in The Reals.md",
+                "file": "Triangle Inequality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Rational Numbers are Dense in The Reals.md"
+                "file": "Triangle Inequality.md"
               }
             }
           },
@@ -373,13 +373,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0780291890e4ec04",
+  "active": "c5314b258ca36550",
   "lastOpenFiles": [
+    "Absolute Value.md",
+    "The Rational Numbers are Dense in The Reals.md",
     "Nested Interval Property.md",
     "The Archimedean Property.md",
-    "The Rational Numbers are Dense in The Reals.md",
     "Functions.md",
-    "Absolute Value.md",
     "Axiom of Completeness.md",
     "Infimum.md",
     "Lower Bounds.md",
