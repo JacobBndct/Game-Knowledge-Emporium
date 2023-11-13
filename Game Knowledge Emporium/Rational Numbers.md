@@ -3,9 +3,11 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-11-13*
 __________________________________________________________________________
 
-Represented as $\Bbb R$
+Numbers that cannot be expressed as a ratio of two numbers.
+
+Represented by $\Bbb Q$
 ## Algebraic Operations
-$+, -, \times, \div$ 
+$+, -, \times, \div$  
 #### Sources
 __________________________________________________________________________
 1. 

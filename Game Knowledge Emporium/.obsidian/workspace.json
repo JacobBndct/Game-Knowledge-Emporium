@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Irrational Numbers.md",
+                "file": "Rational Numbers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -67,33 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rational Numbers.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc6d1429dc7910ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Infimum.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dd0de7fe9f31fd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Supremum.md",
+                "file": "Real Numbers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,12 +88,38 @@
             }
           },
           {
+            "id": "9dd0de7fe9f31fd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supremum.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "935afb4cc5ca749e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Lower Bounds.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc6d1429dc7910ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infimum.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -205,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -273,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rational Numbers.md",
+                "file": "Supremum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rational Numbers.md",
+                "file": "Supremum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rational Numbers.md"
+                "file": "Supremum.md"
               }
             }
           },
@@ -347,19 +347,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "344ae4d02537c00e",
+  "active": "9dd0de7fe9f31fd3",
   "lastOpenFiles": [
-    "Irrational Numbers.md",
-    "Integers.md",
+    "Lower Bounds.md",
+    "Infimum.md",
+    "Upper Bounds.md",
+    "Supremum.md",
+    "Real Numbers.md",
     "Rational Numbers.md",
+    "Integers.md",
     "Natural numbers.md",
     "Home.md",
     "Images/Interaction of Layers.png",
-    "Infimum.md",
     "Divisiblility.md",
-    "Supremum.md",
-    "Upper Bounds.md",
-    "Lower Bounds.md",
     "Axiom of Completeness.md",
     "Absolute Value.md",
     "The Archimedean Property.md",
