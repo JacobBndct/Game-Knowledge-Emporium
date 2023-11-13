@@ -112,43 +112,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6ba078d7207ec423",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "011fdf4ed1928e49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fossil Fuel Combustion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1385326c42fc8bae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quantity of Energy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -214,6 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Thermodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,6 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Thermodynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +220,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Thermodynamics.md"
+              }
             }
           },
           {
@@ -284,22 +255,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6ba078d7207ec423",
+  "active": "94af64715b6366af",
   "lastOpenFiles": [
+    "Energy Conversion.md",
+    "Isotherm.md",
+    "Fossil Fuel Combustion.md",
+    "Quantity of Energy.md",
     "Exponentiation.md",
     "Posterization.md",
     "Metric and Topological Spaces - Lemma Lecture 2.md",
     "Heat Capacity.md",
-    "Isotherm.md",
     "Adiabatic.md",
     "Reversibility.md",
     "The First Law of Thermodynamics.md",
     "Ideal Gas Law.md",
     "Thermodynamics.md",
-    "Energy Conversion.md",
     "Images/Energy Conversion.png",
-    "Fossil Fuel Combustion.md",
-    "Quantity of Energy.md",
     "Home.md",
     "Artificial Intelligence.md",
     "MWAH MWAH MWAH.md",

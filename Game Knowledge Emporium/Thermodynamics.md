@@ -10,6 +10,10 @@ Important macroscopic parameters:
 - volume: V
 - temperature: T
 
+[[Extensive Quantity]]
+
+[[Intensive Quantity]]
+
 **Mass**
 - m ($kg$)
 **Volume**
