@@ -218,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Supremum.md",
+                "file": "Axiom of Completeness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Supremum.md",
+                "file": "Axiom of Completeness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Supremum.md"
+                "file": "Axiom of Completeness.md"
               }
             }
           },
@@ -360,15 +360,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9dd0de7fe9f31fd3",
+  "active": "020ae782751670a6",
   "lastOpenFiles": [
-    "Lemma - Least Upper Bound.md",
-    "Lower Bounds.md",
     "Infimum.md",
-    "Axiom of Completeness.md",
-    "Absolute Value.md",
+    "Lower Bounds.md",
+    "Lemma - Least Upper Bound.md",
     "Supremum.md",
     "Upper Bounds.md",
+    "Axiom of Completeness.md",
+    "Absolute Value.md",
     "Real Numbers.md",
     "Rational Numbers.md",
     "Integers.md",
