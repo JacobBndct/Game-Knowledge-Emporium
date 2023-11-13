@@ -10,7 +10,12 @@ __________________________________________________________________________
 **Proof (1):** if (1) is NOT true, then $\Bbb N$ is bounded above
 $Aoc \Rightarrow \alpha = sup\Bbb N$ exists
 $\alpha - 1$ is NOT an upper bound for $\Bbb N$
-There exists $n \in \Bbb N$ such that $\alpha - 1
+There exists $n \in \Bbb N$ such that $\alpha - 1 \lt n \Rightarrow \alpha \lt n + 1$
+$n + 1 \in \Bbb N \Rightarrow \alpha$ is NOT an upper bound for $\Bbb N$. *Contradiction!*
+
+**Proof (2):** let $y \gt 0$ be arbitrary and set $x = 1/y$ 
+By (1) there exists $n \in \Bbb N$ such that $n \gt x$ 
+Therefore $1/n \lt 1/x = y$ 
 #### Sources
 __________________________________________________________________________
 1. 
