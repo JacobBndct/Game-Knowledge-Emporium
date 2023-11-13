@@ -179,6 +179,19 @@
             }
           },
           {
+            "id": "0780291890e4ec04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Rational Numbers are Dense in The Reals.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c8ccb36fc0edf253",
             "type": "leaf",
             "state": {
@@ -218,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -286,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nested Interval Property.md",
+                "file": "The Rational Numbers are Dense in The Reals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nested Interval Property.md",
+                "file": "The Rational Numbers are Dense in The Reals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nested Interval Property.md"
+                "file": "The Rational Numbers are Dense in The Reals.md"
               }
             }
           },
@@ -360,10 +373,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7e6ceed241d8d8fb",
+  "active": "0780291890e4ec04",
   "lastOpenFiles": [
-    "Absolute Value.md",
+    "Nested Interval Property.md",
     "The Archimedean Property.md",
+    "The Rational Numbers are Dense in The Reals.md",
+    "Functions.md",
+    "Absolute Value.md",
     "Axiom of Completeness.md",
     "Infimum.md",
     "Lower Bounds.md",
@@ -377,7 +393,6 @@
     "Home.md",
     "Images/Interaction of Layers.png",
     "Divisiblility.md",
-    "Nested Interval Property.md",
     "Triangle Inequality.md",
     "Reverse Triangle Inequality.md",
     "Ideal Gas.md",
@@ -387,8 +402,6 @@
     "Boyle's Law.md",
     "The First Law of Thermodynamics.md",
     "Avogadro's Principle.md",
-    "Thermodynamics.md",
-    "Energy Conversion.md",
     "Images/Energy Conversion.png",
     "Images/Subsumption arch picture.png",
     "Images/Stability.png",
