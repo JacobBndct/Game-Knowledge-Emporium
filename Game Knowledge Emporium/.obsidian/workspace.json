@@ -127,6 +127,19 @@
             }
           },
           {
+            "id": "020ae782751670a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axiom of Completeness.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "09a86037491fa092",
             "type": "leaf",
             "state": {
@@ -179,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -245,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lower Bounds.md",
+                "file": "Axiom of Completeness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lower Bounds.md",
+                "file": "Axiom of Completeness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lower Bounds.md"
+                "file": "Axiom of Completeness.md"
               }
             }
           },
@@ -319,10 +332,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "935afb4cc5ca749e",
+  "active": "020ae782751670a6",
   "lastOpenFiles": [
-    "Upper Bounds.md",
     "Lower Bounds.md",
+    "Axiom of Completeness.md",
+    "Upper Bounds.md",
     "Supremum.md",
     "Infimum.md",
     "Ideal Gas.md",
@@ -347,7 +361,6 @@
     "Adiabatic.md",
     "Reversibility.md",
     "Images/Energy Conversion.png",
-    "Artificial Intelligence.md",
     "Images/Interaction of Layers.png",
     "Images/Subsumption arch picture.png",
     "Images/Stability.png",
