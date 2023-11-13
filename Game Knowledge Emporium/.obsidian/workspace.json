@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fossil Fuel Combustion.md",
+                "file": "Energy Conversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fossil Fuel Combustion.md",
+                "file": "Energy Conversion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fossil Fuel Combustion.md"
+                "file": "Energy Conversion.md"
               }
             }
           },
@@ -203,9 +203,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "011fdf4ed1928e49",
+  "active": "d31feecb09bbeef5",
   "lastOpenFiles": [
+    "Images/Energy Conversion.png",
     "Energy Conversion.md",
+    "Untitled.md",
     "Fossil Fuel Combustion.md",
     "Quantity of Energy.md",
     "Home.md",
@@ -231,8 +233,6 @@
     "Stability.md",
     "Controllable VS Uncontrollable DOF.md",
     "Artificial Life.md",
-    "Robots.md",
-    "Degrees of Freedom.md",
     "Images/Stability.png",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
@@ -244,7 +244,6 @@
     "Images/Gravity Falls.png",
     "Hand Written Notes/Lidar game/Area Map.pdf",
     "Images/Figure 3.4.png",
-    "Images/Enumerating N x N.png",
     "Books/Introduction to Metric and Topological Spaces - PDF Room.pdf",
     "Books/Real-Time Rendering - PDF Room.pdf",
     "Hand Written Notes/School notes/Groningen/Metric & Topological Spaces/Lecture 8 Rough notes (ch.10).pdf",
