@@ -49,19 +49,6 @@
             }
           },
           {
-            "id": "ba572935b09f04da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Avogadro's Principle.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "789c062c19b81462",
             "type": "leaf",
             "state": {
@@ -80,19 +67,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charles' Law.md",
+                "file": "Ideal Gas Law.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "8f5d8000c0b0920b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -148,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -198,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -215,6 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ideal Gas Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,6 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ideal Gas Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +232,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ideal Gas Law.md"
+              }
             }
           },
           {
@@ -285,13 +267,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8f5d8000c0b0920b",
+  "active": "6d92a5a2ca292279",
   "lastOpenFiles": [
-    "Ideal Gas Law.md",
     "Ideal Gas.md",
-    "The First Law of Thermodynamics.md",
+    "Ideal Gas Law.md",
     "Charles' Law.md",
+    "Home.md",
     "Boyle's Law.md",
+    "The First Law of Thermodynamics.md",
     "Avogadro's Principle.md",
     "Thermodynamics.md",
     "Energy Conversion.md",
@@ -307,7 +290,6 @@
     "Adiabatic.md",
     "Reversibility.md",
     "Images/Energy Conversion.png",
-    "Home.md",
     "Artificial Intelligence.md",
     "MWAH MWAH MWAH.md",
     "Divisiblility.md",
