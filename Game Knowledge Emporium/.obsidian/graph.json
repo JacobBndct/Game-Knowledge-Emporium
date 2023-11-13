@@ -18,7 +18,7 @@
       "query": "tag:#Programming/AI  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 13020539
       }
     },
     {
@@ -97,6 +97,13 @@
         "a": 1,
         "rgb": 16775501
       }
+    },
+    {
+      "query": "tag:#Physics  ",
+      "color": {
+        "a": 1,
+        "rgb": 15118105
+      }
     }
   ],
   "collapse-display": true,
@@ -109,6 +116,6 @@
   "repelStrength": 14.375,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.1405800564228314,
-  "close": true
+  "scale": 0.12452556648574434,
+  "close": false
 }
