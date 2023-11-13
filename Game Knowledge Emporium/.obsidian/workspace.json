@@ -75,6 +75,45 @@
             }
           },
           {
+            "id": "a3c106b4a14406e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reversibility.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f65c4f26eaa343c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adiabatic.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e1df0f54e0d5267",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Isotherm.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "011fdf4ed1928e49",
             "type": "leaf",
             "state": {
@@ -101,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -168,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The First Law of Thermodynamics.md",
+                "file": "Isotherm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The First Law of Thermodynamics.md",
+                "file": "Isotherm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The First Law of Thermodynamics.md"
+                "file": "Isotherm.md"
               }
             }
           },
@@ -242,10 +281,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "09a86037491fa092",
+  "active": "9e1df0f54e0d5267",
   "lastOpenFiles": [
-    "Ideal Gas Law.md",
+    "Adiabatic.md",
+    "Isotherm.md",
+    "Reversibility.md",
     "The First Law of Thermodynamics.md",
+    "Ideal Gas Law.md",
     "Thermodynamics.md",
     "Energy Conversion.md",
     "Images/Energy Conversion.png",
@@ -270,9 +312,6 @@
     "W. Grey Walter's Tortoise.md",
     "Trajectory Planning.md",
     "Legs VS Wheels.md",
-    "Wheels.md",
-    "Stability.md",
-    "Controllable VS Uncontrollable DOF.md",
     "Images/Stability.png",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",

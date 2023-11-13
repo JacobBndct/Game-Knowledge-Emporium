@@ -29,7 +29,7 @@ All forms of work are equivalent
 Heat, too, is measured with the same unit (Joule).
 
 Normally, in the transition form a state $E_1$ to another state $E_2$ heat and work are not constant. Therefore the first law in its infinitesimal form:
-$$dE =$$
+$$dE = dW + dQ$$
 #### Sources
 __________________________________________________________________________
 1. 
