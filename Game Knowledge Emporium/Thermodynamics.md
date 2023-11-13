@@ -11,7 +11,6 @@ Important macroscopic parameters:
 - temperature: T
 
 [[Extensive Quantity]]
-
 [[Intensive Quantity]]
 
 **Mass**

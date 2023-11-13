@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics.md",
+                "file": "Intensive Quantity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics.md",
+                "file": "Intensive Quantity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thermodynamics.md",
+                "file": "Intensive Quantity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thermodynamics.md"
+                "file": "Intensive Quantity.md"
               }
             }
           },
@@ -257,6 +257,9 @@
   },
   "active": "94af64715b6366af",
   "lastOpenFiles": [
+    "Thermodynamics.md",
+    "Intensive Quantity.md",
+    "Extensive Quantity.md",
     "Energy Conversion.md",
     "Isotherm.md",
     "Fossil Fuel Combustion.md",
@@ -269,7 +272,6 @@
     "Reversibility.md",
     "The First Law of Thermodynamics.md",
     "Ideal Gas Law.md",
-    "Thermodynamics.md",
     "Images/Energy Conversion.png",
     "Home.md",
     "Artificial Intelligence.md",
@@ -284,8 +286,6 @@
     "Hybrid Control.md",
     "Deliberate Control.md",
     "Gait.md",
-    "Types of Robot Control.md",
-    "behavior-based control.md",
     "Images/Stability.png",
     "Hand Written Notes/School notes/CSCI/3162/Image basics.pdf",
     "Books/CSCI3162_DigitalMedia_Slides.pdf",
