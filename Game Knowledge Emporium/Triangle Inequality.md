@@ -6,7 +6,7 @@ __________________________________________________________________________
 **Triangle inequality:**
 $$|x + y| \le |x| + |y|$$
 **Proof:**
-$$\begin{align} x + y \le |x| + Y \le |x| + |y| \\-x-y \le |x| - y \le |x| + |y| \\ |x + y| = max\{x+y, -x -y\} \le |x| + |y|\end{align}$$
+$$\begin{align} x + y \le |x| + Y \le |x| + |y| \\ \\-x-y \le |x| - y \le |x| + |y| \\ \\ |x + y| = max\{x+y, -x -y\} \le |x| + |y|\end{align}$$
 #### Sources
 __________________________________________________________________________
 1. 

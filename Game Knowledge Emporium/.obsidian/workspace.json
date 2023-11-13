@@ -231,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -299,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reverse Triangle Inequality.md",
+                "file": "Natural numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reverse Triangle Inequality.md",
+                "file": "Natural numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reverse Triangle Inequality.md"
+                "file": "Natural numbers.md"
               }
             }
           },
@@ -373,28 +373,28 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ffbf248dd4f40003",
+  "active": "e55ac87865bb7cae",
   "lastOpenFiles": [
+    "Integers.md",
+    "Rational Numbers.md",
+    "Real Numbers.md",
+    "Upper Bounds.md",
+    "Supremum.md",
+    "Lemma - Least Upper Bound.md",
+    "Lower Bounds.md",
+    "Infimum.md",
+    "Axiom of Completeness.md",
+    "The Archimedean Property.md",
+    "Nested Interval Property.md",
+    "Natural numbers.md",
+    "Home.md",
+    "Reverse Triangle Inequality.md",
     "Triangle Inequality.md",
     "Absolute Value.md",
     "The Rational Numbers are Dense in The Reals.md",
-    "Nested Interval Property.md",
-    "The Archimedean Property.md",
     "Functions.md",
-    "Axiom of Completeness.md",
-    "Infimum.md",
-    "Lower Bounds.md",
-    "Lemma - Least Upper Bound.md",
-    "Supremum.md",
-    "Upper Bounds.md",
-    "Real Numbers.md",
-    "Rational Numbers.md",
-    "Integers.md",
-    "Natural numbers.md",
-    "Home.md",
     "Images/Interaction of Layers.png",
     "Divisiblility.md",
-    "Reverse Triangle Inequality.md",
     "Ideal Gas.md",
     "Mathematic Definitions.md",
     "Ideal Gas Law.md",

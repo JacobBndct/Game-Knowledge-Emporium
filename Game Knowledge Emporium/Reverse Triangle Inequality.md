@@ -6,7 +6,7 @@ __________________________________________________________________________
 **Reverse Triangle Inequality:**
 $$||x| - |y|| \le |x - y|$$
 **Proof:**
-$$\begin{align} |x| = |x - y + y| \le |x- y| + |y| \\ |x| - |y| \le |x-y| \\ |y| -  \end{align}$$
+$$\begin{align} |x| = |x - y + y| \le |x- y| + |y| \\ \\ |x| - |y| \le |x-y| \\ \\ |y| - |x| \le |y - x| = |x - y| \;\;\; \text{swap x and y} \\ \\ ||x| - |y|| = max\{|x| - |y|, |y| - |x|\} \le |x-y|\end{align}$$
 #### Sources
 __________________________________________________________________________
 1. 
