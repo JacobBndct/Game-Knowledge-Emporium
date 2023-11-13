@@ -218,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lower Bounds.md",
+                "file": "Infimum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lower Bounds.md",
+                "file": "Infimum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lower Bounds.md"
+                "file": "Infimum.md"
               }
             }
           },
@@ -360,22 +360,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "935afb4cc5ca749e",
+  "active": "fc6d1429dc7910ee",
   "lastOpenFiles": [
+    "Axiom of Completeness.md",
+    "Absolute Value.md",
+    "Infimum.md",
+    "Lower Bounds.md",
     "Lemma - Least Upper Bound.md",
     "Supremum.md",
     "Upper Bounds.md",
     "Real Numbers.md",
-    "Lower Bounds.md",
-    "Infimum.md",
     "Rational Numbers.md",
     "Integers.md",
     "Natural numbers.md",
     "Home.md",
     "Images/Interaction of Layers.png",
     "Divisiblility.md",
-    "Axiom of Completeness.md",
-    "Absolute Value.md",
     "The Archimedean Property.md",
     "Nested Interval Property.md",
     "Triangle Inequality.md",
