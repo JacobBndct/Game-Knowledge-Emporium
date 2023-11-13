@@ -13,17 +13,17 @@ Important macroscopic parameters:
 [[Extensive Quantity]]
 [[Intensive Quantity]]
 
-**Mass**
+**[[Mass]]**
 - m ($kg$)
-**Volume**
+**[[Volume]]**
 - V ($m^3$)
-**Amount: the mole**
+**[[mole|Amount: the mole]]**
 - n ($mol$)
-**Energy**
+**[[Energy]]**
 - E ($J = kg m^2 s^{-2}$)
-**Pressure**
+**[[Pressure]]**
 - p ($Pa = N/m^2$)
-**Temperature**
+**[[Temperature]]**
 - T ($K$)
 
 #### Sources

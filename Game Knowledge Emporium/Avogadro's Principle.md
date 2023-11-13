@@ -1,9 +1,9 @@
 __________________________________________________________________________
-#### **Tags:** #Physics/Thermodynamics 
+#### **Tags:** #Physics 
 ###### *Date Of Creation: 2023-11-13*
 __________________________________________________________________________
 
-Amount-independent variables such as density or temperature.
+The [[pressure]] $p$ of a gas is proportional to the n
 #### Sources
 __________________________________________________________________________
 1. 
