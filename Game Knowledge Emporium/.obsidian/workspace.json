@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural numbers.md",
+                "file": "Game Design Docs/Forest Game/Forest - Sound Design.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -277,13 +277,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1b8211e0f2407f28",
@@ -299,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Natural numbers.md",
+                "file": "Game Design Docs/Forest Game/Forest - Sound Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +314,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Natural numbers.md",
+                "file": "Game Design Docs/Forest Game/Forest - Sound Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Natural numbers.md"
+                "file": "Game Design Docs/Forest Game/Forest - Sound Design.md"
               }
             }
           },
@@ -375,6 +373,17 @@
   },
   "active": "e55ac87865bb7cae",
   "lastOpenFiles": [
+    "Game Design Docs/Forest Game/Forest - Visual Style.md",
+    "Game Design Docs/Forest Game/Forest - Theme & Setting.md",
+    "Game Design Docs/Forest Game/Forest - Player Experience.md",
+    "Game Design Docs/Forest Game/Forest - Navigation.md",
+    "Game Design Docs/Forest Game/Forest - Overview.md",
+    "Game Design Docs/Forest Game/Forest - Areas.md",
+    "Game Design Docs/Forest Game/Forest - Gameplay.md",
+    "Game Design Docs/Forest Game/Forest - Benchmarks.md",
+    "Game Design Docs/Forest Game/Forest - Story.md",
+    "Game Design Docs/Forest Game/Forest Game Design Doc.md",
+    "Natural numbers.md",
     "Integers.md",
     "Rational Numbers.md",
     "Real Numbers.md",
@@ -386,22 +395,11 @@
     "Axiom of Completeness.md",
     "The Archimedean Property.md",
     "Nested Interval Property.md",
-    "Natural numbers.md",
     "Home.md",
     "Reverse Triangle Inequality.md",
     "Triangle Inequality.md",
     "Absolute Value.md",
-    "The Rational Numbers are Dense in The Reals.md",
-    "Functions.md",
     "Images/Interaction of Layers.png",
-    "Divisiblility.md",
-    "Ideal Gas.md",
-    "Mathematic Definitions.md",
-    "Ideal Gas Law.md",
-    "Charles' Law.md",
-    "Boyle's Law.md",
-    "The First Law of Thermodynamics.md",
-    "Avogadro's Principle.md",
     "Images/Energy Conversion.png",
     "Images/Subsumption arch picture.png",
     "Images/Stability.png",
