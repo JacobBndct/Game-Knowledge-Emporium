@@ -36,6 +36,19 @@
             }
           },
           {
+            "id": "0dfc41ec5c63dfcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syntax.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d728a1c66e35c436",
             "type": "leaf",
             "state": {
@@ -49,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Language.md",
+                "file": "Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Language.md",
+                "file": "Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Language.md"
+                "file": "Syntax.md"
               }
             }
           },
@@ -189,11 +202,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "30b8ffdcbda14325",
+  "active": "0dfc41ec5c63dfcc",
   "lastOpenFiles": [
-    "Software Language Engineering.md",
     "Software Language.md",
     "Home.md",
+    "Syntax.md",
+    "Software Language Engineering.md",
     "Game Design Docs/Forest Game/Forest - Visual Style.md",
     "Game Design Docs/Forest Game/Forest - Theme & Setting.md",
     "Game Design Docs/Forest Game/Forest - Player Experience.md",
@@ -216,7 +230,6 @@
     "Axiom of Completeness.md",
     "The Archimedean Property.md",
     "Nested Interval Property.md",
-    "Reverse Triangle Inequality.md",
     "Images/Interaction of Layers.png",
     "Images/Energy Conversion.png",
     "Images/Subsumption arch picture.png",

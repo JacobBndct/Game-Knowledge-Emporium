@@ -5,7 +5,7 @@ __________________________________________________________________________
 
 A *software language* is a formalized language used in software.
 ## Aspects of a Software Language
-- Syntax
+- [[Syntax]]
 - Semantics
 - Tooling
 - Transformation
