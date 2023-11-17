@@ -4,6 +4,13 @@ __________________________________________________________________________
 __________________________________________________________________________
 
 A *software language* is a formalized language used in software.
+## Aspects of a Software Language
+- Syntax
+- Semantics
+- Tooling
+- Transformation
+- Analysis
+- Representation
 ## Types of Software Languages
 There are different types of software languages:
 - Programming languages (Java, C#, C, Ruby, Pascal, etc.)
