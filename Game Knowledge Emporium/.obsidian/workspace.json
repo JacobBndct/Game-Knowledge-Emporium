@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "30b8ffdcbda14325",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Language.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Software Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Software Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Software Language.md"
               }
             }
           },
@@ -162,9 +176,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fadc7c7bfd03d505",
+  "active": "30b8ffdcbda14325",
   "lastOpenFiles": [
     "Home.md",
+    "Software Language.md",
     "Game Design Docs/Forest Game/Forest - Visual Style.md",
     "Game Design Docs/Forest Game/Forest - Theme & Setting.md",
     "Game Design Docs/Forest Game/Forest - Player Experience.md",
@@ -189,7 +204,6 @@
     "Nested Interval Property.md",
     "Reverse Triangle Inequality.md",
     "Triangle Inequality.md",
-    "Absolute Value.md",
     "Images/Interaction of Layers.png",
     "Images/Energy Conversion.png",
     "Images/Subsumption arch picture.png",
