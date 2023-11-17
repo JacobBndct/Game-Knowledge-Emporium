@@ -3,11 +3,9 @@ __________________________________________________________________________
 ###### *Date Of Creation: 2023-11-17*
 __________________________________________________________________________
 
-## Concrete Syntax
-
-## Abstract Syntax
-- Graph
-- Tree
+All checks outside the realm of syntax
+- Reference checking: no dangling references, duplicate declarations etc.
+- Type checking: are operations applied to operands of the right ty
 #### Sources
 __________________________________________________________________________
 1. 

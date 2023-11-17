@@ -49,6 +49,19 @@
             }
           },
           {
+            "id": "4619c6d2a6eed36b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wellformedness.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d728a1c66e35c436",
             "type": "leaf",
             "state": {
@@ -62,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syntax.md",
+                "file": "Wellformedness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syntax.md",
+                "file": "Wellformedness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syntax.md"
+                "file": "Wellformedness.md"
               }
             }
           },
@@ -202,11 +215,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0dfc41ec5c63dfcc",
+  "active": "4619c6d2a6eed36b",
   "lastOpenFiles": [
+    "Syntax.md",
+    "Wellformedness.md",
     "Software Language.md",
     "Home.md",
-    "Syntax.md",
     "Software Language Engineering.md",
     "Game Design Docs/Forest Game/Forest - Visual Style.md",
     "Game Design Docs/Forest Game/Forest - Theme & Setting.md",
@@ -229,7 +243,6 @@
     "Infimum.md",
     "Axiom of Completeness.md",
     "The Archimedean Property.md",
-    "Nested Interval Property.md",
     "Images/Interaction of Layers.png",
     "Images/Energy Conversion.png",
     "Images/Subsumption arch picture.png",
