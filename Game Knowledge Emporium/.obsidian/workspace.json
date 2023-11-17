@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d728a1c66e35c436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Language Engineering.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Language.md",
+                "file": "Software Language Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Language.md",
+                "file": "Software Language Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Language.md"
+                "file": "Software Language Engineering.md"
               }
             }
           },
@@ -176,10 +189,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "30b8ffdcbda14325",
+  "active": "d728a1c66e35c436",
   "lastOpenFiles": [
-    "Home.md",
     "Software Language.md",
+    "Software Language Engineering.md",
+    "Home.md",
     "Game Design Docs/Forest Game/Forest - Visual Style.md",
     "Game Design Docs/Forest Game/Forest - Theme & Setting.md",
     "Game Design Docs/Forest Game/Forest - Player Experience.md",
@@ -203,7 +217,6 @@
     "The Archimedean Property.md",
     "Nested Interval Property.md",
     "Reverse Triangle Inequality.md",
-    "Triangle Inequality.md",
     "Images/Interaction of Layers.png",
     "Images/Energy Conversion.png",
     "Images/Subsumption arch picture.png",
