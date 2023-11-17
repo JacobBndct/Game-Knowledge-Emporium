@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "18ec604f94813689",
+        "id": "0d580ad2ad27421c",
         "type": "tabs",
         "children": [
           {
-            "id": "791ea81f539d12d3",
+            "id": "fadc7c7bfd03d505",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -162,8 +162,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "791ea81f539d12d3",
+  "active": "fadc7c7bfd03d505",
   "lastOpenFiles": [
+    "Home.md",
     "Game Design Docs/Forest Game/Forest - Visual Style.md",
     "Game Design Docs/Forest Game/Forest - Theme & Setting.md",
     "Game Design Docs/Forest Game/Forest - Player Experience.md",
@@ -186,7 +187,6 @@
     "Axiom of Completeness.md",
     "The Archimedean Property.md",
     "Nested Interval Property.md",
-    "Home.md",
     "Reverse Triangle Inequality.md",
     "Triangle Inequality.md",
     "Absolute Value.md",
